@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/door-open-close-45475_2.mp3-d0d689d654b51398c55dda6bf8f97ab5.mp3str"
+
+[deps]
+
+source_file="res://Audio/door-open-close-45475_2.mp3"
+dest_files=[ "res://.import/door-open-close-45475_2.mp3-d0d689d654b51398c55dda6bf8f97ab5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,17 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Picture/UI/CommonButton/CommonTextureButtonGoTop.png" type="Texture" id=1]
+[ext_resource path="res://Picture/UI/CommonButton/CommonTextureButtonGoTop_Hover.png" type="Texture" id=2]
+[ext_resource path="res://Picture/UI/CommonButton/CommonTextureButtonGoTop_Pressed.png" type="Texture" id=3]
+[ext_resource path="res://Script/UI/CommonUI/CommonTextureButton.gd" type="Script" id=4]
+
+[node name="CommonTextureButtonGoTop" type="TextureButton"]
+margin_right = 32.0
+margin_bottom = 16.0
+texture_normal = ExtResource( 1 )
+texture_pressed = ExtResource( 3 )
+texture_hover = ExtResource( 2 )
+script = ExtResource( 4 )
+__meta__ = {
+"_edit_lock_": true
+}

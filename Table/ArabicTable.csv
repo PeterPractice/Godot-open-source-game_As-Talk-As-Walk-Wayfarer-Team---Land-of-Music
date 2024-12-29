@@ -1,0 +1,844 @@
+stringKey,stringContent
+NAME_GAME_NAME,من الناس العاديين الذين يروون القصص -بلد الموسيقى
+NAME_AVATAR_1,لايتنج 1
+NAME_AVATAR_2,فرق
+NAME_AVATAR_3,تشن شياو مينغ
+NAME_AVATAR_4,Bai Ding
+NAME_AVATAR_5,سيارات مثيرة
+NAME_AVATAR_6,لايتنج 2
+NAME_AVATAR_7,لايتنج 3
+NAME_AVATAR_8,ليجي
+NAME_AVATAR_9,إلهة الشمس
+NAME_AVATAR_10,إلصاق
+NAME_AVATAR_11,! لزجة
+NAME_AVATAR_12,لزجة …
+NAME_AVATAR_13,حب لزج
+NAME_AVATAR_14,مفرغة
+NAME_AVATAR_15,سرقة لزجة
+NAME_AVATAR_16,لزجة؟
+NAME_AVATAR_17,لزجة
+NAME_AVATAR_18,الغرب دافئ
+NAME_AVATAR_19,. الأميرة
+NAME_AVATAR_19_2,خريف يو
+NAME_AVATAR_20,الفضة التنين
+NAME_AVATAR_21,! لزجة
+NAME_AVATAR_22,سنة لزجة
+NAME_AVATAR_23,اللصق
+NAME_AVATAR_24,لزجة …
+NAME_AVATAR_25,أي ملك
+NAME_AVATAR_26,تعالي يا إمبراطورة
+NAME_AVATAR_27,(الأميرة (ميمي
+NAME_AVATAR_28,مدبرة المنزل
+NAME_AVATAR_29,مدبرة منزل
+NAME_AVATAR_30,حقيبة ظهر
+NAME_AVATAR_31,دفتر مذكرات
+NAME_AVATAR_32,{NAME_AVATAR_19}. رسالة من
+NAME_AVATAR_33,ثلاثة تنانين
+NAME_AVATAR_34,{NAME_AVATAR_33}. رسالة من
+GOODS_NAME_1,أحذية استكشافية
+GOODS_NAME_2,المنظار
+GOODS_NAME_3,شعر مستعار
+GOODS_NAME_4,شعر مستعار
+GOODS_NAME_5,شعر مستعار
+GOODS_NAME_6,شعر مستعار
+GOODS_NAME_7,شعر طويل
+GOODS_NAME_8,شعر طويل
+GOODS_NAME_9,شعر طويل
+GOODS_NAME_10,شعر طويل
+JOB_LOBBYIST,الضاغط
+NAME_1,أرض السعادة
+PLAY_CHESS_NAME,DuiYi
+PLAY_CHESS_POINTS,{PLAY_CHESS_NAME}. أعد العد
+SCENE_NAME_1_HOME,{NAME_AVATAR_1}. في المنزل
+SCENE_NAME_3_HOME,{NAME_AVATAR_3}. في المنزل
+SCENE_NAME_4_HOME,{NAME_AVATAR_4}. في المنزل
+SCENE_NAME_3_HOME_COURTYARD,في ساحة المنزل {NAME_AVATAR_3}
+SCENE_NAME_CHORD_SQUARE,ميدان الوتر
+SCENE_NAME_STAVE_AVENUE,جادة الخمسة
+SCENE_NAME_HALL_OF_MELODY,قاعة اللحن
+SCENE_NAME_CLINKER_VALLEY,. إمشي
+SCENE_NAME_CRACKING_VOICE_RIDGE,حاجز الصوت
+SCENE_NAME_PLAY_CHESS,DuiYi
+NPCARTICLETRIGGER_NAME_1,. باب المنزل {NAME_AVATAR_1}
+STARTGAMEPANEL_TITLELABEL38GAMETITLE,{NAME_GAME_NAME}
+STARTGAMEPANEL_COMMONLABELVERSION,Version %s
+STARTGAMEPANEL_COMMONBUTTON31LOADGAME,تحميل اللعبة
+STARTGAMEPANEL_STARTGAME,ابدأ اللعبة
+STARTGAMEPANEL_CONTINUEGAME,تابع اللعبة
+STARTGAMEPANEL_COMMONBUTTON31OPTION,الخيار
+STARTGAMEPANEL_COMMONBUTTON31EXITGAME,أخرج من اللعبة
+STARTGAMEPANEL_COMMONLABELARCHIVE,وحفظت
+STARTGAMEPANEL_ARCHIVE_NEW_GAME,لعبة جديدة
+STARTGAMEPANEL_ARCHIVE_CLEAR,حذف
+STARTGAMEPANEL_ARCHIVE_CLEAR_DOUBLE_CONFIRMATION,احذف أرشيف %s تأكيد ثانوي
+PANEL_BUTTON_OK,تحديد
+PANEL_BUTTON_CANCEL,إلغاء
+PANEL_BUTTON_CLOSE,إغلاق
+OPTIONPANEL_COMMONLABEL31TITLE,واجهة الخيارات
+OPTIONPANEL_COMMONBUTTONLANGUAGE,اختر اللغة (Language)
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO,استبانة الصور:
+OPTIONPANEL_COMMONLABELFULLSCREEN,شاشة كاملة:
+OPTIONPANEL_COMMONLABELWINDOWSTRETCH,تمدد الصورة:
+OPTIONPANEL_COMMONLABELMUSIC,الموسيقى:
+OPTIONPANEL_COMMONLABELSOUNDEFFECT,المؤثرات الصوتية:
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_2,1280x720
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_3,1920x1080
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_SCREEN_RESOLUTION,وضوح الشاشة
+OPTIONPANEL_COMMONLABELLANGUAGE,اللغة:
+OPTIONPANEL_COMMONBUTTONDEFAULT,افتراضي
+OPTIONPANEL_COMMONBUTTONRETURNTOHUBSCENE,العودة إلى القاعة
+OPTIONPANEL_COMMONBUTTONEXITGAME,أخرج من اللعبة
+OPTIONPANEL_COMMONBUTTONRETURNTOGAME,العودة إلى اللعبة
+OPTIONPANEL_GENERAL,جنرال
+OPTIONPANEL_KEYBOARD,الزر
+OPTIONPANEL_KEYBOARD_MOVE,تحرك:
+OPTIONPANEL_KEYBOARD_MOVE_CONTENT,ADSW (or ←→↓↑)
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK,{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1}/{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK}：
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK_CONTENT,E
+OPTIONPANEL_KEYBOARD_PLAY_CHESS,اللعبة:
+OPTIONPANEL_KEYBOARD_PLAY_CHESS_CONTENT,P (انقر زر الفأرة اليسرى على أي مكان)
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER,اختر الدور:
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER_CONTENT,"1, 2, 3, 4, 5, 6, 7, 8, 9, 0"
+OPTIONPANEL_KEYBOARD_BAG,حقيبة الظهر:
+OPTIONPANEL_KEYBOARD_BAG_CONTENT,B
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD,المفكرة:
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD_CONTENT,"J (page turning: PageUp, PageDown)"
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN,واجهة الخيارات:
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN_CONTENT,O
+OPTIONPANEL_ABOUT,بشأن
+OPTIONPANEL_ABOUT_NAME_OF_THE_GAME,إسم اللعبة: {NAME_GAME_NAME}.
+OPTIONPANEL_ABOUT_VERSION,الإصدار: %s.
+OPTIONPANEL_ABOUT_COPYRIGHT_AND_DEVELOPMENT,الوصف: %s.
+OPTIONPANEL_ABOUT_CONTACT,الاتصال: %s.
+OPTIONPANEL_ABOUT_CONTACT_COPY,نسخ
+OPTIONPANEL_ABOUT_THANKS,شكرا: شكرا لعائلتي، بدون دعمهم، لا توجد هذه اللعبة.
+LANGUAGEPANEL_COMMONLABEL31TITLE,اختر اللغة
+TIME_YEAR,عام
+TIME_MONTH,/
+TIME_DAY,/
+TIME_HOUR,عندما
+TIME_MINUTE,دون
+TIME_SECOND,ثانية
+BOOTSCENE_STARTING_STRING1,جاري التشغيل
+BOOTSCENE_STARTING_STRING2,بدء التشغيل.
+BOOTSCENE_STARTING_STRING3,بدء التشغيل …
+BOOTSCENE_STARTING_STRING4,تشغيل …
+DAYNIGHTPANEL_COMMONLABELDAYSNUMBER,يوم: %s
+DAYNIGHTPANEL_FIRSTSTARTNIGHT,سيحل الظلام
+CURRENTSCENESHOWNAME_ENTER,أدخل %s.
+JOURNALRECORDPANEL_COMMONLABEL31TITLE,{NAME_AVATAR_31}
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20AVATAR,الأدوار
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20BAG,السلع
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20SCENE,المكان
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20TASK,سافر
+JOURNALRECORDPANEL_PLAY_CHESS_POINTS,نقاط اللعبة:  من %s %s إلى .
+DOWNPANEL_CONTROLWRANGLEDIALOG_COMMONBUTTONWRANGLEDIALOGCONTINUE,استمر …
+DOWNPANEL_WRANGLEDIALOGBUTTON_STRINGFLAG,:
+UI_INPUT_ACTION_EVENT_TYPE_COMMONBUTTONITEM_TEXTUREBUTTON1_PRESSED_EVENT_IN_CD,إنه يبرد
+AVATAR_CAN_NOT_MOVE,لا تتحرك.
+AVATAR_HAD_EQUIP,ارتداء بالفعل: %s.
+AVATAR_HAD_EQUIP2,بالفعل ارتدائه.
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1,التفاعلية
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK,التحدث
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONPLAYCHESS1,{PLAY_CHESS_NAME}
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13BAGUSE,استخدام
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13DISCARD,رمي بعيدا
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD,رمي بعيدا %s؟
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_YES,رمي بعيدا
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_NO,أحتفظ به
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13CHECK,عرض
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_1,الرماد ينطفئ، ثم يحرق.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_2,واضح.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_3,نظيفة
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_4,فارغة.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_5,فارغ فارغ
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_6,فارغ فارغ
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_7,فارغة، فارغة، فارغة.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_8,فارغة، فارغة، فارغة.
+CHESSPANEL1_PLAYCHESS_START,{PLAY_CHESS_NAME}. هيّا، هيّا
+CHESSPANEL1_PLAYCHESS_SUCCESS,{PLAY_CHESS_NAME}. لقد نجحت
+CHESSPANEL1_PLAYCHESS_FAILURE,{PLAY_CHESS_NAME}. لقد فشلت
+CHESSPANEL1_COMMONBUTTONCONTINUE,مواصلة
+CHESSPANEL1_MOUSECLICKCONTINUE,(انقر زر الفأرة اليسرى على أي مكان)
+CHESSPANEL1_POINTS,%s نقطة المباراة %s
+SLOGAN_NEW_DAY_1,بدأ يوم جديد.
+SLOGAN_NEW_DAY_2,بدأ يوم المغامرة.
+SLOGAN_NEW_DAY_3,يوم جديد
+SLOGAN_NEW_DAY_4,مغامرة اليوم.
+SLOGAN_NEW_DAY_5,رحلة طويلة
+SLOGAN_NEW_DAY_6,إنها رحلة طويلة، إستعدوا للإنطلاق
+SLOGAN_NEW_DAY_7,على استعداد للذهاب.
+SLOGAN_NEW_DAY_8,لنتحرك
+SLOGAN_AVATAR_DEAD_1,والليل يلتهم الناس الذين لا يخافون من الظلام.
+SLOGAN_AVATAR_DEAD_2,لقد حل الظلام، تم ابتلاعك من الليل.
+NAVIGATIONMANAGER_NOT_VALID_PATH_END_POSITION,وجهة غير صالحة.
+NAVIGATIONMANAGER_END_OBSTRUCTIONS_NEARBY,التوقف عن البحث التلقائي، وهناك عقبات في مكان قريب.
+GOODS_DESCRIPTION_1,مع هذا الزوج من الأحذية يمكن المشي تلقائيا.
+GOODS_DESCRIPTION_2,أبعد من ذلك، وخاصة في الأماكن التي يكون فيها الضوء سيئا.
+GOODS_DESCRIPTION_3,{JOB_LOBBYIST}’s {GOODS_NAME_3}. يجب أن يكون هذا هو
+GOODS_DESCRIPTION_4,{JOB_LOBBYIST}’s {GOODS_NAME_4}. يجب أن يكون هذا هو
+GOODS_DESCRIPTION_5,{JOB_LOBBYIST}’s {GOODS_NAME_5}. يجب أن يكون هذا هو
+GOODS_DESCRIPTION_6,{JOB_LOBBYIST}’s {GOODS_NAME_6}. يجب أن يكون هذا -
+GOODS_DESCRIPTION_7,{JOB_LOBBYIST}’s {GOODS_NAME_7}. يجب أن يكون هذا هو
+GOODS_DESCRIPTION_8,{JOB_LOBBYIST}’s {GOODS_NAME_8}. يجب أن يكون هذا
+GOODS_DESCRIPTION_9,{JOB_LOBBYIST}’s {GOODS_NAME_9}. يجب أن يكون هذا -
+GOODS_DESCRIPTION_10,{JOB_LOBBYIST}’s {GOODS_NAME_10}. يجب أن يكون هذا -
+GOODS_DESCRIPTION_11,فحقيبة الظهر تحمل الكثير من الاشياء، المغامرات، الادوات الضرورية للتنزه.
+GOODS_DESCRIPTION_12,"تسجيل ما يرونه، ما يرونه، وما يرونه، وما يرونه، وما يرونه، وما يرونه. لدي 4 صفحات فرعية: كن ن و ,  تصف معلومات عن أعضاء الفريق. أفصلوا الصفحات عن وصف محتويات حقيبة الظهر لا أريد أن أفصّل الصفحات التي كنت فيها يجب أن تُسجل كل المحادثات "
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_1,حذاء واحد يعني زوج من الأحذية؟
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_2,القدم اليسرى والقدم اليمنى هما حذاء؟
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_3,أين البطاريات؟
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_4,لا يوجد مفتاح
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_5,أين المفتاح؟
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_6,ارتديت بالفعل.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_7,سوف نجد الطريق تلقائياً
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_8,لن تضيع هذه المرة.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_9,إلى أين نحن ذاهبون؟
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_10,لنرى أين سنذهب
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_1,انظر أبعد من ذلك.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_2,رؤية أفضل.
+GOODSADDFUNCTION_TELESCOPE_1,مهارات جديدة، المستبصر.
+GOODSADDFUNCTION_TELESCOPE_2,لا يمكن أن يكون بعشرة أمتار
+GOODSREMOVEFUNCTION_TELESCOPE_1,لا أستطيع النظر أبعد من ذلك
+GOODSREMOVEFUNCTION_TELESCOPE_2,هل هذا غير مريح؟
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_1,متألق
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_2,غيانغ هوايون.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_3,شجرة الذرة.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_4,ارفع رأسك
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_5,محترف
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_6,الناس يعتمدون على الشعر والحصان على السرج.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_7,قد يكون هناك ترقية فكرية.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_8,الذكاء + 1.
+GOODSADDFUNCTION_WIG_1,أشياء جيدة.
+GOODSADDFUNCTION_WIG_2,وجدت أخيرا.
+GOODSADDFUNCTION_WIG_3,هذا لطيف
+GOODSADDFUNCTION_WIG_OTHER_1,شعر مستعار؟
+GOODSADDFUNCTION_WIG_OTHER_2,يجب أن ترتدي شعراً مستعراً {JOB_LOBBYIST}
+GOODSADDFUNCTION_WIG_OTHER_3,شعر مستعار؟ {JOB_LOBBYIST}
+GOODSREMOVEFUNCTION_WIG_1,الذكاء -1.
+GOODSREMOVEFUNCTION_WIG_2,برأس بارد
+GOODSREMOVEFUNCTION_WIG_3,هذا غير مهني بعد الآن.
+GOODSREMOVEFUNCTION_WIG_4,تشعر بتناقص الذكاء.
+GOODSREMOVEFUNCTION_WIG_5,الشعر المستعار المحترق هو مثل الشعر المحترق.
+GOODSREMOVEFUNCTION_WIG_6,ليس من المؤسف رمي الشعر المستعار بعيدا.
+GOODSREMOVEFUNCTION_WIG_7,إنه محترف بدون شعر مستعار.
+GOODSREMOVEFUNCTION_WIG_8,لا يمكن المهني الاعتماد على الشعر المستعار.
+GOODSADDFUNCTION_FOOT_1,الآن نعرف أين نذهب
+GOODSADDFUNCTION_FOOT_2,هل هذا الحذاء رائع؟ الملاحة؟
+GOODSADDFUNCTION_FOOT_3,هل يحتاج التوجيه للأحذية إلى طاقة؟
+GOODSADDFUNCTION_FOOT_4,هو رمي الأحذية الملاحة؟
+GOODSADDFUNCTION_FOOT_5,كيف تسير الأمور مع الأحذية
+GOODSREMOVEFUNCTION_FOOT_1,عارية
+GOODSREMOVEFUNCTION_FOOT_2,لا يمكن الملاحة.
+GOODSREMOVEFUNCTION_FOOT_3,التي تخلصت منها واختفت ببساطة فقدان الملاحة، اذهب بنفسك خطوة بخطوة.
+GOODS_IN_USE,الاستخدام.
+GOODS_UNUSED,غير مستخدم.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE,المسافة الرؤية: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE,شكل الرؤية: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_RHOMBUS,المعين
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_EGG,DanXing
+CANNOT_WEAR_IT_LOBBYIST_WIG_1,لا أستطيع ارتداء شعر مستعار {JOB_LOBBYIST}
+CANNOT_WEAR_IT_LOBBYIST_WIG_2,هذا شعر مستعار {JOB_LOBBYIST}
+BAG_IS_FULL,حقيبة الظهر ممتلئة ولا يمكن حمل المزيد من الأشياء.
+BAG_ADD,الحصول على: %s.
+BAG_REMOVE,رمي بعيدا: %s.
+BAG_USE,الاستخدام: %s.
+TOP_BUTTON,الزر العلوي
+BOTTOM_BUTTON,الزر السفلي
+CLEAR_BUTTON,إفراغ الزر
+AVATAR_DESCRIPTION_1,أنا ثعبان، ثعبان قوي. أنا أكبر من الثلاثة
+AVATAR_DESCRIPTION_2,{NAME_AVATAR_3}أنا رفيق صغير أريد أن أكون مثل الغيوم في السماء إن لديهم عائلة دافئة، وأنا أحب أن أتسكع معهم
+AVATAR_DESCRIPTION_3,كان الصف الخامس من المدرسة الابتدائية مرحلة هامة في حياة التلميذ، وقد بدأت دراسة الأدب الكلاسيكي والموسيقى والرسم، بالإضافة إلى الرياضيات الأربع.
+AVATAR_DESCRIPTION_4,كمحام، في المحكمة، أنا ممتاز. لم أكن في الواقع لاعب كرة قدم قبل ذلك. هل رأى أحدكم شعري المستعار؟
+AVATAR_DESCRIPTION_8,أنا رجل أعمال، الصفقة العادلة هي عقيدتي.
+AVATAR_DESCRIPTION_6,أنا ثعبان، ثعبان قوي، وضعت ثعبان درع. أنا إضافةً إلى ثلاثة أشخاصِ.
+AVATAR_DESCRIPTION_7,أنا ثعبان، ثعبان قوي، ثعبان يرتدي الدروع والذراع الميكانيكية. أنا ثالث ثلاثة أشخاص
+AVATAR_DESCRIPTION_5,السرعة هي المعنى الأول. هؤلاء متدربي أقوياء لم أكن أبحث عن الناس
+AVATAR_DESCRIPTION_9,اذا لزم الامر، فتحدث معي. إن كلبى يتجول فى كل مكان
+AVATAR_DESCRIPTION_10,نحن لسنا حشرات، عائم لنا.
+AVATAR_DESCRIPTION_11,نحن لسنا حشرات
+AVATAR_DESCRIPTION_12,نحن لسنا حشرات مثلنا
+AVATAR_DESCRIPTION_13,نحن لسنا حشرات، نفعل ما يحلو لنا
+AVATAR_DESCRIPTION_14,نحن لسنا حشرات، السترة الخارجية دافئة.
+AVATAR_DESCRIPTION_15,نحن لسنا حشرات، بل هي تجربة.
+AVATAR_DESCRIPTION_16,نحن لسنا حشرات، لا ننظر إلى المستقبل، نحن بطبيعتنا.
+AVATAR_DESCRIPTION_17,نحن لسنا حشرات، شفقة، هو موقف.
+AVATAR_DESCRIPTION_18,من سلالة ملكية ولم يغامر أبداً فَإِنَّنِي كَٱلنُّجُومِ ٱلسَّمٰوَاتِ، تَمْتَلِئُ ٱلْمَعْمُورَةَ. لا تتوقع أن نكون مع بعضنا البعض في رحلة طويلة
+AVATAR_DESCRIPTION_19,الأميرة ليست مهنة الشخص، والأميرة لديها أيضا العديد من الأصدقاء الطيبين.
+AVATAR_DESCRIPTION_20,ويجب أن تكون هذه العملية سرية ولا يمكن كشفها.
+AVATAR_DESCRIPTION_21,نحن لسنا حشرات، نحن واحد من كل واحد منا.
+AVATAR_DESCRIPTION_22,نحن لسنا حشرات نحن صغار
+AVATAR_DESCRIPTION_23,نحن لسنا حشرات، إصلاح، إنها حياة.
+AVATAR_DESCRIPTION_24,نحن لسنا حشرات، إنها حياة، بل موقف.
+AVATAR_DESCRIPTION_25,أنا الملك، مرحباً بك{NAME_1}
+AVATAR_DESCRIPTION_26,{NAME_1} أنا مُرحب بكِ
+AVATAR_DESCRIPTION_27,أنا أميرة كبيرة والعرش لي.
+AVATAR_DESCRIPTION_28,لابد أنك جائع ماذا تريد؟ قل لي.
+AVATAR_DESCRIPTION_29,الخدمة هي هدفي. قبعتي جميلة ولن أستخدم شعر مستعار
+ADDAVATARFROMSCENE_ADD_TEAM_MEMBERS,إضافة أعضاء جدد إلى الفريق: %s.
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_YOU_CANNOT_ADD_TEAM_MEMBERS_REPEATEDLY,لا يمكن تكرار إضافة أعضاء الفريق: %s.
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_THE_TEAM_HAS_A_MAXIMUM_OF_AVATAR,في المئة من الناس في الفريق %s.
+TIPS_STRING_AND_FLAG,،
+NO_JOURNALRECORDBOOK_CAN_NOT_VIEW,لا أستطيع الوصول إلى السجلات {NAME_AVATAR_31}
+NO_JOURNALRECORDBOOK,. لا يوجد شيء {NAME_AVATAR_31}
+NO_BAG_NO_MORE_ITEMS,لا أستطيع حمل المزيد من الأشياء {NAME_AVATAR_30}
+NO_BAG,. لا يوجد شيء {NAME_AVATAR_30}
+SCENE_CONTENT_1_HOME,هناك قوة قوية في المنزل {NAME_AVATAR_1}
+SCENE_CONTENT_3_HOME,لدي طاولة في المنزل{NAME_AVATAR_3} {NAME_AVATAR_31}
+SCENE_CONTENT_4_HOME,يجب أن تكون في سريرك {NAME_AVATAR_4} {NAME_AVATAR_30}
+SCENE_CONTENT_3_HOME_COURTYARD,يجب أن أكون في المنزل {NAME_AVATAR_3} {NAME_AVATAR_2}
+SCENE_CONTENT_CHORD_SQUARE,الأصدقاء الصغار يتجمعون هنا لم يكن يعلم كم من الوقت قد ذبل بعض الأشجار، وما زال على الأرض الكثير من آثار عجلات السيارات
+SCENE_CONTENT_STAVE_AVENUE,الطريق إلى المجهول. هناك الكثير من الطرق هنا
+SCENE_CONTENT_HALL_OF_MELODY,{NAME_1}هذا هو القصر، هناك العديد من الغرف.
+SCENE_CONTENT_CLINKER_VALLEY,في المنفى، حيث يمكن العثور على الشخص الذي يبحث عنه.
+SCENE_CONTENT_CRACKING_VOICE_RIDGE,جبال وغابات كثيفة
+SCENE_CONTENT_PLAY_CHESS,لنتنافس في مكان ما، حظا سعيدا.
+WRANGLEDIALOG_1_CONTENT,تلتقط؟
+WRANGLEDIALOG_1_BUTTON_1,التقطها
+WRANGLEDIALOG_1_BUTTON_2,لا تلتقط.
+WRANGLEDIALOG_2_CONTENT,تلتقط؟
+WRANGLEDIALOG_2_BUTTON_1,التقطها
+WRANGLEDIALOG_2_BUTTON_2,لا تلتقط.
+WRANGLEDIALOG_3_CONTENT,هل تفتح الباب؟
+WRANGLEDIALOG_3_BUTTON_1,افتحه
+WRANGLEDIALOG_3_BUTTON_2,لا تفتح
+WRANGLEDIALOG_3_FUNCTION_1,الباب مفتوح.
+WRANGLEDIALOG_4_CONTENT,احضروها قبل أن تغادروا  {NAME_AVATAR_30}
+WRANGLEDIALOG_5_CONTENT,يمكنك تسجيل الكثير من الأشياء لتشهد مغامرات {NAME_AVATAR_31}
+WRANGLEDIALOG_6_CONTENT,العالم خارج الباب خطير ومليء بالحديث والمتعة.
+WRANGLEDIALOG_6_BUTTON_1,اريد ان اخرج وانظر.
+WRANGLEDIALOG_7_CONTENT,قبل أن تخرجي من هنا
+WRANGLEDIALOG_7_BUTTON_1,أنا أستمع.
+WRANGLEDIALOG_8_CONTENT,إن التحدي في كل مكان.
+WRANGLEDIALOG_8_BUTTON_1,أنا مستعد.
+WRANGLEDIALOG_9_CONTENT,أشعر أنني أستطيع أن أكون أقوى.
+WRANGLEDIALOG_9_BUTTON_1,أنت قوي بالفعل.
+WRANGLEDIALOG_9_BUTTON_2,يمكن أن يكون أقوى؟
+WRANGLEDIALOG_10_CONTENT,شعرت دائما أن هناك قوة قوية تنتظرني.
+WRANGLEDIALOG_10_BUTTON_1,. أخبرني
+WRANGLEDIALOG_10_BUTTON_2,قوة قوية تجعل الناس يتوقعون.
+WRANGLEDIALOG_11_CONTENT,هذه القوة تجعلني أشعر منذ وقت طويل.
+WRANGLEDIALOG_11_BUTTON_1,هل هذا وقت طويل؟
+WRANGLEDIALOG_11_BUTTON_2,سوف تجده.
+WRANGLEDIALOG_12_CONTENT,هل سنذهب للمغامرة؟
+WRANGLEDIALOG_12_BUTTON_1,انضم إلى فريقنا
+WRANGLEDIALOG_12_BUTTON_2,فقط انتظر
+GOODS_DESCRIPTION_13,عزيزي، أنا أدعوكم إلى حفلة عيد ميلادي. تعالوا إلي لقد غاب عن الأنظار لفترة طويلة، تاق إليك كثيراً، وأتطلع إلى الاجتماع معك ألا تظن أن هذا ليس صحيحاً؟
+WRANGLEDIALOG_13_CONTENT,. يمكنك فتح الباب إن لم يكن ذلك سوى تعليم، فبإمكاننا أن نفتح الباب مرة أخرى إذا فشلنا.
+WRANGLEDIALOG_13_1_CONTENT,كل ما تحدثنا عنه يمكن أن يكون مباشرة أعتقد أن الفريق الذي كان في المقدمة في بعض الأحيان سيختلف.
+WRANGLEDIALOG_13_BUTTON_1,دعنا نَذْهبُ.
+WRANGLEDIALOG_14_CONTENT,أنا دائما أريد أن أجدهم.
+WRANGLEDIALOG_15_CONTENT,كما لو أنه ليس بعيداً
+WRANGLEDIALOG_16_CONTENT,سوف أجدهم؟
+WRANGLEDIALOG_17_CONTENT,لكننا ما زلنا بحاجة إلى أصدقاء أقوياء
+WRANGLEDIALOG_18_CONTENT,الانتظار؟
+WRANGLEDIALOG_18_BUTTON_1,ماذا سيحدث للفشل؟
+WRANGLEDIALOG_19_CONTENT,كن مطمئنا، فقط مرة أخرى.
+WRANGLEDIALOG_19_BUTTON_1,حسنا، لنبدأ.
+WRANGLEDIALOG_20_CONTENT,هل تريد أن تلعب معي؟
+WRANGLEDIALOG_20_BUTTON_1,نعم، نعم.
+WRANGLEDIALOG_20_1_CONTENT,دعنا نذهب.
+WRANGLEDIALOG_20_2_CONTENT,هذا صحيح.
+WRANGLEDIALOG_20_3_CONTENT,هل تتذكر ذلك؟
+WRANGLEDIALOG_20_3_BUTTON,نوعاً ما
+WRANGLEDIALOG_20_4_CONTENT,إنها زميلتي في المدرسة الابتدائية.
+WRANGLEDIALOG_20_5_CONTENT,لم أرها منذ فترة
+WRANGLEDIALOG_20_6_CONTENT,تذكرت فجأة أن عيد ميلادها سيكون قريبا.
+WRANGLEDIALOG_20_6_BUTTON,هل هي صديقتك؟
+WRANGLEDIALOG_20_7_CONTENT,في الواقع، نحن مجرد زملاء في الدراسة.
+WRANGLEDIALOG_20_8_CONTENT,أصدقاء زملاء الدراسة.
+WRANGLEDIALOG_20_8_BUTTON,السؤال بسيط
+WRANGLEDIALOG_20_9_CONTENT,لنذهب لرؤيتها.
+WRANGLEDIALOG_20_9_BUTTON,. أجل
+WRANGLEDIALOG_21_CONTENT,ومع ذلك، نحن بحاجة إلى فرصة للتعلم قبل المغادرة.
+WRANGLEDIALOG_21_BUTTON_1,حسنا، لنبدأ.
+WRANGLEDIALOG_22_CONTENT,هل أستطيع مساعدتك؟
+WRANGLEDIALOG_22_BUTTON_1,هل كنت مشغولاً مؤخراً؟
+WRANGLEDIALOG_23_CONTENT,قبل أن أذهب، أريد أن أجرب تصميمكم.
+WRANGLEDIALOG_23_BUTTON_1,حسنا، لنبدأ.
+WRANGLEDIALOG_24_CONTENT,إلى أين سنذهب؟
+WRANGLEDIALOG_24_BUTTON_1,الخروج مغامرة.
+WRANGLEDIALOG_24_1_CONTENT,الخروج مغامرة، خذني.
+WRANGLEDIALOG_24_1_BUTTON_1,تعال معنا
+WRANGLEDIALOG_24_2_CONTENT,لكني لن أذهب بدون أفضل صديق لي
+WRANGLEDIALOG_24_2_BUTTON_1,أفضل صديق لك؟
+WRANGLEDIALOG_24_3_CONTENT,ابذل قصارى جهدك لتبدأ رحلتك المجهولة.
+WRANGLEDIALOG_24_3_BUTTON_1,أنت تجيدين قراءة الشعر
+WRANGLEDIALOG_24_4_CONTENT,فكلما سمعت المزيد من الكتب، كلما حدث ذلك.
+WRANGLEDIALOG_24_5_CONTENT,سأذهب مع أفضل أصدقائي
+WRANGLEDIALOG_24_6_CONTENT,لو كنت منتصراً، لفكرت في مغامرة معكم.
+WRANGLEDIALOG_25_CONTENT,المغامرات هي دائما متوقعة.
+WRANGLEDIALOG_25_BUTTON_1,حسنا، لنبدأ.
+WRANGLEDIALOG_22_1_CONTENT,مشغول جدا
+WRANGLEDIALOG_22_1_BUTTON_1,مشغول؟
+WRANGLEDIALOG_22_2_CONTENT,كمحام، مهمتي هي أساسا إقناع الآخرين.
+WRANGLEDIALOG_22_2_BUTTON_1,لذا، دعنا نذهب للمغامرة
+WRANGLEDIALOG_22_3_CONTENT,أنا مشغول
+WRANGLEDIALOG_22_3_BUTTON_1,فاليوم الذي نغامر فيه معا، لا بد ان نسمع قصصك.
+WRANGLEDIALOG_22_4_CONTENT,أنا أحب الكلام، ولكن ليس هناك الكثير من الاهتمام في الآونة الأخيرة.
+WRANGLEDIALOG_22_4_BUTTON_1,أنت متعب جدا وتحتاج إلى تعديل.
+WRANGLEDIALOG_22_5_CONTENT,في الواقع، لقد كنت في المنزل منذ طردي من الشركة.
+WRANGLEDIALOG_22_5_BUTTON_1,لذلك نحن بحاجة لك.
+WRANGLEDIALOG_22_6_CONTENT,هل تحتاجونني؟
+WRANGLEDIALOG_22_6_BUTTON_1,لأنك شريك صغير جيد، لذلك نحن بحاجة إليك.
+WRANGLEDIALOG_22_7_CONTENT,مغامرات كثيرة، أخشى أنني لا أستطيع الصمود.
+WRANGLEDIALOG_22_7_BUTTON_1,كيف سنعرف إن لم نحاول؟
+WRANGLEDIALOG_22_8_CONTENT,نعم، الحياة مغامرة مجهولة.
+WRANGLEDIALOG_22_9_CONTENT,فكر ألف مرة، ربما مرة واحدة.
+WRANGLEDIALOG_22_10_CONTENT,أليس كذلك؟
+WRANGLEDIALOG_22_10_BUTTON_1,لذا، ماذا تنتظر؟
+WRANGLEDIALOG_54_CONTENT,لم أرى منذ أيام
+WRANGLEDIALOG_54_BUTTON_1,مضى وقت طويل
+WRANGLEDIALOG_54_1_CONTENT,ما زلنا نبحث عن قوة قوية.
+WRANGLEDIALOG_54_1_BUTTON_1,هل وجدت شيئاً؟
+WRANGLEDIALOG_54_2_CONTENT,لا يوجد شيء.
+WRANGLEDIALOG_54_3_CONTENT,أشعر دائما أن تلك القوة القوية ليست بعيدة.
+WRANGLEDIALOG_54_3_BUTTON_1,لدينا أيضا هذا الشعور.
+WRANGLEDIALOG_54_4_CONTENT,لذلك، نحن فريق.
+WRANGLEDIALOG_54_4_BUTTON_1,كيف تشعر حيال هذه القوة القوية؟
+WRANGLEDIALOG_54_5_CONTENT,وأعتقد أننا ما زلنا بحاجة إلى مواصلة البحث حتى نجد الجواب في نهاية المطاف.
+WRANGLEDIALOG_54_5_BUTTON_1,انضموا إلى فريقنا. سنبحث عن إجابات.
+WRANGLEDIALOG_54_6_CONTENT,لقد وصلت لتوي، وكان الجهاز الذي أوصلنا هو القوة.
+WRANGLEDIALOG_54_6_BUTTON_1,هل وجدتموه؟
+WRANGLEDIALOG_54_7_CONTENT,هو إرث من المعركة الأخيرة.
+WRANGLEDIALOG_54_8_CONTENT,يجب أن يكون هناك آخرون في الخلف
+WRANGLEDIALOG_54_8_BUTTON_1,لنلقي نظرة على هذا ونعود لأخذه
+WRANGLEDIALOG_55_CONTENT,بعد ايام قليلة، اردت ان اجرب ايمانكم.
+WRANGLEDIALOG_55_BUTTON_1,حسنا، لنبدأ.
+PLANET_47,الكوكب 47
+WRANGLEDIALOG_56_CONTENT,وصلت بأمان.
+WRANGLEDIALOG_56_BUTTON_1,لم أرى منذ أيام
+WRANGLEDIALOG_56_1_CONTENT,يبدو أنني رأيت شيئاً في طريق النقل
+WRANGLEDIALOG_56_1_BUTTON_1,رأيت ماذا؟
+WRANGLEDIALOG_56_2_CONTENT,لست متأكدا جدا لأنني أشعر أن هذه القوة ليست مستقرة جدا.
+WRANGLEDIALOG_56_3_CONTENT,يبدو أن هناك أجهزة مثل الهوائي أو أي شيء آخر.
+WRANGLEDIALOG_56_3_BUTTON_1,ماذا يفعلون؟
+WRANGLEDIALOG_56_4_CONTENT,لا أعرف، ولكن يبدو أن هناك علاقة بعدم استقرار تلك القوة.
+WRANGLEDIALOG_56_4_BUTTON_1,ماذا ترى أيضا؟
+WRANGLEDIALOG_56_5_CONTENT,أعتقد أنني أرى فتاتين
+WRANGLEDIALOG_56_5_BUTTON_1,فتاتان؟
+WRANGLEDIALOG_56_6_CONTENT,غامض جدا، لست متأكدا جدا.
+WRANGLEDIALOG_56_7_CONTENT,هناك شخص آخر بجو
+WRANGLEDIALOG_56_7_BUTTON_1,أوه؟
+WRANGLEDIALOG_56_8_CONTENT,أشعر أنه يشبهه كثيراً
+WRANGLEDIALOG_56_8_BUTTON_1,هل كان هذا؟
+WRANGLEDIALOG_56_9_CONTENT,لا أعتقد ذلك، في المعركة الأخيرة، كان يجب أن يكون قد تم نفيه بالفعل.
+WRANGLEDIALOG_56_9_BUTTON_1,في الواقع، إنه بعيد جدًا عن هنا، لا يمكن أن يكون هو.
+WRANGLEDIALOG_56_10_CONTENT,سوف نبدأ مغامرة جديدة
+WRANGLEDIALOG_57_CONTENT,هل قوتنا لا تزال كالمعتاد؟ أريد أن أتنافس
+WRANGLEDIALOG_57_BUTTON_1,حسنا، لنبدأ.
+WRANGLEDIALOG_76_1_CONTENT,قصتي، لقد سمعتم بها جميعا.
+WRANGLEDIALOG_76_2_CONTENT,وقد مضى زمن طويل، وربما يكون قد نسيانه.
+WRANGLEDIALOG_76_3_CONTENT,وقد تعلّم تلامذتي الثلاثة كل مهاراتي، وكانوا أقوياء جدا.
+WRANGLEDIALOG_76_4_CONTENT,أحب أن أتجول في كل مكان
+WRANGLEDIALOG_76_5_CONTENT,لقد التقيت الكثير من الناس ذوي المهارات العالية، والكثير من الأشياء غير العادية.
+WRANGLEDIALOG_76_6_CONTENT,لا احب ان اقاتل الناس، لكن لدي الشجاعة لفعل ذلك.
+WRANGLEDIALOG_76_7_CONTENT,النصر هو مجرد مجاملة لي، والفشل هو القاعدة.
+WRANGLEDIALOG_76_7_BUTTON_1,DuiYi
+WRANGLEDIALOG_76_7_BUTTON_2,وداعا
+WRANGLEDIALOG_83_CONTENT,عزيزي المارة، إلى أين أنت ذاهب؟
+WRANGLEDIALOG_83_BUTTON_1,هل أنت هنا؟
+WRANGLEDIALOG_83_1_CONTENT,إن بلدي العظيم، أرض الموسيقى، مسقط رأسي، وطني،
+WRANGLEDIALOG_83_1_BUTTON_1,مرحباً، سعدت بلقائك
+WRANGLEDIALOG_83_2_CONTENT,كيف يمكنني مساعدتكم؟
+WRANGLEDIALOG_83_2_BUTTON_1,نحن نبحث عن أميرتكم
+WRANGLEDIALOG_83_3_CONTENT,أوه؟
+WRANGLEDIALOG_83_3_BUTTON_1,سمعنا أن أميرتكم ستحتفل بعيد ميلادها
+WRANGLEDIALOG_83_4_CONTENT,أنتما تعرفان بعضكما؟
+WRANGLEDIALOG_83_4_BUTTON_1,نحن زملاء في المدرسة مع الأميرة.
+WRANGLEDIALOG_83_5_CONTENT,لقد فحصت فريقكم، وعلى أساس خبرتي، قد تعرفونه.
+WRANGLEDIALOG_83_5_BUTTON_1,هل يمكنك مساعدتنا في العثور عليها؟
+WRANGLEDIALOG_83_6_CONTENT,ليس من السهل ان نسأل الملك والملكة.
+WRANGLEDIALOG_83_6_BUTTON_1,هل يمكنك تقديمنا؟
+WRANGLEDIALOG_83_7_CONTENT,أنا عضو ملكي غيور.
+WRANGLEDIALOG_83_8_CONTENT,ولكن عليكم أن تثبتوا ثقتي بكم
+WRANGLEDIALOG_84_CONTENT,أتمانع؟
+WRANGLEDIALOG_84_BUTTON_1,حسنا، لنبدأ.
+WRANGLEDIALOG_93_CONTENT,أتريدني أن أبيع؟
+WRANGLEDIALOG_93_BUTTON_1,هناك صفقة كبيرة.
+WRANGLEDIALOG_93_1_CONTENT,ما حجم الصفقة؟
+WRANGLEDIALOG_93_1_BUTTON_1,صفقة كبيرة.
+WRANGLEDIALOG_93_2_CONTENT,اذا عرضتني على صفقة كبيرة، فستنال نصيبك.
+WRANGLEDIALOG_93_2_BUTTON_1,يبدو عادلا.
+WRANGLEDIALOG_93_3_CONTENT,هيا، ما هي الصفقة الكبيرة؟
+WRANGLEDIALOG_93_3_BUTTON_1,أريدك أن تأتي معنا في الصفقة
+WRANGLEDIALOG_93_4_CONTENT,رحلة عمل؟ الاتجار بالبشر؟
+WRANGLEDIALOG_93_4_BUTTON_1,أين كنت ذاهب؟
+WRANGLEDIALOG_93_5_CONTENT,هذه ليست الصفقة الأخيرة، أليس كذلك؟
+WRANGLEDIALOG_93_6_CONTENT,لم أعد أفعل هذا بعد الآن لن تذهب بأي ثمن
+WRANGLEDIALOG_93_6_BUTTON_1,لم أقل أي شيء بعد
+WRANGLEDIALOG_93_7_CONTENT,ولا ازال مصدوم من مغامرتي الاخيرة، فأنا رجل اعمال، مغامر!
+WRANGLEDIALOG_93_7_BUTTON_1,لكن هذه المرة سنجني الكثير من المال
+WRANGLEDIALOG_93_8_CONTENT,حقاً؟
+WRANGLEDIALOG_93_8_BUTTON_1,بالطبع.
+WRANGLEDIALOG_94_CONTENT,ولكن قبل ان نذهب، اريد ان ارى كم لديكم من المال.
+WRANGLEDIALOG_94_BUTTON_1,حسنا، لنبدأ.
+PLAYCHESSSUCCESSFUNCTION_AVATAR_9_STRING,النجاح لم يكن سهلا أبدا.
+PLAYCHESSFAILUREFUNCTION_AVATAR_9_STRING,الفشل لن يدوم إلى الأبد.
+WRANGLEDIALOG_103_CONTENT,أنا كثيرا ما أتحدث عن نفسي.
+WRANGLEDIALOG_103_BUTTON_1,اعذرني.
+WRANGLEDIALOG_103_FUNCTION_1_1,كلبي يتجول في كثير من الأحيان، هل تراها؟
+WRANGLEDIALOG_103_FUNCTION_1_2,اذا لزم الامر، فتحدث معي.
+WRANGLEDIALOG_103_FUNCTION_1_3,كانت دائما دائما دائما دائما دائما دائما دائما دائما، وكانت دائما دائما دائما في شرفة، وكانت لها شرفة. والحبال المرتجفة تتأرجح في كل مكان.
+WRANGLEDIALOG_103_FUNCTION_1_4,وابثت الدموع من الثلج. عندما تثور الضغينة، لا تنكسر دموعك. وَتَعَلَّقُ ٱلدِِّّينُ فِي ٱلدَُُّّّوفِ. كانت آلاف الكرات الطينية تتخبط في السماء. وَلَمْ يَكُنْ شَاقِلٌ وَاحِدٌ مِنَ ٱلْجِبَالِ مِنْ أَجْلِ ٱلْمَطَرِ ٱلسَّابِقِ.
+WRANGLEDIALOG_103_FUNCTION_1_5,"الرياح الغربية تشرب النبيذ البطل، دون أن يأتي الأبطال. وفي النهاية، تنهار الامطار. لا يمكن ان تترك النعمة الجميلة دموعا. و ""جوزار""، مع النجوم، عشقها للأبد"
+WRANGLEDIALOG_103_FUNCTION_1_6,فهي لا تزال تبتسم في مكان آخر.
+WRANGLEDIALOG_103_FUNCTION_1_7,، الأنهار الجليدية، على بعد آلاف الأميال فالناس الذين يبقون على قيد الحياة.
+WRANGLEDIALOG_103_FUNCTION_1_8,فالسحاب الاخضر يمتد فوق الجبال، والننونو، العشب البري، والفراشات الناعمة. تضحكين المياه، تضحكين، تضحكين، تضحكين، تضحكين، تضحكين مياه المرآة.
+WRANGLEDIALOG_103_FUNCTION_1_9,في كل مكان في العالم نهاية البراءة تغرس في أيادينا.
+WRANGLEDIALOG_103_FUNCTION_1_10,وعندما تسير تنورة حول الازهار، تمشي بالاصبع الى المظلة، يغيِّر اذنك.
+WRANGLEDIALOG_103_FUNCTION_1_11,لقد منحتني أجمل حياتي وأبتسامتي في هذا الموسم المثير، مما جعلني أدرك أن هذه الأيام يمكن أن تنقضي بالدفء والطبيعة من القلب. أمر لا يصدق، ومثير للدهشة، ومستحق. يبدو أن القدر هو القدر الذي جعلني محظوظا جدا لاتخاذ هذا القرار الهام.
+WRANGLEDIALOG_103_FUNCTION_1_12,لم أكن أدرك أنها كانت غرفة. عندما تنظرون الى مياه نهر يانڠتسي، تمنوا لكم القرفة.
+WRANGLEDIALOG_103_FUNCTION_1_13,لَا يَسْتَطِيعُوا أَنْ يَطِيرُوا فِي وَجْهِ ٱلْمِيَاهِ، وَلَا يُقَسِّرُوا قَائِدًا. فقط الصعداء يوما مقاومة الشيخوخة القاسي، أكره فقط Gai دون كلل في غاية الأهمية.
+WRANGLEDIALOG_103_FUNCTION_1_14,من أجل الخير، من أجل الأبطال إلى أين تتجه السكين؟ كانت ترتعش
+WRANGLEDIALOG_103_FUNCTION_1_15,فَلَمْ يَرَى خَرَجًا يَقْتَرِبُ مِنَ ٱلْقَمَرِ. كانت الرياح الغربية قد مرت.
+WRANGLEDIALOG_103_FUNCTION_1_16,بعيدا جدا، بعيدا جدا، غير مرئية. ولا حتى الأماكن التي لا يمكن رؤيتها، أماكن بعيدة. امسك الرمال عند قدميه. لن لم الشمل إلى الأبد، لا فراق دائم. كما ان الهندباء تتفتح وتطير بالمظلات الصغيرة، وتطير في الهواء الفاخر، وتفيض المياه اليعسوب، وتطير الى الارض وتمضغ الهواء المألوف. فالرمل الأصفر يطير، وأنا لا أذهب معه، والرمل الأصفر يطير، والنفس المألوف. يطير الرمل الأصفر ويأرجح الهندباء البرية هناك. والرمل الأصفر يطير، والمظلات الصغيرة لا تزال تحلق. ويمر الرمل الأصفر، ولكنه يرى بعض البراعم الخضراء.
+WRANGLEDIALOG_103_FUNCTION_1_17,وهبط جزء من أشجار السنديان السنديان الشرقي ببطء في الرياح الباردة التي تجفف الهواء وتهبط الأرض بثبات. هو نداء أمنا الأرض. هو حلقة جديدة. وتمر شفة الثلج البيضاء ببطء عبر الغيوم، تشتري تذكرة ذهاب الى البيت. وسقط قوس قزح في السماء، والدمنا أحمر، والوجه الأصفر، وشجر السنديان الأخضر. فالمناشف الرقيقة تنطفو من كتفك وتطير في رياح الركض. نحن متكاملين جداً في البحر. عندما تندفع طيور النورس في الرياح الجري، انت منديل ام الارض، النورس. هو منديل لا يسقط.
+WRANGLEDIALOG_103_FUNCTION_1_18,فحين تتجدد الرياح الربيعية، تصعد دائرة الاحلام في قلبي، في المرج. من؟ فبدأت الاسنان تتساقط من القمر، تتفرج على الناس.
+WRANGLEDIALOG_103_FUNCTION_1_19,ولا تزال المرأة الخارقة تقاوم الجاذبية وتنقذ الأرض، وتدور الخيول الدوارة بمفردها تنتظر الفتيات الصغيرات. لا تزال الشمس مشرقة، ولا تزال الوجوه المضحكة تبدو جميلة.
+WRANGLEDIALOG_103_FUNCTION_1_20,لم تكتمل، لم تكتمل.
+WRANGLEDIALOG_104_CONTENT,هذه رسالة.
+WRANGLEDIALOG_106_CONTENT,عزيزي، أنا أدعوكم إلى حفلة عيد ميلادي. تعالوا إلي لقد غاب عن الأنظار لفترة طويلة، تاق إليك كثيراً، وأتطلع إلى الاجتماع معك ألا تظن أن هذا ليس صحيحاً؟
+WRANGLEDIALOG_106_BUTTON_1,لماذا تم وضع الرسالة هنا؟ دعنا نذهب إلى حفلة عيد ميلادها
+TO_NAME_AVATAR_3_LETTER,. (من الأفضل أن أذهب إلى (كاي
+I_LIKE_LOBBYIST,أنا أحب الناس الذين يتحدثون.
+IS_DOG1,هل هذا أنت؟
+YOU_ARE_A_TALL_FELLOW,أنت شخص طويل!
+WINS_AND_LOSSES_ARE_COMMON_1,الفوز أو الخسارة أمر طبيعي.
+WINS_AND_LOSSES_ARE_COMMON_2,السرعة هي المعنى الأول.
+WINS_AND_LOSSES_ARE_COMMON_3,طلابي أقوياء
+WINS_AND_LOSSES_ARE_COMMON_4,لقد كنت أبحث عن مكان بعيد.
+I_DONOT_HAVE_MY_BEST_FRIEND_HERE,سأذهب مع أفضل أصدقائي
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_1,افتحه
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_2,افتحها
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_1,المعرفة هي القوة.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_2,السجل هو الحياة.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_1,لعزل العالم.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_2,حافظ على الهدوء.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_1,في كل مكان.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_2,لم يكن هناك جهد
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_1,رسالة من المدرسة
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_2,رسالة من صديق
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_1,الصمت.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_2,الصمت.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_3,التكرار هو وصفة النصر.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_4,هناك سر لفعل الأشياء.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_5,المزيد من التسرع، قليل من التهور.
+PLAYCHESSFAILUREFUNCTION_NPCARTICLE_ODETOJOY,أنا حارس الملك المخلص
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_1,النصر
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_2,يَرْبحُ.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_1,الحظ هو لمسه.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_2,حظا سعيدا هو أيضا لمسه.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_1,أنا بالفعل على فرصة للفوز.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_2,هذه أيضا فرصة للتعلم.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_1,الكلام الجيد لا يعني الحظ الجيد
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_2,التعبير يجب أن يكون
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_1,بعيد
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_2,رائع
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_1,تأتي وتذهب.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_2,. مثل
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_1,ذراع الحديد.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_2,قوة قوية.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_1,المساومة هي عمل رجل الأعمال.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_2,كل شيء له ثمن.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_1,دافئ الشمس يحيط بك.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_2,الشمس تشرق عليك.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_1,قدرتي على التحمل جيدة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_2,مزاجي جيد.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_1,لدي الكثير من الأصدقاء.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_2,اعتدت أنا وأصدقائي على الاجتماع.
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_1,كيف تجرؤ على تحدي لي؟
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_2,أنت تلعب بالنار.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_1,الطفو هو الحب.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_2,لآلاف السنين
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_1,لدي الكثير من الإخوة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_2,لدي العديد من الأخوات.
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_1,مثالي وواقعي، أيهما تختار؟
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_2,السمك المالح ليس لديه مثالية.
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_1,أنا بخير، أنا سو.
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_2,السماء والقلب والصدر.
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_1,الرياح قوية هنا.
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_2,الرياح تهب بقوة
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_1,يأتي الزهري.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_2,المعاناة هي الحياة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_1,المستقبل لديه ترتيبات مستقبلية.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_2,هناك ترتيبات اليوم اليوم.
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_1,بجدية، هو موقف.
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_2,موقفي جاد ومعتز.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_1,هناك شيء في العالم
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_2,أنت وأنا فريدة من نوعها.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_1,عندما كنت صغيرا كنت اقوى
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_2,لدي الكثير من القوة الآن
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_1,صقل نفسك.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_2,انظر إلى نفسك.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_1,إصلاح نفسه.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_2,تم اصلاحها بنفسك
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_1,التاج مصنوع من الذهب.
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_2,التاج يلمع.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_1,ولا بد من مسح المزيد من التاج اللامع.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_2,التاج مصنوع من الذهب، وهذا يمثل نوعية.
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_1,كل شيء عن الفوز أو الخسارة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_2,كل ما أريده
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_1,كما ان الغرف النظيفة تحتاج الى عناية مستمرة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_2,تنظيف الغرف ليس مهمة بسيطة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_1,ليس من السهل الإصرار على القيام بعمل لفترة طويلة.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_2,ليس من السهل الاعتناء بقصر
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_1,لا يجب أن تراني
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_2,لا يمكنك رؤيتي
+NOW_I_AM_THE_TEAM_LEADER,الآن، أنا في الصف الأمامي.
+NPCARTICLETRIGGER_NAME_2,عند باب المنزل
+NPCARTICLETRIGGER_NAME_3,. باب المنزل
+WAIT_A_MOMENT,انتظر
+DICE_STARTED,تم تشغيل %s من النرد الوجه
+WHERE_ARE_THE_LOBBYISTS,أين أجد شيئاً؟
+SILENT_NOTE_DO,أي شيء صامت
+SILENT_NOTE_RE,ملاحظة صامتة (2)
+SILENT_NOTE_MI,ملاحظة صامتة (3)
+SILENT_NOTE_FA,ملاحظة صامتة (4)
+SILENT_NOTE_SOL,ملاحظات صامتة (5)
+SILENT_NOTE_LA,النوتة الصامتة
+SILENT_NOTE_SI,ملاحظة صوتية الغربية (7)
+NOTE_DO,عصا(1)
+NOTE_RE,تعال (2)
+NOTE_MI,مي (3)
+NOTE_FA,طلقة (4)
+NOTE_SOL,التحريض (5)
+NOTE_LA,آه (6)
+NOTE_SI,غرب (7)
+WRANGLEDIALOG_107_CONTENT,. أنا الحارس
+WRANGLEDIALOG_108_CONTENT,. أنا الحارس
+WRANGLEDIALOG_109_CONTENT,. أنا الحارس
+WRANGLEDIALOG_110_CONTENT,. أنا الحارس
+WRANGLEDIALOG_111_CONTENT,. أنا الحارس
+WRANGLEDIALOG_112_CONTENT,. أنا الحارس
+WRANGLEDIALOG_113_CONTENT,. أنا الحارس
+WRANGLEDIALOG_114_CONTENT,. أنا الحارس
+WRANGLEDIALOG_115_CONTENT,. أنا الحارس
+WRANGLEDIALOG_116_CONTENT,. أنا الحارس
+WRANGLEDIALOG_117_CONTENT,. أنا الحارس
+WRANGLEDIALOG_118_CONTENT,. أنا الحارس
+WRANGLEDIALOG_119_CONTENT,. أنا الحارس
+WRANGLEDIALOG_120_CONTENT,. أنا الحارس
+WRANGLEDIALOG_121_CONTENT,. أنا الحارس
+WRANGLEDIALOG_107_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_108_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_109_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_110_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_111_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_112_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_113_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_114_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_115_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_116_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_117_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_118_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_119_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_120_BUTTON_1,أريد أن أثبت شجاعتي.
+WRANGLEDIALOG_121_BUTTON_1,أريد أن أثبت شجاعتي.
+WIN_THE_KING,لقد ربحت الملك.
+WRANGLEDIALOG_122_CONTENT,الأصدقاء الذين أتوا من مسافة بعيدة، المحاربين الأذكياء، مرحباً بك!
+WRANGLEDIALOG_122_BUTTON_1,مرحباً، سعدت بلقائك
+WRANGLEDIALOG_123_CONTENT,هل أنتم هنا لحفلة عيد ميلاد ابنتي الصغيرة؟
+WRANGLEDIALOG_123_BUTTON_1,نعم.
+WRANGLEDIALOG_124_CONTENT,مرحبا مرة أخرى! ابنتي الصغيرة وأختها موجودتان في مكتبي، ويمكنكم الذهاب إليها. في وقت لاحق، في حفلة عيد الميلاد، لا يزال لدي شيء مهم لأعلن عنه.
+WRANGLEDIALOG_124_BUTTON_1,شكرا لدعوتك.
+WRANGLEDIALOG_125_CONTENT,ومع ذلك، أود أن أذكركم بأن هناك الكثير من الغرف هنا، مكتبي في الشمال.
+WRANGLEDIALOG_126_CONTENT,كل بوابة هي حامي كل واحد، مثل الحراس الذين كانوا حراس مخلصين لا يمكنهم المرور إلا من أفراد التاج.
+WRANGLEDIALOG_126_BUTTON_1,فهمت.
+WRANGLEDIALOG_127_CONTENT,المحاربون الأذكياء، هل تفهم الموسيقى؟
+WRANGLEDIALOG_127_BUTTON_1,قليلا، نحن جميعا نحب الاستماع إلى الموسيقى والأغاني.
+WRANGLEDIALOG_128_CONTENT,أنا أيضا أحب الاستماع إلى جميع أنواع الموسيقى والأغاني! الموسيقى والأغاني الجيدة تطهر أرواحنا!
+WRANGLEDIALOG_128_BUTTON_1,أنت على حق.
+WRANGLEDIALOG_129_CONTENT,أيها الحراس، الموروثة عن العصور القديمة، عندما لم يولد جد جد جدي.
+WRANGLEDIALOG_129_BUTTON_1,لقد مضى وقت طويل
+WRANGLEDIALOG_130_CONTENT,وإذا تمكنت من تحديهم وإثبات شجاعتك، فسأفكر في تقديم بعض الهدايا الصغيرة الخاصة.
+WRANGLEDIALOG_130_BUTTON_1,ما هي الهدية الصغيرة الخاصة؟
+WRANGLEDIALOG_131_CONTENT,بعض الاشياء الصغيرة التي يمكن ان تزيد من جاذبيته الشخصية.
+WRANGLEDIALOG_131_BUTTON_1,غامض جدا.
+WRANGLEDIALOG_132_CONTENT,إذهب، أيها المحارب الذكي
+WRANGLEDIALOG_132_BUTTON_1,إلى اللقاء
+WRANGLEDIALOG_133_CONTENT,هل لديك مشكلة؟
+WRANGLEDIALOG_133_BUTTON_1,هل يمكنك أن تعطيني بعض النصائح؟
+WRANGLEDIALOG_133_BUTTON_2,لقد تحديت بنجاح.
+WRANGLEDIALOG_134_CONTENT,قبل أن أقدّم لكم نصيحة صغيرة
+WRANGLEDIALOG_134_BUTTON_1,نصائح متوقعة.
+WRANGLEDIALOG_134_BUTTON_2,سأحاول مرة أخرى.
+WRANGLEDIALOG_135_CONTENT,أي نوع من الأسماء يمكنه الحصول عليه (1)، تعال (2)، مي (3)، أرسل (4)، (5)، (6)، غرب (7)، اقترب قليلا.
+WRANGLEDIALOG_135_BUTTON_1,أنت تهمس لي.
+WRANGLEDIALOG_136_CONTENT,من فضلك خذ هديتي الصغيرة لك.
+WRANGLEDIALOG_136_BUTTON_1,شكرا على كرمك.
+KING_LOW_VOICE,صوت منخفض، %s،، لا تخبر الآخرين،،،
+WHEN_I_WAS_YOUNG,وقد استخدمت هذه الهدية الصغيرة بانتظام عندما كنت صغيرا، ولاحقا حصلت على التاج.
+ALL_GIFTS_HAD_GIVE_YOU,لقد أحضرت لك هديتي الصغيرة
+YOU_NEED_TO_PROVE,اثبتوا شجاعتك لكي تحصلوا على هدية صغيرة
+GOODS_NAME_HOUSEKEEPERKEY,. المفتاح المفتاح
+GOODS_NAME_BUTLERKEY,. المفتاح
+GOODS_NAME_QUEENKEY,. المفتاح المفتاح
+DOOR_1,. الجانب الجنوبي من (سايمون
+DOOR_2,عند البوابة الشرقية
+GOODS_DESCRIPTION_HOUSEKEEPERKEY,عندما تحمله، يمكنك فتح {ooror.
+GOODS_DESCRIPTION_BUTLERKEY,عندما تحمله، يمكنك فتحه.
+GOODS_DESCRIPTION_QUEENKEY,عندما تحمل، يمكنك فتح الباب.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_1,تماسك
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_2,بعيد
+NOT_EASY_OPEN_THE_DOOR_WITHOUT_THE_KEY,الباب بدون المفتاح ليس من السهل فتحه.
+WRANGLEDIALOG_139_CONTENT,لابد أنك جائع ماذا تريد؟ قل لي.
+WRANGLEDIALOG_139_BUTTON_1,ماذا لديكم هنا؟
+WRANGLEDIALOG_139_BUTTON_2,هناك الكثير من العمل هنا
+WRANGLEDIALOG_139_1_CONTENT,في حفلة عيد ميلاد الأميرة، أعددنا طعام جيد.
+WRANGLEDIALOG_139_2_CONTENT,لقد رأيت شقيقتي الأميرة الصغيرة ذهبتا إلى مكتب الملك في الشمال.
+WRANGLEDIALOG_139_2_BUTTON_1,. أجل
+WRANGLEDIALOG_139_3_CONTENT,لدي عمل لأقوم به، وإذا أردتم إيجادهما فبإمكانكم الذهاب إلى هناك.
+WRANGLEDIALOG_139_3_BUTTON_1,حسنا.
+WRANGLEDIALOG_139_4_CONTENT,على عكس ما تفعله في الغرب، هناك طريق رائع هنا
+WRANGLEDIALOG_139_4_BUTTON_1,هل لديك المفتاح هناك؟
+WRANGLEDIALOG_139_5_CONTENT,يجب أن تحصلوا على ثقتي لكي أساعدكم
+WRANGLEDIALOG_139_5_BUTTON_1,دعونا نحاول ذلك.
+WRANGLEDIALOG_140_CONTENT,الخدمة هي هدفي. انظر، قبعتي جميلة، ولن أستخدم تلك الباروكة.
+WRANGLEDIALOG_140_BUTTON_1,أنت في بيئة جيدة هنا.
+WRANGLEDIALOG_140_BUTTON_2,لابد أن العمل مزدحم هنا أليس كذلك؟
+WRANGLEDIALOG_140_1_CONTENT,وبما أنني كنت أعمل في المقام الأول في الحدائق الموجودة على الباب، حيث لا يمكن تمرير الأشجار اللامعة، وحيث يمكن تمرير الأشجار الغامضة.
+WRANGLEDIALOG_147_BUTTON_1,هل هذا ما فعلته؟ …،
+WRANGLEDIALOG_140_2_CONTENT,لقد رأيت شقيقتي الأميرة الصغيرة ذهبتا إلى مكتب الملك في الشمال.
+WRANGLEDIALOG_140_2_BUTTON_1,. أجل
+WRANGLEDIALOG_140_3_CONTENT,لدي عمل لأقوم به، وإذا أردتم إيجادهما فبإمكانكم الذهاب إلى هناك.
+WRANGLEDIALOG_140_3_BUTTON_1,حسنا.
+WRANGLEDIALOG_140_4_CONTENT,على العكس من الحديقة الجميلة الموجودة في الجانب الشرقي
+WRANGLEDIALOG_140_4_BUTTON_1,هل لديك المفتاح هناك؟
+WRANGLEDIALOG_140_5_CONTENT,يجب أن تحصلوا على ثقتي لكي أساعدكم
+WRANGLEDIALOG_140_5_BUTTON_1,دعونا نحاول ذلك.
+TRUSTED_CLASSMATE,لا بد لي من القول إنني أكثر ثقة في زميلتها في المدرسة المذكورة في دعوة الأميرة.
+YOU_HAD_THE_KEY,لديك بالفعل هذا المفتاح.
+WRANGLEDIALOG_151_CONTENT,مرحباً بكم أيها المغامرون من بعيد
+WRANGLEDIALOG_151_BUTTON_1,بالحديث عن المغامرات هل لديكم مغامرون آخرون هنا؟
+WRANGLEDIALOG_151_BUTTON_2,قصر رائع
+WRANGLEDIALOG_151_1_CONTENT,مغامرون آخرون؟ كنت أنا والملك مغامرين عندما كنا صغارا. في ذلك الوقت كنا مثلكم الآن، بالحديث عن المغامرة، هل تعرفون التلسكوب؟
+WRANGLEDIALOG_151_1_BUTTON_1,نعم، لكن ليس لدينا منظار
+WRANGLEDIALOG_151_1_BUTTON_2,لدينا تلسكوب.
+WRANGLEDIALOG_151_2_CONTENT,وإذا استطعتم كسب ثقتي، فأعطيكم المنظار الذي استخدمناه في شبابنا.
+WRANGLEDIALOG_151_2_BUTTON_1,لا شيء.
+WRANGLEDIALOG_151_3_CONTENT,يمكنني أن أعدل منظارك، أحاول أن أرى ما هو أبعد من ذلك.
+WRANGLEDIALOG_151_3_BUTTON_1,من فضلك.
+WRANGLEDIALOG_151_4_CONTENT,بالاضافة الى اثنين من الخدم، ادير هذا المكان بانتظام.
+WRANGLEDIALOG_151_4_BUTTON_1,يمكننا فعل ذلك.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_3,الفضول هو الدافع للتقدم.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE2,مسافة الرؤية: %s (+ %s).
+VISUAL_RANGE_IS_AT_MAXIMUM,. المسافة إلى أقصى حد
+YOU_ALREADY_HAVE_A_TELESCOPE,لديك بالفعل تلسكوب.
+YOU_NEED_A_TELESCOPE_FIRST,يجب أن يكون لديك تلسكوب.
+YOU_ALREADY_HAVE_THIS_KEY,لديك بالفعل هذا المفتاح.
+HAVE_ALREADY_USED,بالفعل.
+DOOR_3,. لا، لا بأس -
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_1,قلعة قديمة.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_2,تاريخ قديم.
+WRANGLEDIALOG_160_CONTENT,من أنتم؟
+WRANGLEDIALOG_160_BUTTON_1,نحن زملاء في المدرسة عيد ميلادها قادم، ودعونا إلى حفلة عيد ميلادها.
+WRANGLEDIALOG_160_1_CONTENT,حفلة عيد ميلاد؟ لم أسمع عنها، لا يوجد حفلة عيد ميلاد هنا
+WRANGLEDIALOG_160_1_BUTTON_1,… نحن
+WRANGLEDIALOG_160_2_CONTENT,يرجى منكم الخروج، لا يزال لدي شيء للتعامل معه، لا تضايقني.
+WRANGLEDIALOG_160_2_BUTTON_1,لقد تحدثنا مع الملك عن حفلة عيد الميلاد
+WRANGLEDIALOG_160_3_CONTENT,لا بد أنكم سمعتموني خطأ، الملك كبير في السن ولا يتذكر الكثير من الأشياء. يرجى الخروج.
+WRANGLEDIALOG_160_3_BUTTON_1,دعونا نسأل الملك مرة أخرى.
+WRANGLEDIALOG_133_BUTTON_3,… عن ذلك، أنا لا أعرف
+WRANGLEDIALOG_165_CONTENT,إن أخواتي هن بناتي، اللؤلؤة يدي المفضلة.
+WRANGLEDIALOG_165_BUTTON_1,أنا فقط مشوش قليلاً
+WRANGLEDIALOGTYPEID_SISTER_1_SUCCESS_1,كل ما ترونه في مكتبي هو ما رأيتموه ، لقد ذهبن معاً أليس كذلك؟ عد إلى هناك وفحصها.
+FAMILY_IS_THE_MOST_IMPORTANT_THING,بالنسبة لي، العائلة هي الأهم.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_1,لا تدع الآخرين يرون ذلك.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_2,رسالة سرية
+TO_ROYAL_HOUSEHOLD_LETTER,الطاقم الملكي قبل كاي.
+NAME_AVATAR_35,كيم كيم)؟
+WRANGLEDIALOG_167_CONTENT,هذه رسالة سرية.
+WRANGLEDIALOG_167_1_CONTENT,عزيزي ***: سترسل إليكم هذه الرسالة السرية من دون أن يعلم أحد، دون أن يلاحظها.
+WRANGLEDIALOG_167_1_BUTTON_1,هذه الرسالة السرية موجهة إلى موظف ملكي، تم محو اسمها،
+WRANGLEDIALOG_167_2_CONTENT,سأساعدكِ في هذا الأمر إن لم تكن هناك فرص كافية لعيد ميلاد الآخرين، وأتمنى لكم كل التوفيق.
+WRANGLEDIALOG_167_2_BUTTON_1,، عندما كان هناك أحد في الإرسال … ظننت أنه رأى
+WRANGLEDIALOG_167_3_CONTENT,يجب أن يكون لديك الدعم الكامل. إضاءة تنتظر . يجب أن نفعل ذلك
+WRANGLEDIALOG_167_3_BUTTON_1,هل كتبت هذه الرسالة لها؟ …،
+WRANGLEDIALOG_167_4_CONTENT,لقد تم قراءة الرسالة.
+WRANGLEDIALOG_167_4_BUTTON_1,هل هذا له علاقة بهذا؟
+GOODS_DESCRIPTION_17,"عزيزي ***: سترسل إليكم هذه الرسالة السرية من دون أن يعلم أحد، دون أن يلاحظها. سأساعدك على إنجاز كل شيء بعد ""كوني إن لم تكن هناك فرص كافية لعيد ميلاد الآخرين، وأتمنى لكم كل التوفيق. يجب أن يكون لديك الدعم الكامل. إضاءة تنتظر . يجب أن نفعل ذلك"
+DOOR_CLOSE,الباب مغلق.
+GUARD_THE_ROYAL_FAMILY,حراسة الملك.
+WRANGLEDIALOG_173_CONTENT,كيف يمكنك العثور علي؟
+WRANGLEDIALOG_173_BUTTON_1,إنه أنت
+YOU_CAN_NOT_FOUND_QIU_YU,إنها آمنة جداً، لن تجدوها
+YOU_WILL_BE_SORRY,لا تجرؤ على تحدي لي، سوف تندم على ذلك.
+NAME_AVATAR_36,الممرات السرية
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_1,لا أستطيع الرؤية
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_2,انها مظلمة في الداخل.
+WRANGLEDIALOG_174_CONTENT,هناك ممر سري هنا، لا أعرف إلى أين يذهب؟
+WRANGLEDIALOG_174_BUTTON_1,ادخلي
+WRANGLEDIALOG_174_BUTTON_2,لا تدخل
+WRANGLEDIALOG_175_CONTENT,أنتم، ماذا تفعلون هنا؟
+WRANGLEDIALOG_175_BUTTON_1,هل رأيت هذا؟ نحن نبحث عنها
+WRANGLEDIALOG_175_1_CONTENT,لم أراه
+WRANGLEDIALOG_175_1_BUTTON_1,ماذا تفعل هنا؟
+WRANGLEDIALOG_175_2_CONTENT,أنا أبحث عن قطتي هناك عين واحدة فقط لكن أعتقد أنه يجب أن تكون هناك
+WRANGLEDIALOG_175_2_BUTTON_1,إذا رأيناه، سنعيده إليك
+WRANGLEDIALOG_175_3_CONTENT,لا، إنه شرس، عندما تراه، كن حذرا بنفسك.
+WRANGLEDIALOG_175_3_BUTTON_1,دعونا نلقي نظرة أخرى.
+WRANGLEDIALOG_179_1_CONTENT,لا نعرف الكثير، يجب أن نفعل ما وعدنا به
+WRANGLEDIALOG_179_2_CONTENT,لا نعرف الكثير، يجب أن نفعل ما وعدنا به
+WRANGLEDIALOG_179_3_CONTENT,نحن لا نعرف الكثير، وفي القريب العاجل يمكننا أن ننتقل إلى هناك.
+WRANGLEDIALOG_179_4_CONTENT,وبما اننا لا نعرف الكثير، فقد تركنا هذا المكان الذي لا تهدأ فيه الرياح، رغم اننا نحب الغابة كثيرا.
+WRANGLEDIALOG_179_5_CONTENT,لم نكن نعرف الكثير عن هذه المناقلة، التي ساعدتنا هذه المرة قوة هائلة لم نراها من قبل.
+WRANGLEDIALOG_179_6_CONTENT,نحن لا نعرف الكثير، نحن آسفون لأن الاختطاف لم تكن نيتنا.
+WRANGLEDIALOG_179_7_CONTENT,لم نكن نعرف الكثير عن ذلك، كان استخدام جهاز الإرسال هو آخر خطوة في هذه العملية، ولكن من المثير أن نفكر في أن نصبح جزءاً من العائلة الملكية.
+WRANGLEDIALOG_179_8_CONTENT,لا نعرف الكثير، لكن في المرة القادمة، يجب أن نكلف أنفسنا بهذه المهمة الصعبة.
+WRANGLEDIALOG_179_9_CONTENT,لم نكن نعرف الكثير عن هذه العملية.
+WRANGLEDIALOG_179_10_CONTENT,لا نعرف الكثير، وحلمنا سيتحقق عندما نصبح ملكاً جديداً.
+WRANGLEDIALOG_179_11_CONTENT,نحن لا نعرف الكثير، وفي الأحلام والانتظار، اخترنا الأحلام.
+WRANGLEDIALOG_179_12_CONTENT,وبما اننا لا نعرف الكثير عن هذا الجهاز، فالقوة التي تدفعها على الجانب الآخر من الجبل.
+WRANGLEDIALOG_179_BUTTON_1,اذن هكذا
+WRANGLEDIALOG_191_CONTENT,لا نعرف الكثير.
+WRANGLEDIALOG_191_BUTTON_1,أنت تعرف شيئا، أخبرنا به.
+WRANGLEDIALOG_192_CONTENT,على الرغم من أنني لا أعرف شيئًا، فأنا أتوق إلى حياة مغامرة.
+WRANGLEDIALOG_192_BUTTON_1,انضم إلينا.
+WRANGLEDIALOG_194_CONTENT,على الرغم من أنني لا أفهم أي شيء، فأنا أتطلع إلى حياة مغامرة.
+WRANGLEDIALOG_194_BUTTON_1,انضم إلينا.
+WE_LOOK_FORWARD_TO_LEARNING_PARTNERS,أتطلع إلى شريك متعلم.
+LIFE_IS_DOOMED_TO_DRIFT_BUT_ALSO_TO_LIVE_OUT_THEIR_OWN_WONDERFUL,رغم ان الحياة محكوم عليها بالعيش، يجب ان تعيش حياتها الخاصة.
+WE_HAVE_FOUND_THE_TWELVE_GOO,لقد وجدنا اثنا عشر دودة لزجة … عن حالتهما
+MEMBERS_OF_THE_TEAM_WHO_LEFT,أعضاء الفريق: %s.
+HOWEVER_SOME_MEMBERS_OF_THE_TEAM_STUBBORNLY_SURVIVED,ومع ذلك، نجا الفريق بعزيمة.
+HOME_SAFE_1,البيت هو ملاذ آمن.
+HOME_SAFE_2,البيت هو الملاذ الآمن لنا.
+HOME_IS_SAFE,لا تزال آمنة في المنزل،
+IT_IS_GETTING_DARK_YOU_CAN_NOT_PLAY_CHESS,سوف يحل الظلام، ليست لعبة.
+WAY_HOME_1,آمل أن تتذكر الطريق إلى المنزل.
+WAY_HOME_2,في هذه المرحلة، فإن العودة إلى المنزل هو الخيار الأسلم.
+IT_IS_GETTING_DARK_YOU_CAN_NOT_OPERATE,سيحل الظلام، لا يمكن تشغيلها.
+IT_IS_PLAY_CHESS_YOU_CAN_NOT_OPERATE,. لا أستطيع فعل هذا
+NAME_2,AMan
+WILL_FINAL,أتقصد ذلك؟ .، لا يزال علينا أن نجدها ونسألها عن مكان تواجدها
+TWELVE_BUGS,اثنا عشر لزجة
+WRANGLEDIALOG_221_CONTENT,هل وجدتم شيئاً؟ كيف هذا ممكن؟
+WRANGLEDIALOG_221_BUTTON_1,أين كنت بحق الجحيم؟
+WRANGLEDIALOG_221_1_CONTENT,يا رفاق، لماذا تسألني؟
+WRANGLEDIALOG_221_1_BUTTON_1,لقد أخبرتنا مسبقاً بأن هؤلاء هم الذين جعلوك تساعدك
+WRANGLEDIALOG_221_4_CONTENT,يبدو أنك تعرف بالفعل.
+WRANGLEDIALOG_221_4_BUTTON_1,لماذا فعلت هذا؟
+WRANGLEDIALOG_221_2_CONTENT,أعتقد أنه سيعلن أنه سينقل العرش إلى العرش
+WRANGLEDIALOG_221_2_BUTTON_1,لكنها أختك
+WRANGLEDIALOG_221_3_CONTENT,،، لنلعب لعبة الغميضة، ونحاول إنقاذ أنفسنا. لنعثر عليهم ها ها ها ها ها ها ها ها
+WRANGLEDIALOG_221_3_BUTTON_1,لا تكن فخوراً
+WRANGLEDIALOG_225_CONTENT,هل نبدأ اللعبة؟
+WRANGLEDIALOG_225_BUTTON_1,دعونا نبدأ.
+THE_GAME_HAS_NOT_STARTED_YET,اللعبة لم تبدأ بعد.
+I_AM_GOING_TO_START_COUNTING,سأبدأ العد
+LOOK_WHERE_THEY_ARE,أنظر أين هم؟
+CURRENT_STANDING_POSITION_CANNOT_START_PATHFINDING,في موقعك الحالي، لا يمكنك البدء في البحث.
+NAME_2_EYE,AMan. عينيك
+WRANGLEDIALOG_227_CONTENT,كنت محاصرا.
+WRANGLEDIALOG_227_BUTTON_1,جئنا لننقذك
+THE_LAST_COUNT_IS_NOT_OVER,آخر عدد لم ينته بعد.
+WE_FINALLY_FOUND,لقد وجدنا أخيراً لم الشمل
+WRANGLEDIALOG_228_CONTENT,"والآن انتم هنا يا اختي, سنلتقي ثانية"
+WRANGLEDIALOG_228_BUTTON_1,فالعدالة في صالحنا.
+WRANGLEDIALOG_230_CONTENT,لقد وجدتم أخيراً شكراً أتمنى أن تعود قريباً، أتمنى لكم التوفيق
+WRANGLEDIALOG_230_BUTTON_1,هذه هي صداقتنا الصادقة.
+WE_WILL_TOGETHER,لقد رأيت والدي في الظلام، وأمي الأم، وأصدقائك الصغار، و كنت أؤمن دائماً برؤيتكم مرة أخرى! أبي، يجب أن يكونوا بعيدين
+I_CAN_NOT_HAVE_MY_LITTLE_GIFT_AGAIN,على الرغم من أنك أثبتت شجاعتك، فقد حصلت على هذه الهدية الصغيرة من قبلي.
+GOODS_NAME_11,شعر مستعار متغير
+GOODS_DESCRIPTION_18,. يجب أن يكون هذا هو لا أعتقد أن هذا سيصنع من مواد خاصة

@@ -1,0 +1,844 @@
+stringKey,stringContent
+NAME_GAME_NAME,ทีมงานของคนธรรมดา ที่เล่าเรื่องราว·ประเทศแห่งดนตรี
+NAME_AVATAR_1,สายฟ้า 1
+NAME_AVATAR_2,ท่านนายพล
+NAME_AVATAR_3,ชานยอง
+NAME_AVATAR_4,สีขาว
+NAME_AVATAR_5,ความเร็วลม
+NAME_AVATAR_6,สายฟ้า 2
+NAME_AVATAR_7,สายฟ้า 3
+NAME_AVATAR_8,เรื่องราวของลี
+NAME_AVATAR_9,ดวงอาทิตย์
+NAME_AVATAR_10,เหนียวเหนอะหนะ
+NAME_AVATAR_11,เหนียวเหนอะ
+NAME_AVATAR_12,เหนียวเหนอะ
+NAME_AVATAR_13,เหนียวเหนอะ
+NAME_AVATAR_14,เหนียวเหนอะหนะ
+NAME_AVATAR_15,เหนียวเหนอะ
+NAME_AVATAR_16,เหนียวเหนอะหนะ
+NAME_AVATAR_17,เหนียวเหนอะ
+NAME_AVATAR_18,มันช่างอบอุ่น
+NAME_AVATAR_19,น้องสาวเจ้าหญิง
+NAME_AVATAR_19_2,โชวู
+NAME_AVATAR_20,มังกรเงิน
+NAME_AVATAR_21,เหนียวเหนอะ
+NAME_AVATAR_22,เหนียวเหนอะหนะ
+NAME_AVATAR_23,ซ่อมมันเหนียวเหนอะหนะ
+NAME_AVATAR_24,เหนียวเหนอะ
+NAME_AVATAR_25,ราชาโดรา
+NAME_AVATAR_26,มาราชินี
+NAME_AVATAR_27,มินามิ
+NAME_AVATAR_28,แม่บ้าน
+NAME_AVATAR_29,ใช้คำฟุ่มเฟือย
+NAME_AVATAR_30,กระเป๋าเป้
+NAME_AVATAR_31,สมุดบันทึก
+NAME_AVATAR_32,จดหมายจากนามูด {NAME_AVATAR_19}
+NAME_AVATAR_33,สามมังกร
+NAME_AVATAR_34,จดหมายของนามากแอฟริกา {NAME_AVATAR_33}
+GOODS_NAME_1,รองเท้าผ้าใบสำหรับเดินทาง
+GOODS_NAME_2,กล้องโทรทรรศน์
+GOODS_NAME_3,วิก
+GOODS_NAME_4,วิก
+GOODS_NAME_5,วิก
+GOODS_NAME_6,วิก
+GOODS_NAME_7,ผมยาว
+GOODS_NAME_8,ผมยาว
+GOODS_NAME_9,ผมยาว
+GOODS_NAME_10,ผมยาว
+JOB_LOBBYIST,นักล็อบบี้
+NAME_1,ดินแดนแห่งความสุข
+PLAY_CHESS_NAME,เกม
+PLAY_CHESS_POINTS,จำนวนจุด {PLAY_CHESS_NAME}
+SCENE_NAME_1_HOME,บ้านของนามูก {NAME_AVATAR_1}
+SCENE_NAME_3_HOME,บ้านของนามาซี {NAME_AVATAR_3}
+SCENE_NAME_4_HOME,บ้านของนามาก {NAME_AVATAR_4}
+SCENE_NAME_3_HOME_COURTYARD,{NAME_AVATAR_3} บ้านของครอบครัว
+SCENE_NAME_CHORD_SQUARE,คอร์ดพลาซ่า
+SCENE_NAME_STAVE_AVENUE,ถนนสาย 5
+SCENE_NAME_HALL_OF_MELODY,เมโลดี้แกรนด์วิหาร
+SCENE_NAME_CLINKER_VALLEY,ไป ที่หุบเขาแห่งเสียง
+SCENE_NAME_CRACKING_VOICE_RIDGE,หุบเขาแห่งเสียงรบกวน
+SCENE_NAME_PLAY_CHESS,ฝ่ายตรงข้าม
+NPCARTICLETRIGGER_NAME_1,{NAME_AVATAR_1} ประตูบ้าน
+STARTGAMEPANEL_TITLELABEL38GAMETITLE,{NAME_GAME_NAME}
+STARTGAMEPANEL_COMMONLABELVERSION,Version %s
+STARTGAMEPANEL_COMMONBUTTON31LOADGAME,โหลดเกม
+STARTGAMEPANEL_STARTGAME,เริ่มเกม
+STARTGAMEPANEL_CONTINUEGAME,เล่นต่อไป
+STARTGAMEPANEL_COMMONBUTTON31OPTION,ตัวเลือก
+STARTGAMEPANEL_COMMONBUTTON31EXITGAME,ออกจากเกม
+STARTGAMEPANEL_COMMONLABELARCHIVE,แฟ้มจัดเก็บ
+STARTGAMEPANEL_ARCHIVE_NEW_GAME,เกมใหม่
+STARTGAMEPANEL_ARCHIVE_CLEAR,ลบ
+STARTGAMEPANEL_ARCHIVE_CLEAR_DOUBLE_CONFIRMATION,ยืนยันการลบแฟ้มจัดเก็บ %s เป็นครั้ง ที่สอง
+PANEL_BUTTON_OK,แน่ใจ
+PANEL_BUTTON_CANCEL,ยกเลิก
+PANEL_BUTTON_CLOSE,ปิด
+OPTIONPANEL_COMMONLABEL31TITLE,ส่วนติดต่อตัวเลือก
+OPTIONPANEL_COMMONBUTTONLANGUAGE,เลือกภาษา
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO,ความละเอียดของภาพ:
+OPTIONPANEL_COMMONLABELFULLSCREEN,เต็มจอภาพ:
+OPTIONPANEL_COMMONLABELWINDOWSTRETCH,การยืดภาพ:
+OPTIONPANEL_COMMONLABELMUSIC,เพลง:
+OPTIONPANEL_COMMONLABELSOUNDEFFECT,เอฟเฟ็กต์เสียง:
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_2,1280 x 720
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_3,1920 x 1080
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_SCREEN_RESOLUTION,ความละเอียดจอภาพ
+OPTIONPANEL_COMMONLABELLANGUAGE,ภาษา:
+OPTIONPANEL_COMMONBUTTONDEFAULT,ค่าปริยาย
+OPTIONPANEL_COMMONBUTTONRETURNTOHUBSCENE,กลับไป ที่ล็อบบี้
+OPTIONPANEL_COMMONBUTTONEXITGAME,ออกจากเกม
+OPTIONPANEL_COMMONBUTTONRETURNTOGAME,กลับไป ที่เกม
+OPTIONPANEL_GENERAL,ทั่วไป
+OPTIONPANEL_KEYBOARD,ปุ่มพิมพ์
+OPTIONPANEL_KEYBOARD_MOVE,การย้าย:
+OPTIONPANEL_KEYBOARD_MOVE_CONTENT,Adsw（หรือ←→↓↑）
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK,{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1}/{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK}：
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK_CONTENT,E
+OPTIONPANEL_KEYBOARD_PLAY_CHESS,ชัยชนะ:
+OPTIONPANEL_KEYBOARD_PLAY_CHESS_CONTENT,P (เมาส์ปุ่มซ้ายค้างไว้)
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER,เลือกบท:
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER_CONTENT,"1,2,3,4,5,6,7,8,9,0 "
+OPTIONPANEL_KEYBOARD_BAG,กระเป๋าเป้:
+OPTIONPANEL_KEYBOARD_BAG_CONTENT,B
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD,สมุด ที่อยู่:
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD_CONTENT,J (พลิกหน้า：PageUp，PageDown)
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN,ส่วนติดต่อตัวเลือก:
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN_CONTENT,O
+OPTIONPANEL_ABOUT,เกี่ยวกับ
+OPTIONPANEL_ABOUT_NAME_OF_THE_GAME,ชื่อเกม: {NAME_GAME_NAME}
+OPTIONPANEL_ABOUT_VERSION,รุ่น: %s
+OPTIONPANEL_ABOUT_COPYRIGHT_AND_DEVELOPMENT,คำอธิบาย: %s
+OPTIONPANEL_ABOUT_CONTACT,ติดต่อ: %s
+OPTIONPANEL_ABOUT_CONTACT_COPY,คัดลอก
+OPTIONPANEL_ABOUT_THANKS,ขอบคุณ: ขอบคุณครอบครัวของฉัน ที่ไม่มีเกมนี้ โดยไม่ได้รับการสนับสนุนจากพวกเขา
+LANGUAGEPANEL_COMMONLABEL31TITLE,เลือกภาษา
+TIME_YEAR,ปี
+TIME_MONTH,เดือน
+TIME_DAY,วัน
+TIME_HOUR,เมื่อไหร่
+TIME_MINUTE,แบ่ง
+TIME_SECOND,วินาที
+BOOTSCENE_STARTING_STRING1,กำลังทำงาน
+BOOTSCENE_STARTING_STRING2,ในการเริ่มต้น
+BOOTSCENE_STARTING_STRING3,กำลังเริ่ม
+BOOTSCENE_STARTING_STRING4,กำลังเริ่ม...
+DAYNIGHTPANEL_COMMONLABELDAYSNUMBER,วัน ที่ %s
+DAYNIGHTPANEL_FIRSTSTARTNIGHT,มันจะมืดแล้ว
+CURRENTSCENESHOWNAME_ENTER,ไปยัง %s
+JOURNALRECORDPANEL_COMMONLABEL31TITLE,{NAME_AVATAR_31}
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20AVATAR,บทบาท
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20BAG,รายการ
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20SCENE,สถาน ที่
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20TASK,การเดินทาง
+JOURNALRECORDPANEL_PLAY_CHESS_POINTS,จำนวนของอินเตอร์เน็ต ที่มาจาก: %s ถึง %s
+DOWNPANEL_CONTROLWRANGLEDIALOG_COMMONBUTTONWRANGLEDIALOGCONTINUE,ต่อไป...
+DOWNPANEL_WRANGLEDIALOGBUTTON_STRINGFLAG,:
+UI_INPUT_ACTION_EVENT_TYPE_COMMONBUTTONITEM_TEXTUREBUTTON1_PRESSED_EVENT_IN_CD,ระบายความร้อน
+AVATAR_CAN_NOT_MOVE,ไม่สามารถย้าย
+AVATAR_HAD_EQUIP,สวมใส่แล้ว: %s
+AVATAR_HAD_EQUIP2,สวมใส่แล้ว
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1,ปฏิสัมพันธ์
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK,พูดคุย
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONPLAYCHESS1,ชื่อเล่น
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13BAGUSE,ใช้
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13DISCARD,โยนมันทิ้งไป
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD,กำจัด %s หรือไม่?
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_YES,โยนมันทิ้งไป
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_NO,เก็บไว้
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13CHECK,แสดง
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_1,ขี้เถ้าจากนั้น ก็เผาหลังจาก ที่ได้เห็น
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_2,เรียบร้อย
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_3,สะอาด
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_4,ว่า งเปล่า
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_5,ว่า งเปล่า
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_6,ว่า งเปล่า
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_7,ว่า งเปล่าว่า งเปล่าว่า งเปล่า
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_8,ว่า งเปล่าว่า งเปล่าว่า งเปล่า
+CHESSPANEL1_PLAYCHESS_START,{PLAY_CHESS_NAME} เริ่ม
+CHESSPANEL1_PLAYCHESS_SUCCESS,{PLAY_CHESS_NAME} สำเร็จ
+CHESSPANEL1_PLAYCHESS_FAILURE,{PLAY_CHESS_NAME} ล้มเหลว
+CHESSPANEL1_COMMONBUTTONCONTINUE,ทำต่อไป
+CHESSPANEL1_MOUSECLICKCONTINUE,(เมาส์ปุ่มซ้ายค้างไว้)
+CHESSPANEL1_POINTS,%s จำนวนจุด: %s
+SLOGAN_NEW_DAY_1,วันใหม่เริ่มต้นขึ้นแล้ว
+SLOGAN_NEW_DAY_2,การผจญภัยเริ่มต้นขึ้นแล้ว
+SLOGAN_NEW_DAY_3,วันใหม่
+SLOGAN_NEW_DAY_4,วันแห่งการผจญภัย
+SLOGAN_NEW_DAY_5,การเดินทางไกล
+SLOGAN_NEW_DAY_6,ระยะทางไกลพร้อม ที่จะไป
+SLOGAN_NEW_DAY_7,เตรียมตัวให้พร้อม
+SLOGAN_NEW_DAY_8,ไปได้แล้ว
+SLOGAN_AVATAR_DEAD_1,คืนมืดกลืนกินคน ที่ไม่กลัวความมืด
+SLOGAN_AVATAR_DEAD_2,มันมืดแล้วคุณก็จมลงไปในความมืด
+NAVIGATIONMANAGER_NOT_VALID_PATH_END_POSITION,ปลายทาง ที่ไม่ถูกต้อง
+NAVIGATIONMANAGER_END_OBSTRUCTIONS_NEARBY,หยุดการค้นหาอัตโนมัติมีสิ่งกีดขวางอยู่ใกล้ ๆ
+GOODS_DESCRIPTION_1,ด้วยรองเท้าเหล่านี้ คุณสามารถเดินได้โดยอัตโนมัติ
+GOODS_DESCRIPTION_2,มองไกลออกไปโดยเฉพาะใน ที่ ที่มีแสงไม่ดี
+GOODS_DESCRIPTION_3,สิ่งนี้ ควรจะเป็น {JOB_LOBBYIST} {GOODS_NAME_3}
+GOODS_DESCRIPTION_4,สิ่งนี้ ควรจะเป็น {JOB_LOBBYIST} {GOODS_NAME_4}
+GOODS_DESCRIPTION_5,สิ่งนี้ ควรจะเป็น {JOB_LOBBYIST} {GOODS_NAME_5}
+GOODS_DESCRIPTION_6,สิ่งนี้ ควรจะเป็น {JOB_LOBBYIST} {GOODS_NAME_6}
+GOODS_DESCRIPTION_7,สิ่งนี้ ควรจะเป็น {JOB_LOBBYIST} {GOODS_NAME_7}
+GOODS_DESCRIPTION_8,สิ่งนี้ ควรจะเป็น {JOB_LOBBYIST} {GOODS_NAME_8}
+GOODS_DESCRIPTION_9,สิ่งนี้ ควรจะเป็น {JOB_LOBBYIST} {GOODS_NAME_9}
+GOODS_DESCRIPTION_10,นี่ควรจะเป็น {JOB_LOBBYIST} {GOODS_NAME_10}
+GOODS_DESCRIPTION_11,กระเป๋าเป้สะพายหลังมีหลายสิ่งหลายอย่างสำหรับการเดินทางผจญภัยเครื่องมือ ที่จำเป็นสำหรับการเดินทาง
+GOODS_DESCRIPTION_12,บันทึกสิ่ง ที่เห็นระหว่า งทางสิ่ง ที่ได้เห็นสิ่ง ที่ได้เห็นความรู้สึกมันมี 4 หน้าในการอธิบายรายละเอียดของสมาชิกในทีมรายละเอียดของในกระเป๋าเป้สะพายหลังหน้ากระดาษบันทึกสถาน ที่ ที่เคยไปหน้ากระดาษ ที่ได้รับการติดต่อจะถูกบันทึกไว้
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_1,รองเท้าสำหรับคู่?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_2,เท้าซ้าย และเท้าขวาเป็นรองเท้า
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_3,แบตเตอรี่อยู่ไหน
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_4,ไม่พบสวิตช์
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_5,สวิตช์อยู่ ที่ไหน
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_6,ใส่แล้วค่ะ
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_7,สามารถหาทางได้โดยอัตโนมัติ
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_8,ครั้งนี้ จะไม่หลงทาง
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_9,เราจะไปไหนกันนะ?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_10,ฉันจะลองคิดดูว่า จะไป ที่ไหน
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_1,มองไกลออกไป
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_2,วิวดีกว่า
+GOODSADDFUNCTION_TELESCOPE_1,"ทักษะใหม่, ตาทิพย์ "
+GOODSADDFUNCTION_TELESCOPE_2,ก็ไม่เชิงหรอก 10 เมตรก็มีอยู่แล้ว
+GOODSREMOVEFUNCTION_TELESCOPE_1,มองไกลกว่า นี้ ไม่ได้แล้ว
+GOODSREMOVEFUNCTION_TELESCOPE_2,ใส่แล้วรู้สึกไม่สบายเหรอ
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_1,ชีวิตบัดซบ
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_2,แก๊สวูเฮน
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_3,ต้นหยกกำลังลม
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_4,เงยหน้าขึ้น
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_5,มืออาชีพ
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_6,คนพิงผมม้าอยู่กับอานม้า
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_7,อาจจะมีปัญญาเพิ่มขึ้น
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_8,สติปัญญา + 1
+GOODSADDFUNCTION_WIG_1,สิ่ง ที่ดี
+GOODSADDFUNCTION_WIG_2,ใน ที่สุดก็เจอ
+GOODSADDFUNCTION_WIG_3,ไม่เลวเลย
+GOODSADDFUNCTION_WIG_OTHER_1,วิกผม?
+GOODSADDFUNCTION_WIG_OTHER_2,วิกผมควรจะสวมใส่ {JOB_LOBBYIST}
+GOODSADDFUNCTION_WIG_OTHER_3,วิกผมเหรอ {JOB_LOBBYIST}
+GOODSREMOVEFUNCTION_WIG_1,หน่วยสืบราชการลับ
+GOODSREMOVEFUNCTION_WIG_2,หัวเย็น
+GOODSREMOVEFUNCTION_WIG_3,ไม่รู้สึกเป็นมืออาชีพอีกต่อไป
+GOODSREMOVEFUNCTION_WIG_4,รู้สึกถึงปัญญา ที่ลดลง
+GOODSREMOVEFUNCTION_WIG_5,วิกผมไหม้เหมือนผมไหม้
+GOODSREMOVEFUNCTION_WIG_6,มันไม่น่าเสียดาย ที่จะทิ้งวิก
+GOODSREMOVEFUNCTION_WIG_7,เขาไม่ได้ใส่วิก และเป็นมืออาชีพ
+GOODSREMOVEFUNCTION_WIG_8,มืออาชีพไม่สามารถพึ่งพาวิกได้
+GOODSADDFUNCTION_FOOT_1,ตอนนี้ รู้แล้วว่า จะไปยังไง
+GOODSADDFUNCTION_FOOT_2,รองเท้านี่มันดูหรูหรามากเลยนะสามารถนำทาง?
+GOODSADDFUNCTION_FOOT_3,ต้องใช้พลังงานในการนำทางรองเท้านี้ หรือไม่
+GOODSADDFUNCTION_FOOT_4,คือ การขว้างปารองเท้านำทาง?
+GOODSADDFUNCTION_FOOT_5,เดินยังไงใส่รองเท้าก็รู้
+GOODSREMOVEFUNCTION_FOOT_1,เท้าเปล่า
+GOODSREMOVEFUNCTION_FOOT_2,ไม่มีการนำทาง
+GOODSREMOVEFUNCTION_FOOT_3,รองเท้า ที่ทิ้งไปก็หายไปเฉย ๆการนำทาง ที่ขาดหายไปเดินทีละขั้นตอนด้วยตัวคุณเอง
+GOODS_IN_USE,ในการใช้
+GOODS_UNUSED,ยังไม่ได้ใช้
+GOODS_TELESCOPE_VISUALFIELDDISTANCE,ระยะทางจากลานสายตา: %s
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE,รูปร่างของมุมมอง: %s
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_RHOMBUS,สี่เหลี่ยมขนมเปียกปูน
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_EGG,รูปไข่
+CANNOT_WEAR_IT_LOBBYIST_WIG_1,ไม่สามารถสวมใส่วิกพิเศษ {JOB_LOBBYIST}
+CANNOT_WEAR_IT_LOBBYIST_WIG_2,นี่คือ วิกผมสำหรับ {JOB_LOBBYIST} _ตัว lobbyist
+BAG_IS_FULL,กระเป๋าเป้สะพายหลังเต็มแล้วไม่สามารถพกของได้อีกต่อไป
+BAG_ADD,ได้รับ: %s
+BAG_REMOVE,กำจัด: %s
+BAG_USE,กำลังใช้: %s
+TOP_BUTTON,ปุ่มด้านบน
+BOTTOM_BUTTON,ปุ่มด้านล่าง
+CLEAR_BUTTON,ปุ่มว่า ง
+AVATAR_DESCRIPTION_1,ข้าคือ อสรพิษงู!พี่น้องข้าอาวุโส ที่สุด
+AVATAR_DESCRIPTION_2,ฉันเป็นคู่หูตัวน้อยของนามูกา {NAME_AVATAR_3}.ข้าจะเป็นเหมือนเมฆบนท้องฟ้าไม่มี ที่สิ้นสุด และพายุบ้าน ที่แสนอบอุ่น และฉันก็ชอบเดินไปเดินเล่นด้วยกัน
+AVATAR_DESCRIPTION_3,ชั้นประถมศึกษาปี ที่ 5 เป็นช่วงการเรียนรู้ ที่สำคัญของชีวิตสำหรับนักเรียนคนหนึ่งนอกเหนือจากเลขสี่แล้วฉันได้เริ่มเรียนวรรณกรรมคลาสสิกดนตรี และภาพวาด
+AVATAR_DESCRIPTION_4,ในฐานะทนายความในศาลผมเก่งมากฉันเคยเป็นนักฟุตบอลใครเห็นวิกผมของฉัน?
+AVATAR_DESCRIPTION_8,ฉันเป็นนักธุรกิจการซื้อขาย ที่ยุติธรรมเป็นความเชื่อของฉัน
+AVATAR_DESCRIPTION_6,ฉันเป็นงูแข็งแรงงูใส่ชุดเกราะฉันได้ ที่สองในสามพี่น้อง
+AVATAR_DESCRIPTION_7,"ฉันเป็นงู, งู ที่แข็งแรง, สวมชุดเกราะ และงูสำหรับแขนกลสามพี่น้องฉันได้ ที่สาม "
+AVATAR_DESCRIPTION_5,ความเร็วเป็นสิ่งสำคัญ ที่สุดพาดาวันข้าแข็งแรงมากข้ามองหา ที่ห่างไกล
+AVATAR_DESCRIPTION_9,คุยกับฉันก็ได้ถ้าต้องการสุนัขของฉันมักจะวิ่งไปรอบ ๆ คุณเห็นเขา?
+AVATAR_DESCRIPTION_10,เราไม่ใช่ศัตรูพืชลอยน้ำเรา
+AVATAR_DESCRIPTION_11,เราไม่ใช่ศัตรูพืชเราเติบโตแข็งแกร่ง
+AVATAR_DESCRIPTION_12,เราไม่ใช่ศัตรูพืช ที่เหมาะสำหรับเรา
+AVATAR_DESCRIPTION_13,เราไม่ใช่ศัตรูพืชอะไรทั้งนั้น
+AVATAR_DESCRIPTION_14,เราไม่ใช่ศัตรูพืชเสื้อคลุมกันลมอุ่น
+AVATAR_DESCRIPTION_15,เราไม่ใช่ศัตรูพืชการปล้นเป็นประสบการณ์
+AVATAR_DESCRIPTION_16,เราไม่ใช่ศัตรูพืชไม่ใช่อนาคตเกิดมาพร้อมกับมัน
+AVATAR_DESCRIPTION_17,เราไม่ใช่ศัตรูพืช แต่เป็นทัศนคติ
+AVATAR_DESCRIPTION_18,มาจากราชวงศ์ไม่เคยออกไปผจญภัยฉันจะเป็นเหมือนดาวบนท้องฟ้ายูนิเวอร์เซลยูนิเวอร์เซลยูนิเวอร์เซลเราต่างก็อยู่ด้วยกัน
+AVATAR_DESCRIPTION_19,เจ้าหญิงไม่ได้ทำงานคนเดียว และเจ้าหญิงก็มีเพื่อน ที่ดีมากมาย
+AVATAR_DESCRIPTION_20,ปฏิบัติการนี้ จะต้องเป็นความลับ และจะไม่ถูกเปิดเผย
+AVATAR_DESCRIPTION_21,เราไม่ใช่ศัตรูพืชหนึ่งในล้านของเรา
+AVATAR_DESCRIPTION_22,เราไม่ใช่ศัตรูพืช และยังเด็กสำหรับเรา
+AVATAR_DESCRIPTION_23,เราไม่ใช่ศัตรูนะซ่อมมันคือ ชีวิต
+AVATAR_DESCRIPTION_24,เราไม่ใช่ศัตรูพืชมันคือ ชีวิต และทัศนคติ
+AVATAR_DESCRIPTION_25,{NAME_1} ข้าคือ กษัตริย์นามูกยินดีต้อนรับ
+AVATAR_DESCRIPTION_26,{NAME_1} ฉันคือ ราชินีนามูชยินดีต้อนรับ
+AVATAR_DESCRIPTION_27,ข้าเป็นเจ้าหญิง และบัลลังก์เป็นของข้า
+AVATAR_DESCRIPTION_28,คุณคงหิวสินะอยากกินอะไรล่ะบอกฉัน.
+AVATAR_DESCRIPTION_29,การรับใช้คือ สิ่ง ที่ผมต้องการหมวกของฉันสวยมาก และฉันจะไม่ใช้วิกเหล่านั้น
+ADDAVATARFROMSCENE_ADD_TEAM_MEMBERS,เพิ่มสมาชิกใหม่ของทีม: %s
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_YOU_CANNOT_ADD_TEAM_MEMBERS_REPEATEDLY,ไม่สามารถทำซ้ำการเพิ่มสมาชิกของทีมได้: %s
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_THE_TEAM_HAS_A_MAXIMUM_OF_AVATAR,ทีมงานมาก ที่สุด %s
+TIPS_STRING_AND_FLAG,เอ่อ...
+NO_JOURNALRECORDBOOK_CAN_NOT_VIEW,ไม่สามารถตรวจสอบบันทึกได้ {NAME_AVATAR_31}
+NO_JOURNALRECORDBOOK,ไม่มีนามากแอฟริกา {NAME_AVATAR_31}
+NO_BAG_NO_MORE_ITEMS,ไม่มีการขนส่งสินค้าเพิ่มเติมโดย {NAME_AVATAR_30}
+NO_BAG,ไม่มีนามากแอทแอท {NAME_AVATAR_30}
+SCENE_CONTENT_1_HOME,ครอบครัวของนามูป {NAME_AVATAR_1} มีพลังอำนาจมาก
+SCENE_CONTENT_3_HOME,{NAME_AVATAR_3} มีโต๊ะว่า ง ที่บ้านของนามูก {NAME_AVATAR_31}.
+SCENE_CONTENT_4_HOME,{NAME_AVATAR_4} มีอยู่บนเตียงในบ้าน {NAME_AVATAR_30}.
+SCENE_CONTENT_3_HOME_COURTYARD,ในบ้านของพวกเขามีลูกเรือนามูกาวัทแรท {NAME_AVATAR_3} {NAME_AVATAR_2}.
+SCENE_CONTENT_CHORD_SQUARE,พวกเพื่อน ๆ มารวมกัน ที่นี่บ่อย ๆต้นไม้บางต้นก็เหี่ยวแห้ง และทิ้งร่องรอยไว้มากมายบนพื้นดิน
+SCENE_CONTENT_STAVE_AVENUE,ไปยังถนน ที่ไม่รู้จักเขาว่า กันว่า มีทางเดินหลายทาง
+SCENE_CONTENT_HALL_OF_MELODY,นี่คือ พระราชวังแห่งนามูกา {NAME_1} มีหลายห้อง
+SCENE_CONTENT_CLINKER_VALLEY,สถาน ที่ถูกเนรเทศ ที่นี่อาจจะพบคน ที่กำลังมองหา
+SCENE_CONTENT_CRACKING_VOICE_RIDGE,หุบเขาร้างว่า งเปล่าป่าทึบ
+SCENE_CONTENT_PLAY_CHESS,ขอให้โชคดีกับคุณในการแข่งขัน
+WRANGLEDIALOG_1_CONTENT,ไปรับ ที่ร้านใช่มั้ยคะ
+WRANGLEDIALOG_1_BUTTON_1,ไปรับเองค่ะ
+WRANGLEDIALOG_1_BUTTON_2,ไม่รับกลับค่ะ
+WRANGLEDIALOG_2_CONTENT,ไปรับ ที่ร้านใช่มั้ยคะ
+WRANGLEDIALOG_2_BUTTON_1,ไปรับเองค่ะ
+WRANGLEDIALOG_2_BUTTON_2,ไม่รับกลับค่ะ
+WRANGLEDIALOG_3_CONTENT,เปิดประตู
+WRANGLEDIALOG_3_BUTTON_1,เปิดสิ
+WRANGLEDIALOG_3_BUTTON_2,อย่าเปิดนะ
+WRANGLEDIALOG_3_FUNCTION_1,ประตูเปิดอยู่
+WRANGLEDIALOG_4_CONTENT,ก่อน ที่คุณจะออกไปข้างนอกคุณต้องการอะไร {NAME_AVATAR_30}
+WRANGLEDIALOG_5_CONTENT,มีหลายสิ่งหลายอย่าง ที่สามารถบันทึก และดูการเดินทางของการผจญภัย {NAME_AVATAR_31}
+WRANGLEDIALOG_6_CONTENT,โลก ที่อยู่นอกประตูนั้น อันตราย และในเวลาเดียวกันก็เต็มไปด้วยความแปลกใหม่ และความสนุกสนาน
+WRANGLEDIALOG_6_BUTTON_1,ฉันอยากออกไปดูข้างนอก
+WRANGLEDIALOG_7_CONTENT,ก่อน ที่จะออกไปฉันอยากจะแนะนำคุณ
+WRANGLEDIALOG_7_BUTTON_1,ฉันฟังอยู่
+WRANGLEDIALOG_8_CONTENT,ความท้าทายมีอยู่ทุก ที่
+WRANGLEDIALOG_8_BUTTON_1,ฉันพร้อมแล้ว
+WRANGLEDIALOG_9_CONTENT,ฉันรู้สึกว่า ฉันแข็งแรงขึ้นได้
+WRANGLEDIALOG_9_BUTTON_1,คุณแข็งแกร่งอยู่แล้ว
+WRANGLEDIALOG_9_BUTTON_2,อาจจะแข็งแรงขึ้น?
+WRANGLEDIALOG_10_CONTENT,ฉันรู้สึกมาตลอดว่า มีพลังอำนาจกำลังรอฉันอยู่
+WRANGLEDIALOG_10_BUTTON_1,ว่า มา
+WRANGLEDIALOG_10_BUTTON_2,พลัง อันยิ่งใหญ่ทำให้คาดหวัง
+WRANGLEDIALOG_11_CONTENT,พลังนี้ ทำให้ฉันรู้สึกว่า มันผ่านไปแล้ว
+WRANGLEDIALOG_11_BUTTON_1,เรื่องมันนานมาแล้วใช่มั้ย?
+WRANGLEDIALOG_11_BUTTON_2,คุณจะพบเขา
+WRANGLEDIALOG_12_CONTENT,เราจะไปผจญภัยด้วยกันไหม?
+WRANGLEDIALOG_12_BUTTON_1,มาร่วมทีมกับเรา!
+WRANGLEDIALOG_12_BUTTON_2,รอก่อน
+GOODS_DESCRIPTION_13,ที่รักวันเกิดของฉันกำลังจะมาถึงในวันเกิดของฉัน...งานวันเกิดของฉันได้รับเชิญเธอมาในวันเกิดของฉัน...มา ที่นี่ด่วนเลยนะ...หายไปสักพักแล้วคิดถึงเธอมาก ๆ เลยรอ ที่จะได้ไปปาร์ตี้กับเธอนะเพื่อนร่วมชั้นของคุณ
+WRANGLEDIALOG_13_CONTENT,คุณสามารถเปิดประตูได้แต่มันก็เป็นแค่การสอนเท่านั้น นะความล้มเหลวสามารถกลับมา และเปิดประตูได้อีกครั้ง
+WRANGLEDIALOG_13_1_CONTENT,สิ่ง ที่ได้รับการสนทนาสามารถทำได้โดยตรง {PLAY_CHESS_NAME} สูงกว่า การพยายามบางครั้งผลลัพธ์ของทีม ที่อยู่ด้านหน้าจะแตกต่างออกไป
+WRANGLEDIALOG_13_BUTTON_1,เอาเลย
+WRANGLEDIALOG_14_CONTENT,ฉันมักจะพยายามหาพวกเขา
+WRANGLEDIALOG_15_CONTENT,มันเหมือนอยู่ห่างไกลจาก ที่นี่
+WRANGLEDIALOG_16_CONTENT,ผมจะหาพวกเขาเจอไหม?
+WRANGLEDIALOG_17_CONTENT,อย่างไรก็ตาม เรายังต้องการมันฉันชอบผู้ชาย ที่มีอำนาจ
+WRANGLEDIALOG_18_CONTENT,รอก่อน?
+WRANGLEDIALOG_18_BUTTON_1,จะเกิดอะไรขึ้นกับความล้มเหลว
+WRANGLEDIALOG_19_CONTENT,ไม่ต้องกังวลความล้มเหลวจะกลับมาอีกครั้ง
+WRANGLEDIALOG_19_BUTTON_1,เอาล่ะมาเริ่มกันเลย
+WRANGLEDIALOG_20_CONTENT,นายจะมาเล่นกับฉันเหรอ
+WRANGLEDIALOG_20_BUTTON_1,ใช่.
+WRANGLEDIALOG_20_1_CONTENT,ไปกันเถอะ.
+WRANGLEDIALOG_20_2_CONTENT,ถูกต้อง.
+WRANGLEDIALOG_20_3_CONTENT,คุณจำได้ไหม?
+WRANGLEDIALOG_20_3_BUTTON,ประทับใจนิดหน่อย
+WRANGLEDIALOG_20_4_CONTENT,เธอเป็นนักเรียนชั้นประถมของฉัน
+WRANGLEDIALOG_20_5_CONTENT,ไม่ได้เจอเธอมานานแล้ว
+WRANGLEDIALOG_20_6_CONTENT,ผมนึกขึ้นมาได้ว่า ใกล้จะถึงวันเกิดของเธอแล้ว
+WRANGLEDIALOG_20_6_BUTTON,เธอเป็นแฟนคุณเหรอ?
+WRANGLEDIALOG_20_7_CONTENT,จริง ๆ แล้วเราเป็นแค่เพื่อนร่วมชั้นกัน
+WRANGLEDIALOG_20_8_CONTENT,มิตรภาพของเพื่อนร่วมชั้น
+WRANGLEDIALOG_20_8_BUTTON,คำถามง่ายจัง
+WRANGLEDIALOG_20_9_CONTENT,ไปหาเธอกันเถอะ
+WRANGLEDIALOG_20_9_BUTTON,ได้สิ
+WRANGLEDIALOG_21_CONTENT,อย่างไรก็ตาม เราจะต้องเรียนรู้ก่อน ที่จะออกเดินทาง
+WRANGLEDIALOG_21_BUTTON_1,เอาล่ะมาเริ่มกันเลย
+WRANGLEDIALOG_22_CONTENT,มีอะไรให้ช่วยมั้ย?
+WRANGLEDIALOG_22_BUTTON_1,คุณยุ่งอยู่ หรือเปล่า
+WRANGLEDIALOG_23_CONTENT,ฉันยังคงต้องการ ที่จะตัดสินใจของทุกคนก่อน ที่จะออกเดินทาง
+WRANGLEDIALOG_23_BUTTON_1,เอาล่ะมาเริ่มกันเลย
+WRANGLEDIALOG_24_CONTENT,จะไปไหน?
+WRANGLEDIALOG_24_BUTTON_1,ออกไปผจญภัย
+WRANGLEDIALOG_24_1_CONTENT,ออกไปผจญภัยพาฉันไป
+WRANGLEDIALOG_24_1_BUTTON_1,เดินไปด้วยกัน
+WRANGLEDIALOG_24_2_CONTENT,แต่ฉันจะไม่ไปโดยไม่มีเพื่อน ที่ดี ที่สุดของฉัน
+WRANGLEDIALOG_24_2_BUTTON_1,คน ที่ดี ที่สุดของคุณ?
+WRANGLEDIALOG_24_3_CONTENT,มีคน ที่ดี ที่สุด ที่จะเดินทางไปกับการเดินทาง ที่ไม่รู้จักพร้อมกับความคาดหวัง
+WRANGLEDIALOG_24_3_BUTTON_1,คุณอ่านบทกวีเก่งนะ
+WRANGLEDIALOG_24_4_CONTENT,เสียงหนังสือฟังมากขึ้น และเป็นธรรมชาติ
+WRANGLEDIALOG_24_5_CONTENT,ฉันจะไปกับเพื่อน ที่ดี ที่สุดของฉัน
+WRANGLEDIALOG_24_6_CONTENT,หากคุณสามารถประสบความสำเร็จในเกมนี้ ฉันอาจจะพิจารณา ที่จะผจญภัยกับคุณ
+WRANGLEDIALOG_25_CONTENT,การผจญภัยเป็นสิ่ง ที่คาดหวังเสมอ
+WRANGLEDIALOG_25_BUTTON_1,เอาล่ะมาเริ่มกันเลย
+WRANGLEDIALOG_22_1_CONTENT,ยุ่งมาก
+WRANGLEDIALOG_22_1_BUTTON_1,ยุ่งเหรอ
+WRANGLEDIALOG_22_2_CONTENT,ในฐานะทนายงานของผมส่วนใหญ่คือ การโน้มน้าวคนอื่น
+WRANGLEDIALOG_22_2_BUTTON_1,ด้วยความเคารพเราไปผจญภัยด้วยกันเถอะ
+WRANGLEDIALOG_22_3_CONTENT,ฉันกำลังยุ่ง
+WRANGLEDIALOG_22_3_BUTTON_1,ช่วงเวลา ที่เราผจญภัยด้วยกันมันน้อยเกินกว่า ที่จะฟังเรื่องราวของคุณ
+WRANGLEDIALOG_22_4_CONTENT,ฉันก็ชอบคุยนะ แต่ว่า ช่วงนี้ ไม่ค่อยมีอะไรให้สนใจเท่าไหร่
+WRANGLEDIALOG_22_4_BUTTON_1,คุณเหนื่อยเกินไป และต้องการการปรับเปลี่ยน
+WRANGLEDIALOG_22_5_CONTENT,จริง ๆ แล้วฉันอยู่บ้านหลังจากถูกไล่ออกจาก บริษัท
+WRANGLEDIALOG_22_5_BUTTON_1,ดังนั้น เราจึงต้องการคุณ
+WRANGLEDIALOG_22_6_CONTENT,พวกนายต้องการฉันเหรอ
+WRANGLEDIALOG_22_6_BUTTON_1,เพราะคุณเป็นเพื่อน ที่ดีดังนั้น เราจึงต้องการคุณ
+WRANGLEDIALOG_22_7_CONTENT,การผจญภัยเป็นเรื่องยาก และฉันกลัวว่า ฉันจะไม่รอด
+WRANGLEDIALOG_22_7_BUTTON_1,จะรู้ได้ยังไงถ้าไม่ลอง
+WRANGLEDIALOG_22_8_CONTENT,เช่น กันชีวิตคือ การผจญภัย ที่ไม่รู้จัก
+WRANGLEDIALOG_22_9_CONTENT,คิดเป็นพัน ๆ ครั้งน่าจะดีกว่า
+WRANGLEDIALOG_22_10_CONTENT,ใช่มั้ย?
+WRANGLEDIALOG_22_10_BUTTON_1,งั้นรออะไรอยู่ล่ะ?
+WRANGLEDIALOG_54_CONTENT,ไม่เจอกันหลายวัน
+WRANGLEDIALOG_54_BUTTON_1,ไม่เจอกันนาน
+WRANGLEDIALOG_54_1_CONTENT,เรายังคงแสวงหากำลัง ที่แข็งแกร่ง
+WRANGLEDIALOG_54_1_BUTTON_1,เจออะไรมั้ย?
+WRANGLEDIALOG_54_2_CONTENT,ไม่เจออะไรเลย
+WRANGLEDIALOG_54_3_CONTENT,ฉันรู้สึกเสมอว่า พลัง อันยิ่งใหญ่อยู่ไม่ไกลจาก ที่นี่
+WRANGLEDIALOG_54_3_BUTTON_1,เราก็รู้สึกแบบนั้น เหมือนกัน
+WRANGLEDIALOG_54_4_CONTENT,งั้นเราก็เป็นทีมเดียวกัน
+WRANGLEDIALOG_54_4_BUTTON_1,คุณรู้สึกอย่างไรเกี่ยวกับพลัง อันยิ่งใหญ่นี้
+WRANGLEDIALOG_54_5_CONTENT,ผมรู้สึกว่า เราต้องค้นหาต่อไปเพื่อ ที่จะหาคำตอบในท้าย ที่สุด
+WRANGLEDIALOG_54_5_BUTTON_1,มาร่วมทีมกับเรา และเราจะไปหาคำตอบด้วยกัน
+WRANGLEDIALOG_54_6_CONTENT,ผมก็เพิ่งเทเลพอร์ตมาอุปกรณ์ของเราก็ถูกขับเคลื่อนด้วยพลัง เช่น กัน
+WRANGLEDIALOG_54_6_BUTTON_1,พวกคุณเจอมันแล้วเหรอ?
+WRANGLEDIALOG_54_7_CONTENT,มันถูกทิ้งไว้จากการต่อสู้ครั้งล่าสุด
+WRANGLEDIALOG_54_8_CONTENT,น่าจะมีคนอื่นอีกในทีม ที่มา ที่นี่
+WRANGLEDIALOG_54_8_BUTTON_1,เราจะออกไปดูข้างนอกก่อนแล้วค่อยกลับมารับเขา
+WRANGLEDIALOG_55_CONTENT,ไม่สามารถมองเห็นได้ทุกวันฉันยังคงต้องการ ที่จะลอง และดูความมั่นใจของทุกคน
+WRANGLEDIALOG_55_BUTTON_1,เอาล่ะมาเริ่มกันเลย
+PLANET_47,หมายเลข 47
+WRANGLEDIALOG_56_CONTENT,มาถึงอย่างปลอดภัย
+WRANGLEDIALOG_56_BUTTON_1,ไม่เจอกันหลายวัน
+WRANGLEDIALOG_56_1_CONTENT,กำลังเดินทางไปเทเลพอร์ตฉันคิดว่า ฉันเห็นอะไรบางอย่าง
+WRANGLEDIALOG_56_1_BUTTON_1,เห็นอะไร?
+WRANGLEDIALOG_56_2_CONTENT,ฉันไม่แน่ใจนักเพราะฉันรู้สึกว่า พลังงานนั้น ไม่มั่นคง
+WRANGLEDIALOG_56_3_CONTENT,ดูเหมือนว่า จะมีอุปกรณ์เสาอากาศ ที่คล้ายกัน หรืออุปกรณ์อื่น ๆ
+WRANGLEDIALOG_56_3_BUTTON_1,พวกเขากำลังทำอะไร?
+WRANGLEDIALOG_56_4_CONTENT,ผมไม่รู้ แต่ผมรู้สึกว่า มันเกี่ยวข้องกับความไม่แน่นอนของพลังงาน
+WRANGLEDIALOG_56_4_BUTTON_1,คุณเห็นอะไรอีก?
+WRANGLEDIALOG_56_5_CONTENT,ฉันคิดว่า ฉันเห็นผู้หญิงสองคน
+WRANGLEDIALOG_56_5_BUTTON_1,ผู้หญิงสองคน?
+WRANGLEDIALOG_56_6_CONTENT,มันคลุมเครือเกินไปฉันไม่แน่ใจ
+WRANGLEDIALOG_56_7_CONTENT,ดูเหมือนจะมีอีกคนอยู่ข้าง ๆ
+WRANGLEDIALOG_56_7_BUTTON_1,โอ้?
+WRANGLEDIALOG_56_8_CONTENT,ฉันรู้สึกเหมือนเขา
+WRANGLEDIALOG_56_8_BUTTON_1,มันคือ อะไร?
+WRANGLEDIALOG_56_9_CONTENT,มันควรจะไม่ใช่ในการต่อสู้ครั้ง ที่แล้วเขาควรจะถูกเนรเทศ
+WRANGLEDIALOG_56_9_BUTTON_1,แน่นอนอยู่ห่างจาก ที่นี่เป็นไปไม่ได้ ที่จะเป็นเขา
+WRANGLEDIALOG_56_10_CONTENT,เราจะเปิดการผจญภัยครั้งใหม่
+WRANGLEDIALOG_57_CONTENT,พลังของเรายังคงเหมือนเดิมใช่ไหม?ฉันยังคงต้องการ ที่จะลอง
+WRANGLEDIALOG_57_BUTTON_1,เอาล่ะมาเริ่มกันเลย
+WRANGLEDIALOG_76_1_CONTENT,เรื่องของผมพวกคุณทุกคนเคยได้ยิน
+WRANGLEDIALOG_76_2_CONTENT,อายุอาจจะถูกลืมไปแล้ว
+WRANGLEDIALOG_76_3_CONTENT,ศิษย์ของข้า 3 คนเรียนรู้ทุกสิ่ง ที่ข้ามี และพวกเขาก็มีอำนาจมาก
+WRANGLEDIALOG_76_4_CONTENT,ฉันชอบล่องเรือไปรอบ ๆ สวรรค์ และโลกเพื่อบ้าน
+WRANGLEDIALOG_76_5_CONTENT,ฉันได้พบกับคนมากมาย ที่มีความสามารถพิเศษหลายสิ่งหลายอย่าง ที่ไม่ธรรมดา
+WRANGLEDIALOG_76_6_CONTENT,ฉันไม่ชอบการแข่งขันกับผู้คน แต่ฉันมีความกล้าหาญ
+WRANGLEDIALOG_76_7_CONTENT,ชัยชนะก็จะได้รับคำชม เช่น เดียวกับความพ่ายแพ้เป็นสิ่ง ที่สำคัญ
+WRANGLEDIALOG_76_7_BUTTON_1,ฝ่ายตรงข้าม
+WRANGLEDIALOG_76_7_BUTTON_2,ลาก่อน
+WRANGLEDIALOG_83_CONTENT,ที่รักผ่านไปแล้วเธอจะไปไหนเหรอ
+WRANGLEDIALOG_83_BUTTON_1,นี่คือ นาฬิกาข้อมือ?
+WRANGLEDIALOG_83_1_CONTENT,ดินแดนแห่งดนตรี และบ้านเกิดของฉันในฐานะสมาชิกราชวงศ์ และคำตอบสำหรับคุณคือ ที่นี่
+WRANGLEDIALOG_83_1_BUTTON_1,สวัสดีค่ะเป็นเกียรติ ที่ได้พบคุณ
+WRANGLEDIALOG_83_2_CONTENT,มีอะไรให้ช่วยคะ
+WRANGLEDIALOG_83_2_BUTTON_1,เรากำลังตามหาเจ้าหญิงของคุณ
+WRANGLEDIALOG_83_3_CONTENT,โอ้?
+WRANGLEDIALOG_83_3_BUTTON_1,เราได้ยินมาว่า เจ้าหญิงของคุณกำลังจะมีงานวันเกิด และยินดีด้วย
+WRANGLEDIALOG_83_4_CONTENT,คุณสองคนรู้จักกันเหรอ?
+WRANGLEDIALOG_83_4_BUTTON_1,พวกเราเป็นเพื่อนร่วมชั้นของเจ้าหญิง
+WRANGLEDIALOG_83_5_CONTENT,ฉันได้ตรวจสอบสายงานของคุณ และจากประสบการณ์ของฉันคุณอาจรู้จัก
+WRANGLEDIALOG_83_5_BUTTON_1,คุณช่วยเราตามหาเธอได้ไหม?
+WRANGLEDIALOG_83_6_CONTENT,ไม่ค่อยดีเท่าไหร่เลย ที่จะไปถามพระราชา และพระราชินี
+WRANGLEDIALOG_83_6_BUTTON_1,ช่วยแนะนำพวกเราหน่อยได้ไหม
+WRANGLEDIALOG_83_7_CONTENT,ฉันเป็นสมาชิก ที่กระตือรือร้น
+WRANGLEDIALOG_83_8_CONTENT,แต่พวกเธอต้องพิสูจน์ว่า ฉันเชื่อใจพวกเธอ
+WRANGLEDIALOG_84_CONTENT,ได้ไหม?
+WRANGLEDIALOG_84_BUTTON_1,เอาล่ะมาเริ่มกันเลย
+WRANGLEDIALOG_93_CONTENT,คุณต้องการให้ฉันไปทำธุรกิจ?
+WRANGLEDIALOG_93_BUTTON_1,มีการซื้อ ที่ดี
+WRANGLEDIALOG_93_1_CONTENT,ใหญ่แค่ไหน?
+WRANGLEDIALOG_93_1_BUTTON_1,การซื้อ ที่ยอดเยี่ยม
+WRANGLEDIALOG_93_2_CONTENT,ฉันทำข้อตกลง ที่ยุติธรรม และถ้าคุณแนะนำให้ฉันรู้จักกับการซื้อขาย ที่ดีมันจะไม่เกิดขึ้นกับคุณหลังจากนั้น
+WRANGLEDIALOG_93_2_BUTTON_1,ฟังดูยุติธรรมดี
+WRANGLEDIALOG_93_3_CONTENT,พูดเร็ว ๆ สิธุรกิจใหญ่โตอะไร
+WRANGLEDIALOG_93_3_BUTTON_1,อยากให้คุณมากับเราเรื่องการซื้อขาย
+WRANGLEDIALOG_93_4_CONTENT,การเดินทาง?ขายประชากรงั้นเหรอ
+WRANGLEDIALOG_93_4_BUTTON_1,ที่ไหนก็ได้ ที่คุณต้องการ
+WRANGLEDIALOG_93_5_CONTENT,คงไม่ใช่การซื้อขายครั้ง ที่แล้วใช่มั้ย?
+WRANGLEDIALOG_93_6_CONTENT,ฉันเลิกทำธุรกิจแบบนั้น แล้ว!ไม่ต้องไปไกลขนาดนั้น หรอก!
+WRANGLEDIALOG_93_6_BUTTON_1,ฉันยังไม่ได้บอกเลยว่า จะซื้ออะไร
+WRANGLEDIALOG_93_7_CONTENT,ประสบการณ์การผจญภัยครั้งสุดท้ายของฉันฉันยังคงอยู่ในใจของฉัน และฉันเป็นนักธุรกิจไม่นักผจญภัย!
+WRANGLEDIALOG_93_7_BUTTON_1,แต่คราวนี้ ทำเงินได้มาก
+WRANGLEDIALOG_93_8_CONTENT,จริงเหรอ?
+WRANGLEDIALOG_93_8_BUTTON_1,แน่นอน.
+WRANGLEDIALOG_94_CONTENT,อย่างไรก็ตาม ก่อน ที่เราจะไปฉันต้องดูว่า คุณมีเงินเท่าไหร่
+WRANGLEDIALOG_94_BUTTON_1,เอาล่ะมาเริ่มกันเลย
+PLAYCHESSSUCCESSFUNCTION_AVATAR_9_STRING,ความสำเร็จไม่เคยง่ายเลย
+PLAYCHESSFAILUREFUNCTION_AVATAR_9_STRING,ความล้มเหลวจะไม่คงอยู่ตลอดไป
+WRANGLEDIALOG_103_CONTENT,ฉันมักจะพูดกับตัวเอง เช่น กัน
+WRANGLEDIALOG_103_BUTTON_1,ขอโทษครับ
+WRANGLEDIALOG_103_FUNCTION_1_1,สุนัขของฉันมักจะวิ่งไปรอบ ๆ คุณเห็นมัน หรือไม่
+WRANGLEDIALOG_103_FUNCTION_1_2,คุยกับฉันก็ได้ถ้าต้องการ
+WRANGLEDIALOG_103_FUNCTION_1_3,สีฟ้าเข้มมีน้ำหนักระแวงสีฟ้ามีรอบแขนสีฟ้าสีฟ้า ที่ไม่มีใครดื่ม และอยู่ในอาคาร ที่มีชายหาดลวด ที่มีการสั่นสะท้านเป็นพัน ๆ ครั้ง และขึ้นไปบนอัฒจันทร์ ที่จะเรียกว่า เมฆแสงจันทร์สาดสีแดง
+WRANGLEDIALOG_103_FUNCTION_1_4,เดินทางไปหายาชา และเป่าหิมะด้วยน้ำตาด้วยความระแวงระแวง และดื่มน้ำตาของคุณมีความสุข ที่ได้นั่งในระยะยาวของ Frost และหลังจาก ที่ถูกแขวนในทันทีทันใดเทเรอุสเทเรอุสภาพสะท้อน อันยาวนานฝน ที่โหมกระหน่ำอย่างรวดเร็ว และไม่สามารถลุกเป็นไฟได้
+WRANGLEDIALOG_103_FUNCTION_1_5,เวสต์วินด์ไวน์ฮีโร่ไม่เคยเห็นวีรบุรุษกลับมาสายอีกด้านหนึ่งยาก ที่จะคืนสายฝน ที่ตกลงมาท่ามกลางสายฝนความงามหยดน้ำตาสีขาว และสายลมนั้น ยาก ที่จะรักษาไว้และใน ที่สุดคนรักก็จะเข้ามาใกล้
+WRANGLEDIALOG_103_FUNCTION_1_6,ไปหาดอกไม้สีชมพู ที่อื่นยังคงหัวเราะในฤดูใบไม้ผลิฤดูใบไม้ร่วงฤดูใบไม้ร่วงฤดูใบไม้ร่วงฤดูใบไม้ร่วงฤดูใบไม้ร่วงฤดูใบไม้ร่วงฤดูใบไม้ร่วงฤดูใบไม้ร่วงฤดูใบไม้ผลิใบไม้ผลิใบไม้ร่วงโรยด้วยกลีบกุหลาบสีแดง และสีแดง
+WRANGLEDIALOG_103_FUNCTION_1_7,ขึ้นไปทางเหนือถามใคร?ความทุกข์ทรมานใกล้ชิดกับผู้คนมากมาย
+WRANGLEDIALOG_103_FUNCTION_1_8,กรีนฮิลส์สีเขียวผ่านเมฆสีเขียว และหญ้า ที่ไม่ได้ใช้เวลาของโนโนลวิ่งไล่ผีเสื้อโมนาร์ค และดูเหมือนว่า จะเป็นม้าของอัลบาน้ำ ที่ส่องประกายระยิบระยับท่ามกลางน้ำ ที่ส่องแสงเป็นประกายมีความยากลำบาก ที่จะรักษาส่วนหนึ่งของดอกไม้ ที่อาคารน้ำกระจก
+WRANGLEDIALOG_103_FUNCTION_1_9,สิบปี ที่ผ่านมาในมหาสมุทรของทะเลทราย และดวงจันทร์ในหัวใจของฉันด้วยมือของผู้คน ที่สร้างดอกไม้ขึ้นมา และวันเวลา ที่โหดร้ายทั่วไป
+WRANGLEDIALOG_103_FUNCTION_1_10,กระโปรงผีเสื้อโมนาร์ควิ่งไปรอบ ๆ ดอกไม้ ที่มีปลายนิ้วของเธอเป็นอัมพาตไปในลำคอของดอกไม้นานากะ
+WRANGLEDIALOG_103_FUNCTION_1_11,พบคุณ ที่สวย ที่สุดในช่วงฤดู ที่มีชีวิตชีวา และรอยยิ้ม ที่สวยงาม ที่สุดของฉันทำให้ฉันเข้าใจว่า วันนั้น สามารถใช้ชีวิตได้อย่างอบอุ่น และเป็นธรรมชาติไม่น่าเชื่อ และน่าประหลาดใจดังนั้น จึงสมควรได้รับดูเหมือนว่า โชคชะตาทำให้ฉันโชคดี และตัดสินใจได้สำคัญมาก
+WRANGLEDIALOG_103_FUNCTION_1_12,ก่อน ที่จะรู้จักกันในนามของเกสรดอกไม้ และโซโซก็มาพร้อมกับพระจันทร์ด้วยความโดดเดี่ยวมองหาน้ำแยงซี...ขอให้พระเจ้าคุ้มครองซินนาม่อน
+WRANGLEDIALOG_103_FUNCTION_1_13,ปฏิเสธ ที่จะเป็นนายพลไม่นานก่อน ที่ความโหดร้ายจะมาถึง และเกลียดชัง แต่กษัตริย์ ที่ไร้ ซึ่งความเมตตา
+WRANGLEDIALOG_103_FUNCTION_1_14,เมื่อพระจันทร์เต็มดวงได้รู้จักกันวีรบุรุษ ที่สุดยอด ที่สุดของโลกมีดหายไปไหน?อาเธอร์สะเทือนใจ
+WRANGLEDIALOG_103_FUNCTION_1_15,ท่ามกลางสายน้ำ ที่เต็มไปด้วยเมฆ และไม่มีใครเห็นดอกไม้สีชมพูเกลียด ที่สุดลมตะวันตกได้ผ่านพ้นไป และดวงดาวเล็ก ๆ น้อย ๆ ไม่มีความเศร้าโศก
+WRANGLEDIALOG_103_FUNCTION_1_16,มันไกลมากไกลเกินกว่า จะมองเห็นไม่สามารถสัมผัสได้สถาน ที่ ที่ไม่สามารถมองเห็นเป็นสถาน ที่ ที่ห่างไกลไม่มีลมหายใจของบ้านเกิด และหายไปกลิ่นคุ้นเคยไม่ได้อยู่ด้วยกันตลอดไปไม่มีการพรากจากกันครั้งสุดท้ายดอกแดนดิไลยังสามารถเบ่งบานร่มขนาดเล็ก ที่มีขนาดเล็กกว่า การบินขึ้น และการเดินทางทางอากาศ ที่หรูหราแมลงปอบางเบาของน้ำยังคงบินไปยังพื้นดิน และเคี้ยวกลิ่น ที่คุ้นเคยผมไม่ได้ไปกับเขาผมรู้สึกคุ้นเคยชารอนบินผ่านแดนแดนดิไลยังคงแกว่งไปแกว่งมาอองซานบิน และร่มเล็ก ๆ น้อย ๆ ของการ์ตูนก็ยังคงบินอยู่เหลืองบินผ่านไป และเห็นหน่อสีเขียวเล็กน้อย
+WRANGLEDIALOG_103_FUNCTION_1_17,ใบไม้โทตงร่วงโรยอย่างช้า ๆ และลมเย็นพัดลมพัดลมเบา ๆ และลงจอดบนพื้นอย่างมั่นคงมันเป็นเสียงเรียกของแม่โลกมันเป็นการกลับชาติมาเกิดใหม่หิมะสีขาว ที่ผ่านเมฆไปอย่างช้า ๆ และซื้อตั๋วทางเดียวกลับบ้าน ที่กำลังจะมาถึงสายรุ้งจากบนท้องฟ้าสีแดงเป็นเลือดของเรา และสีเหลืองเป็นใบหน้าของเรา และสีเขียวเป็นใบโทของกิ่งไม้ผ้าพันคอบาง ๆ ที่ปลิวออกจากไหล่ของคุณ และบินผ่านลม ที่พัดผ่าน และรวดเร็วมากก่อน ที่ทะเลร้องไห้คุณคือ ผ้าพันคอของคุณแม่บนโลกใบนี้มันเป็นผ้าพันคอ ที่ไม่หลุดออกมา
+WRANGLEDIALOG_103_FUNCTION_1_18,ฤดูใบไม้ผลิฤดูใบไม้ผลิอีกครั้งในฤดูใบไม้ผลิความฝัน ที่ได้รับการปลอบโยนในคืน ที่ผ่านมา และมีเพียงการสนทนาการเป็นระยะเวลานาน และการสั่นสะเทือนของหัวใจเมื่อกลางคืนใครกันนะ ที่อยู่คนเดียว?พวกเขาทำให้ฟันของเขาตกลงไป และไปตามทางของฝุ่นละออง และดอกไม้สีชมพู
+WRANGLEDIALOG_103_FUNCTION_1_19,นางซูเปอร์แมนยังคงต่อต้านแรงโน้มถ่วงของโลกเพื่อช่วยโลก และม้าหมุนยังคงหมุนอยู่เพียงลำพังรอคอยเด็กหญิงตัวน้อย ๆดวงอาทิตย์ยังคงสดใสอย่างไม่น่าเชื่อ และหัวเราะคิกคัก และยังคงเป็นใบหน้า ที่น่ารัก
+WRANGLEDIALOG_103_FUNCTION_1_20,ยังไม่เสร็จอ่ะยังไม่เสร็จ
+WRANGLEDIALOG_104_CONTENT,นี่คือ จดหมาย
+WRANGLEDIALOG_106_CONTENT,ที่รักวันเกิดของฉันกำลังจะมาถึงในวันเกิดของฉัน...งานวันเกิดของฉันได้รับเชิญเธอมาในวันเกิดของฉัน...มา ที่นี่ด่วนเลยนะ...หายไปสักพักแล้วคิดถึงเธอมาก ๆ เลยรอ ที่จะได้ไปปาร์ตี้กับเธอนะเพื่อนร่วมชั้นของคุณ
+WRANGLEDIALOG_106_BUTTON_1,ทำไมจดหมายถึง มาอยู่ ที่นี่?ฝั่งตะวันออกก็คือ นามูกามูซีนไปงานวันเกิดเธอกันเถอะ
+TO_NAME_AVATAR_3_LETTER,วันสิ้นโลก
+I_LIKE_LOBBYIST,ฉันชอบคน ที่พูดได้
+IS_DOG1,ชอบวิ่งแบบไม่มีระเบียบมีพายุเพื่อนรักนั่นคุณใช่ไหม
+YOU_ARE_A_TALL_FELLOW,เจ้าตัวสูง!
+WINS_AND_LOSSES_ARE_COMMON_1,การชนะเป็นเรื่องปกติ
+WINS_AND_LOSSES_ARE_COMMON_2,ความเร็วเป็นสิ่งสำคัญ ที่สุด
+WINS_AND_LOSSES_ARE_COMMON_3,พาดาวันข้าแข็งแรงมาก
+WINS_AND_LOSSES_ARE_COMMON_4,ฉันได้รับการมองหา ที่ห่างไกล
+I_DONOT_HAVE_MY_BEST_FRIEND_HERE,ฉันจะไปกับเพื่อน ที่ดี ที่สุดของฉัน
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_1,เปิดประตู
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_2,เปิดสิ
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_1,ความรู้คือ อำนาจ
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_2,เก็บชีวิต ที่เหลือไว้
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_1,แยกโลกออกจากกัน
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_2,เก็บความสงบเอาไว้
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_1,ไม่ต้องหารองเท้าไฟ
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_2,มันต้องใช้เวลาทั้งหมด
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_1,จดหมายจากเพื่อนร่วมชั้น
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_2,จดหมายจากเพื่อน
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_1,เงียบ
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_2,ความเงียบ
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_3,การทำซ้ำเป็นพรแห่งชัยชนะ
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_4,มีเคล็ดลับในการทำสิ่งต่าง ๆ
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_5,ขับรถเร็วไม่ได้
+PLAYCHESSFAILUREFUNCTION_NPCARTICLE_ODETOJOY,ข้าคือ ผู้ปกป้องกษัตริย์ผู้จงรักภักดี
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_1,ชัยชนะ
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_2,และจะชนะ
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_1,โชคเป็นสิ่ง ที่ต้องสัมผัส
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_2,และโชคก็เป็นสิ่ง ที่ต้องสัมผัส
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_1,ผมคำนวณโอกาส ที่จะชนะได้แล้ว
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_2,มันเป็นโอกาส ที่จะเรียนรู้ เช่น กัน
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_1,พูดได้ดีไม่ได้หมายความว่า โชคดี
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_2,การแสดงออกควรพิถีพิถัน
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_1,ไกลแสนไกล
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_2,ยอดเยี่ยม
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_1,มา และไปอย่างง่ายดาย
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_2,ปล่อยวางตามสบาย
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_1,แขนเหล็ก
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_2,พลัง ที่แข็งแกร่ง
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_1,การต่อรองเป็นหน้า ที่ของนักธุรกิจ
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_2,ทุกอย่างมีราคา
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_1,ความอบอุ่นของแสงอาทิตย์ครอบคลุมคุณ
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_2,แสงอาทิตย์สาดส่องมา ที่คุณ
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_1,ความอดทนของฉันดี
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_2,ฉันอารมณ์ดีมาก
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_1,ฉันมีเพื่อนเยอะ
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_2,เพื่อนของฉัน และฉันมีปาร์ตี้บ่อย ๆ
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_1,กล้าดียังไงมาท้าทายข้า
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_2,คุณกำลังเล่นกับไฟ
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_1,ลอยเป็นโจรปล้นความรัก
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_2,ปฏิบัติในช่วงเวลา ที่แสนนาน
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_1,ฉันมีพี่น้องเยอะแยะ
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_2,ฉันมีพี่สาวหลายคน
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_1,อุดมการณ์ และความเป็นจริงคุณเลือก อันไหน?
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_2,ปลาเค็มไม่เหมาะ
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_1,ฉันทำได้ฉันทำได้
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_2,และโลกกว้างกว้าง และกว้าง
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_1,ที่นี่ลมแรงจริง ๆ
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_2,ลมพัดแรง
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_1,กลิ่นหอมของดอกไม้
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_2,ความทุกข์ทรมานคือ ชีวิต
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_1,อนาคตมีการกำหนดอนาคต
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_2,วันนี้ เป็นวันสำคัญ
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_1,จริง ๆ นะมันเป็นทัศนคติ
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_2,ทัศนคติของฉันคือ ความจริงจัง และความใส่ใจ
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_1,และข้าก็มีเจ้า และข้า
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_2,เธอกับฉันไม่เหมือนใคร
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_1,ตอน ที่ฉันยังเด็กฉันมีแรงงานเยอะมาก
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_2,ตอนนี้ ฉันค่อนข้างแห้งแล้ว
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_1,เพื่อปรับปรุงตัวเอง
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_2,ดูตัวเองสิ
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_1,ซ่อมเพื่อดูตัวเอง
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_2,ซ่อมของคุณเองคุณรู้ดี
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_1,มงกุฎทำจากทอง
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_2,มงกุฎเป็นประกาย
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_1,มงกุฎ ที่เปล่งประกายอีกครั้งยังต้องการการเช็ดบ่อย ๆ
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_2,มงกุฎทำจากทอง ซึ่งแสดงถึงคุณภาพ
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_1,ชนะ หรือแพ้ทุกอย่าง
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_2,สิ่ง ที่ฉันต้องการจะได้รับ
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_1,ห้อง ที่สะอาดอีกครั้ง และต้องดูแลอย่างต่อเนื่อง
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_2,การทำความสะอาดห้องไม่ใช่งานง่าย ๆ
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_1,ทำงานในระยะยาวไม่ง่ายเลย
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_2,การดูแลพระราชวังไม่ใช่เรื่องง่าย
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_1,ไม่ควรเห็นฉัน
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_2,มองไม่เห็นฉัน
+NOW_I_AM_THE_TEAM_LEADER,ตอนนี้ ฉันอยู่ในแถวหน้า
+NPCARTICLETRIGGER_NAME_2,ประตูบ้าน
+NPCARTICLETRIGGER_NAME_3,ประตูบ้าน
+WAIT_A_MOMENT,รอสักครู่
+DICE_STARTED,เริ่มการทำงานของลูกเต๋าหน้า %s
+WHERE_ARE_THE_LOBBYISTS,ที่ไหน?
+SILENT_NOTE_DO,บันทึกของความเงียบ - โดเรมอน (1)
+SILENT_NOTE_RE,บันทึกของความเงียบ - มานี่ (2)
+SILENT_NOTE_MI,บันทึกของความเงียบ - ไม่มี (3)
+SILENT_NOTE_FA,บันทึกของความเงียบ - ส่ง (4)
+SILENT_NOTE_SOL,บันทึกของความเงียบ - สนับสนุน (5)
+SILENT_NOTE_LA,บันทึกของความเงียบ - โอเค (6)
+SILENT_NOTE_SI,บันทึกของความเงียบ - ตะวันตก (7)
+NOTE_DO,โดเรมอน (1)
+NOTE_RE,มานี่ (2)
+NOTE_MI,ไม่มี (3)
+NOTE_FA,ส่ง (4)
+NOTE_SOL,สนับสนุน (5)
+NOTE_LA,โอเค (6)
+NOTE_SI,ตะวันตก (7)
+WRANGLEDIALOG_107_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาชิ
+WRANGLEDIALOG_108_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาชิ
+WRANGLEDIALOG_109_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาชิ
+WRANGLEDIALOG_110_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาซี
+WRANGLEDIALOG_111_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาซี
+WRANGLEDIALOG_112_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาชิ
+WRANGLEDIALOG_113_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาชิ
+WRANGLEDIALOG_114_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาซี
+WRANGLEDIALOG_115_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาชิ
+WRANGLEDIALOG_116_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาชิ
+WRANGLEDIALOG_117_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาซี
+WRANGLEDIALOG_118_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาชิ
+WRANGLEDIALOG_119_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาชิ
+WRANGLEDIALOG_120_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาซี
+WRANGLEDIALOG_121_CONTENT,ฉันคือ ผู้พิทักษ์แห่งนามาซี
+WRANGLEDIALOG_107_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_108_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_109_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_110_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_111_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_112_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_113_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_114_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_115_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_116_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_117_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_118_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_119_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_120_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WRANGLEDIALOG_121_BUTTON_1,ฉันต้องการพิสูจน์ความกล้าหาญของฉัน
+WIN_THE_KING,ท่านชนะพระราชา
+WRANGLEDIALOG_122_CONTENT,เพื่อน ที่เดินทางมาไกลนักรบ ที่ฉลาดยินดีต้อนรับ
+WRANGLEDIALOG_122_BUTTON_1,สวัสดีค่ะเป็นเกียรติ ที่ได้พบคุณ
+WRANGLEDIALOG_123_CONTENT,พวกนายมางานวันเกิดลูกสาวฉันเหรอ
+WRANGLEDIALOG_123_BUTTON_1,ใช่.
+WRANGLEDIALOG_124_CONTENT,ยินดีต้อนรับอีกครั้ง!ลูกสาวของฉัน และน้องสาวของเธออยู่ในห้องอ่านหนังสือของฉัน และคุณสามารถหาเธอได้ด้วยตัวเองต่อมาในงานวันเกิดผมมีเรื่องสำคัญจะประกาศ
+WRANGLEDIALOG_124_BUTTON_1,ขอบคุณสำหรับข้อเสนอ
+WRANGLEDIALOG_125_CONTENT,อย่างไรก็ตาม ฉันจะเตือนคุณว่า มีห้องพักมากมาย ที่นี่ห้องสมุดของฉันอยู่ทางทิศเหนือ
+WRANGLEDIALOG_126_CONTENT,ผู้พิทักษ์ทุกประตูคือ ผู้พิทักษ์แห่งนามากเหมือนกับผู้พิทักษ์แห่งนามาซี
+WRANGLEDIALOG_126_BUTTON_1,เข้าใจแล้ว.
+WRANGLEDIALOG_127_CONTENT,นักรบ ที่ฉลาดคุณรู้จักดนตรีไหม
+WRANGLEDIALOG_127_BUTTON_1,เราทุกคนชอบฟังเพลง และฟังเพลง
+WRANGLEDIALOG_128_CONTENT,ฉันชอบฟังเพลง และเพลงทุกประเภท เช่น กัน!เพลง และเพลง ที่ดีทำให้วิญญาณของเราบริสุทธิ์!
+WRANGLEDIALOG_128_BUTTON_1,คุณพูดถูกแล้ว
+WRANGLEDIALOG_129_CONTENT,ผู้พิทักษ์แห่งนามากพวกเขาถูกทิ้งไว้ในยุคโบราณ และในเวลานั้น ปู่ปู่ของปู่ของฉันยังไม่เกิดเลย
+WRANGLEDIALOG_129_BUTTON_1,ดี และเก่า
+WRANGLEDIALOG_130_CONTENT,ถ้าคุณสามารถประสบความสำเร็จในการท้าทายพวกเขาพิสูจน์ความกล้าหาญของคุณฉันจะพิจารณา ที่จะมอบของขวัญพิเศษเล็ก ๆ น้อย ๆ ให้คุณ
+WRANGLEDIALOG_130_BUTTON_1,ของขวัญเล็ก ๆ น้อย ๆ ที่พิเศษคือ อะไร
+WRANGLEDIALOG_131_CONTENT,มันอาจจะเพิ่มเสน่ห์ส่วนตัวให้กับพวกคุณบางคนอาจจะใช้มัน
+WRANGLEDIALOG_131_BUTTON_1,ลึกลับจัง
+WRANGLEDIALOG_132_CONTENT,เอาเลยยินดีต้อนรับนักรบผู้ชาญฉลาด
+WRANGLEDIALOG_132_BUTTON_1,ลาก่อน
+WRANGLEDIALOG_133_CONTENT,คุณมีปัญหาเหรอ
+WRANGLEDIALOG_133_BUTTON_1,ใบ้ให้หน่อยได้มั้ย
+WRANGLEDIALOG_133_BUTTON_2,ผมทำสำเร็จแล้ว
+WRANGLEDIALOG_134_CONTENT,ก่อน ที่พวกผู้พิทักษ์แห่งนามูกาจะท้าทาย
+WRANGLEDIALOG_134_BUTTON_1,คำใบ้ ที่คาดหวัง
+WRANGLEDIALOG_134_BUTTON_2,ฉันจะพยายามมากขึ้น
+WRANGLEDIALOG_135_CONTENT,"โดเรมอน (1), มานี่ (2), ไม่มี (3), ส่ง (4), สนับสนุน (5), โอเค (6), ตะวันตก (7),,,มาทางนี้ หน่อย."
+WRANGLEDIALOG_135_BUTTON_1,คุณกระซิบบอกผม
+WRANGLEDIALOG_136_CONTENT,โปรดรับของขวัญเล็ก ๆ น้อย ๆ ที่ข้ามอบให้ท่าน
+WRANGLEDIALOG_136_BUTTON_1,ขอบคุณสำหรับความกรุณา
+KING_LOW_VOICE,"เสียงต่ำบอกว่า,,,%s,,,อย่าบอกใคร"
+WHEN_I_WAS_YOUNG,นี่เป็นของขวัญเล็ก ๆ น้อย ๆ ที่ฉันใช้บ่อยครั้งเมื่อฉันยังเด็ก และหลังจากนั้น ฉันก็มีมงกุฎ และไม่ต้องการมัน
+ALL_GIFTS_HAD_GIVE_YOU,ของขวัญเล็ก ๆ น้อย ๆ ของฉันให้คุณ
+YOU_NEED_TO_PROVE,เพื่อพิสูจน์ความกล้าหาญของเจ้า ที่จะได้รับของขวัญเล็ก ๆ น้อย ๆ
+GOODS_NAME_HOUSEKEEPERKEY,กุญแจ ที่ไขได้
+GOODS_NAME_BUTLERKEY,กุญแจสำหรับ {NAME_AVATAR_29}
+GOODS_NAME_QUEENKEY,กุญแจสำหรับนามูกแอทแอท {NAME_AVATAR_26}
+DOOR_1,ประตูทิศใต้ทางทิศใต้
+DOOR_2,ประตูทิศตะวันออกทางทิศใต้
+GOODS_DESCRIPTION_HOUSEKEEPERKEY,สามารถเปิดได้เมื่อพกพาไปด้วย
+GOODS_DESCRIPTION_BUTLERKEY,เมื่อนำไปก็สามารถเปิดได้
+GOODS_DESCRIPTION_QUEENKEY,เมื่อพกพาประตู ที่สามารถเปิดได้
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_1,แข็งแรงดี
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_2,นานแสนนาน
+NOT_EASY_OPEN_THE_DOOR_WITHOUT_THE_KEY,มันไม่ง่าย ที่จะเปิดประตูโดยไม่มีกุญแจ
+WRANGLEDIALOG_139_CONTENT,คุณคงหิวสินะอยากกินอะไรล่ะบอกฉัน.
+WRANGLEDIALOG_139_BUTTON_1,ที่นี่มีอะไรอร่อยบ้าง
+WRANGLEDIALOG_139_BUTTON_2,การดูแล ที่นี่เป็นงาน ที่ยุ่งจริง ๆ
+WRANGLEDIALOG_139_1_CONTENT,ที่งานวันเกิดของเจ้าหญิงเราเตรียมอาหารไว้อย่างดี
+WRANGLEDIALOG_139_2_CONTENT,โอ้ฉันเห็นนามากแอฟริกา {NAME_AVATAR_19} และนามาดี avatar {NAME_AVATAR_27} ซึ่งเป็นน้องสาวของเจ้าหญิงพวกเขาไป ที่ห้องอ่านหนังสือของกษัตริย์ทางเหนือ
+WRANGLEDIALOG_139_2_BUTTON_1,อย่างนั้น แหละ
+WRANGLEDIALOG_139_3_CONTENT,ผมมีงานต้องทำพวกคุณไปดู ที่นั่นก็ได้ถ้าคุณต้องการ
+WRANGLEDIALOG_139_3_BUTTON_1,โอเคโอเค
+WRANGLEDIALOG_139_4_CONTENT,ไม่เหมือนทางตะวันตกของ {SCENE_NAME_CRACKING_VOICE_RIDGE} ที่นี่มีความสง่างาม ที่นี่...
+WRANGLEDIALOG_139_4_BUTTON_1,คุณมีกุญแจ ที่นั่นไหม?
+WRANGLEDIALOG_139_5_CONTENT,พวกเธอต้องเชื่อใจฉันฉันถึงจะช่วยพวกเธอได้
+WRANGLEDIALOG_139_5_BUTTON_1,ลองดู
+WRANGLEDIALOG_140_CONTENT,การรับใช้คือ สิ่ง ที่ผมต้องการเห็นไหมหมวกของฉันสวยมากฉันจะได้ไม่ต้องใช้วิกพวกนั้น
+WRANGLEDIALOG_140_BUTTON_1,พวกคุณอยู่ในสภาพแวดล้อม ที่ดี
+WRANGLEDIALOG_140_BUTTON_2,งาน ที่นี่คงจะยุ่งมากสินะ
+WRANGLEDIALOG_140_1_CONTENT,สวน ที่ประตูส่วนใหญ่เป็นฉัน ที่จะดูแล และต้นไม้สีเข้ม ที่ไม่สามารถผ่านได้ และเมื่อเร็ว ๆ นี้ ฉันได้เห็นคนแปลกหน้าสวมเสื้อคลุมสีม่วง
+WRANGLEDIALOG_147_BUTTON_1,มันคือ อะไร?เอ่อ...
+WRANGLEDIALOG_140_2_CONTENT,โอ้ฉันเห็นนามากแอฟริกา {NAME_AVATAR_19} และนามาดี avatar {NAME_AVATAR_27} ซึ่งเป็นน้องสาวของเจ้าหญิงพวกเขาไป ที่ห้องอ่านหนังสือของกษัตริย์ทางเหนือ
+WRANGLEDIALOG_140_2_BUTTON_1,อย่างนั้น แหละ
+WRANGLEDIALOG_140_3_CONTENT,ผมมีงานต้องทำพวกคุณไปดู ที่นั่นก็ได้ถ้าคุณต้องการ
+WRANGLEDIALOG_140_3_BUTTON_1,โอเคโอเค
+WRANGLEDIALOG_140_4_CONTENT,ไม่เหมือนกับทางตะวันออก ที่มีสวนสวย ๆ อยู่ ที่นี่ยกเว้น ที่นี่ฉันจะช่วยตรวจสอบทางเดินด้านใต้
+WRANGLEDIALOG_140_4_BUTTON_1,คุณมีกุญแจ ที่นั่นไหม?
+WRANGLEDIALOG_140_5_CONTENT,พวกเธอต้องเชื่อใจฉันฉันถึงจะช่วยพวกเธอได้
+WRANGLEDIALOG_140_5_BUTTON_1,ลองดู
+TRUSTED_CLASSMATE,ฉันต้องบอกว่า ฉันเชื่อใจเพื่อนร่วมชั้นของเธอมากกว่า ที่เธอพูดถึงในจดหมายเชิญเจ้าหญิง
+YOU_HAD_THE_KEY,คุณมีกุญแจอยู่แล้ว
+WRANGLEDIALOG_151_CONTENT,ยินดีต้อนรับนักผจญภัย ที่เดินทางมาไกล
+WRANGLEDIALOG_151_BUTTON_1,มันเกี่ยวกับการผจญภัยคุณมีนักผจญภัยคนอื่น ๆ ที่นี่?
+WRANGLEDIALOG_151_BUTTON_2,พระราชวังของคุณช่างงดงามจริง ๆ
+WRANGLEDIALOG_151_1_CONTENT,นักผจญภัยคนอื่น?ตอน ที่ข้ากับกษัตริย์ยังเด็กข้าเป็นนักผจญภัยตอนนั้น เราก็เหมือนกับคุณตอนนี้ พูดถึงการผจญภัยคุณรู้จักกล้องส่องทางไกลไหม
+WRANGLEDIALOG_151_1_BUTTON_1,เคยได้ยิน แต่เราไม่มีกล้องส่องทางไกล
+WRANGLEDIALOG_151_1_BUTTON_2,เรามีกล้องส่องทางไกล
+WRANGLEDIALOG_151_2_CONTENT,ถ้าคุณสามารถทำให้ความไว้วางใจของฉันฉันจะให้คุณกล้องโทรทรรศน์ ที่เราใช้ในวัยเด็กของเรา
+WRANGLEDIALOG_151_2_BUTTON_1,ด้วยความยินดี
+WRANGLEDIALOG_151_3_CONTENT,ฉันสามารถช่วยให้คุณปรับกล้องโทรทรรศน์ของคุณ และพยายาม ที่จะให้มันดูไกลขึ้นเล็กน้อย
+WRANGLEDIALOG_151_3_BUTTON_1,ได้โปรดเถอะ
+WRANGLEDIALOG_151_4_CONTENT,นอกจากแม่บ้านสองคนผมยังดูแล ที่นี่บ่อย ๆ และผมมีกุญแจพระราชวัง ที่จะช่วยให้คุณเข้า และออกได้
+WRANGLEDIALOG_151_4_BUTTON_1,เราทำได้
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_3,ความอยากรู้อยากเห็นเป็นแรงบันดาลใจของความก้าวหน้า
+GOODS_TELESCOPE_VISUALFIELDDISTANCE2,ระยะห่างของมุมมอง: %s (+%s)
+VISUAL_RANGE_IS_AT_MAXIMUM,ระยะทาง ที่มองเห็นได้สูงสุดแล้ว
+YOU_ALREADY_HAVE_A_TELESCOPE,คุณมีกล้องส่องทางไกลอยู่แล้ว
+YOU_NEED_A_TELESCOPE_FIRST,คุณต้องมีกล้องส่องทางไกลก่อน
+YOU_ALREADY_HAVE_THIS_KEY,คุณมีกุญแจอยู่แล้ว
+HAVE_ALREADY_USED,ถูกใช้ไปแล้ว
+DOOR_3,ประตู
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_1,ปราสาทโบราณ
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_2,ประวัติศาสตร์โบราณ
+WRANGLEDIALOG_160_CONTENT,พวกคุณเป็นใคร?
+WRANGLEDIALOG_160_BUTTON_1,พวกเราเป็นเพื่อนร่วมชั้นกันวันเกิดของเธอกำลังจะมาถึง และชวนเราไปงานวันเกิดของเธอ
+WRANGLEDIALOG_160_1_CONTENT,งานวันเกิด?ทำไมฉันถึงไม่เคยได้ยินเธอพูดถึงมันเลยไม่มีงานวันเกิด ที่นี่
+WRANGLEDIALOG_160_1_BUTTON_1,"เรา,"
+WRANGLEDIALOG_160_2_CONTENT,พวกเธอออกไปเถอะฉันมีธุระ ที่ต้องจัดการไม่ต้องมารบกวนฉัน
+WRANGLEDIALOG_160_2_BUTTON_1,เราเพิ่งเล่าเรื่องงานวันเกิดให้พระราชาฟัง
+WRANGLEDIALOG_160_3_CONTENT,พวกเจ้าคงได้ยินมาผิดแน่กษัตริย์แก่เกินกว่า จะจำอะไรได้หลายอย่างเชิญพวกคุณออกไปก่อน
+WRANGLEDIALOG_160_3_BUTTON_1,ลองไปถามพระราชาอีกครั้ง
+WRANGLEDIALOG_133_BUTTON_3,"เกี่ยวกับนามูป {NAME_AVATAR_27} และนามูกา {NAME_AVATAR_19},"
+WRANGLEDIALOG_165_CONTENT,น้องสาวของฉันเป็นลูกสาว ที่ฉันรักมาก ที่สุด และมีปัญหา ที่จะพูดใกล้ ๆ ฉันกระซิบบอกเธอ
+WRANGLEDIALOG_165_BUTTON_1,ฉันแค่สับสนนิดหน่อย
+WRANGLEDIALOGTYPEID_SISTER_1_SUCCESS_1,ในห้องอ่านหนังสือของฉันพวกเธอเห็น แต่นามูกา {NAME_AVATAR_27} ไม่เห็นเหรอพวกเขาเคยไปด้วยกันคุณไม่ได้เห็นมันใช่มั้ย?กลับไปตรวจสอบ ที่นั่นอีกครั้ง
+FAMILY_IS_THE_MOST_IMPORTANT_THING,ครอบครัวสำคัญ ที่สุดสำหรับฉัน
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_1,ห้ามให้คนอื่นเห็น
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_2,จดหมายลับ
+TO_ROYAL_HOUSEHOLD_LETTER,วันสิ้นโลกของราชวงศ์
+NAME_AVATAR_35,เด็กน้อยทองคำ
+WRANGLEDIALOG_167_CONTENT,มันเป็นจดหมายลับ
+WRANGLEDIALOG_167_1_CONTENT,จดหมายฉบับนี้ จะถูกส่งต่อไปยังคุณโดยนามูกา {NAME_AVATAR_33} โดยนามูกา {NAME_AVATAR_20}
+WRANGLEDIALOG_167_1_BUTTON_1,จดหมายฉบับนี้ ถูกเขียนขึ้นสำหรับบุคลากรของพระราชวัง ซึ่งถูกระบุว่า เป็นชื่อของพระเจ้า
+WRANGLEDIALOG_167_2_CONTENT,สิ่ง ที่เกิดขึ้นหลังจากนั้น คือ การช่วยเหลือคุณในการทำให้เสร็จสมบูรณ์ไม่ใช่เวลา ที่ดีสำหรับงานวันเกิด และดูแลตัวเองด้วยขอให้โชคดี
+WRANGLEDIALOG_167_2_BUTTON_1,ก่อนหน้านี้ สมาชิกในทีมกำลังส่งข้อมูลดูเหมือนว่า เขาจะเห็นนามากแอฟริกาเหนือ
+WRANGLEDIALOG_167_3_CONTENT,ด้วยความสามารถ อันสง่างามของคุณ และความสามารถในการสรรเสริญพระเจ้า และการบูชา และการบูชา และหลังจาก ที่สิ่ง ที่เกิดขึ้นกับคุณขอให้พระเจ้าคุ้มครองให้เต็ม ที่ตาม ที่คุณต้องการรอสักครู่นามากแอฟริกา - 35
+WRANGLEDIALOG_167_3_BUTTON_1,เมื่อกี้นี้ จดหมายนี้ เขียนถึงเธอเหรอเอ่อ...
+WRANGLEDIALOG_167_4_CONTENT,อ่านจดหมายแล้ว
+WRANGLEDIALOG_167_4_BUTTON_1,มันเกี่ยวข้องอะไรกับนามากกับนามาวอส์ {NAME_AVATAR_19} ?
+GOODS_DESCRIPTION_17,จดหมายฉบับนี้ จะถูกส่งต่อไปยังคุณโดยนามูกา {NAME_AVATAR_33} โดยนามูกา {NAME_AVATAR_20} สิ่ง ที่เกิดขึ้นหลังจากนั้น คือ การ ที่นายทำให้มันเสร็จสิ้นไม่ใช่เวลา ที่ดีสำหรับงานวันเกิด และดูแลตัวเองด้วยขอให้โชคดีด้วยความมาพร้อมกับความสง่างามของคุณ และการสรรเสริญพระเจ้า ที่จะมอบให้กับสมาคม และการบูชา และหลังจากนั้น สิ่ง ที่เกิดขึ้นกับคุณขอให้พระเจ้าคุ้มครองคุณอย่างเต็ม ที่ตาม ที่คุณต้องการรอสักครู่นามากแอฟริกา {NAME_AVATAR_35}
+DOOR_CLOSE,ประตูปิด
+GUARD_THE_ROYAL_FAMILY,คุ้มครองกษัตริย์
+WRANGLEDIALOG_173_CONTENT,คุณหาฉันเจอได้ยังไง?
+WRANGLEDIALOG_173_BUTTON_1,คุณนั่นเอง
+YOU_CAN_NOT_FOUND_QIU_YU,มันมีการป้องกัน ที่ดี และปลอดภัยคุณจะไม่พบมัน
+YOU_WILL_BE_SORRY,กล้าดียังไงมาท้าทายข้าเจ้าจะต้องเสียใจ
+NAME_AVATAR_36,มิโดริ
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_1,ไม่สามารถอ่านได้
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_2,ข้างในมันมืดมาก
+WRANGLEDIALOG_174_CONTENT,มีทางลับอยู่ ที่นี่ไม่รู้ว่า จะไป ที่ไหน
+WRANGLEDIALOG_174_BUTTON_1,เข้าไปข้างใน
+WRANGLEDIALOG_174_BUTTON_2,อย่าเข้าไปในนั้น
+WRANGLEDIALOG_175_CONTENT,พวกนายมาทำอะไร ที่นี่
+WRANGLEDIALOG_175_BUTTON_1,คุณเห็นนามากแอทแอท {NAME_AVATAR_19} ไหมเรากำลังตามหาเธออยู่
+WRANGLEDIALOG_175_1_CONTENT,ไม่เห็นเลย
+WRANGLEDIALOG_175_1_BUTTON_1,คุณมาทำอะไร ที่นี่?
+WRANGLEDIALOG_175_2_CONTENT,ฉันกำลังมองหาแมวของฉันมันเรียกว่า นามาซีแต่ฉันคิดว่า มันน่าจะอยู่ตรงนั้น ไม่ไกลจาก ที่นี่
+WRANGLEDIALOG_175_2_BUTTON_1,ถ้าเราเห็นมันเราจะเอามันกลับมาให้คุณ
+WRANGLEDIALOG_175_3_CONTENT,ไม่จำเป็นหรอกมันโหดร้ายมากเมื่อคุณเจอมันคุณต้องระวังตัวด้วย
+WRANGLEDIALOG_175_3_BUTTON_1,มาดูกันอีกที
+WRANGLEDIALOG_179_1_CONTENT,เราไม่รู้มากนัก ที่จะทำในสิ่ง ที่เราสัญญาไว้
+WRANGLEDIALOG_179_2_CONTENT,เราไม่รู้มากนัก ที่จะทำในสิ่ง ที่เราสัญญาไว้
+WRANGLEDIALOG_179_3_CONTENT,เราไม่รู้มากนัก และในอนาคต อันใกล้นี้ เราสามารถย้ายไปอยู่ ที่อาศัยใน
+WRANGLEDIALOG_179_4_CONTENT,เราไม่รู้มากพอ ที่จะออกจาก ที่ลมไม่หยุดนี้ แม้ว่า เราจะรักป่า
+WRANGLEDIALOG_179_5_CONTENT,เราไม่รู้อะไรมากนักเกี่ยวกับการเทเลพอร์ตช่วยได้มากในครั้งนี้ พลังงาน ที่มีประสิทธิภาพขับเคลื่อนอุปกรณ์ส่งสัญญาณ
+WRANGLEDIALOG_179_6_CONTENT,เราไม่รู้อะไรมากนักเกี่ยวกับการลักพาตัว
+WRANGLEDIALOG_179_7_CONTENT,เราไม่รู้มากนักการขนส่งการเคลื่อนย้ายด้วยอุปกรณ์การเคลื่อนย้ายเป็นขั้นตอนสุดท้ายของการดำเนินการ แต่มันก็น่าตื่นเต้น ที่จะคิดว่า เราสามารถเป็นส่วนหนึ่งของพระราชวังได้ เช่น กัน
+WRANGLEDIALOG_179_8_CONTENT,เราไม่รู้อะไรมากมาย แต่คราวหน้าอย่าให้งานยาก ๆ กับเรา
+WRANGLEDIALOG_179_9_CONTENT,เราไม่รู้มากนักปฏิบัติการนี้ เป็นคำสั่งของนามูซี {NAME_AVATAR_27} เธอหวังมากเกินไป ที่จะเป็นกษัตริย์ใหม่
+WRANGLEDIALOG_179_10_CONTENT,เราไม่รู้อะไรมากนัก และความฝันของเราก็จะเป็นจริงหลังจาก ที่นามูป {NAME_AVATAR_27}
+WRANGLEDIALOG_179_11_CONTENT,เราไม่รู้มากนักในความฝัน และการรอคอยเราเลือก ที่จะฝัน
+WRANGLEDIALOG_179_12_CONTENT,เราไม่รู้อะไรมากมายพลังของอุปกรณ์ขับเคลื่อนอยู่อีกด้านหนึ่งของเนินเขา
+WRANGLEDIALOG_179_BUTTON_1,นั่นสินะ
+WRANGLEDIALOG_191_CONTENT,เราไม่รู้อะไรมากนัก
+WRANGLEDIALOG_191_BUTTON_1,สิ่ง ที่คุณรู้บอกเราเกี่ยวกับเรื่องนี้
+WRANGLEDIALOG_192_CONTENT,แม้ว่า ฉันจะไม่รู้อะไรเลย แต่ฉันก็กระตือรือร้น ที่จะผจญภัย
+WRANGLEDIALOG_192_BUTTON_1,มาร่วมกับเราสิ
+WRANGLEDIALOG_194_CONTENT,แม้ว่า ฉันจะไม่เข้าใจอะไรเลย แต่ฉันก็คาดหวังว่า จะได้ใช้ชีวิตอย่างมีความสุข
+WRANGLEDIALOG_194_BUTTON_1,มาร่วมกับเราสิ
+WE_LOOK_FORWARD_TO_LEARNING_PARTNERS,ข้าหวังว่า จะได้เป็นหุ้นส่วนผู้มีความรู้
+LIFE_IS_DOOMED_TO_DRIFT_BUT_ALSO_TO_LIVE_OUT_THEIR_OWN_WONDERFUL,วิถีชีวิตถึงแม้ว่า จะถูกกำหนดให้ล่องลอย แต่จงใช้ชีวิตอย่างมีความสุข
+WE_HAVE_FOUND_THE_TWELVE_GOO,ใช่หนอนเหนียวสิบสองตัว ที่นี่ตอนนี้ ควรจะกลับไป ที่นั่นเกี่ยวกับเหตุการณ์ของพวกเขา
+MEMBERS_OF_THE_TEAM_WHO_LEFT,%s เป็นสมาชิก ที่ออกจากทีม
+HOWEVER_SOME_MEMBERS_OF_THE_TEAM_STUBBORNLY_SURVIVED,แต่ยังมีคนในทีม ที่รอดชีวิตมาได้
+HOME_SAFE_1,บ้านเป็น ที่ปลอดภัย
+HOME_SAFE_2,บ้านคือ ที่หลบภัยของเรา
+HOME_IS_SAFE,ยังปลอดภัยอยู่ ที่บ้าน
+IT_IS_GETTING_DARK_YOU_CAN_NOT_PLAY_CHESS,มันกำลังจะมืดแล้ว
+WAY_HOME_1,หวังว่า คุณจะจำทางกลับบ้านได้นะ
+WAY_HOME_2,ตอนนี้ การกลับบ้านเป็นทางเลือก ที่ปลอดภัย ที่สุด
+IT_IS_GETTING_DARK_YOU_CAN_NOT_OPERATE,มันจะมืดแล้วปฏิบัติการไม่ได้
+IT_IS_PLAY_CHESS_YOU_CAN_NOT_OPERATE,ไม่สามารถทำงานได้ในชื่อเล่น
+NAME_2,เติมน้ำ
+WILL_FINAL,นายหมายความว่า ไง?ยังคงค้นหาเธอ และถามเธอเกี่ยวกับ ที่อยู่ของเธอเกี่ยวกับนามากแอฟริกา 19
+TWELVE_BUGS,เหนียวเหนอะหนะ
+WRANGLEDIALOG_221_CONTENT,คุณหาเจอแล้วเหรอเป็นไปได้ยังไง?
+WRANGLEDIALOG_221_BUTTON_1,มันอยู่ ที่ไหน
+WRANGLEDIALOG_221_1_CONTENT,พวกนายถามฉันทำไม
+WRANGLEDIALOG_221_1_BUTTON_1,บอกให้เรารู้แล้วว่า นามูซี {NAME_AVATAR_33} และนามากา {NAME_AVATAR_20} ได้รับคำสั่งให้ช่วยเหลือคุณ
+WRANGLEDIALOG_221_4_CONTENT,ดูเหมือนว่า คุณจะรู้อยู่แล้ว
+WRANGLEDIALOG_221_4_BUTTON_1,คุณเป็นคนสั่งให้ทำการลักพาตัว
+WRANGLEDIALOG_221_2_CONTENT,ราชบัลลังก์ของนามากพระบิดาทรงกล่าวว่า มีสิ่งสำคัญ ที่จะประกาศในงานวันเกิด และฉันเดาว่า เขาจะต้องประกาศ
+WRANGLEDIALOG_221_2_BUTTON_1,แต่มันเป็นน้องสาวของคุณ
+WRANGLEDIALOG_221_3_CONTENT,เรามาเล่นเกมซ่อนหากัน และพยายาม ที่จะช่วยนามูซี {NAME_AVATAR_19}. เพื่อหาว่า{NAME_2}
+WRANGLEDIALOG_221_3_BUTTON_1,อย่าภูมิใจไปเลย
+WRANGLEDIALOG_225_CONTENT,เริ่มเกมส์กันเลยมั้ย?
+WRANGLEDIALOG_225_BUTTON_1,มาเริ่มกันเลย
+THE_GAME_HAS_NOT_STARTED_YET,เกมยังไม่เริ่ม
+I_AM_GOING_TO_START_COUNTING,ฉันจะเริ่มนับ
+LOOK_WHERE_THEY_ARE,ดูว่า พวกเขาอยู่ ที่ไหน
+CURRENT_STANDING_POSITION_CANNOT_START_PATHFINDING,ตำแหน่งปัจจุบันไม่สามารถเริ่มต้นการค้นหา
+NAME_2_EYE,เติมน้ำดวงตา
+WRANGLEDIALOG_227_CONTENT,ฉันติดอยู่กับมัน
+WRANGLEDIALOG_227_BUTTON_1,เรามาช่วยคุณ
+THE_LAST_COUNT_IS_NOT_OVER,จำนวนล่าสุดยังไม่สิ้นสุด
+WE_FINALLY_FOUND,ใน ที่สุดเราก็พบนามูป {NAME_AVATAR_19} !พวกเรากลับมารวมกันอีกครั้ง!
+WRANGLEDIALOG_228_CONTENT,แล้วเจอกันใหม่นะน้องสาวฉันแล้วเจอกัน
+WRANGLEDIALOG_228_BUTTON_1,ความยุติธรรมอยู่ข้างเรา
+WRANGLEDIALOG_230_CONTENT,ใน ที่สุดพวกคุณก็พบแล้วขอบคุณมากขอให้น้องสาวของเธอจงรักภักดีต่อเธอ และขอให้เธอจงรักภักดีต่อพวกคุณ
+WRANGLEDIALOG_230_BUTTON_1,นี่คือ มิตรภาพ ที่แท้จริงของเรา
+WE_WILL_TOGETHER,ข้ามองเห็นพ่ออย่างเลือนรางท่ามกลางความมืดแม่ และเพื่อน ๆ ของเจ้า และข้าเชื่อเสมอว่า ข้าจะได้พบเจ้าอีกครั้งเสด็จพ่อพวกเขาควรจะอยู่ห่างออกไป
+I_CAN_NOT_HAVE_MY_LITTLE_GIFT_AGAIN,แม้ว่า คุณจะพิสูจน์ความกล้าหาญของคุณ แต่ก่อนหน้านี้ คุณได้รับของขวัญเล็ก ๆ น้อย ๆ จากฉัน
+GOODS_NAME_11,วิกผมสี
+GOODS_DESCRIPTION_18,สิ่งนี้ ควรจะเป็นทำจากวัสดุพิเศษ.

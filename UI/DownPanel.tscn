@@ -1,0 +1,518 @@
+[gd_scene load_steps=21 format=2]
+
+[ext_resource path="res://Script/UI/DownPanel.gd" type="Script" id=1]
+[ext_resource path="res://UI/CommonUI/CommonBG1.tscn" type="PackedScene" id=2]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonBag.tscn" type="PackedScene" id=3]
+[ext_resource path="res://UI/CommonUI/CommonLabel.tscn" type="PackedScene" id=4]
+[ext_resource path="res://UI/CommonUI/CommonButton13.tscn" type="PackedScene" id=5]
+[ext_resource path="res://UI/CommonUI/CommonHeadPortrait.tscn" type="PackedScene" id=6]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonGoBottom.tscn" type="PackedScene" id=7]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonGoTop.tscn" type="PackedScene" id=8]
+[ext_resource path="res://UI/CommonUI/CommonButtonBuff.tscn" type="PackedScene" id=9]
+[ext_resource path="res://UI/CommonUI/CommonBG2.tscn" type="PackedScene" id=10]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonClear.tscn" type="PackedScene" id=11]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonBook.tscn" type="PackedScene" id=12]
+[ext_resource path="res://UI/CommonUI/CommonRichTextLabel.tscn" type="PackedScene" id=13]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonWrangleDialog.tscn" type="PackedScene" id=14]
+[ext_resource path="res://UI/CommonUI/CommonLabel18.tscn" type="PackedScene" id=15]
+[ext_resource path="res://UI/CommonUI/CommonButton.tscn" type="PackedScene" id=16]
+[ext_resource path="res://UI/CommonUI/CommonPureColorBG1.tscn" type="PackedScene" id=17]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonInteraction.tscn" type="PackedScene" id=18]
+[ext_resource path="res://Picture/UI/Icon/Buff/BuffSelected.png" type="Texture" id=19]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonPlayChess.tscn" type="PackedScene" id=20]
+
+[node name="DownPanel" type="Control"]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = -400.0
+margin_top = -161.0
+margin_right = 400.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRectDebugBG" type="ColorRect" parent="."]
+visible = false
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="controlDown" type="Control" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonBG1BG" parent="controlDown" instance=ExtResource( 2 )]
+margin_right = 800.0
+margin_bottom = 161.0
+
+[node name="commonBG2Bag" parent="controlDown/commonBG1BG" instance=ExtResource( 10 )]
+margin_left = 591.0
+margin_top = 96.0
+margin_right = 801.0
+margin_bottom = 164.0
+
+[node name="commonPureColorBG1BagMask" parent="controlDown/commonBG1BG" instance=ExtResource( 17 )]
+margin_left = 683.0
+margin_top = 90.0
+margin_right = 703.0
+margin_bottom = 170.0
+
+[node name="CommonBG2TopRight" parent="controlDown/commonBG1BG" instance=ExtResource( 10 )]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -110.0
+margin_top = 5.0
+margin_right = -60.0
+margin_bottom = 93.0
+
+[node name="commonBG1JournalRecord" parent="controlDown/commonBG1BG" instance=ExtResource( 2 )]
+margin_left = 10.0
+margin_top = 3.0
+margin_right = 694.0
+margin_bottom = 160.0
+
+[node name="controlBag" type="Control" parent="controlDown"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="controlBagButtonList" type="Control" parent="controlDown/controlBag"]
+margin_left = 603.0
+margin_top = 130.0
+margin_right = 643.0
+margin_bottom = 170.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonButtonBuff1" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 112.0
+margin_top = -25.0
+margin_right = 116.0
+margin_bottom = -21.0
+
+[node name="commonButtonBuff2" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_top = -180.0
+margin_right = 4.0
+margin_bottom = -176.0
+
+[node name="commonButtonBuff3" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 48.0
+margin_top = -180.0
+margin_right = 52.0
+margin_bottom = -176.0
+
+[node name="commonButtonBuff4" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 96.0
+margin_top = -180.0
+margin_right = 100.0
+margin_bottom = -176.0
+
+[node name="commonButtonBuff5" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 144.0
+margin_top = -180.0
+margin_right = 148.0
+margin_bottom = -176.0
+
+[node name="commonButtonBuff6" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_top = -230.0
+margin_right = 4.0
+margin_bottom = -226.0
+
+[node name="commonButtonBuff7" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 48.0
+margin_top = -230.0
+margin_right = 52.0
+margin_bottom = -226.0
+
+[node name="commonButtonBuff8" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 96.0
+margin_top = -230.0
+margin_right = 100.0
+margin_bottom = -226.0
+
+[node name="commonButtonBuff9" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 144.0
+margin_top = -230.0
+margin_right = 148.0
+margin_bottom = -226.0
+
+[node name="commonButtonBuff10" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_top = -280.0
+margin_right = 4.0
+margin_bottom = -276.0
+
+[node name="commonButtonBuff11" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 48.0
+margin_top = -280.0
+margin_right = 52.0
+margin_bottom = -276.0
+
+[node name="commonButtonBuff12" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 96.0
+margin_top = -280.0
+margin_right = 100.0
+margin_bottom = -276.0
+
+[node name="commonButtonBuff13" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 144.0
+margin_top = -280.0
+margin_right = 148.0
+margin_bottom = -276.0
+
+[node name="commonButtonBuff14" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_top = -330.0
+margin_right = 4.0
+margin_bottom = -326.0
+
+[node name="commonButtonBuff15" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 48.0
+margin_top = -330.0
+margin_right = 52.0
+margin_bottom = -326.0
+
+[node name="commonButtonBuff16" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 96.0
+margin_top = -330.0
+margin_right = 100.0
+margin_bottom = -326.0
+
+[node name="commonButtonBuff17" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 144.0
+margin_top = -330.0
+margin_right = 148.0
+margin_bottom = -326.0
+
+[node name="commonButtonBuff18" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_top = -380.0
+margin_right = 4.0
+margin_bottom = -376.0
+
+[node name="commonButtonBuff19" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 48.0
+margin_top = -380.0
+margin_right = 52.0
+margin_bottom = -376.0
+
+[node name="commonButtonBuff20" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 96.0
+margin_top = -380.0
+margin_right = 100.0
+margin_bottom = -376.0
+
+[node name="commonButtonBuff21" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 144.0
+margin_top = -380.0
+margin_right = 148.0
+margin_bottom = -376.0
+
+[node name="commonButtonBuff22" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_top = -430.0
+margin_right = 4.0
+margin_bottom = -426.0
+
+[node name="commonButtonBuff23" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 48.0
+margin_top = -430.0
+margin_right = 52.0
+margin_bottom = -426.0
+
+[node name="commonButtonBuff24" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 96.0
+margin_top = -430.0
+margin_right = 100.0
+margin_bottom = -426.0
+
+[node name="commonButtonBuff25" parent="controlDown/controlBag/controlBagButtonList" instance=ExtResource( 9 )]
+margin_left = 144.0
+margin_top = -430.0
+margin_right = 148.0
+margin_bottom = -426.0
+
+[node name="commonTextureButtonBag1" parent="controlDown/controlBag" instance=ExtResource( 3 )]
+margin_left = 765.0
+margin_top = 115.0
+margin_right = 797.0
+margin_bottom = 147.0
+
+[node name="textureRectBagSelected" type="TextureRect" parent="controlDown/controlBag"]
+visible = false
+margin_right = 40.0
+margin_bottom = 40.0
+mouse_filter = 2
+texture = ExtResource( 19 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="controlJournalRecord" type="Control" parent="controlDown"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonRichTextLabelJournalRecord" parent="controlDown/controlJournalRecord" instance=ExtResource( 13 )]
+margin_left = 18.0
+margin_top = 8.0
+margin_right = 690.0
+margin_bottom = 156.0
+scroll_following = true
+
+[node name="commonTextureButtonBookJournalRecord" parent="controlDown/controlJournalRecord" instance=ExtResource( 12 )]
+margin_left = 758.0
+margin_top = 12.0
+margin_right = 790.0
+margin_bottom = 44.0
+
+[node name="commonTextureButtonClear1" parent="controlDown/controlJournalRecord" instance=ExtResource( 11 )]
+margin_left = 700.0
+margin_top = 55.0
+margin_right = 732.0
+margin_bottom = 87.0
+
+[node name="commonTextureButtonGoTop1" parent="controlDown/controlJournalRecord" instance=ExtResource( 8 )]
+margin_left = 700.0
+margin_top = 12.0
+margin_right = 732.0
+margin_bottom = 28.0
+
+[node name="commonTextureButtonGoBottom1" parent="controlDown/controlJournalRecord" instance=ExtResource( 7 )]
+margin_left = 700.0
+margin_top = 34.0
+margin_right = 732.0
+margin_bottom = 50.0
+
+[node name="controlInteraction" type="Control" parent="controlDown"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonTextureButtonPlayChess1" parent="controlDown/controlInteraction" instance=ExtResource( 20 )]
+margin_top = -74.0
+margin_right = 176.0
+margin_bottom = -40.0
+
+[node name="commonTextureButtonInteraction1" parent="controlDown/controlInteraction" instance=ExtResource( 18 )]
+margin_top = -37.0
+margin_right = 176.0
+margin_bottom = -3.0
+
+[node name="controlBagUse" type="Control" parent="controlDown"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonButton13BagUse" parent="controlDown/controlBagUse" instance=ExtResource( 5 )]
+margin_left = 488.0
+margin_top = -54.0
+margin_right = 588.0
+margin_bottom = -29.0
+
+[node name="commonButton13Discard" parent="controlDown/controlBagUse" instance=ExtResource( 5 )]
+margin_left = 488.0
+margin_top = -27.0
+margin_right = 588.0
+margin_bottom = -2.0
+
+[node name="commonButton13Check" parent="controlDown/controlBagUse" instance=ExtResource( 5 )]
+margin_left = 488.0
+margin_top = -81.0
+margin_right = 588.0
+margin_bottom = -56.0
+
+[node name="controlWrangleDialog" type="Control" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonBG1WrangleDialogBG" parent="controlWrangleDialog" instance=ExtResource( 2 )]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_right = 0.0
+margin_bottom = 0.0
+
+[node name="controlAvatar" type="Control" parent="controlWrangleDialog"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonHeadPortraitWrangleDialog" parent="controlWrangleDialog/controlAvatar" instance=ExtResource( 6 )]
+margin_left = 30.0
+margin_top = 15.0
+margin_right = 30.0
+margin_bottom = 15.0
+
+[node name="colorRectAvatar" type="ColorRect" parent="controlWrangleDialog/controlAvatar"]
+margin_left = 110.0
+margin_top = 21.0
+margin_right = 122.0
+margin_bottom = 33.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelWrangleDialogName" parent="controlWrangleDialog/controlAvatar" instance=ExtResource( 4 )]
+margin_left = 125.0
+margin_top = 15.0
+margin_right = 770.0
+margin_bottom = 38.0
+text = "name"
+
+[node name="controlGoods" type="Control" parent="controlWrangleDialog"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonButtonBuffBag" parent="controlWrangleDialog/controlGoods" instance=ExtResource( 9 )]
+margin_left = 46.0
+margin_top = 15.0
+margin_right = 6.0
+margin_bottom = -25.0
+
+[node name="commonLabelWrangleDialogGoodsName" parent="controlWrangleDialog/controlGoods" instance=ExtResource( 4 )]
+margin_left = 110.0
+margin_top = 15.0
+margin_right = 770.0
+margin_bottom = 38.0
+text = "name"
+
+[node name="controlPicture" type="Control" parent="controlWrangleDialog"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureRectPicture" type="TextureRect" parent="controlWrangleDialog/controlPicture"]
+margin_left = 30.0
+margin_top = 15.0
+margin_right = 90.0
+margin_bottom = 95.0
+stretch_mode = 4
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelWrangleDialogPictureName" parent="controlWrangleDialog/controlPicture" instance=ExtResource( 4 )]
+margin_left = 110.0
+margin_top = 15.0
+margin_right = 770.0
+margin_bottom = 38.0
+text = "name"
+
+[node name="commonLabel18WrangleDialogContent" parent="controlWrangleDialog" instance=ExtResource( 15 )]
+margin_left = 110.0
+margin_top = 45.0
+margin_right = 770.0
+margin_bottom = 102.0
+text = "Content"
+autowrap = true
+
+[node name="controlWrangleDialogButton" type="Control" parent="controlWrangleDialog"]
+margin_top = 90.0
+margin_right = 40.0
+margin_bottom = 130.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonTextureButtonWrangleDialog1" parent="controlWrangleDialog/controlWrangleDialogButton" instance=ExtResource( 14 )]
+margin_left = 110.0
+margin_right = 770.0
+
+[node name="commonTextureButtonWrangleDialog2" parent="controlWrangleDialog/controlWrangleDialogButton" instance=ExtResource( 14 )]
+margin_left = 110.0
+margin_top = 30.0
+margin_right = 770.0
+margin_bottom = 53.0
+
+[node name="commonTextureButtonWrangleDialog3" parent="controlWrangleDialog/controlWrangleDialogButton" instance=ExtResource( 14 )]
+margin_left = 110.0
+margin_top = 60.0
+margin_right = 770.0
+margin_bottom = 83.0
+
+[node name="commonTextureButtonWrangleDialog4" parent="controlWrangleDialog/controlWrangleDialogButton" instance=ExtResource( 14 )]
+margin_left = 110.0
+margin_top = 90.0
+margin_right = 770.0
+margin_bottom = 113.0
+
+[node name="commonTextureButtonWrangleDialog5" parent="controlWrangleDialog/controlWrangleDialogButton" instance=ExtResource( 14 )]
+margin_left = 110.0
+margin_top = 120.0
+margin_right = 770.0
+margin_bottom = 143.0
+
+[node name="commonTextureButtonWrangleDialog6" parent="controlWrangleDialog/controlWrangleDialogButton" instance=ExtResource( 14 )]
+margin_left = 110.0
+margin_top = 150.0
+margin_right = 770.0
+margin_bottom = 173.0
+
+[node name="commonTextureButtonWrangleDialog7" parent="controlWrangleDialog/controlWrangleDialogButton" instance=ExtResource( 14 )]
+margin_left = 110.0
+margin_top = 180.0
+margin_right = 770.0
+margin_bottom = 203.0
+
+[node name="commonButtonWrangleDialogContinue" parent="controlWrangleDialog" instance=ExtResource( 16 )]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -210.0
+margin_top = -54.0
+margin_right = -30.0
+margin_bottom = -25.0
+text = "Continue"
+
+[connection signal="mouse_entered" from="controlDown/controlBag/commonTextureButtonBag1" to="." method="_on_commonTextureButtonBag1_mouse_entered"]
+[connection signal="mouse_exited" from="controlDown/controlBag/commonTextureButtonBag1" to="." method="_on_commonTextureButtonBag1_mouse_exited"]
+[connection signal="pressed" from="controlDown/controlBag/commonTextureButtonBag1" to="." method="_on_commonTextureButtonBag1_pressed"]
+[connection signal="mouse_entered" from="controlDown/controlJournalRecord/commonTextureButtonBookJournalRecord" to="." method="_on_commonTextureButtonBookJournalRecord_mouse_entered"]
+[connection signal="mouse_exited" from="controlDown/controlJournalRecord/commonTextureButtonBookJournalRecord" to="." method="_on_commonTextureButtonBookJournalRecord_mouse_exited"]
+[connection signal="pressed" from="controlDown/controlJournalRecord/commonTextureButtonBookJournalRecord" to="." method="_on_commonTextureButtonBookJournalRecord_pressed"]
+[connection signal="mouse_entered" from="controlDown/controlJournalRecord/commonTextureButtonClear1" to="." method="_on_commonTextureButtonClear1_mouse_entered"]
+[connection signal="mouse_exited" from="controlDown/controlJournalRecord/commonTextureButtonClear1" to="." method="_on_commonTextureButtonClear1_mouse_exited"]
+[connection signal="pressed" from="controlDown/controlJournalRecord/commonTextureButtonClear1" to="." method="_on_commonTextureButtonClear1_pressed"]
+[connection signal="mouse_entered" from="controlDown/controlJournalRecord/commonTextureButtonGoTop1" to="." method="_on_commonTextureButtonGoTop1_mouse_entered"]
+[connection signal="mouse_exited" from="controlDown/controlJournalRecord/commonTextureButtonGoTop1" to="." method="_on_commonTextureButtonGoTop1_mouse_exited"]
+[connection signal="pressed" from="controlDown/controlJournalRecord/commonTextureButtonGoTop1" to="." method="_on_commonTextureButtonGoTop1_pressed"]
+[connection signal="mouse_entered" from="controlDown/controlJournalRecord/commonTextureButtonGoBottom1" to="." method="_on_commonTextureButtonGoBottom1_mouse_entered"]
+[connection signal="mouse_exited" from="controlDown/controlJournalRecord/commonTextureButtonGoBottom1" to="." method="_on_commonTextureButtonGoBottom1_mouse_exited"]
+[connection signal="pressed" from="controlDown/controlJournalRecord/commonTextureButtonGoBottom1" to="." method="_on_commonTextureButtonGoBottom1_pressed"]
+[connection signal="pressed" from="controlDown/controlInteraction/commonTextureButtonPlayChess1" to="." method="_on_commonTextureButtonPlayChess1_pressed"]
+[connection signal="pressed" from="controlDown/controlInteraction/commonTextureButtonInteraction1" to="." method="_on_commonTextureButtonInteraction1_pressed"]
+[connection signal="pressed" from="controlDown/controlBagUse/commonButton13BagUse" to="." method="_on_commonButton13BagUse_pressed"]
+[connection signal="pressed" from="controlDown/controlBagUse/commonButton13Discard" to="." method="_on_commonButton13Discard_pressed"]
+[connection signal="pressed" from="controlDown/controlBagUse/commonButton13Check" to="." method="_on_commonButton13Check_pressed"]
+[connection signal="pressed" from="controlWrangleDialog/controlWrangleDialogButton/commonTextureButtonWrangleDialog1" to="." method="_on_commonTextureButtonWrangleDialog1_pressed"]
+[connection signal="pressed" from="controlWrangleDialog/controlWrangleDialogButton/commonTextureButtonWrangleDialog2" to="." method="_on_commonTextureButtonWrangleDialog2_pressed"]
+[connection signal="pressed" from="controlWrangleDialog/controlWrangleDialogButton/commonTextureButtonWrangleDialog3" to="." method="_on_commonTextureButtonWrangleDialog3_pressed"]
+[connection signal="pressed" from="controlWrangleDialog/controlWrangleDialogButton/commonTextureButtonWrangleDialog4" to="." method="_on_commonTextureButtonWrangleDialog4_pressed"]
+[connection signal="pressed" from="controlWrangleDialog/controlWrangleDialogButton/commonTextureButtonWrangleDialog5" to="." method="_on_commonTextureButtonWrangleDialog5_pressed"]
+[connection signal="pressed" from="controlWrangleDialog/controlWrangleDialogButton/commonTextureButtonWrangleDialog6" to="." method="_on_commonTextureButtonWrangleDialog6_pressed"]
+[connection signal="pressed" from="controlWrangleDialog/controlWrangleDialogButton/commonTextureButtonWrangleDialog7" to="." method="_on_commonTextureButtonWrangleDialog7_pressed"]
+[connection signal="pressed" from="controlWrangleDialog/commonButtonWrangleDialogContinue" to="." method="_on_commonButtonWrangleDialogContinue_pressed"]

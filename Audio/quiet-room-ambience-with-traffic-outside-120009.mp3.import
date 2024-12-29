@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/quiet-room-ambience-with-traffic-outside-120009.mp3-5b78959c0b4ed7659301b58897938d38.mp3str"
+
+[deps]
+
+source_file="res://Audio/quiet-room-ambience-with-traffic-outside-120009.mp3"
+dest_files=[ "res://.import/quiet-room-ambience-with-traffic-outside-120009.mp3-5b78959c0b4ed7659301b58897938d38.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

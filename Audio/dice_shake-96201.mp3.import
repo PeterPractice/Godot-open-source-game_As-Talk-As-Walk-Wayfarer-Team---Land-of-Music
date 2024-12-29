@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/dice_shake-96201.mp3-e165e1afa0f769b67e16f619f0d37d4b.mp3str"
+
+[deps]
+
+source_file="res://Audio/dice_shake-96201.mp3"
+dest_files=[ "res://.import/dice_shake-96201.mp3-e165e1afa0f769b67e16f619f0d37d4b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,53 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Avatar/Equip/Wig1_A.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Avatar/Equip/Wig1_B.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Avatar/Equip/Wig1_C.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Script/Avatar/Equip/Wig1_AHair.gd" type="Script" id=4]
+
+[node name="Wig1_AHair" type="Node2D"]
+script = ExtResource( 4 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="wig1_A1" parent="." instance=ExtResource( 1 )]
+
+[node name="wig1_B1" parent="." instance=ExtResource( 2 )]
+position = Vector2( 0, 7 )
+
+[node name="wig1_B2" parent="." instance=ExtResource( 2 )]
+position = Vector2( 0, 17 )
+
+[node name="wig1_C1" parent="." instance=ExtResource( 3 )]
+position = Vector2( 0, 27 )
+
+[node name="pinJoint2D_A1_B1" type="PinJoint2D" parent="."]
+visible = false
+position = Vector2( 0, 2 )
+node_a = NodePath("../wig1_A1")
+node_b = NodePath("../wig1_B1")
+bias = 0.9
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="pinJoint2D_B1_B2" type="PinJoint2D" parent="."]
+visible = false
+position = Vector2( 0, 12 )
+node_a = NodePath("../wig1_B1")
+node_b = NodePath("../wig1_B2")
+bias = 0.9
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="pinJoint2D_B2_C1" type="PinJoint2D" parent="."]
+visible = false
+position = Vector2( 0, 22 )
+node_a = NodePath("../wig1_B2")
+node_b = NodePath("../wig1_C1")
+bias = 0.9
+__meta__ = {
+"_edit_lock_": true
+}

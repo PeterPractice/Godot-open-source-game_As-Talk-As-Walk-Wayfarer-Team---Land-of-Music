@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/dog-full-suite-22434_2.mp3-0dec4b3944e664307c0daa4b05506acb.mp3str"
+
+[deps]
+
+source_file="res://Audio/dog-full-suite-22434_2.mp3"
+dest_files=[ "res://.import/dog-full-suite-22434_2.mp3-0dec4b3944e664307c0daa4b05506acb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

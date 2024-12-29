@@ -1,0 +1,26 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 1, 5 )
+
+[node name="Wig1_B" type="RigidBody2D"]
+collision_layer = 2
+linear_damp = 30.0
+angular_damp = 10.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="collisionShape2D1" type="CollisionShape2D" parent="."]
+visible = false
+shape = SubResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="line2D1" type="Line2D" parent="."]
+points = PoolVector2Array( 0, -5, 0, 5 )
+width = 2.0
+__meta__ = {
+"_edit_lock_": true
+}

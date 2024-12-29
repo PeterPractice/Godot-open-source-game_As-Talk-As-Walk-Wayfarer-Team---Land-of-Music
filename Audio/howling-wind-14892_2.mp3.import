@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/howling-wind-14892_2.mp3-f506d6125426c9b55ee9ee7f78368b5e.mp3str"
+
+[deps]
+
+source_file="res://Audio/howling-wind-14892_2.mp3"
+dest_files=[ "res://.import/howling-wind-14892_2.mp3-f506d6125426c9b55ee9ee7f78368b5e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

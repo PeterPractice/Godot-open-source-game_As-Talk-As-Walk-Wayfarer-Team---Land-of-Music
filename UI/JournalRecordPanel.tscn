@@ -1,0 +1,441 @@
+[gd_scene load_steps=15 format=2]
+
+[ext_resource path="res://Script/UI/JournalRecordPanel.gd" type="Script" id=1]
+[ext_resource path="res://UI/CommonUI/CommonLabel31.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Picture/UI/JournalRecord/JournalRecordBG.png" type="Texture" id=4]
+[ext_resource path="res://UI/CommonUI/CommonButton.tscn" type="PackedScene" id=5]
+[ext_resource path="res://UI/CommonUI/CommonBlurBG.tscn" type="PackedScene" id=6]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonJournalRecordTurnPageRight.tscn" type="PackedScene" id=7]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonJournalRecordTurnPageLeft.tscn" type="PackedScene" id=8]
+[ext_resource path="res://UI/CommonUI/CommonHSlider.tscn" type="PackedScene" id=9]
+[ext_resource path="res://UI/CommonUI/CommonLabel13.tscn" type="PackedScene" id=10]
+[ext_resource path="res://UI/CommonUI/TitleButton20.tscn" type="PackedScene" id=11]
+[ext_resource path="res://UI/CommonUI/CommonHeadPortrait.tscn" type="PackedScene" id=12]
+[ext_resource path="res://UI/CommonUI/CommonLabel.tscn" type="PackedScene" id=13]
+[ext_resource path="res://UI/CommonUI/CommonLabel18.tscn" type="PackedScene" id=14]
+[ext_resource path="res://UI/CommonUI/CommonButtonBuff.tscn" type="PackedScene" id=15]
+
+[node name="JournalRecordPanel" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonBlurBG1" parent="." instance=ExtResource( 6 )]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_right = 0.0
+margin_bottom = 0.0
+
+[node name="textureRectBG" type="TextureRect" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -640.0
+margin_top = -360.0
+margin_right = 640.0
+margin_bottom = 360.0
+texture = ExtResource( 4 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabel13PageNumberLeft" parent="." instance=ExtResource( 10 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -540.0
+margin_top = 260.0
+margin_right = -460.0
+margin_bottom = 279.0
+fontColorType = 4
+
+[node name="commonLabel13PageNumberRight" parent="." instance=ExtResource( 10 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 460.0
+margin_top = 260.0
+margin_right = 540.0
+margin_bottom = 279.0
+align = 2
+fontColorType = 4
+
+[node name="commonTextureButtonJournalRecordTurnPageLeft1" parent="." instance=ExtResource( 8 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -640.0
+margin_top = -360.0
+margin_right = -560.0
+margin_bottom = 360.0
+
+[node name="commonTextureButtonJournalRecordTurnPageRight1" parent="." instance=ExtResource( 7 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 560.0
+margin_top = -360.0
+margin_right = 640.0
+margin_bottom = 360.0
+
+[node name="commonLabel31Title" parent="." instance=ExtResource( 2 )]
+anchor_right = 1.0
+margin_top = 52.0
+margin_right = 0.0
+margin_bottom = 96.0
+text = "Title"
+align = 1
+
+[node name="commonButtonClose" parent="." instance=ExtResource( 5 )]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -134.0
+margin_top = -55.0
+margin_right = -14.0
+margin_bottom = -26.0
+text = "Close"
+
+[node name="commonHSliderPage" parent="." instance=ExtResource( 9 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -500.0
+margin_top = 280.0
+margin_right = 500.0
+margin_bottom = 296.0
+
+[node name="controlPaging" type="Control" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -640.0
+margin_top = -240.0
+margin_right = -600.0
+margin_bottom = -200.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="titleButton20Avatar" parent="controlPaging" instance=ExtResource( 11 )]
+margin_left = 120.0
+margin_right = 240.0
+margin_bottom = 35.0
+text = "Avatar"
+
+[node name="titleButton20Bag" parent="controlPaging" instance=ExtResource( 11 )]
+margin_left = 250.0
+margin_right = 370.0
+margin_bottom = 35.0
+text = "Bag"
+
+[node name="titleButton20Scene" parent="controlPaging" instance=ExtResource( 11 )]
+margin_left = 380.0
+margin_right = 500.0
+margin_bottom = 35.0
+text = "Scene"
+
+[node name="titleButton20Task" parent="controlPaging" instance=ExtResource( 11 )]
+margin_left = 510.0
+margin_right = 630.0
+margin_bottom = 35.0
+text = "Task"
+
+[node name="controlPagingAvatar" type="Control" parent="controlPaging"]
+visible = false
+margin_top = 85.0
+margin_right = 40.0
+margin_bottom = 125.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="controlPagingAvatarLeft" type="Control" parent="controlPaging/controlPagingAvatar"]
+margin_left = 140.0
+margin_right = 180.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonHeadPortraitAvatar" parent="controlPaging/controlPagingAvatar/controlPagingAvatarLeft" instance=ExtResource( 12 )]
+
+[node name="colorRectAvatar" type="ColorRect" parent="controlPaging/controlPagingAvatar/controlPagingAvatarLeft"]
+margin_left = 80.0
+margin_top = 6.0
+margin_right = 92.0
+margin_bottom = 18.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelAvatarName" parent="controlPaging/controlPagingAvatar/controlPagingAvatarLeft" instance=ExtResource( 13 )]
+margin_left = 95.0
+margin_right = 455.0
+margin_bottom = 23.0
+text = "AvatarName"
+
+[node name="commonLabel18AvatarContent" parent="controlPaging/controlPagingAvatar/controlPagingAvatarLeft" instance=ExtResource( 14 )]
+margin_left = 80.0
+margin_top = 30.0
+margin_right = 450.0
+margin_bottom = 400.0
+text = "AvatarContent"
+autowrap = true
+
+[node name="controlPagingAvatarRight" type="Control" parent="controlPaging/controlPagingAvatar"]
+margin_left = 720.0
+margin_right = 760.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonHeadPortraitAvatar" parent="controlPaging/controlPagingAvatar/controlPagingAvatarRight" instance=ExtResource( 12 )]
+
+[node name="colorRectAvatar" type="ColorRect" parent="controlPaging/controlPagingAvatar/controlPagingAvatarRight"]
+margin_left = 80.0
+margin_top = 6.0
+margin_right = 92.0
+margin_bottom = 18.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelAvatarName" parent="controlPaging/controlPagingAvatar/controlPagingAvatarRight" instance=ExtResource( 13 )]
+margin_left = 95.0
+margin_right = 455.0
+margin_bottom = 23.0
+text = "AvatarName"
+
+[node name="commonLabel18AvatarContent" parent="controlPaging/controlPagingAvatar/controlPagingAvatarRight" instance=ExtResource( 14 )]
+margin_left = 80.0
+margin_top = 30.0
+margin_right = 450.0
+margin_bottom = 400.0
+text = "AvatarContent"
+autowrap = true
+
+[node name="controlPagingBag" type="Control" parent="controlPaging"]
+visible = false
+margin_top = 85.0
+margin_right = 40.0
+margin_bottom = 125.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="controlPagingBagLeft" type="Control" parent="controlPaging/controlPagingBag"]
+margin_left = 140.0
+margin_right = 180.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonButtonBuffBag" parent="controlPaging/controlPagingBag/controlPagingBagLeft" instance=ExtResource( 15 )]
+margin_left = 16.0
+margin_right = -24.0
+margin_bottom = -40.0
+
+[node name="textureRectPicture" type="TextureRect" parent="controlPaging/controlPagingBag/controlPagingBagLeft"]
+margin_right = 60.0
+margin_bottom = 80.0
+stretch_mode = 4
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelBagName" parent="controlPaging/controlPagingBag/controlPagingBagLeft" instance=ExtResource( 13 )]
+margin_left = 70.0
+margin_right = 430.0
+margin_bottom = 23.0
+text = "BagName"
+
+[node name="commonLabel18BagContent" parent="controlPaging/controlPagingBag/controlPagingBagLeft" instance=ExtResource( 14 )]
+margin_left = 70.0
+margin_top = 30.0
+margin_right = 440.0
+margin_bottom = 400.0
+text = "BagContent"
+autowrap = true
+
+[node name="controlPagingBagRight" type="Control" parent="controlPaging/controlPagingBag"]
+margin_left = 720.0
+margin_right = 760.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonButtonBuffBag" parent="controlPaging/controlPagingBag/controlPagingBagRight" instance=ExtResource( 15 )]
+margin_right = -40.0
+margin_bottom = -40.0
+
+[node name="textureRectPicture" type="TextureRect" parent="controlPaging/controlPagingBag/controlPagingBagRight"]
+margin_left = -16.0
+margin_right = 44.0
+margin_bottom = 80.0
+stretch_mode = 4
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelBagName" parent="controlPaging/controlPagingBag/controlPagingBagRight" instance=ExtResource( 13 )]
+margin_left = 54.0
+margin_right = 414.0
+margin_bottom = 23.0
+text = "BagName"
+
+[node name="commonLabel18BagContent" parent="controlPaging/controlPagingBag/controlPagingBagRight" instance=ExtResource( 14 )]
+margin_left = 54.0
+margin_top = 30.0
+margin_right = 424.0
+margin_bottom = 400.0
+text = "BagContent"
+autowrap = true
+
+[node name="controlPagingScene" type="Control" parent="controlPaging"]
+visible = false
+margin_top = 85.0
+margin_right = 40.0
+margin_bottom = 125.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="controlPagingSceneLeft" type="Control" parent="controlPaging/controlPagingScene"]
+margin_left = 140.0
+margin_right = 180.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelSceneName" parent="controlPaging/controlPagingScene/controlPagingSceneLeft" instance=ExtResource( 13 )]
+margin_right = 400.0
+margin_bottom = 23.0
+text = "MapName"
+
+[node name="commonLabel18SceneContent" parent="controlPaging/controlPagingScene/controlPagingSceneLeft" instance=ExtResource( 14 )]
+margin_top = 30.0
+margin_right = 400.0
+margin_bottom = 400.0
+text = "MapContent"
+autowrap = true
+
+[node name="controlPagingSceneRight" type="Control" parent="controlPaging/controlPagingScene"]
+margin_left = 720.0
+margin_right = 760.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelSceneName" parent="controlPaging/controlPagingScene/controlPagingSceneRight" instance=ExtResource( 13 )]
+margin_right = 400.0
+margin_bottom = 23.0
+text = "MapName"
+
+[node name="commonLabel18SceneContent" parent="controlPaging/controlPagingScene/controlPagingSceneRight" instance=ExtResource( 14 )]
+margin_top = 30.0
+margin_right = 400.0
+margin_bottom = 400.0
+text = "MapContent"
+autowrap = true
+
+[node name="controlPagingTask" type="Control" parent="controlPaging"]
+margin_top = 85.0
+margin_right = 40.0
+margin_bottom = 125.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="controlPagingTaskLeft" type="Control" parent="controlPaging/controlPagingTask"]
+margin_left = 140.0
+margin_right = 180.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelTaskName" parent="controlPaging/controlPagingTask/controlPagingTaskLeft" instance=ExtResource( 13 )]
+margin_right = 400.0
+margin_bottom = 23.0
+text = "TaskName"
+
+[node name="colorRectAvatar" type="ColorRect" parent="controlPaging/controlPagingTask/controlPagingTaskLeft"]
+margin_top = 6.0
+margin_right = 12.0
+margin_bottom = 18.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelAvatarName" parent="controlPaging/controlPagingTask/controlPagingTaskLeft" instance=ExtResource( 13 )]
+margin_left = 15.0
+margin_right = 400.0
+margin_bottom = 23.0
+text = "AvatarName"
+
+[node name="commonLabel18TaskContent" parent="controlPaging/controlPagingTask/controlPagingTaskLeft" instance=ExtResource( 14 )]
+margin_top = 30.0
+margin_right = 400.0
+margin_bottom = 400.0
+text = "TaskContent"
+autowrap = true
+
+[node name="controlPagingTaskRight" type="Control" parent="controlPaging/controlPagingTask"]
+margin_left = 720.0
+margin_right = 760.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelTaskName" parent="controlPaging/controlPagingTask/controlPagingTaskRight" instance=ExtResource( 13 )]
+margin_right = 400.0
+margin_bottom = 23.0
+text = "TaskName"
+
+[node name="colorRectAvatar" type="ColorRect" parent="controlPaging/controlPagingTask/controlPagingTaskRight"]
+margin_top = 6.0
+margin_right = 12.0
+margin_bottom = 18.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelAvatarName" parent="controlPaging/controlPagingTask/controlPagingTaskRight" instance=ExtResource( 13 )]
+margin_left = 15.0
+margin_right = 400.0
+margin_bottom = 23.0
+text = "AvatarName"
+
+[node name="commonLabel18TaskContent" parent="controlPaging/controlPagingTask/controlPagingTaskRight" instance=ExtResource( 14 )]
+margin_top = 30.0
+margin_right = 400.0
+margin_bottom = 400.0
+text = "TaskContent"
+autowrap = true
+
+[connection signal="pressed" from="commonTextureButtonJournalRecordTurnPageLeft1" to="." method="_on_commonTextureButtonJournalRecordTurnPageLeft1_pressed"]
+[connection signal="pressed" from="commonTextureButtonJournalRecordTurnPageRight1" to="." method="_on_commonTextureButtonJournalRecordTurnPageRight1_pressed"]
+[connection signal="pressed" from="commonButtonClose" to="." method="_on_commonButtonClose_pressed"]
+[connection signal="value_changed" from="commonHSliderPage" to="." method="_on_commonHSliderPage_value_changed"]
+[connection signal="pressed" from="controlPaging/titleButton20Avatar" to="." method="_on_titleButton20Avatar_pressed"]
+[connection signal="pressed" from="controlPaging/titleButton20Bag" to="." method="_on_titleButton20Bag_pressed"]
+[connection signal="pressed" from="controlPaging/titleButton20Scene" to="." method="_on_titleButton20Scene_pressed"]
+[connection signal="pressed" from="controlPaging/titleButton20Task" to="." method="_on_titleButton20Task_pressed"]

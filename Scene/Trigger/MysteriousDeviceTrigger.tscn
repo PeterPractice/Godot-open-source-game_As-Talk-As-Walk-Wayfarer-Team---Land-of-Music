@@ -1,0 +1,334 @@
+[gd_scene load_steps=9 format=2]
+
+[ext_resource path="res://Script/Scene/Trigger/MysteriousDeviceTrigger.gd" type="Script" id=1]
+[ext_resource path="res://Picture/Scene/MysteriousDevice/MysteriousDevice.png" type="Texture" id=2]
+[ext_resource path="res://Picture/Scene/MysteriousDevice/MysteriousDevice2.png" type="Texture" id=3]
+[ext_resource path="res://Picture/Scene/MysteriousDevice/MysteriousDevice3.png" type="Texture" id=4]
+
+[sub_resource type="Animation" id=1]
+resource_name = "flaunt1"
+length = 3.0
+loop = true
+step = 0.5
+tracks/0/type = "value"
+tracks/0/path = NodePath("node2DEye/node2D2:rotation_degrees")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 3 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 0.0, 360.0 ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("node2DEye/node2D3:rotation_degrees")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 3 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 0.0, 360.0 ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("node2DEye/node2DCenter1:rotation_degrees")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 3 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 0.0, 3600.0 ]
+}
+tracks/3/type = "value"
+tracks/3/path = NodePath("node2DEye/node2DCenter2:rotation_degrees")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/keys = {
+"times": PoolRealArray( 0, 3 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 0.0, 3600.0 ]
+}
+
+[sub_resource type="Animation" id=4]
+resource_name = "CloseEye"
+tracks/0/type = "value"
+tracks/0/path = NodePath("node2DEye:scale")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 1, 1 ), Vector2( 0.01, 1 ) ]
+}
+
+[sub_resource type="Animation" id=3]
+resource_name = "OpenEye"
+tracks/0/type = "value"
+tracks/0/path = NodePath("node2DEye:scale")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Vector2( 0.01, 1 ), Vector2( 1, 1 ) ]
+}
+
+[sub_resource type="Animation" id=5]
+resource_name = "circleRun"
+length = 3.0
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath("node2D1:rotation_degrees")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 3 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 0.0, 360.0 ]
+}
+
+[node name="MysteriousDeviceTrigger" type="Node2D"]
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="control1" type="Control" parent="."]
+show_behind_parent = true
+margin_right = 40.0
+margin_bottom = 40.0
+mouse_filter = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect0" type="ColorRect" parent="control1"]
+margin_left = -272.169
+margin_top = -276.927
+margin_right = 327.831
+margin_bottom = 323.073
+mouse_filter = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect1" type="ColorRect" parent="control1"]
+margin_left = -512.169
+margin_top = -190.907
+margin_right = -272.169
+margin_bottom = 49.0933
+mouse_filter = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect2" type="ColorRect" parent="control1"]
+margin_left = -393.51
+margin_top = 40.0
+margin_right = -153.51
+margin_bottom = 280.0
+mouse_filter = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect3" type="ColorRect" parent="control1"]
+margin_left = -308.304
+margin_top = 118.551
+margin_right = -68.3037
+margin_bottom = 358.551
+mouse_filter = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect4" type="ColorRect" parent="control1"]
+margin_left = -153.51
+margin_top = 206.968
+margin_right = 86.4905
+margin_bottom = 446.968
+mouse_filter = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect5" type="ColorRect" parent="control1"]
+margin_left = 64.7892
+margin_top = 165.992
+margin_right = 304.789
+margin_bottom = 405.992
+mouse_filter = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect6" type="ColorRect" parent="control1"]
+margin_left = 196.611
+margin_top = 26.8445
+margin_right = 436.611
+margin_bottom = 266.845
+mouse_filter = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect7" type="ColorRect" parent="control1"]
+margin_left = 275.622
+margin_top = -144.679
+margin_right = 515.622
+margin_bottom = 95.3206
+mouse_filter = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect8" type="ColorRect" parent="control1"]
+margin_left = 221.254
+margin_top = -360.0
+margin_right = 461.254
+margin_bottom = -120.0
+mouse_filter = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect9" type="ColorRect" parent="control1"]
+margin_top = -414.41
+margin_right = 240.0
+margin_bottom = -174.41
+mouse_filter = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect10" type="ColorRect" parent="control1"]
+margin_left = -237.606
+margin_top = -384.679
+margin_right = 2.39355
+margin_bottom = -144.679
+mouse_filter = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DEye" type="Node2D" parent="."]
+scale = Vector2( 0.01, 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="sprite1" type="Sprite" parent="node2DEye"]
+texture = ExtResource( 3 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2D2" type="Node2D" parent="node2DEye"]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="sprite1" type="Sprite" parent="node2DEye/node2D2"]
+position = Vector2( 64, 0 )
+texture = ExtResource( 2 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2D3" type="Node2D" parent="node2DEye"]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="sprite1" type="Sprite" parent="node2DEye/node2D3"]
+position = Vector2( -64, 0 )
+texture = ExtResource( 2 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DCenter1" type="Node2D" parent="node2DEye"]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="sprite1" type="Sprite" parent="node2DEye/node2DCenter1"]
+position = Vector2( 0, 32 )
+texture = ExtResource( 4 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DCenter2" type="Node2D" parent="node2DEye"]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="sprite1" type="Sprite" parent="node2DEye/node2DCenter2"]
+position = Vector2( 0, -32 )
+texture = ExtResource( 4 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2D1" type="Node2D" parent="."]
+visible = false
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect1" type="ColorRect" parent="node2D1"]
+margin_left = 32.0
+margin_right = 72.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="animationPlayer1" type="AnimationPlayer" parent="."]
+autoplay = "flaunt1"
+anims/flaunt1 = SubResource( 1 )
+
+[node name="aimationPlayerEye" type="AnimationPlayer" parent="."]
+anims/CloseEye = SubResource( 4 )
+anims/OpenEye = SubResource( 3 )
+
+[node name="animationPlayerRotation" type="AnimationPlayer" parent="."]
+autoplay = "circleRun"
+anims/circleRun = SubResource( 5 )
+
+[node name="area2D1" type="Area2D" parent="."]
+collision_layer = 4
+collision_mask = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="collisionPolygon2D1" type="CollisionPolygon2D" parent="area2D1"]
+polygon = PoolVector2Array( -511.99, -189.987, -271.838, -189.884, -271.947, -276.018, -237.965, -276.148, -237.957, -384.038, -0.042181, -383.975, 0.021677, -413.031, 239.973, -412.974, 240.01, -359.036, 461.095, -359.139, 461, -143.932, 515.988, -144.038, 516.074, 96.1418, 437.075, 96.077, 436.961, 268.12, 328.044, 267.951, 327.939, 324.228, 304.978, 324.075, 304.951, 407.122, 86.1022, 406.977, 85.9834, 448.038, -154.074, 447.959, -154.059, 359.958, -308.074, 360.057, -308.13, 280.917, -393.999, 281.002, -394.008, 50.0078, -512.014, 50.0113 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[connection signal="body_exited" from="area2D1" to="." method="_on_area2D1_body_exited"]
+[connection signal="mouse_entered" from="area2D1" to="." method="_on_area2D1_mouse_entered"]
+[connection signal="mouse_exited" from="area2D1" to="." method="_on_area2D1_mouse_exited"]

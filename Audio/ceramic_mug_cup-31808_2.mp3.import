@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ceramic_mug_cup-31808_2.mp3-1fd378c7b00bd8f0256165856209c98f.mp3str"
+
+[deps]
+
+source_file="res://Audio/ceramic_mug_cup-31808_2.mp3"
+dest_files=[ "res://.import/ceramic_mug_cup-31808_2.mp3-1fd378c7b00bd8f0256165856209c98f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

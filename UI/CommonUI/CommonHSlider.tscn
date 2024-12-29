@@ -1,0 +1,16 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Script/UI/CommonUI/CommonHSlider.gd" type="Script" id=1]
+[ext_resource path="res://Picture/UI/HSlider/CommonHSlider_Grabber_Highlight.png" type="Texture" id=2]
+[ext_resource path="res://Picture/UI/HSlider/CommonHSlider_Grabber.png" type="Texture" id=3]
+
+[node name="CommonHSlider" type="HSlider"]
+margin_right = 16.0
+margin_bottom = 16.0
+custom_icons/grabber_highlight = ExtResource( 2 )
+custom_icons/grabber = ExtResource( 3 )
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}

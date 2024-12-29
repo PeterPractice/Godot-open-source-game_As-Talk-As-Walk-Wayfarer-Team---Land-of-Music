@@ -1,0 +1,30 @@
+extends CheckBox
+
+var m_IsPlayAudio_Pressed: bool = true
+var m_IsFirstHovered: bool = false
+
+func _ready():
+	UIManager.SetNewStyleBoxFlat(self, "normal", UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_NORMAL_BG_COLOR, UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_NORMAL_BORDER_WIDTH, UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_NORMAL_BORDER_COLOR, UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_NORMAL_CORNER_RADIUS)
+	UIManager.SetNewStyleBoxFlat(self, "hover", UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_HOVER_BG_COLOR, UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_HOVER_BORDER_WIDTH, UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_HOVER_BORDER_COLOR, UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_HOVER_CORNER_RADIUS)
+	UIManager.SetNewStyleBoxFlat(self, "hover_pressed", UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_FOCUS_BG_COLOR, UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_FOCUS_BORDER_WIDTH, UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_FOCUS_BORDER_COLOR, UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_FOCUS_CORNER_RADIUS)
+	UIManager.SetNewStyleBoxFlat(self, "focus", UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_FOCUS_BG_COLOR, UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_FOCUS_BORDER_WIDTH, UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_FOCUS_BORDER_COLOR, UIManager.COMMONCHECKBOX_STYLE.STYLEBOXFLAT_FOCUS_CORNER_RADIUS)
+	
+	self.add_color_override("font_color", UIManager.COMMONCHECKBOX_STYLE.FONT_COLOR)
+	self.add_color_override("font_color_hover", UIManager.COMMONCHECKBOX_STYLE.FONT_COLOR_HOVER)
+	self.add_color_override("font_color_pressed", UIManager.COMMONCHECKBOX_STYLE.FONT_COLOR_PRESSED)
+
+func _pressed():
+	if m_IsPlayAudio_Pressed:
+		AudioManager.PlayByName_ButtonPressed()
+
+func SetPlayAudio_Pressed_false():
+	m_IsPlayAudio_Pressed = false
+
+func _process(_delta: float):
+	if is_hovered():
+		if not m_IsFirstHovered:
+			m_IsFirstHovered = true
+			
+			AudioManager.PlayByName_ButtonHover()
+	else:
+		m_IsFirstHovered = false

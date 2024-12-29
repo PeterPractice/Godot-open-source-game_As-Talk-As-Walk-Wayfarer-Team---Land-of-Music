@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/hmms-various-1-7175_2.mp3-6a9eeff8aae538971f60d23c4b1ec89a.mp3str"
+
+[deps]
+
+source_file="res://Audio/hmms-various-1-7175_2.mp3"
+dest_files=[ "res://.import/hmms-various-1-7175_2.mp3-6a9eeff8aae538971f60d23c4b1ec89a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

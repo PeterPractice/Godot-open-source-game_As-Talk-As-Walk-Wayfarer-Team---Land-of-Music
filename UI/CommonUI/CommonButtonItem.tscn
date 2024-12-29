@@ -1,0 +1,95 @@
+[gd_scene load_steps=10 format=2]
+
+[ext_resource path="res://Picture/UI/Icon/Item/ItemBG.png" type="Texture" id=1]
+[ext_resource path="res://Picture/UI/Icon/Skill/SkillHover.png" type="Texture" id=2]
+[ext_resource path="res://Picture/UI/Icon/Skill/SkillPressed.png" type="Texture" id=3]
+[ext_resource path="res://Picture/UI/Icon/Skill/SkillCD.png" type="Texture" id=4]
+[ext_resource path="res://Picture/UI/Icon/Item/ItemFrame.png" type="Texture" id=5]
+[ext_resource path="res://UI/CommonUI/CommonLabel13.tscn" type="PackedScene" id=6]
+[ext_resource path="res://UI/CommonUI/CommonLabel10.tscn" type="PackedScene" id=7]
+[ext_resource path="res://Script/UI/CommonUI/CommonButtonItem.gd" type="Script" id=8]
+[ext_resource path="res://Script/UI/CommonUI/CommonTextureButton.gd" type="Script" id=9]
+
+[node name="CommonButtonItem" type="Control"]
+margin_right = 44.0
+margin_bottom = 44.0
+script = ExtResource( 8 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureRectBG" type="TextureRect" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+texture = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureRectNormal" type="TextureRect" parent="."]
+margin_right = 44.0
+margin_bottom = 44.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureProgressCD" type="TextureProgress" parent="."]
+margin_right = 44.0
+margin_bottom = 44.0
+mouse_filter = 2
+texture_progress = ExtResource( 4 )
+fill_mode = 5
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureButton1" type="TextureButton" parent="."]
+margin_right = 44.0
+margin_bottom = 44.0
+texture_pressed = ExtResource( 3 )
+texture_hover = ExtResource( 2 )
+script = ExtResource( 9 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureRectPressed" type="TextureRect" parent="."]
+visible = false
+margin_right = 44.0
+margin_bottom = 44.0
+texture = ExtResource( 3 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureRectFrame" type="TextureRect" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+mouse_filter = 2
+texture = ExtResource( 5 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelLeft" parent="." instance=ExtResource( 6 )]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_left = 5.0
+margin_top = -20.0
+margin_right = 44.0
+margin_bottom = -1.0
+
+[node name="commonLabelRight" parent="." instance=ExtResource( 7 )]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -42.0
+margin_top = -16.0
+margin_right = -2.0
+margin_bottom = -1.0
+align = 2
+
+[connection signal="mouse_entered" from="textureButton1" to="." method="_on_textureButton1_mouse_entered"]
+[connection signal="mouse_exited" from="textureButton1" to="." method="_on_textureButton1_mouse_exited"]
+[connection signal="pressed" from="textureButton1" to="." method="_on_textureButton1_pressed"]

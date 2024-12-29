@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/couch_rustle_113011-24272.mp3-f6b7aef73366fa687d5598ed8621ef29.mp3str"
+
+[deps]
+
+source_file="res://Audio/couch_rustle_113011-24272.mp3"
+dest_files=[ "res://.import/couch_rustle_113011-24272.mp3-f6b7aef73366fa687d5598ed8621ef29.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

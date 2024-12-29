@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/cinematic-space-drone-10623.mp3-e9c9221d47d7d85aa83234ce0d1c1485.mp3str"
+
+[deps]
+
+source_file="res://Audio/cinematic-space-drone-10623.mp3"
+dest_files=[ "res://.import/cinematic-space-drone-10623.mp3-e9c9221d47d7d85aa83234ce0d1c1485.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

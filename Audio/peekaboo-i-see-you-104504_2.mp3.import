@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/peekaboo-i-see-you-104504_2.mp3-60b105680f265acbda961388690872be.mp3str"
+
+[deps]
+
+source_file="res://Audio/peekaboo-i-see-you-104504_2.mp3"
+dest_files=[ "res://.import/peekaboo-i-see-you-104504_2.mp3-60b105680f265acbda961388690872be.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

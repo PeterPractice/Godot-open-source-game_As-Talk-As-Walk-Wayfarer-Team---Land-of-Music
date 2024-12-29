@@ -1,0 +1,54 @@
+[gd_scene load_steps=11 format=2]
+
+[ext_resource path="res://Scene/SceneResource/TileSetGround1.tres" type="TileSet" id=1]
+[ext_resource path="res://Scene/WalkSceneTemplate1.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Scene/Trigger/ChangeSceneFromTrigger.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Scene/Trigger/ChangeSceneToTrigger.tscn" type="PackedScene" id=4]
+[ext_resource path="res://Scene/SceneResource/TileSetConstruction1.tres" type="TileSet" id=5]
+[ext_resource path="res://Scene/SceneResource/TileSetCollision1.tres" type="TileSet" id=6]
+[ext_resource path="res://Scene/Trigger/NPCTrigger.tscn" type="PackedScene" id=7]
+[ext_resource path="res://Scene/Trigger/NPCArticleTrigger.tscn" type="PackedScene" id=8]
+[ext_resource path="res://Script/Scene/Scene3Home.gd" type="Script" id=9]
+[ext_resource path="res://Scene/Collision/DoorCollision.tscn" type="PackedScene" id=10]
+
+[node name="Scene3Home" instance=ExtResource( 2 )]
+script = ExtResource( 9 )
+
+[node name="tileMapGround" parent="." index="0"]
+tile_set = ExtResource( 1 )
+tile_data = PoolIntArray( -196609, 24, 0, -131074, 18, 0, -131073, 18, 0, -196608, 18, 0, -196607, 18, 0, -65539, 18, 0, -65538, 18, 0, -65537, 8, 0, -131072, 16, 0, -131071, 18, 0, -131070, 18, 0, -131069, 20, 0, -4, 18, 0, -3, 18, 0, -2, 16, 0, -1, 16, 0, -65536, 16, 0, -65535, 16, 0, -65534, 22, 0, 65533, 22, 0, 65534, 16, 0, 65535, 16, 0, 0, 16, 0, 1, 16, 0, 2, 18, 0, 131069, 18, 0, 131070, 13, 0, 131071, 16, 0, 65536, 16, 0, 65537, 16, 0, 65538, 18, 0, 196605, 18, 0, 196606, 18, 0, 196607, 22, 0, 131072, 16, 0, 131073, 18, 0, 131074, 18, 0, 196608, 0, 0 )
+
+[node name="changeSceneFromTriggerA" parent="node2DChangeSceneTrigger" index="0" instance=ExtResource( 3 )]
+position = Vector2( 32, 210 )
+changeToSceneTypeID = 11
+changeToChangeSceneToTriggerTypeID = 1
+
+[node name="changeSceneToTrigger1" parent="node2DChangeSceneTrigger" index="1" instance=ExtResource( 4 )]
+position = Vector2( 32, 90 )
+changeSceneToTriggerTypeID = 1
+
+[node name="nPCArticleTriggerBag" parent="node2DNPCArticleTrigger" index="0" instance=ExtResource( 8 )]
+position = Vector2( -32, -96 )
+nPCArticleTriggerTypeID = 1
+
+[node name="nPCArticleTriggerJournalRecordBook" parent="node2DNPCArticleTrigger" index="1" instance=ExtResource( 8 )]
+position = Vector2( -96, 50 )
+nPCArticleTriggerTypeID = 2
+
+[node name="nPCArticleTriggerDoor" parent="node2DNPCArticleTrigger" index="2" instance=ExtResource( 8 )]
+position = Vector2( 32, 160 )
+nPCArticleTriggerTypeID = 4
+
+[node name="doorCollision" parent="node2DNPCArticleTrigger/nPCArticleTriggerDoor" index="2" instance=ExtResource( 10 )]
+
+[node name="nPCTrigger1" parent="node2DNPCTrigger" index="0" instance=ExtResource( 7 )]
+position = Vector2( 96, -32 )
+nPCTriggerTypeID = 2
+
+[node name="tileMapConstruction" parent="." index="8"]
+tile_set = ExtResource( 5 )
+tile_data = PoolIntArray( -65533, 33, 0, 65531, 33, 0, 262142, 33, 0 )
+
+[node name="tileMapCollision" parent="." index="9"]
+tile_set = ExtResource( 6 )
+tile_data = PoolIntArray( -131074, 0, 0, -131073, 0, 0, -196608, 0, 0, -196607, 0, 0, -65539, 0, 0, -65538, 0, 0, -131071, 0, 0, -131070, 0, 0, -3, 0, 0, -65534, 0, 0, 65533, 0, 0, 2, 0, 0, 131069, 0, 0, 65538, 0, 0, 196605, 0, 0, 196606, 0, 0, 196607, 0, 0, 131073, 0, 0, 131074, 0, 0 )

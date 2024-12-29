@@ -1,0 +1,87 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Script/UI/TeamPanel.gd" type="Script" id=1]
+[ext_resource path="res://UI/CommonUI/CommonHeadPortrait.tscn" type="PackedScene" id=6]
+[ext_resource path="res://UI/CommonUI/CommonButtonItem.tscn" type="PackedScene" id=8]
+
+[node name="TeamPanel" type="Control"]
+margin_right = 555.0
+margin_bottom = 65.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRectBG" type="ColorRect" parent="."]
+visible = false
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="controlMajorInformation" type="Control" parent="."]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="controlCurrentAvatarInformation" type="Control" parent="controlMajorInformation"]
+margin_left = 10.0
+margin_top = 7.0
+margin_right = 10.0
+margin_bottom = 7.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonHeadPortrait1" parent="controlMajorInformation/controlCurrentAvatarInformation" instance=ExtResource( 6 )]
+margin_right = 0.0
+margin_bottom = 0.0
+rect_scale = Vector2( 0.73, 0.73 )
+
+[node name="controlItemButtonList" type="Control" parent="controlMajorInformation"]
+margin_left = 60.0
+margin_top = 17.0
+margin_right = 60.0
+margin_bottom = 17.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonButtonItem1" parent="controlMajorInformation/controlItemButtonList" instance=ExtResource( 8 )]
+
+[node name="commonButtonItem2" parent="controlMajorInformation/controlItemButtonList" instance=ExtResource( 8 )]
+margin_left = 50.0
+margin_right = 94.0
+
+[node name="commonButtonItem3" parent="controlMajorInformation/controlItemButtonList" instance=ExtResource( 8 )]
+margin_left = 100.0
+margin_right = 144.0
+
+[node name="commonButtonItem4" parent="controlMajorInformation/controlItemButtonList" instance=ExtResource( 8 )]
+margin_left = 150.0
+margin_right = 194.0
+
+[node name="commonButtonItem5" parent="controlMajorInformation/controlItemButtonList" instance=ExtResource( 8 )]
+margin_left = 200.0
+margin_right = 244.0
+
+[node name="commonButtonItem6" parent="controlMajorInformation/controlItemButtonList" instance=ExtResource( 8 )]
+margin_left = 250.0
+margin_right = 294.0
+
+[node name="commonButtonItem7" parent="controlMajorInformation/controlItemButtonList" instance=ExtResource( 8 )]
+margin_left = 300.0
+margin_right = 344.0
+
+[node name="commonButtonItem8" parent="controlMajorInformation/controlItemButtonList" instance=ExtResource( 8 )]
+margin_left = 350.0
+margin_right = 394.0
+
+[node name="commonButtonItem9" parent="controlMajorInformation/controlItemButtonList" instance=ExtResource( 8 )]
+margin_left = 400.0
+margin_right = 444.0
+
+[node name="commonButtonItem10" parent="controlMajorInformation/controlItemButtonList" instance=ExtResource( 8 )]
+margin_left = 450.0
+margin_right = 494.0

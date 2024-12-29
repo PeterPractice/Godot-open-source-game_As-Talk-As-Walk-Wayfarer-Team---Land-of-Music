@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/tension-drones-51031.mp3-eea9a929ed407d607e1691e27787f8e6.mp3str"
+
+[deps]
+
+source_file="res://Audio/tension-drones-51031.mp3"
+dest_files=[ "res://.import/tension-drones-51031.mp3-eea9a929ed407d607e1691e27787f8e6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

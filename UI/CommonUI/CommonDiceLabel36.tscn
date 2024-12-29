@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Script/UI/CommonUI/CommonLabel.gd" type="Script" id=1]
+[ext_resource path="res://Font/DiceFont36.tres" type="DynamicFont" id=2]
+
+[node name="CommonDiceLabel36" type="Label"]
+margin_right = 40.0
+margin_bottom = 14.0
+custom_fonts/font = ExtResource( 2 )
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}

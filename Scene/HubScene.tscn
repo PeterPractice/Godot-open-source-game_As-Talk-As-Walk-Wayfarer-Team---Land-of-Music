@@ -1,0 +1,63 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Script/Scene/HubScene.gd" type="Script" id=1]
+[ext_resource path="res://Picture/UI/Hub/PathBG4.png" type="Texture" id=2]
+
+[sub_resource type="Animation" id=1]
+resource_name = "circleRun"
+length = 5.0
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath("node2D1:rotation_degrees")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 5 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 0.0, 360.0 ]
+}
+
+[node name="HubScene" type="Node2D"]
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureRectBG" type="TextureRect" parent="."]
+show_behind_parent = true
+margin_left = -660.0
+margin_top = -240.0
+margin_right = 620.0
+margin_bottom = 480.0
+texture = ExtResource( 2 )
+expand = true
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DAvatar" type="Node2D" parent="."]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2D1" type="Node2D" parent="."]
+visible = false
+position = Vector2( 1202.9, -988.424 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRect1" type="ColorRect" parent="node2D1"]
+margin_left = 100.0
+margin_right = 140.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="animationPlayer1" type="AnimationPlayer" parent="."]
+autoplay = "circleRun"
+anims/circleRun = SubResource( 1 )

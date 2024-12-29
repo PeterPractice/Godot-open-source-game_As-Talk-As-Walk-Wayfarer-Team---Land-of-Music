@@ -1,0 +1,475 @@
+[gd_scene load_steps=13 format=2]
+
+[ext_resource path="res://Script/UI/OptionPanel.gd" type="Script" id=1]
+[ext_resource path="res://UI/CommonUI/CommonButton.tscn" type="PackedScene" id=2]
+[ext_resource path="res://UI/CommonUI/CommonBG1.tscn" type="PackedScene" id=3]
+[ext_resource path="res://UI/CommonUI/CommonLabel.tscn" type="PackedScene" id=4]
+[ext_resource path="res://UI/CommonUI/CommonLabel31.tscn" type="PackedScene" id=5]
+[ext_resource path="res://UI/CommonUI/CommonBlurBG.tscn" type="PackedScene" id=6]
+[ext_resource path="res://UI/CommonUI/CommonOptionButton.tscn" type="PackedScene" id=7]
+[ext_resource path="res://UI/CommonUI/CommonCheckBox.tscn" type="PackedScene" id=8]
+[ext_resource path="res://UI/CommonUI/CommonHSlider.tscn" type="PackedScene" id=9]
+[ext_resource path="res://UI/CommonUI/TitleButton20.tscn" type="PackedScene" id=10]
+[ext_resource path="res://UI/CommonUI/CommonButton10.tscn" type="PackedScene" id=11]
+
+[sub_resource type="ButtonGroup" id=1]
+
+[node name="OptionPanel" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="commonBlurBG1" parent="." instance=ExtResource( 6 )]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_right = 0.0
+margin_bottom = 0.0
+
+[node name="commonLabel31Title" parent="." instance=ExtResource( 5 )]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -100.0
+margin_top = 42.0
+margin_right = 100.0
+margin_bottom = 86.0
+grow_horizontal = 2
+text = "Title"
+align = 1
+
+[node name="commonButtonOK" parent="." instance=ExtResource( 2 )]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -268.0
+margin_top = -55.0
+margin_right = -148.0
+margin_bottom = -26.0
+text = "OK"
+
+[node name="commonButtonCancel" parent="." instance=ExtResource( 2 )]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -134.0
+margin_top = -55.0
+margin_right = -14.0
+margin_bottom = -26.0
+text = "Cancel"
+
+[node name="commonButtonDefault" parent="." instance=ExtResource( 2 )]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -402.0
+margin_top = -55.0
+margin_right = -282.0
+margin_bottom = -26.0
+text = "Default"
+
+[node name="commonButtonReturnToHubScene" parent="." instance=ExtResource( 2 )]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_left = 14.0
+margin_top = -97.0
+margin_right = 254.0
+margin_bottom = -68.0
+text = "ReturnToHubScene"
+
+[node name="commonButtonExitGame" parent="." instance=ExtResource( 2 )]
+anchor_top = 1.0
+anchor_bottom = 1.0
+margin_left = 14.0
+margin_top = -55.0
+margin_right = 254.0
+margin_bottom = -26.0
+text = "ExitGame"
+
+[node name="commonButtonReturnToGame" parent="." instance=ExtResource( 2 )]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -496.0
+margin_top = -140.0
+margin_right = -256.0
+margin_bottom = -111.0
+text = "ReturnToGame"
+
+[node name="commonBG1BG1" parent="." instance=ExtResource( 3 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -384.0
+margin_top = -215.0
+margin_right = 384.0
+margin_bottom = 217.0
+grow_horizontal = 2
+
+[node name="titleButton20General" parent="commonBG1BG1" instance=ExtResource( 10 )]
+margin_top = -40.0
+margin_right = 120.0
+margin_bottom = -5.0
+text = "General"
+
+[node name="titleButton20Keyboard" parent="commonBG1BG1" instance=ExtResource( 10 )]
+margin_left = 130.0
+margin_top = -40.0
+margin_right = 250.0
+margin_bottom = -5.0
+text = "Keyboard"
+
+[node name="titleButton20About" parent="commonBG1BG1" instance=ExtResource( 10 )]
+margin_left = 260.0
+margin_top = -40.0
+margin_right = 380.0
+margin_bottom = -5.0
+
+[node name="controlGeneral" type="Control" parent="commonBG1BG1"]
+visible = false
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelVideoResolutionRatio" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 4 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -20.0
+margin_top = 32.0
+margin_right = 160.0
+margin_bottom = 55.0
+text = "VideoResolutionRatio"
+align = 2
+
+[node name="commonOptionButtonVideoResolutionRatio" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 7 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 172.0
+margin_top = 29.0
+margin_right = 412.0
+margin_bottom = 58.0
+group = SubResource( 1 )
+text = "VideoResolutionRatio"
+
+[node name="commonLabelFullScreen" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 4 )]
+margin_left = 437.0
+margin_top = 52.0
+margin_right = 557.0
+margin_bottom = 75.0
+text = "FullScreen"
+align = 2
+
+[node name="commonCheckBoxFullScreen" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 8 )]
+margin_left = 562.0
+margin_top = 48.0
+margin_right = 586.0
+margin_bottom = 79.0
+
+[node name="commonLabelWindowStretch" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 4 )]
+margin_left = 596.0
+margin_top = 52.0
+margin_right = 726.0
+margin_bottom = 75.0
+text = "WindowStretch"
+align = 2
+
+[node name="commonCheckBoxWindowStretch" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 8 )]
+margin_left = 731.0
+margin_top = 48.0
+margin_right = 755.0
+margin_bottom = 79.0
+
+[node name="commonLabelMusic" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 4 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -20.0
+margin_top = 84.0
+margin_right = 160.0
+margin_bottom = 107.0
+text = "Music"
+align = 2
+
+[node name="commonCheckBoxMusic" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 8 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 172.0
+margin_top = 80.0
+margin_right = 196.0
+margin_bottom = 111.0
+
+[node name="commonHSliderMusic" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 9 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 214.0
+margin_top = 85.0
+margin_right = 406.0
+margin_bottom = 101.0
+
+[node name="commonLabelMusicValue" parent="commonBG1BG1/controlGeneral/commonHSliderMusic" instance=ExtResource( 4 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -44.5
+margin_top = -26.0
+margin_right = 44.5
+margin_bottom = -3.0
+grow_horizontal = 2
+text = "MusicValue"
+align = 1
+
+[node name="commonLabelSoundEffect" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 4 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -20.0
+margin_top = 136.0
+margin_right = 160.0
+margin_bottom = 159.0
+text = "SoundEffect"
+align = 2
+
+[node name="commonCheckBoxSoundEffect" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 8 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 172.0
+margin_top = 132.0
+margin_right = 196.0
+margin_bottom = 163.0
+
+[node name="commonHSliderSoundEffect" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 9 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 214.0
+margin_top = 136.0
+margin_right = 406.0
+margin_bottom = 152.0
+
+[node name="commonLabelSoundEffectValue" parent="commonBG1BG1/controlGeneral/commonHSliderSoundEffect" instance=ExtResource( 4 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -68.5
+margin_top = -26.0
+margin_right = 67.5
+margin_bottom = -3.0
+grow_horizontal = 2
+text = "SoundEffectValue"
+align = 1
+
+[node name="commonLabelLanguage" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 4 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -20.0
+margin_top = 188.0
+margin_right = 160.0
+margin_bottom = 211.0
+text = "Language"
+align = 2
+
+[node name="commonButtonLanguage" parent="commonBG1BG1/controlGeneral" instance=ExtResource( 2 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 172.0
+margin_top = 185.0
+margin_right = 412.0
+margin_bottom = 214.0
+text = "Language"
+
+[node name="controlKeyboard" type="Control" parent="commonBG1BG1"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelKeyboardMove" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_top = 52.0
+margin_right = 180.0
+margin_bottom = 75.0
+text = "Move"
+align = 2
+
+[node name="commonLabelKeyboardMoveContent" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_left = 192.0
+margin_top = 52.0
+margin_right = 672.0
+margin_bottom = 75.0
+text = "MoveContent"
+
+[node name="CommonLabelKeyboardInteractionTalk" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_top = 104.0
+margin_right = 180.0
+margin_bottom = 127.0
+text = "InteractionTalk"
+align = 2
+
+[node name="CommonLabelKeyboardInteractionTalkContent" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_left = 192.0
+margin_top = 104.0
+margin_right = 672.0
+margin_bottom = 127.0
+text = "InteractionTalkContent"
+
+[node name="commonLabelKeyboardPlayChess" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_top = 156.0
+margin_right = 180.0
+margin_bottom = 179.0
+text = "PlayChess"
+align = 2
+
+[node name="commonLabelKeyboardPlayChessContent" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_left = 192.0
+margin_top = 156.0
+margin_right = 672.0
+margin_bottom = 179.0
+text = "PlayChessContent"
+
+[node name="commonLabelKeyboardSelectCharacter" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_top = 208.0
+margin_right = 180.0
+margin_bottom = 231.0
+text = "SelectCharacter"
+align = 2
+
+[node name="commonLabelKeyboardSelectCharacterContent" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_left = 192.0
+margin_top = 208.0
+margin_right = 672.0
+margin_bottom = 231.0
+text = "SelectCharacterContent"
+
+[node name="commonLabelKeyboardBag" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_top = 260.0
+margin_right = 180.0
+margin_bottom = 283.0
+text = "Bag"
+align = 2
+
+[node name="commonLabelKeyboardBagContent" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_left = 192.0
+margin_top = 260.0
+margin_right = 672.0
+margin_bottom = 283.0
+text = "BagContent"
+
+[node name="commonLabelKeyboardJournalRecord" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_top = 312.0
+margin_right = 180.0
+margin_bottom = 335.0
+text = "JournalRecord"
+align = 2
+
+[node name="commonLabelKeyboardJournalRecordContent" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_left = 192.0
+margin_top = 312.0
+margin_right = 672.0
+margin_bottom = 335.0
+text = "JournalRecordContent"
+
+[node name="commonLabelKeyboardOptionsScreen" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_top = 364.0
+margin_right = 180.0
+margin_bottom = 387.0
+text = "OptionsScreen"
+align = 2
+
+[node name="commonLabelKeyboardOptionsScreenContent" parent="commonBG1BG1/controlKeyboard" instance=ExtResource( 4 )]
+margin_left = 192.0
+margin_top = 364.0
+margin_right = 672.0
+margin_bottom = 387.0
+text = "OptionsScreenContent"
+
+[node name="controlAbout" type="Control" parent="commonBG1BG1"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelAboutName" parent="commonBG1BG1/controlAbout" instance=ExtResource( 4 )]
+margin_left = 50.0
+margin_top = 52.0
+margin_right = 650.0
+margin_bottom = 75.0
+
+[node name="commonLabelAboutVersion" parent="commonBG1BG1/controlAbout" instance=ExtResource( 4 )]
+margin_left = 50.0
+margin_top = 104.0
+margin_right = 650.0
+margin_bottom = 127.0
+
+[node name="commonLabelAboutCopyrightAndDevelopment" parent="commonBG1BG1/controlAbout" instance=ExtResource( 4 )]
+margin_left = 50.0
+margin_top = 156.0
+margin_right = 650.0
+margin_bottom = 179.0
+
+[node name="commonLabelContact" parent="commonBG1BG1/controlAbout" instance=ExtResource( 4 )]
+margin_left = 50.0
+margin_top = 208.0
+margin_right = 650.0
+margin_bottom = 231.0
+
+[node name="commonLabelThanks" parent="commonBG1BG1/controlAbout" instance=ExtResource( 4 )]
+margin_top = 364.0
+margin_right = 768.0
+margin_bottom = 387.0
+align = 1
+
+[node name="commonButton10Copy" parent="commonBG1BG1/controlAbout" instance=ExtResource( 11 )]
+margin_left = 400.0
+margin_top = 208.0
+margin_right = 460.0
+margin_bottom = 229.0
+
+[connection signal="pressed" from="commonButtonOK" to="." method="_on_commonButtonOK_pressed"]
+[connection signal="pressed" from="commonButtonCancel" to="." method="_on_commonButtonCancel_pressed"]
+[connection signal="pressed" from="commonButtonDefault" to="." method="_on_commonButtonDefault_pressed"]
+[connection signal="pressed" from="commonButtonReturnToHubScene" to="." method="_on_commonButtonReturnToHubScene_pressed"]
+[connection signal="pressed" from="commonButtonExitGame" to="." method="_on_commonButtonExitGame_pressed"]
+[connection signal="pressed" from="commonButtonReturnToGame" to="." method="_on_commonButtonReturnToGame_pressed"]
+[connection signal="pressed" from="commonBG1BG1/titleButton20General" to="." method="_on_titleButton20General_pressed"]
+[connection signal="pressed" from="commonBG1BG1/titleButton20Keyboard" to="." method="_on_titleButton20Keyboard_pressed"]
+[connection signal="pressed" from="commonBG1BG1/titleButton20About" to="." method="_on_titleButton20About_pressed"]
+[connection signal="item_selected" from="commonBG1BG1/controlGeneral/commonOptionButtonVideoResolutionRatio" to="." method="_on_commonOptionButtonVideoResolutionRatio_item_selected"]
+[connection signal="pressed" from="commonBG1BG1/controlGeneral/commonCheckBoxFullScreen" to="." method="_on_commonCheckBoxFullScreen_pressed"]
+[connection signal="pressed" from="commonBG1BG1/controlGeneral/commonCheckBoxWindowStretch" to="." method="_on_commonCheckBoxWindowStretch_pressed"]
+[connection signal="pressed" from="commonBG1BG1/controlGeneral/commonCheckBoxMusic" to="." method="_on_commonCheckBoxMusic_pressed"]
+[connection signal="mouse_entered" from="commonBG1BG1/controlGeneral/commonHSliderMusic" to="." method="_on_commonHSliderMusic_mouse_entered"]
+[connection signal="value_changed" from="commonBG1BG1/controlGeneral/commonHSliderMusic" to="." method="_on_commonHSliderMusic_value_changed"]
+[connection signal="pressed" from="commonBG1BG1/controlGeneral/commonCheckBoxSoundEffect" to="." method="_on_commonCheckBoxSoundEffect_pressed"]
+[connection signal="mouse_entered" from="commonBG1BG1/controlGeneral/commonHSliderSoundEffect" to="." method="_on_commonHSliderSoundEffect_mouse_entered"]
+[connection signal="value_changed" from="commonBG1BG1/controlGeneral/commonHSliderSoundEffect" to="." method="_on_commonHSliderSoundEffect_value_changed"]
+[connection signal="pressed" from="commonBG1BG1/controlGeneral/commonButtonLanguage" to="." method="_on_commonButtonLanguage_pressed"]
+[connection signal="pressed" from="commonBG1BG1/controlAbout/commonButton10Copy" to="." method="_on_commonButton10Copy_pressed"]

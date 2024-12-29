@@ -1,0 +1,26 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Script/Avatar/Equip/Wig1_AHair.gd" type="Script" id=1]
+[ext_resource path="res://Avatar/Equip/Wig2_A.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Avatar/Equip/Wig2_B.tscn" type="PackedScene" id=3]
+
+[node name="Wig2_AHair" type="Node2D"]
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="wig2_A1" parent="." instance=ExtResource( 2 )]
+
+[node name="wig2_B1" parent="." instance=ExtResource( 3 )]
+position = Vector2( 0, 7 )
+
+[node name="pinJoint2D_A1_B1" type="PinJoint2D" parent="."]
+visible = false
+position = Vector2( 0, 2 )
+node_a = NodePath("../wig2_A1")
+node_b = NodePath("../wig2_B1")
+bias = 0.9
+__meta__ = {
+"_edit_lock_": true
+}

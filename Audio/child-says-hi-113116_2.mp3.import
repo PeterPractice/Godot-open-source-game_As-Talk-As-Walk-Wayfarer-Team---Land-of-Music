@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/child-says-hi-113116_2.mp3-255e4698040b173e15fa7bd4274939cb.mp3str"
+
+[deps]
+
+source_file="res://Audio/child-says-hi-113116_2.mp3"
+dest_files=[ "res://.import/child-says-hi-113116_2.mp3-255e4698040b173e15fa7bd4274939cb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

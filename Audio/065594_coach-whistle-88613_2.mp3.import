@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/065594_coach-whistle-88613_2.mp3-1320a9539ca5da181abfceb55624dfe6.mp3str"
+
+[deps]
+
+source_file="res://Audio/065594_coach-whistle-88613_2.mp3"
+dest_files=[ "res://.import/065594_coach-whistle-88613_2.mp3-1320a9539ca5da181abfceb55624dfe6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

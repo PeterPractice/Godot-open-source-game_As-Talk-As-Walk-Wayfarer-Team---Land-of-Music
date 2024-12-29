@@ -1,0 +1,36 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Picture/Scene/ChangeSceneTrigger1/ChangeSceneTrigger1.png" type="Texture" id=1]
+
+[sub_resource type="Animation" id=1]
+resource_name = "flaunt1"
+length = 20.0
+loop = true
+step = 0.5
+tracks/0/type = "value"
+tracks/0/path = NodePath("sprite1:rotation_degrees")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 10 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ 0.0, 360.0 ]
+}
+
+[node name="NPCTriggerBG" type="Node2D"]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="sprite1" type="Sprite" parent="."]
+texture = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="animationPlayer1" type="AnimationPlayer" parent="."]
+autoplay = "flaunt1"
+anims/flaunt1 = SubResource( 1 )

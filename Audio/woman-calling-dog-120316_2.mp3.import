@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/woman-calling-dog-120316_2.mp3-2e8862e912c3e13c291ac6b82bbc97b2.mp3str"
+
+[deps]
+
+source_file="res://Audio/woman-calling-dog-120316_2.mp3"
+dest_files=[ "res://.import/woman-calling-dog-120316_2.mp3-2e8862e912c3e13c291ac6b82bbc97b2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

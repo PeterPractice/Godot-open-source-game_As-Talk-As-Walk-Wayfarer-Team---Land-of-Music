@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/gasp-7117_2.mp3-54b8df13dcb9aeb91d5ebc345f31db79.mp3str"
+
+[deps]
+
+source_file="res://Audio/gasp-7117_2.mp3"
+dest_files=[ "res://.import/gasp-7117_2.mp3-54b8df13dcb9aeb91d5ebc345f31db79.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

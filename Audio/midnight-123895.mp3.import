@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/midnight-123895.mp3-c838beb4a79bf54d65b7644bedca90f5.mp3str"
+
+[deps]
+
+source_file="res://Audio/midnight-123895.mp3"
+dest_files=[ "res://.import/midnight-123895.mp3-c838beb4a79bf54d65b7644bedca90f5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mmm-hmm-36292_2.mp3-fd2e52e877bdc1e4f0410644ba575572.mp3str"
+
+[deps]
+
+source_file="res://Audio/mmm-hmm-36292_2.mp3"
+dest_files=[ "res://.import/mmm-hmm-36292_2.mp3-fd2e52e877bdc1e4f0410644ba575572.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

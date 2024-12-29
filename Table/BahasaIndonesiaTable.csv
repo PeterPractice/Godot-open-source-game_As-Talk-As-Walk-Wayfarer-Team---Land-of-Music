@@ -1,0 +1,844 @@
+stringKey,stringContent
+NAME_GAME_NAME,Tim yang bercerita dan berjalan - Negara musik
+NAME_AVATAR_1,Petir 1
+NAME_AVATAR_2,Consigliere yang baik.
+NAME_AVATAR_3,Chen Xiao Ming
+NAME_AVATAR_4,Common Person
+NAME_AVATAR_5,Hayate!
+NAME_AVATAR_6,Petir 2
+NAME_AVATAR_7,Petir 3
+NAME_AVATAR_8,Li Crooked Neck
+NAME_AVATAR_9,Dewi matahari
+NAME_AVATAR_10,Slime Over
+NAME_AVATAR_11,Slime Growth
+NAME_AVATAR_12,Slime For
+NAME_AVATAR_13,Slime Love
+NAME_AVATAR_14,Slime Resist
+NAME_AVATAR_15,Slime Disaster
+NAME_AVATAR_16,Slime Donot
+NAME_AVATAR_17,Slime Cherish
+NAME_AVATAR_18,Si Warm Heart
+NAME_AVATAR_19,Fa Princess Younger Sister
+NAME_AVATAR_19_2,Autumn Yu
+NAME_AVATAR_20,Silver Dragon
+NAME_AVATAR_21,Slime Ten
+NAME_AVATAR_22,Slime Thousand
+NAME_AVATAR_23,Slime Years
+NAME_AVATAR_24,Slime Life
+NAME_AVATAR_25,Do King
+NAME_AVATAR_26,Re Queen
+NAME_AVATAR_27,Mi Princess Elder Sister
+NAME_AVATAR_28,La Housekeeper
+NAME_AVATAR_29,Sol Butler
+NAME_AVATAR_30,Ransel
+NAME_AVATAR_31,Notepad
+NAME_AVATAR_32,Surat dari {NAME_AVATAR_19}
+NAME_AVATAR_33,Three Dragons Gang
+NAME_AVATAR_34,Surat dari {NAME_AVATAR_33}
+GOODS_NAME_1,Probe kets
+GOODS_NAME_2,Teropong!
+GOODS_NAME_3,Rambut palsu.
+GOODS_NAME_4,Rambut palsu.
+GOODS_NAME_5,Rambut palsu.
+GOODS_NAME_6,Rambut palsu.
+GOODS_NAME_7,Rambut liburan panjang
+GOODS_NAME_8,Rambut liburan panjang
+GOODS_NAME_9,Rambut liburan panjang
+GOODS_NAME_10,Rambut liburan panjang
+JOB_LOBBYIST,Lobby boy
+NAME_1,Negeri bahagia
+PLAY_CHESS_NAME,DuiYi
+PLAY_CHESS_POINTS,{PLAY_CHESS_NAME} kredit
+SCENE_NAME_1_HOME,{NAME_AVATAR_1} rumah
+SCENE_NAME_3_HOME,{NAME_AVATAR_3} rumah
+SCENE_NAME_4_HOME,{NAME_AVATAR_4} rumah
+SCENE_NAME_3_HOME_COURTYARD,{NAME_AVATAR_3} halaman rumah
+SCENE_NAME_CHORD_SQUARE,Chord square.
+SCENE_NAME_STAVE_AVENUE,Quinjet boulevard
+SCENE_NAME_HALL_OF_MELODY,Aula melodi
+SCENE_NAME_CLINKER_VALLEY,Ngarai yang tak berjejak
+SCENE_NAME_CRACKING_VOICE_RIDGE,Bukit melanggar
+SCENE_NAME_PLAY_CHESS,DuiYi
+NPCARTICLETRIGGER_NAME_1,{NAME_AVATAR_1} pintu rumah
+STARTGAMEPANEL_TITLELABEL38GAMETITLE,{NAME_GAME_NAME}
+STARTGAMEPANEL_COMMONLABELVERSION,Version %s
+STARTGAMEPANEL_COMMONBUTTON31LOADGAME,Memuat
+STARTGAMEPANEL_STARTGAME,Memulai
+STARTGAMEPANEL_CONTINUEGAME,Lanjutkan
+STARTGAMEPANEL_COMMONBUTTON31OPTION,Opsi
+STARTGAMEPANEL_COMMONBUTTON31EXITGAME,Meninggalkan
+STARTGAMEPANEL_COMMONLABELARCHIVE,arsip
+STARTGAMEPANEL_ARCHIVE_NEW_GAME,Permainan baru
+STARTGAMEPANEL_ARCHIVE_CLEAR,hapus
+STARTGAMEPANEL_ARCHIVE_CLEAR_DOUBLE_CONFIRMATION,Hapus arsip %s dikonfirmasi ulang
+PANEL_BUTTON_OK,Uakin
+PANEL_BUTTON_CANCEL,Batalkan
+PANEL_BUTTON_CLOSE,Menutup
+OPTIONPANEL_COMMONLABEL31TITLE,Antarmuka opsi
+OPTIONPANEL_COMMONBUTTONLANGUAGE,Memilih bahasa
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO,Resolusi gambar:
+OPTIONPANEL_COMMONLABELFULLSCREEN,Layar penuh:
+OPTIONPANEL_COMMONLABELWINDOWSTRETCH,Gambar ditarik:
+OPTIONPANEL_COMMONLABELMUSIC,Music:
+OPTIONPANEL_COMMONLABELSOUNDEFFECT,Efek suara:
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_2,1280x720
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_3,1920x1080
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_SCREEN_RESOLUTION,Resolusi layar
+OPTIONPANEL_COMMONLABELLANGUAGE,Bahasa:
+OPTIONPANEL_COMMONBUTTONDEFAULT,Standar
+OPTIONPANEL_COMMONBUTTONRETURNTOHUBSCENE,Kembali ke aula
+OPTIONPANEL_COMMONBUTTONEXITGAME,Meninggalkan permainan
+OPTIONPANEL_COMMONBUTTONRETURNTOGAME,Kembali bermain
+OPTIONPANEL_GENERAL,Biasanya
+OPTIONPANEL_KEYBOARD,Tombol
+OPTIONPANEL_KEYBOARD_MOVE,Pindah:
+OPTIONPANEL_KEYBOARD_MOVE_CONTENT,ADSW (atau ←→↓↑)
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK,{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1}/{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK}:
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK_CONTENT,E
+OPTIONPANEL_KEYBOARD_PLAY_CHESS,Lawan:
+OPTIONPANEL_KEYBOARD_PLAY_CHESS_CONTENT,P (tombol tetikus kiri klik di mana saja untuk melanjutkan)
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER,Pilih peran:
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER_CONTENT,"1,2,3,4,5,6,7,8,9,0 "
+OPTIONPANEL_KEYBOARD_BAG,Ransel:
+OPTIONPANEL_KEYBOARD_BAG_CONTENT,B
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD,Notepad:
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD_CONTENT,"J (membalikkan halaman: PageUp, PageDown) "
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN,Antarmuka opsi:
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN_CONTENT,O
+OPTIONPANEL_ABOUT,Tentang
+OPTIONPANEL_ABOUT_NAME_OF_THE_GAME,Nama permainan: {NAME_GAME_NAME}.
+OPTIONPANEL_ABOUT_VERSION,Versi: %s.
+OPTIONPANEL_ABOUT_COPYRIGHT_AND_DEVELOPMENT,Deskripsi: %s.
+OPTIONPANEL_ABOUT_CONTACT,Kontak: %s.
+OPTIONPANEL_ABOUT_CONTACT_COPY,salin
+OPTIONPANEL_ABOUT_THANKS,"Terima kasih kepada keluarga saya, tanpa dukungan mereka, tidak akan ada permainan ini. "
+LANGUAGEPANEL_COMMONLABEL31TITLE,Pilih bahasa
+TIME_YEAR,tahun
+TIME_MONTH,bulan
+TIME_DAY,tanggal
+TIME_HOUR,ketika
+TIME_MINUTE,Poin.
+TIME_SECOND,detik
+BOOTSCENE_STARTING_STRING1,Memulai.
+BOOTSCENE_STARTING_STRING2,Memulai.
+BOOTSCENE_STARTING_STRING3,Mulai..
+BOOTSCENE_STARTING_STRING4,Memulai …
+DAYNIGHTPANEL_COMMONLABELDAYSNUMBER,Hari %s
+DAYNIGHTPANEL_FIRSTSTARTNIGHT,Sebentar lagi gelap.
+CURRENTSCENESHOWNAME_ENTER,Masuk ke %s.
+JOURNALRECORDPANEL_COMMONLABEL31TITLE,{NAME_AVATAR_31}
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20AVATAR,peran
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20BAG,barang
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20SCENE,tempat
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20TASK,Berjalan dari satu tempat
+JOURNALRECORDPANEL_PLAY_CHESS_POINTS,Skor akhir untuk game: %s ke %s.
+DOWNPANEL_CONTROLWRANGLEDIALOG_COMMONBUTTONWRANGLEDIALOGCONTINUE,Lanjutkan …
+DOWNPANEL_WRANGLEDIALOGBUTTON_STRINGFLAG,:
+UI_INPUT_ACTION_EVENT_TYPE_COMMONBUTTONITEM_TEXTUREBUTTON1_PRESSED_EVENT_IN_CD,Didinginkan.
+AVATAR_CAN_NOT_MOVE,Tidak bisa bergerak.
+AVATAR_HAD_EQUIP,Telah dikenakan: %s.
+AVATAR_HAD_EQUIP2,Sudah dikenakan.
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1,Interaktif
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK,Berbicara
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONPLAYCHESS1,{PLAY_CHESS_NAME}
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13BAGUSE,menggunakan
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13DISCARD,Kau buang
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD,Apakah anda membuang %s?
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_YES,Kau buang
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_NO,simpan
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13CHECK,memeriksa
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_1,Terbakar habis.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_2,Aman.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_3,Bersih.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_4,Kosong.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_5,Kosong.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_6,Kosong.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_7,"Kosong, kosong, kosong. "
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_8,"Kosong, kosong, kosong. "
+CHESSPANEL1_PLAYCHESS_START,{PLAY_CHESS_NAME} mulai
+CHESSPANEL1_PLAYCHESS_SUCCESS,{PLAY_CHESS_NAME} sukses
+CHESSPANEL1_PLAYCHESS_FAILURE,{PLAY_CHESS_NAME} gagal
+CHESSPANEL1_COMMONBUTTONCONTINUE,Terus
+CHESSPANEL1_MOUSECLICKCONTINUE,(tombol tetikus kiri klik di mana saja untuk melanjutkan)
+CHESSPANEL1_POINTS,%s skor akhir untuk game: %s.
+SLOGAN_NEW_DAY_1,Hari baru telah dimulai.
+SLOGAN_NEW_DAY_2,Hari petualangan dimulai.
+SLOGAN_NEW_DAY_3,Hari baru.
+SLOGAN_NEW_DAY_4,Hari petualangan.
+SLOGAN_NEW_DAY_5,Perjalanan panjang.
+SLOGAN_NEW_DAY_6,Perjalanan panjang dan siap untuk pergi.
+SLOGAN_NEW_DAY_7,Siap untuk pergi.
+SLOGAN_NEW_DAY_8,Pergilah.
+SLOGAN_AVATAR_DEAD_1,Malam menelan mereka yang tidak takut kegelapan.
+SLOGAN_AVATAR_DEAD_2,"Hari sudah gelap, kau ditelan oleh malam. "
+NAVIGATIONMANAGER_NOT_VALID_PATH_END_POSITION,Tujuan tidak valid.
+NAVIGATIONMANAGER_END_OBSTRUCTIONS_NEARBY,"Berhenti mencari jalan otomatis, ada penghalang di dekatnya. "
+GOODS_DESCRIPTION_1,"Dengan sepatu ini, anda dapat berjalan sendiri. "
+GOODS_DESCRIPTION_2,"Lihat lebih jauh, terutama di daerah dengan cahaya yang buruk. "
+GOODS_DESCRIPTION_3,Ini seharusnya on {JOB_LOBBYIST} {GOODS_NAME_3}.
+GOODS_DESCRIPTION_4,Ini seharusnya on {JOB_LOBBYIST} {GOODS_NAME_4}.
+GOODS_DESCRIPTION_5,Ini seharusnya on {JOB_LOBBYIST} {GOODS_NAME_5}.
+GOODS_DESCRIPTION_6,Ini seharusnya on {JOB_LOBBYIST} {GOODS_NAME_6}.
+GOODS_DESCRIPTION_7,Ini seharusnya on {JOB_LOBBYIST} {GOODS_NAME_7}.
+GOODS_DESCRIPTION_8,Ini seharusnya on {JOB_LOBBYIST} {GOODS_NAME_8}.
+GOODS_DESCRIPTION_9,Ini seharusnya menjadi {JOB_LOBBYIST} {GOODS_NAME_9}.
+GOODS_DESCRIPTION_10,Ini seharusnya on {JOB_LOBBYIST} {GOODS_NAME_10}.
+GOODS_DESCRIPTION_11,"Ransel membawa banyak barang, petualangan, peralatan yang diperlukan untuk mendaki. "
+GOODS_DESCRIPTION_12,"Catatlah apa yang dilihat, didengar, dilihat dan dirasakan sepanjang perjalanan. Subhalaman yang merekam para anggota tim. Subhalaman, deskripsi tentang isi dalam ransel. Sampul, tempat yang terekam. Semuanya yang diajarkannya akan terekam. "
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_1,Sebuah sepatu berarti sepasang sepatu?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_2,Kaki kiri dan kanan adalah sepatu?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_3,Di mana anda menyimpan baterai?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_4,Tak ada saklarnya.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_5,Dimana tombolnya?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_6,Sudah dipasang.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_7,Dapat menemukan jalan.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_8,Tidak akan tersesat kali ini.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_9,Kemana kita akan pergi?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_10,Mari kita lihat di mana kita akan pergi.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_1,Lihatlah lebih jauh.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_2,Supaya terlihat lebih baik.
+GOODSADDFUNCTION_TELESCOPE_1,"Keterampilan baru, peramal. "
+GOODSADDFUNCTION_TELESCOPE_2,Tidak banyak peramal. 10 meter pasti ada.
+GOODSREMOVEFUNCTION_TELESCOPE_1,Tak bisa melihat lebih jauh.
+GOODSREMOVEFUNCTION_TELESCOPE_2,Memakai sesuatu yang kurang nyaman?
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_1,Sebuah cahaya yang hidup.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_2,Shen-woo.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_3,Yuzuki.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_4,Tegakkan kepalamu.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_5,Secara profesional.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_6,"Pria dengan rambut, kuda dengan pelana. "
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_7,Mungkin akan ada peningkatan kecerdasan.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_8,Intelijen plus 1.
+GOODSADDFUNCTION_WIG_1,Barang bagus.
+GOODSADDFUNCTION_WIG_2,Akhirnya ditemukan.
+GOODSADDFUNCTION_WIG_3,Lumayan.
+GOODSADDFUNCTION_WIG_OTHER_1,Rambut palsu?
+GOODSADDFUNCTION_WIG_OTHER_2,Dan wig seharusnya on me {JOB_LOBBYIST}.
+GOODSADDFUNCTION_WIG_OTHER_3,Wig on {JOB_LOBBYIST}?
+GOODSREMOVEFUNCTION_WIG_1,Intelijen-1.
+GOODSREMOVEFUNCTION_WIG_2,Kepala dingin.
+GOODSREMOVEFUNCTION_WIG_3,Rasanya tidak profesional lagi.
+GOODSREMOVEFUNCTION_WIG_4,Mengalami penurunan kecerdasan.
+GOODSREMOVEFUNCTION_WIG_5,Seperti rambut terbakar.
+GOODSREMOVEFUNCTION_WIG_6,Tak perlu malu untuk membuang wig ini.
+GOODSREMOVEFUNCTION_WIG_7,Dia profesional tanpa rambut palsu.
+GOODSREMOVEFUNCTION_WIG_8,Mayor tak bisa mengandalkan wig.
+GOODSADDFUNCTION_FOOT_1,Dia tahu harus bagaimana.
+GOODSADDFUNCTION_FOOT_2,Apa sepatu ini sangat bagus? Bisa nav?
+GOODSADDFUNCTION_FOOT_3,Apa kau perlu listrik untuk navigasi?
+GOODSADDFUNCTION_FOOT_4,Apa itu petunjuk arah?
+GOODSADDFUNCTION_FOOT_5,"Cara berjalan, hanya dengan memakai sepatu. "
+GOODSREMOVEFUNCTION_FOOT_1,Bertelanjang kaki.
+GOODSREMOVEFUNCTION_FOOT_2,Tidak ada navigasi lagi.
+GOODSREMOVEFUNCTION_FOOT_3,"Sepatu dibuang, hilang begitu saja; Navigasi yang hilang. "
+GOODS_IN_USE,Gunakan.
+GOODS_UNUSED,Tidak digunakan.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE,Jarak pandang: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE,Bentuk cakrawala: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_RHOMBUS,berlian
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_EGG,Humpty dumpty ini
+CANNOT_WEAR_IT_LOBBYIST_WIG_1,Wig pribadi {JOB_LOBBYIST}.
+CANNOT_WEAR_IT_LOBBYIST_WIG_2,Ini adalah wig digunakan untuk {JOB_LOBBYIST}.
+BAG_IS_FULL,Ransel penuh dan tidak bisa membawa lebih banyak barang.
+BAG_ADD,%s.
+BAG_REMOVE,Jatuhkan: %s.
+BAG_USE,Gunakan: %s.
+TOP_BUTTON,Tombol atas
+BOTTOM_BUTTON,Tombol bawah
+CLEAR_BUTTON,Bersihkan tombol
+AVATAR_DESCRIPTION_1,Aku ular yang kuat. Aku paling tua dari 3 bersaudara.
+AVATAR_DESCRIPTION_2,"Aku teman kecil pihak ketiga. Aku akan menjadi seperti awan di langit, ceroboh berlari, hujan atau angin. Rumahnya bagus, aku juga suka keluyuran, ayo kita jalan-jalan! "
+AVATAR_DESCRIPTION_3,Kelas lima sd merupakan tahap penting dalam kehidupan seorang siswa.
+AVATAR_DESCRIPTION_4,"Sebagai pengacara, di pengadilan, saya sangat baik. Sebelumnya aku pemain sepak bola. Siapa yang melihat rambut palsuku? "
+AVATAR_DESCRIPTION_8,"Aku seorang pengusaha, cukup adil adalah keyakinanku. "
+AVATAR_DESCRIPTION_6,"Aku ular yang kuat, ular yang memakai baju besi. Aku urutan kedua dari tiga bersaudara. "
+AVATAR_DESCRIPTION_7,"Aku ular, ular yang kuat, ular yang memakai baju besi dan lengan robot. Aku di urutan ketiga dari tiga bersaudara. "
+AVATAR_DESCRIPTION_5,Kecepatan adalah prioritas utama. Muridku semuanya kuat. Aku sudah mencari tempat yang jauh.
+AVATAR_DESCRIPTION_9,"Berbicaralah kepada saya jika anda mau. Anjingku sering berkeliaran, kau melihatnya? "
+AVATAR_DESCRIPTION_10,"Kita bukan hama, hanya terapung. "
+AVATAR_DESCRIPTION_11,Kami bukan kutu yang hidup.
+AVATAR_DESCRIPTION_12,"Kita bukan hama, untuk idealnya. "
+AVATAR_DESCRIPTION_13,"Kami bukan hama, kami ini pecinta alam. "
+AVATAR_DESCRIPTION_14,Kita bukanlah hama.
+AVATAR_DESCRIPTION_15,"Kami bukan hama, pembajakan adalah pengalaman. "
+AVATAR_DESCRIPTION_16,"Kita tidak hama, tidak melihat masa depan, kita alami untuk bersenang-senang. "
+AVATAR_DESCRIPTION_17,"Kita bukan hama, ""sir"", tapi ""sikap"". "
+AVATAR_DESCRIPTION_18,"Lahir di keluarga kerajaan, tak pernah keluar untuk petualangan. Saya akan menjadi seperti bintang-bintang di langit. Kami saling menemani untuk perjalanan jauh."
+AVATAR_DESCRIPTION_19,Seorang putri bukanlah profesi seseorang. Putri juga memiliki banyak teman baik.
+AVATAR_DESCRIPTION_20,Operasi ini harus dilakukan secara rahasia.
+AVATAR_DESCRIPTION_21,"Kami bukan hama, satu dari sejuta. "
+AVATAR_DESCRIPTION_22,"Kita bukan hama, kita muda dan subur. "
+AVATAR_DESCRIPTION_23,"Kami bukan kutu, fix-it, itu adalah hidup. "
+AVATAR_DESCRIPTION_24,"Kami bukan kutu, untuk, eh, jenis kehidupan dan sikap. "
+AVATAR_DESCRIPTION_25,{NAME_1} Aku menyambutmu.
+AVATAR_DESCRIPTION_26,"Aku permaisuri, {NAME_1} selamat datang. "
+AVATAR_DESCRIPTION_27,Aku putri agung dan tahta adalah milikku.
+AVATAR_DESCRIPTION_28,Kau pasti lapar. Kau mau makan apa? Katakan padaku.
+AVATAR_DESCRIPTION_29,"Melayani adalah keinginanku. Topiku bagus, aku takkan pakai wig itu. "
+ADDAVATARFROMSCENE_ADD_TEAM_MEMBERS,Tim menambahkan anggota baru: %s.
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_YOU_CANNOT_ADD_TEAM_MEMBERS_REPEATEDLY,Tak dapat mengulang tambahan anggota tim: %s.
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_THE_TEAM_HAS_A_MAXIMUM_OF_AVATAR,Tim maksimal %s.
+TIPS_STRING_AND_FLAG,", "
+NO_JOURNALRECORDBOOK_CAN_NOT_VIEW,Tak bisa melihat catatan tanpa {NAME_AVATAR_31}
+NO_JOURNALRECORDBOOK,Tidak ada {NAME_AVATAR_31}
+NO_BAG_NO_MORE_ITEMS,Tidak bisa membawa lebih banyak barang tanpa {NAME_AVATAR_30}
+NO_BAG,Tidak ada {NAME_AVATAR_30}
+SCENE_CONTENT_1_HOME,{NAME_AVATAR_1} Ada kekuatan yang besar di rumah.
+SCENE_CONTENT_3_HOME,{NAME_AVATAR_3} Rumah yang memiliki meja dan meja yang memiliki {NAME_AVATAR_31}
+SCENE_CONTENT_4_HOME,{NAME_AVATAR_4} di ranjang rumah ada {NAME_AVATAR_30}
+SCENE_CONTENT_3_HOME_COURTYARD,{NAME_AVATAR_3} di halaman rumah ada {NAME_AVATAR_2}
+SCENE_CONTENT_CHORD_SQUARE,"Teman-teman kecil sering berkumpul di sini. \n tidak tahu kapan beberapa pohon mulai layu, dan ada banyak jejak roda yang terkelupas di tanah. "
+SCENE_CONTENT_STAVE_AVENUE,The avenue ke depan yang tidak diketahui. Harusnya ada beberapa jalan disini.
+SCENE_CONTENT_HALL_OF_MELODY,"{NAME_1} istana di sini, yang memiliki banyak ruang. "
+SCENE_CONTENT_CLINKER_VALLEY,"Tempat pengasingan, mungkin menemukan seseorang yang ingin ditemukan di sini. "
+SCENE_CONTENT_CRACKING_VOICE_RIDGE,"Daerah antah-berantah, berhutan lebat. "
+SCENE_CONTENT_PLAY_CHESS,"Di mana pertandingan berlangsung, keberuntungan bersamamu. "
+WRANGLEDIALOG_1_CONTENT,Pick up?
+WRANGLEDIALOG_1_BUTTON_1,Pick up.
+WRANGLEDIALOG_1_BUTTON_2,Bukan memungut.
+WRANGLEDIALOG_2_CONTENT,Pick up?
+WRANGLEDIALOG_2_BUTTON_1,Pick up.
+WRANGLEDIALOG_2_BUTTON_2,Bukan memungut.
+WRANGLEDIALOG_3_CONTENT,Buka pintunya?
+WRANGLEDIALOG_3_BUTTON_1,Buka.
+WRANGLEDIALOG_3_BUTTON_2,Tidak terbuka.
+WRANGLEDIALOG_3_FUNCTION_1,Pintunya terbuka.
+WRANGLEDIALOG_4_CONTENT,Pakai yang kau butuhkan sebelum kau pergi keluar {NAME_AVATAR_30}.
+WRANGLEDIALOG_5_CONTENT,{NAME_AVATAR_31} Bisa mencatat banyak hal dan menyaksikan petualangan.
+WRANGLEDIALOG_6_CONTENT,"Dunia berbahaya diluar sana, dan penuh dengan hal baru dan kesenangan pada saat yang sama. "
+WRANGLEDIALOG_6_BUTTON_1,Aku ingin keluar dan melihatnya.
+WRANGLEDIALOG_7_CONTENT,Nasihat sebelum anda pergi.
+WRANGLEDIALOG_7_BUTTON_1,Aku mendengarkan.
+WRANGLEDIALOG_8_CONTENT,Tantangan ada di mana-mana.
+WRANGLEDIALOG_8_BUTTON_1,Aku siap untuk itu.
+WRANGLEDIALOG_9_CONTENT,Aku merasa bisa lebih kuat.
+WRANGLEDIALOG_9_BUTTON_1,Kau sudah sangat kuat.
+WRANGLEDIALOG_9_BUTTON_2,Bisa lebih kuat?
+WRANGLEDIALOG_10_CONTENT,Aku selalu merasa ada kekuatan besar menungguku.
+WRANGLEDIALOG_10_BUTTON_1,Sudiklah.
+WRANGLEDIALOG_10_BUTTON_2,Kekuatan besar membuat orang menunggu.
+WRANGLEDIALOG_11_CONTENT,Kekuatan ini membuatku merasa tua.
+WRANGLEDIALOG_11_BUTTON_1,Apakah sudah lama?
+WRANGLEDIALOG_11_BUTTON_2,Kau akan menemukannya.
+WRANGLEDIALOG_12_CONTENT,Apakah kita pergi pada petualangan bersama?
+WRANGLEDIALOG_12_BUTTON_1,Bergabunglah dengan tim kami!
+WRANGLEDIALOG_12_BUTTON_2,Tunggu sebentar.
+GOODS_DESCRIPTION_13,"Ulang tahunku akan datang, pesta ulang tahunku. Kemarilah. Ia sudah lama tidak melihatmu, dan ia sangat rindu kepadamu. \n {NAME_AVATAR_19}, teman sekelas anda {NAME_AVATAR_19}."
+WRANGLEDIALOG_13_CONTENT,{PLAY_CHESS_NAME} sukses membuka pintu. \n tapi itu hanya sekedar mengajar. Kegagalan masih bisa datang dan membuka pintu lagi.
+WRANGLEDIALOG_13_1_CONTENT,Semua hal yang telah dilayangkan dapat langsung dimainkan. \n {PLAY_CHESS_NAME} adalah tim yang terkadang mendapat hasil yang berbeda dengan pemain yang berada di depan.
+WRANGLEDIALOG_13_BUTTON_1,Ayo kita lakukan.
+WRANGLEDIALOG_14_CONTENT,Aku selalu ingin menemukan mereka.
+WRANGLEDIALOG_15_CONTENT,Tidak begitu jauh.
+WRANGLEDIALOG_16_CONTENT,Apa aku akan menemukan mereka?
+WRANGLEDIALOG_17_CONTENT,Tapi kita masih butuh nama.
+WRANGLEDIALOG_18_CONTENT,Menunggu lagi?
+WRANGLEDIALOG_18_BUTTON_1,Bagaimana dengan kegagalan?
+WRANGLEDIALOG_19_CONTENT,"Yakinlah, jangan sampai gagal."
+WRANGLEDIALOG_19_BUTTON_1,"Baiklah, mari kita lakukan."
+WRANGLEDIALOG_20_CONTENT,Kau datang padaku?
+WRANGLEDIALOG_20_BUTTON_1,Ya.
+WRANGLEDIALOG_20_1_CONTENT,Ayo pergi.
+WRANGLEDIALOG_20_2_CONTENT,"Oh, benar."
+WRANGLEDIALOG_20_3_CONTENT,Apa kau ingat …
+WRANGLEDIALOG_20_3_BUTTON,Aku terkesan.
+WRANGLEDIALOG_20_4_CONTENT,Dia teman sekolahku dulu.
+WRANGLEDIALOG_20_5_CONTENT,Belum melihatnya dalam waktu yang lama.
+WRANGLEDIALOG_20_6_CONTENT,Aku sadar sebentar lagi hari ulang tahunnya.
+WRANGLEDIALOG_20_6_BUTTON,Apa dia pacarmu?
+WRANGLEDIALOG_20_7_CONTENT,"Sebenarnya, kami hanya teman sekelas."
+WRANGLEDIALOG_20_8_CONTENT,Persahabatan antar teman sekelas.
+WRANGLEDIALOG_20_8_BUTTON,Itu pertanyaan yang sangat sederhana.
+WRANGLEDIALOG_20_9_CONTENT,Ayo kita temui dia.
+WRANGLEDIALOG_20_9_BUTTON,Buenas tardes.
+WRANGLEDIALOG_21_CONTENT,Namun kita masih perlu memainkan nama sebelum pergi juga kesempatan untuk belajar.
+WRANGLEDIALOG_21_BUTTON_1,"Baiklah, mari kita lakukan."
+WRANGLEDIALOG_22_CONTENT,Ada yang bisa kubantu?
+WRANGLEDIALOG_22_BUTTON_1,Apakah kamu sibuk?
+WRANGLEDIALOG_23_CONTENT,Saya ingin menguji tekad anda sebelum berangkat.
+WRANGLEDIALOG_23_BUTTON_1,"Baiklah, mari kita lakukan."
+WRANGLEDIALOG_24_CONTENT,Kemana kita akan pergi?
+WRANGLEDIALOG_24_BUTTON_1,Berpetualang.
+WRANGLEDIALOG_24_1_CONTENT,"Pergi keluar sana dan memiliki petualangan, membawaku ah."
+WRANGLEDIALOG_24_1_BUTTON_1,Berjalan bersama.
+WRANGLEDIALOG_24_2_CONTENT,"Tapi, aku tidak akan pergi tanpa teman kecil terbaikku."
+WRANGLEDIALOG_24_2_BUTTON_1,Teman kecil terbaikmu?
+WRANGLEDIALOG_24_3_CONTENT,"Memiliki teman kecil terbaik, perjalanan yang tidak diketahui, penuh harapan."
+WRANGLEDIALOG_24_3_BUTTON_1,Dan kau baik dengan puisi.
+WRANGLEDIALOG_24_4_CONTENT,"Lebih sering membaca buku, pasti."
+WRANGLEDIALOG_24_5_CONTENT,Aku akan pergi dengan teman kecil terbaikku.
+WRANGLEDIALOG_24_6_CONTENT,"Jika anda menang di PLAY_CHESS_NAME, saya mungkin mempertimbangkan mengambil risiko dengan anda."
+WRANGLEDIALOG_25_CONTENT,Petualangan selalu diharapkan.
+WRANGLEDIALOG_25_BUTTON_1,"Baiklah, mari kita lakukan."
+WRANGLEDIALOG_22_1_CONTENT,Sibuk.
+WRANGLEDIALOG_22_1_BUTTON_1,Sibuk?
+WRANGLEDIALOG_22_2_CONTENT,"Sebagai pengacara, tugasku adalah meyakinkan orang."
+WRANGLEDIALOG_22_2_BUTTON_1,"So, honorious {JOB_LOBBYIST}, mari kita berpetualang bersama-sama."
+WRANGLEDIALOG_22_3_CONTENT,Aku sibuk.
+WRANGLEDIALOG_22_3_BUTTON_1,"Kami berpetualang bersama, tanpa henti mendengar cerita yang ingin kau ceritakan."
+WRANGLEDIALOG_22_4_CONTENT,"Aku memang suka bicara, tapi belakangan ini aku tidak tertarik."
+WRANGLEDIALOG_22_4_BUTTON_1,Kau kelelahan dan perlu penyesuaian.
+WRANGLEDIALOG_22_5_CONTENT,"Memang, setelah dipecat dari perusahaan, aku tinggal di rumah."
+WRANGLEDIALOG_22_5_BUTTON_1,"Jadi, kami membutuhkanmu."
+WRANGLEDIALOG_22_6_CONTENT,Kalian membutuhkanku?
+WRANGLEDIALOG_22_6_BUTTON_1,"Dan karena kau teman kecil yang baik, kami membutuhkanmu."
+WRANGLEDIALOG_22_7_CONTENT,Perjalanan penuh risiko dan aku takut aku tidak akan bertahan.
+WRANGLEDIALOG_22_7_BUTTON_1,Bagaimana kau tahu tanpa mencobanya?
+WRANGLEDIALOG_22_8_CONTENT,"Itu juga, hidup adalah petualangan yang tidak diketahui."
+WRANGLEDIALOG_22_9_CONTENT,"Pikirkan seribu kali, mungkin kita lakukan sekali saja."
+WRANGLEDIALOG_22_10_CONTENT,"Benar, 'kan?"
+WRANGLEDIALOG_22_10_BUTTON_1,"Jadi, apa yang kita tunggu?"
+WRANGLEDIALOG_54_CONTENT,Sudah lama tidak bertemu.
+WRANGLEDIALOG_54_BUTTON_1,Lama hilang.
+WRANGLEDIALOG_54_1_CONTENT,Kami masih mengikuti kekuatan besar.
+WRANGLEDIALOG_54_1_BUTTON_1,Menemukan sesuatu?
+WRANGLEDIALOG_54_2_CONTENT,Tak banyak yang bisa ditemukan.
+WRANGLEDIALOG_54_3_CONTENT,Aku selalu merasa ada kekuatan yang tak terlalu jauh.
+WRANGLEDIALOG_54_3_BUTTON_1,Kami juga merasakannya.
+WRANGLEDIALOG_54_4_CONTENT,"Jadi, kita adalah tim."
+WRANGLEDIALOG_54_4_BUTTON_1,Bagaimana lagi perasaanmu tentang kekuatan besar ini?
+WRANGLEDIALOG_54_5_CONTENT,Saya merasa bahwa kita masih perlu mencari dan akhirnya menemukan jawaban.
+WRANGLEDIALOG_54_5_BUTTON_1,"Bergabunglah dengan tim kami, kami akan mencari jawaban bersama."
+WRANGLEDIALOG_54_6_CONTENT,"Aku juga baru saja ditransmisikan, dan perangkat yang mengirimkan kita juga didorong oleh kekuatan itu."
+WRANGLEDIALOG_54_6_BUTTON_1,Kalian sudah menemukannya?
+WRANGLEDIALOG_54_7_CONTENT,Ini adalah sisa dari pertempuran terakhir.
+WRANGLEDIALOG_54_8_CONTENT,Pasti ada tim lain yang datang dari belakang.
+WRANGLEDIALOG_54_8_BUTTON_1,"Mari kita lihat di luar, kita akan segera kembali dan menjemputnya."
+WRANGLEDIALOG_55_CONTENT,"Setelah beberapa hari berlalu, saya masih ingin menguji kepercayaan anda."
+WRANGLEDIALOG_55_BUTTON_1,"Baiklah, mari kita lakukan."
+PLANET_47,Planet 47.
+WRANGLEDIALOG_56_CONTENT,Sudah sampai dengan selamat.
+WRANGLEDIALOG_56_BUTTON_1,Sudah lama tidak bertemu.
+WRANGLEDIALOG_56_1_CONTENT,Apa yang sedang kulihat?
+WRANGLEDIALOG_56_1_BUTTON_1,Lihat apa?
+WRANGLEDIALOG_56_2_CONTENT,"Aku tidak begitu yakin, karena aku merasa kalau kekuatan itu tidak stabil."
+WRANGLEDIALOG_56_3_CONTENT,"Sepertinya ada semacam perangkat seperti antena, atau sesuatu."
+WRANGLEDIALOG_56_3_BUTTON_1,Apa yang mereka lakukan?
+WRANGLEDIALOG_56_4_CONTENT,"Entahlah, tapi ini berhubungan dengan ketidakstabilan kekuatan itu."
+WRANGLEDIALOG_56_4_BUTTON_1,Apa lagi yang kau lihat?
+WRANGLEDIALOG_56_5_CONTENT,Sepertinya aku melihat dua gadis lagi.
+WRANGLEDIALOG_56_5_BUTTON_1,Dua gadis?
+WRANGLEDIALOG_56_6_CONTENT,"Itu kabur, aku tidak begitu yakin."
+WRANGLEDIALOG_56_7_CONTENT,Sepertinya ada orang lain disebelahnya.
+WRANGLEDIALOG_56_7_BUTTON_1,Oh?
+WRANGLEDIALOG_56_8_CONTENT,Aku merasa dia begitu …
+WRANGLEDIALOG_56_8_BUTTON_1,- apakah itu -- - {NAME_AVATAR_33}?
+WRANGLEDIALOG_56_9_CONTENT,"Seharusnya tidak, dalam pertempuran terakhir, dia seharusnya sudah dibuang."
+WRANGLEDIALOG_56_9_BUTTON_1,"Memang, itu jauh dari sini, tak mungkin dia."
+WRANGLEDIALOG_56_10_CONTENT,Kita akan memulai petualangan baru.
+WRANGLEDIALOG_57_CONTENT,Apa kekuatan kita masih sama seperti biasanya? Aku masih ingin bertarung.
+WRANGLEDIALOG_57_BUTTON_1,"Baiklah, mari kita lakukan."
+WRANGLEDIALOG_76_1_CONTENT,Kalian sudah dengar kisahku.
+WRANGLEDIALOG_76_2_CONTENT,"Sangat lama, mungkin hampir terlupakan."
+WRANGLEDIALOG_76_3_CONTENT,"Tiga muridku telah mempelajari semua keahlianku, dan mereka sangat kuat."
+WRANGLEDIALOG_76_4_CONTENT,"Aku suka berpindah-pindah, langit dan bumi adalah rumahku."
+WRANGLEDIALOG_76_5_CONTENT,"Aku sudah bertemu banyak orang, banyak hal luar biasa."
+WRANGLEDIALOG_76_6_CONTENT,"Aku tidak suka berkelahi, tapi aku punya nyali untuk menentukan."
+WRANGLEDIALOG_76_7_CONTENT,Kemenangan hanyalah pujian dariku.
+WRANGLEDIALOG_76_7_BUTTON_1,DuiYi
+WRANGLEDIALOG_76_7_BUTTON_2,Selamat tinggal
+WRANGLEDIALOG_83_CONTENT,"Sayang, kalian mau kemana?"
+WRANGLEDIALOG_83_BUTTON_1,Apakah ini …?
+WRANGLEDIALOG_83_1_CONTENT,"Kerajaan besar, negeri musik, tanah air dan tanah kelahiran saya, sebagai anggota keluarga kerajaan, jawaban untuk anda adalah bahwa itu tepat di sini."
+WRANGLEDIALOG_83_1_BUTTON_1,"Halo, senang bertemu denganmu."
+WRANGLEDIALOG_83_2_CONTENT,Ada urusan apa kalian kemari?
+WRANGLEDIALOG_83_2_BUTTON_1,Kami ingin mencari putri anda.
+WRANGLEDIALOG_83_3_CONTENT,Oh?
+WRANGLEDIALOG_83_3_BUTTON_1,Kami tahu putri anda akan merayakan ulang tahunnya.
+WRANGLEDIALOG_83_4_CONTENT,Kalian saling kenal?
+WRANGLEDIALOG_83_4_BUTTON_1,Kami teman sekelas putri.
+WRANGLEDIALOG_83_5_CONTENT,"Aku mengamati kalian, dan dalam pengalamanku, kalian mungkin mengenal satu sama lain."
+WRANGLEDIALOG_83_5_BUTTON_1,Bisakah kau membantu kami menemukannya?
+WRANGLEDIALOG_83_6_CONTENT,Sulit untuk mengatakan bahwa kita harus bertanya kepada raja dan ratu.
+WRANGLEDIALOG_83_6_BUTTON_1,Bisa mengantar kami?
+WRANGLEDIALOG_83_7_CONTENT,Aku anggota kerajaan yang bersemangat.
+WRANGLEDIALOG_83_8_CONTENT,"Tapi, kalian perlu bukti bahwa aku mempercayai kalian."
+WRANGLEDIALOG_84_CONTENT,Apakah itu baik-baik saja?
+WRANGLEDIALOG_84_BUTTON_1,"Baiklah, mari kita lakukan."
+WRANGLEDIALOG_93_CONTENT,Kau mau berbisnis denganku?
+WRANGLEDIALOG_93_BUTTON_1,Ada transaksi besar.
+WRANGLEDIALOG_93_1_CONTENT,Kesepakatan macam apa?
+WRANGLEDIALOG_93_1_BUTTON_1,Transaksi besar.
+WRANGLEDIALOG_93_2_CONTENT,Aku melakukan bisnis yang adil.
+WRANGLEDIALOG_93_2_BUTTON_1,Kedengarannya adil.
+WRANGLEDIALOG_93_3_CONTENT,"Cepat katakan, apa masalahnya?"
+WRANGLEDIALOG_93_3_BUTTON_1,Aku ingin kau ikut dengan kami.
+WRANGLEDIALOG_93_4_CONTENT,Untuk perjalanan jauh? Perdagangan manusia?
+WRANGLEDIALOG_93_4_BUTTON_1,Kau dapatkan dari mana saja.
+WRANGLEDIALOG_93_5_CONTENT,"Ini bukan kesepakatan terakhir, kan?"
+WRANGLEDIALOG_93_6_CONTENT,Aku tidak membuat kesepakatan itu lagi! Jangan pergi untuk uang!
+WRANGLEDIALOG_93_6_BUTTON_1,Aku belum bicara tentang jual beli.
+WRANGLEDIALOG_93_7_CONTENT,"Aku masih sakit dari petualanganku yang terakhir, aku seorang pengusaha, bukan petualang!"
+WRANGLEDIALOG_93_7_BUTTON_1,"Tapi, kali ini banyak uang."
+WRANGLEDIALOG_93_8_CONTENT,Benarkah?
+WRANGLEDIALOG_93_8_BUTTON_1,Tentu saja.
+WRANGLEDIALOG_94_CONTENT,Aku perlu melihat berapa banyak uang yang kau miliki sebelum kita berangkat.
+WRANGLEDIALOG_94_BUTTON_1,"Baiklah, mari kita lakukan."
+PLAYCHESSSUCCESSFUNCTION_AVATAR_9_STRING,Sukses tidak pernah mudah.
+PLAYCHESSFAILUREFUNCTION_AVATAR_9_STRING,Kegagalan tidak bertahan selamanya.
+WRANGLEDIALOG_103_CONTENT,Aku bicara dengan diriku sendiri.
+WRANGLEDIALOG_103_BUTTON_1,Permisi.
+WRANGLEDIALOG_103_FUNCTION_1_1,"Anjingku sering berkeliaran, kau melihatnya?"
+WRANGLEDIALOG_103_FUNCTION_1_2,Berbicaralah kepada saya jika anda mau.
+WRANGLEDIALOG_103_FUNCTION_1_3,"Ya, y-ya, tak seorangpun minum semewah itu, tetaplah dengan terrace. Hasil akhir ini adalah hasil karya mereka."
+WRANGLEDIALOG_103_FUNCTION_1_4,Goresan air mata hazel dari seribu gunung. Kisah cinta berakhir bahagia. Dia berdiri di samping senajatnya. Seribu pil lumpur untuk menghapus langit. Tanpa ketakutan.
+WRANGLEDIALOG_103_FUNCTION_1_5,"Zephyr minum pahlawan, tak terlihat pahlawan malam. Lambat laun, hujan turun dengan lebat potongan demi potongan. Seorang wanita cantik meneteskan air mata pada piring perak, dan membiarkan angin yang segar bersinar. Pasukan woo bintang bulan hua, dan kekasih akan selalu bersama."
+WRANGLEDIALOG_103_FUNCTION_1_6,Bunga ini masih bisa terlihat di tempat-tempat lain.
+WRANGLEDIALOG_103_FUNCTION_1_7,"Ribuan kilometer di gletser sedikit merah XiaoXiao north wind ""bertanya"" siapa? Pikirkan lagi, tak kenal lelah, bagai pelancong."
+WRANGLEDIALOG_103_FUNCTION_1_8,Yang berbatasan adalah padang gurun yang luas. Mata air yang berkilauan berkilauan diterpa air.
+WRANGLEDIALOG_103_FUNCTION_1_9,"Ke mana pun aku pergi, aku akan menemukannya. Waktu berakhir."
+WRANGLEDIALOG_103_FUNCTION_1_10,"Sebuah rok kupu-kupu mengalir di aliran jet stream, dengan payung giok di sampingnya."
+WRANGLEDIALOG_103_FUNCTION_1_11,"Bertemu dengan anda yang paling cantik di musim yang penuh kegembiraan telah memberi saya kehidupan yang paling indah dan senyuman yang paling indah yang dapat saya nikmati dengan begitu hangat dan alami yang dapat saya rasakan di rumah. Luar biasa, mengejutkan, mudah tersinggung. Sepertinya itu takdir, yang membuatku sangat beruntung, untuk membuat keputusan penting."
+WRANGLEDIALOG_103_FUNCTION_1_12,"Bunga manis mekar, dan aliran lembut angin dan moonshine. Kami bersandar pada sungai yangtze."
+WRANGLEDIALOG_103_FUNCTION_1_13,"Seorang jenderal yang sombong. Hanya menghela hari tidak tua kejam, akan memiliki setengah dari Gai tunawisma raja xiang."
+WRANGLEDIALOG_103_FUNCTION_1_14,"Bulan bersinar dalam persahabatan, dunia menjadi pahlawan. Ke mana pisaunya mengarah? Thurser gemetar."
+WRANGLEDIALOG_103_FUNCTION_1_15,"Seperti awan gas yang bisa menyinari bulan, tidak pernah melihat sesuatu yang bisa dicapai. Ia sangat membenci angin barat."
+WRANGLEDIALOG_103_FUNCTION_1_16,"Telah terbang jauh, jauh dari penglihatan. Tidak bisa menyentuh baik. Yang tak terlihat, tempatnya jauh. Ambil pasir di bawah kakimu, dan hilang dari rumah, dari yang dikenal. Tidak akan ada reuni kekal, tidak ada perpisahan panjang. Rumput dandelion masih dapat bermekaran, payung kecil terbang agak jauh, udara yang tinggi, dan cahaya air capung, yang masih terbang ke bumi, dapat merasakan aroma yang khas. Pasir kuning terbang melewatinya, dan aku tidak mengikutinya. The yellowsand terbang di atas, dan dandelion masih bergoyang di sana. Pasir kuning terbang di atas, dan payung yang berbadai masih terbang. Pasir kuning terbang di atasnya tetapi melihat sedikit tunas hijau."
+WRANGLEDIALOG_103_FUNCTION_1_17,"Sebuah daun sycamore perlahan-lahan jatuh di atas dahan, diterpa angin dingin, bergerak dengan lembut melalui udara, dan mendarat di tanah dengan aman. Panggilan dari ibu pertiwi. Adalah reinkarnasi baru. Sebuah bunga salju putih perlahan melintasi awan membeli satu tiket pulang ke rumah, udara segar jatuh ke tanah, pemerah pipi ibu bumi, kau cantik, ibu Langit pelangi jatuh, merah darah kita, kuning wajah kita, hijau daun sycatang. Selendang tipis jatuh dari bahu anda, terbang oleh angin, sekilas, baik cepat. Dulu di laut yang hazel. Burung camar berkicau, mengibaskan angin, kau adalah ibu bumi dengan yaring, camar. Kain yang tidak bisa jatuh."
+WRANGLEDIALOG_103_FUNCTION_1_18,"Dapatkah anda membedakannya? Siapa lou, lone moon? Gigi yang berkilauan berkilauan berkilauan dan berkilauan."
+WRANGLEDIALOG_103_FUNCTION_1_19,"Supergirl masih melawan gravitasi bumi untuk menyelamatkan bumi, sementara kuda kayu yang berputar berputar berputar sendirian menunggu gadis kecil, berjalan sendirian dengan bebek yang masih lemas di sungai kawananku, dan anak anjing tetangga suka meninggalkan mida segar di tangga rumah kami. Matahari masih bersinar, dan tawa masih terdengar ceria."
+WRANGLEDIALOG_103_FUNCTION_1_20,"Unfinished, undone."
+WRANGLEDIALOG_104_CONTENT,Ini surat.
+WRANGLEDIALOG_106_CONTENT,"Ulang tahunku akan datang, pesta ulang tahunku. Kemarilah. Ia sudah lama tidak melihatmu, dan ia sangat rindu kepadamu. \n {NAME_AVATAR_19}, teman sekelas anda {NAME_AVATAR_19}."
+WRANGLEDIALOG_106_BUTTON_1,"Mengapa surat itu ada di sini? Bisa, di sebelah timur ada pesta ulang tahunnya."
+TO_NAME_AVATAR_3_LETTER,(papan nama)
+I_LIKE_LOBBYIST,Aku suka orang yang pandai berbicara.
+IS_DOG1,"Suka berkeliaran, hujan dan angin, bukankah itu kamu, teman kecil?"
+YOU_ARE_A_TALL_FELLOW,Kau orang unggul!
+WINS_AND_LOSSES_ARE_COMMON_1,Selalu menang kalah.
+WINS_AND_LOSSES_ARE_COMMON_2,Kecepatan adalah prioritas utama.
+WINS_AND_LOSSES_ARE_COMMON_3,Semua muridku sangat kuat.
+WINS_AND_LOSSES_ARE_COMMON_4,Aku sudah mencari tempat yang jauh.
+I_DONOT_HAVE_MY_BEST_FRIEND_HERE,Aku akan pergi dengan teman kecil terbaikku.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_1,Buka.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_2,Bukalah.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_1,Pengetahuan adalah kekuatan.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_2,Sebuah rekaman kehidupan.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_1,Mengisolasi dunia.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_2,Tetap tenang.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_1,/ ya.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_2,Kau harus punya banyak waktu untuk itu.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_1,Surat dari teman sekelasmu.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_2,Surat dari seorang teman.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_1,Diam.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_2,Diam.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_3,Pengulangan adalah keberuntungan.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_4,Ada rahasia untuk melakukan sesuatu.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_5,Cepatlah atau mati.
+PLAYCHESSFAILUREFUNCTION_NPCARTICLE_ODETOJOY,"Aku penjaga, penjaga raja yang setia."
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_1,Pasti menang.
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_2,Harus menang.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_1,Keberuntungan adalah untuk disentuh.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_2,Keberuntungan juga.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_1,Aku sudah menghitung kemungkinan menang.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_2,Ini juga kesempatan untuk belajar.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_1,"Pandai berkata-kata, bukan berarti beruntung."
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_2,Ekspresi harus diperhatikan.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_1,Jauh.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_2,Diptera.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_1,Datang dan pergi sesukamu.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_2,Bermain kasar.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_1,Lengan dari baja.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_2,Kekuatan yang kuat.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_1,Tawar menawar adalah bisnis utama para pedagang.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_2,Semuanya ada harganya.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_1,Kehangatan matahari di sekitarmu.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_2,Matahari bersinar pada anda.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_1,Aku punya stamina bagus.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_2,Aku punya sifat yang baik.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_1,Aku punya banyak teman.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_2,Aku dan teman-temanku sering berpesta.
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_1,Beraninya kau menantangku?
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_2,Kau bermain api.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_1,Pelampung adalah penghalang cinta.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_2,Ia telah berlatih selama ribuan tahun.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_1,Aku punya banyak saudara.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_2,Aku punya beberapa saudari.
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_1,"Ideal dan realitas, yang akan anda pilih?"
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_2,Ikan asin tidak punya cita rasa.
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_1,"Aku bisa, aku bisa."
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_2,"Langit dan bumi luas, hati yang luas."
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_1,Angin begitu kencang di sini.
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_2,Angin berhembus kencang.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_1,Bunga plum membuat nya pahit.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_2,Penderitaan adalah bentuk kehidupan.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_1,The future has the setting of the future.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_2,Ada jadwal untuk hari ini.
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_1,"Serius, sebuah sikap."
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_2,Sikapku serius dan kuhargai.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_1,Dunia akan memiliki kita.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_2,Anda dan saya semua unik.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_1,Aku suka bercinta saat masih muda.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_2,Aku bahkan tak bisa lari.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_1,Berlatihlah.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_2,Lihatlah dirimu.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_1,Memperbaikinya untuk melihat dirinya sendiri.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_2,"Kau memperbaikinya sendiri, kau tahu itu."
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_1,Mahkota terbuat dari emas.
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_2,Mahkota berkilau.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_1,"Mahkota bersinar lebih lama lagi, yang perlu sering dibersihkan."
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_2,"Sebuah mahkota terbuat dari emas, yang melambangkan sebuah kualitas."
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_1,Semua tentang menang dan kalah.
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_2,Apa yang saya minta harus didapatkan.
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_1,"Ruangan yang lebih bersih, perlu selalu siap setiap saat."
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_2,Merapikan kamar bukanlah pekerjaan yang mudah.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_1,Terjebak dalam pekerjaan jangka panjang tidaklah mudah.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_2,"Merawat istana, itu tidak mudah."
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_1,Seharusnya tidak melihatku.
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_2,Tidak bisa melihatku.
+NOW_I_AM_THE_TEAM_LEADER,"Sekarang, aku di garis depan."
+NPCARTICLETRIGGER_NAME_2,Pintu rumah
+NPCARTICLETRIGGER_NAME_3,Pintu rumah
+WAIT_A_MOMENT,"Tunggu sebentar,"
+DICE_STARTED,%s wajah dadu telah diaktifkan
+WHERE_ARE_THE_LOBBYISTS,On where is it?
+SILENT_NOTE_DO,Silent Note · Do (1)
+SILENT_NOTE_RE,Silent Note · Re (2)
+SILENT_NOTE_MI,Silent Note · Mi (3)
+SILENT_NOTE_FA,Silent Note · Fa (4)
+SILENT_NOTE_SOL,Silent Note · Sol (5)
+SILENT_NOTE_LA,Silent Note · La (6)
+SILENT_NOTE_SI,Silent Note · Si (7)
+NOTE_DO,Do (1)
+NOTE_RE,Re (2)
+NOTE_MI,Mi (3)
+NOTE_FA,Fa (4)
+NOTE_SOL,Sol (5)
+NOTE_LA,La (6)
+NOTE_SI,Si (7)
+WRANGLEDIALOG_107_CONTENT,Akulah yang berkuasa.
+WRANGLEDIALOG_108_CONTENT,Akulah yang berkuasa.
+WRANGLEDIALOG_109_CONTENT,Akulah yang berkuasa.
+WRANGLEDIALOG_110_CONTENT,Akulah yang berkuasa.
+WRANGLEDIALOG_111_CONTENT,Akulah yang berkuasa.
+WRANGLEDIALOG_112_CONTENT,Akulah yang berkuasa.
+WRANGLEDIALOG_113_CONTENT,Akulah yang berkuasa.
+WRANGLEDIALOG_114_CONTENT,Akulah yang berkuasa.
+WRANGLEDIALOG_115_CONTENT,Akulah yang terpenting.
+WRANGLEDIALOG_116_CONTENT,Akulah yang terpenting.
+WRANGLEDIALOG_117_CONTENT,Akulah yang berkuasa.
+WRANGLEDIALOG_118_CONTENT,Akulah yang berkuasa.
+WRANGLEDIALOG_119_CONTENT,Akulah yang berkuasa.
+WRANGLEDIALOG_120_CONTENT,Akulah yang berkuasa.
+WRANGLEDIALOG_121_CONTENT,Akulah yang berkuasa.
+WRANGLEDIALOG_107_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_108_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_109_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_110_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_111_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_112_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_113_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_114_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_115_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_116_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_117_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_118_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_119_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_120_BUTTON_1,Aku ingin membuktikan keberanianku.
+WRANGLEDIALOG_121_BUTTON_1,Aku ingin membuktikan keberanianku.
+WIN_THE_KING,Kau menang raja.
+WRANGLEDIALOG_122_CONTENT,"Sahabat dari jarak jauh, pejuang yang bijaksana, selamat datang!"
+WRANGLEDIALOG_122_BUTTON_1,"Halo, senang bertemu denganmu."
+WRANGLEDIALOG_123_CONTENT,Apakah kalian di sini untuk pesta ulang tahun gadis kecilku?
+WRANGLEDIALOG_123_BUTTON_1,Ya.
+WRANGLEDIALOG_124_CONTENT,"Selamat datang lagi! Putriku dan kakaknya ada di ruang belajarku dan kalian bisa mencarinya sendiri. Nanti, di pesta ulang tahunku, aku punya hal penting yang harus diumumkan."
+WRANGLEDIALOG_124_BUTTON_1,Terima kasih atas undangannya.
+WRANGLEDIALOG_125_CONTENT,"Aku ingatkan pada kalian, disini ada banyak kamar, dan ruang belajarku ada di utara."
+WRANGLEDIALOG_126_CONTENT,"Setiap gerbang adalah penjaga, yang sama … dengan penjaga yang setia, beberapa waktu hanya bisa dilewati oleh prajurit kerajaan."
+WRANGLEDIALOG_126_BUTTON_1,Mengerti.
+WRANGLEDIALOG_127_CONTENT,"Bijaksana prajurit, apakah anda tahu apa-apa tentang musik?"
+WRANGLEDIALOG_127_BUTTON_1,"Memahami sedikit, kami semua senang mendengarkan musik, mendengarkan lagu."
+WRANGLEDIALOG_128_CONTENT,Saya juga senang mendengarkan semua jenis musik dan lagu! Musik dan lagu yang baik membersihkan jiwa kita!
+WRANGLEDIALOG_128_BUTTON_1,Kau benar.
+WRANGLEDIALOG_129_CONTENT,"Para penjaga dari SCENE_NAME_STAVE_AVENUE, yang berasal dari zaman kuno, saat kakek kakekku tidak pernah lahir."
+WRANGLEDIALOG_129_BUTTON_1,Lama tak jumpa.
+WRANGLEDIALOG_130_CONTENT,"Jika kau berhasil menantang mereka dan membuktikan keberanianmu, aku akan memberimu hadiah kecil."
+WRANGLEDIALOG_130_BUTTON_1,Apa hadiah kecil yang spesial?
+WRANGLEDIALOG_131_CONTENT,"Sesuatu yang bisa menambah daya tarik pribadi, dan kurasa ada beberapa teman kecil di antara kalian yang mungkin membutuhkannya."
+WRANGLEDIALOG_131_BUTTON_1,Begitu misterius.
+WRANGLEDIALOG_132_CONTENT,"Dan untuk para pejuang, bergabunglah!"
+WRANGLEDIALOG_132_BUTTON_1,Goodbye.
+WRANGLEDIALOG_133_CONTENT,Kau mengalami kesulitan?
+WRANGLEDIALOG_133_BUTTON_1,Boleh aku minta petunjuk?
+WRANGLEDIALOG_133_BUTTON_2,Aku berhasil menantangnya.
+WRANGLEDIALOG_134_CONTENT,"Untuk bisa melawan para penjaga dari {SCENE_NAME_STAVE_AVENUE} {NAME_1}, aku bisa memberi petunjuk untuk …"
+WRANGLEDIALOG_134_BUTTON_1,Petunjuk yang diharapkan.
+WRANGLEDIALOG_134_BUTTON_2,Aku akan mencoba lebih keras.
+WRANGLEDIALOG_135_CONTENT,"Do (1), Re (2), Mi (3), Fa (4), Sol (5), La (6), Si (7),,, ke sini sebentar."
+WRANGLEDIALOG_135_BUTTON_1,Kau berbisik padaku.
+WRANGLEDIALOG_136_CONTENT,Terimalah hadiah kecil yang kuberikan untukmu.
+WRANGLEDIALOG_136_BUTTON_1,Terima kasih atas kemurahan hati anda.
+KING_LOW_VOICE,"Suara rendah mengatakan, %s, jangan memberitahu orang lain,,"
+WHEN_I_WAS_YOUNG,"Ini hadiah kecil yang aku gunakan ketika aku masih muda dan ketika aku punya mahkota, aku tidak membutuhkannya."
+ALL_GIFTS_HAD_GIVE_YOU,Aku punya hadiah kecil untukmu.
+YOU_NEED_TO_PROVE,"Untuk mendapat hadiah kecil yang diberikan padamu, buktikan keberanianmu"
+GOODS_NAME_HOUSEKEEPERKEY,- kunci untuk
+GOODS_NAME_BUTLERKEY,Kunci yang mudah hilang
+GOODS_NAME_QUEENKEY,- kunci untuk
+DOOR_1,Simon dari selatan
+DOOR_2,Pintu timur di selatan
+GOODS_DESCRIPTION_HOUSEKEEPERKEY,"Saat di bawa, bisa di buka."
+GOODS_DESCRIPTION_BUTLERKEY,"Saat diangkut, bisa dibuka."
+GOODS_DESCRIPTION_QUEENKEY,Pintu itu dapat dibuka jika itu dimuat dalam scene_my_my_melody.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_1,Aman.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_2,Dahulu kala.
+NOT_EASY_OPEN_THE_DOOR_WITHOUT_THE_KEY,Pintu tidak mudah dibuka tanpa kunci.
+WRANGLEDIALOG_139_CONTENT,Kau pasti lapar. Kau mau makan apa? Katakan padaku.
+WRANGLEDIALOG_139_BUTTON_1,Apa yang kalian makan di sini?
+WRANGLEDIALOG_139_BUTTON_2,Kesibukan sekali disini.
+WRANGLEDIALOG_139_1_CONTENT,Kami menyiapkan banyak makanan di pesta ulang tahun sang putri.
+WRANGLEDIALOG_139_2_CONTENT,"Oh, aku melihat {NAME_AVATAR_19} dan (NAME_AVATAR_27), adik putri kecil, yang pergi ke studi raja utara."
+WRANGLEDIALOG_139_2_BUTTON_1,Lewat sini.
+WRANGLEDIALOG_139_3_CONTENT,"Aku punya pekerjaan yang harus dilakukan, dan jika anda ingin mereka, anda dapat pergi ke sana."
+WRANGLEDIALOG_139_3_BUTTON_1,Baiklah.
+WRANGLEDIALOG_139_4_CONTENT,"Tak seperti yang ada di barat, ada yang bisa berkeliaran di jalanan."
+WRANGLEDIALOG_139_4_BUTTON_1,Kau punya kuncinya?
+WRANGLEDIALOG_139_5_CONTENT,Kalian harus mendapatkan kepercayaanku agar bisa kubantu.
+WRANGLEDIALOG_139_5_BUTTON_1,Mari kita coba.
+WRANGLEDIALOG_140_CONTENT,"Melayani adalah keinginanku. Kau lihat, aku punya topi yang bagus, jadi aku tidak akan memakai wig itu."
+WRANGLEDIALOG_140_BUTTON_1,Kalian punya tempat yang bagus di sini.
+WRANGLEDIALOG_140_BUTTON_2,Pasti pekerjaan yang sibuk di sini?
+WRANGLEDIALOG_140_1_CONTENT,"Taman di depan pintu sebagian besar adalah tanggung jawab saya pohon berwarna terang ini tidak boleh dilewati, pohon berwarna gelap bisa dilewati, dan baru-baru ini, aku sering melihat orang asing dengan jubah ungu, dan hari ulang tahun putri kecil \n datang, dan kami melakukan banyak persiapan untuk pesta ulang tahun sang putri."
+WRANGLEDIALOG_147_BUTTON_1,"Apakah itu …? Uh, uh,"
+WRANGLEDIALOG_140_2_CONTENT,"Oh, aku melihat {NAME_AVATAR_19} dan (NAME_AVATAR_27), adik putri kecil, yang pergi ke studi raja utara."
+WRANGLEDIALOG_140_2_BUTTON_1,Lewat sini.
+WRANGLEDIALOG_140_3_CONTENT,"Aku punya pekerjaan yang harus dilakukan, dan jika anda ingin mereka, anda dapat pergi ke sana."
+WRANGLEDIALOG_140_3_BUTTON_1,Baiklah.
+WRANGLEDIALOG_140_4_CONTENT,"Berbeda dengan yang di sebelah timur, ada taman yang indah, dan aku bisa membantu untuk memeriksa jalan setapak di sebelah selatan."
+WRANGLEDIALOG_140_4_BUTTON_1,Kau punya kuncinya?
+WRANGLEDIALOG_140_5_CONTENT,Kalian harus mendapatkan kepercayaanku agar bisa kubantu.
+WRANGLEDIALOG_140_5_BUTTON_1,Mari kita coba.
+TRUSTED_CLASSMATE,"Harus kukatakan, aku lebih percaya teman sekelasnya yang disebutkan di undangan sang putri."
+YOU_HAD_THE_KEY,Kau sudah punya kuncinya.
+WRANGLEDIALOG_151_CONTENT,"Selamat datang, petualang jarak jauh."
+WRANGLEDIALOG_151_BUTTON_1,"Berbicara tentang petualangan, apakah anda memiliki pengambil risiko yang lain di sini?"
+WRANGLEDIALOG_151_BUTTON_2,Istanamu sangat indah.
+WRANGLEDIALOG_151_1_CONTENT,"Pengambil resiko yang lain? Ketika aku raja muda, mereka adalah pengambil resiko. Kami dulu seperti kalian sekarang, tentang petualangan, kau tahu teropong?"
+WRANGLEDIALOG_151_1_BUTTON_1,"Pernah dengar, tapi kita tidak punya teleskop."
+WRANGLEDIALOG_151_1_BUTTON_2,Kami punya teleskop.
+WRANGLEDIALOG_151_2_CONTENT,"Aku akan mengirim kalian dengan teleskop yang kami gunakan saat muda, jika kalian bisa mendapatkan kepercayaanku."
+WRANGLEDIALOG_151_2_BUTTON_1,Silakan.
+WRANGLEDIALOG_151_3_CONTENT,Aku bisa memperbaiki teropongmu agar tak terlihat dari jauh.
+WRANGLEDIALOG_151_3_BUTTON_1,Terima kasih.
+WRANGLEDIALOG_151_4_CONTENT,"Aku juga selalu mengurus semuanya, kecuali dua pembantu rumah tangga, dan, jika kalian bersedia membantu, aku punya kunci istana yang akan memudahkan kalian untuk masuk dan keluar dari sini."
+WRANGLEDIALOG_151_4_BUTTON_1,Kita bisa.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_3,Keingintahuan adalah pendorong kemajuan.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE2,Jarak pandang: %s (+%).
+VISUAL_RANGE_IS_AT_MAXIMUM,Jarak penglihatan telah mencapai maksimum.
+YOU_ALREADY_HAVE_A_TELESCOPE,Kau sudah punya teropong.
+YOU_NEED_A_TELESCOPE_FIRST,Kau harus punya teleskop dulu.
+YOU_ALREADY_HAVE_THIS_KEY,Kau sudah punya kuncinya.
+HAVE_ALREADY_USED,Sudah digunakan.
+DOOR_3,Pintu itu sylvester
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_1,Kastil tua.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_2,Sejarah kuno.
+WRANGLEDIALOG_160_CONTENT,Siapa kalian?
+WRANGLEDIALOG_160_BUTTON_1,"Teman-teman sekelas? Dia mengundang kita ke pesta ulang tahunnya."
+WRANGLEDIALOG_160_1_CONTENT,"Pesta ulang tahun? Aku, uh … aku tidak mendengar dia menyebutkan hal itu tidak ada pesta ulang tahun silahkan pergi dari sini"
+WRANGLEDIALOG_160_1_BUTTON_1,"Kita,"
+WRANGLEDIALOG_160_2_CONTENT,"Pergilah, aku masih ada urusan, jangan ganggu aku."
+WRANGLEDIALOG_160_2_BUTTON_1,"Kami baru saja berbicara kepada raja tentang pesta ulang tahun dan, uh,"
+WRANGLEDIALOG_160_3_CONTENT,"Kau pasti salah dengar, raja sudah tua dan sudah lupa hitungannya. Kalian silahkan keluar."
+WRANGLEDIALOG_160_3_BUTTON_1,Kita akan bertanya pada raja lagi.
+WRANGLEDIALOG_133_BUTTON_3,Sehubungan dengan …
+WRANGLEDIALOG_165_CONTENT,"Adik mereka adalah putriku, permata hatiku."
+WRANGLEDIALOG_165_BUTTON_1,Aku hanya bingung.
+WRANGLEDIALOGTYPEID_SISTER_1_SUCCESS_1,"Di ruang kerjaku, yang kalian lihat hanyalah … Ya, mereka pergi bersama. Kembalilah ke sana dan periksa."
+FAMILY_IS_THE_MOST_IMPORTANT_THING,"Bagi saya, keluarga adalah hal yang paling penting."
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_1,Jangan sampai dilihat orang lain.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_2,Rahasia-rahasia.
+TO_ROYAL_HOUSEHOLD_LETTER,Anggota kerajaan yang mulia.
+NAME_AVATAR_35,Anak laki
+WRANGLEDIALOG_167_CONTENT,Ini surat rahasia.
+WRANGLEDIALOG_167_1_CONTENT,"Sayang **** : \n meterai ini akan diserahkan kepada anda oleh {NAME_AVATAR_20}, untuk menyimpan kerahasiaan, untuk melihat dan untuk membakar dan tidak membiarkan orang lain tahu."
+WRANGLEDIALOG_167_1_BUTTON_1,"Pesan rahasia ini ditujukan untuk rakyat kerajaan, dan --"
+WRANGLEDIALOG_167_2_CONTENT,Dan yang lainnya juga membantu untuk menyelesaikannya. Pesta ulang tahun yang tak terduga. Aku berharap yang terbaik untuk kalian semua.
+WRANGLEDIALOG_167_2_BUTTON_1,"Sebelum ini, salah satu anggota tim sedang melakukan transmisi … sepertinya mereka melihat …"
+WRANGLEDIALOG_167_3_CONTENT,"Dan akhirnya, keinginanmu akan terwujud dan keinginanmu akan terwujud. Tunggu kabar darinya. \n {NAME_AVATAR_33} kepala {NAME_AVATAR_35)"
+WRANGLEDIALOG_167_3_BUTTON_1,"Bukankah itu untuk dia? Uh, uh,"
+WRANGLEDIALOG_167_4_CONTENT,Suratnya sudah selesai.
+WRANGLEDIALOG_167_4_BUTTON_1,"Hilang, mungkin juga ada hubungannya dengan …"
+GOODS_DESCRIPTION_17,"Sayang **** : \n meterai ini akan diserahkan kepada anda oleh {NAME_AVATAR_20}, untuk menyimpan kerahasiaan, untuk melihat dan untuk membakar dan tidak membiarkan orang lain tahu. / dan yang lainnya juga membantu dalam menyelesaikannya. Pesta ulang tahun yang tak terduga. Aku berharap yang terbaik untuk kalian semua. Dan akhirnya, keinginanmu akan terwujud dan keinginanmu akan terwujud. Tunggu kabar darinya. \n {NAME_AVATAR_33} kepala {NAME_AVATAR_35)"
+DOOR_CLOSE,Pintu ditutup.
+GUARD_THE_ROYAL_FAMILY,Jaga kerajaan.
+WRANGLEDIALOG_173_CONTENT,Bagaimana kau bisa menemukanku?
+WRANGLEDIALOG_173_BUTTON_1,Itu kau.
+YOU_CAN_NOT_FOUND_QIU_YU,"Ini dilindungi dengan keamanan yang cukup baik, dan kau tak bisa menemukannya."
+YOU_WILL_BE_SORRY,"Berani menantangku, kau akan menyesal."
+NAME_AVATAR_36,Belakang mereka.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_1,Tidak jelas.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_2,Di dalam gelap.
+WRANGLEDIALOG_174_CONTENT,Ada jalan rahasia yang tak bisa dijelaskan?
+WRANGLEDIALOG_174_BUTTON_1,Masuk ke dalam.
+WRANGLEDIALOG_174_BUTTON_2,Jangan masuk.
+WRANGLEDIALOG_175_CONTENT,Itu kalian. Apa yang kalian lakukan di sini?
+WRANGLEDIALOG_175_BUTTON_1,Apakah kau melihat … Kami sedang mencarinya.
+WRANGLEDIALOG_175_1_CONTENT,Tidak melihatnya.
+WRANGLEDIALOG_175_1_BUTTON_1,Apa yang kau lakukan di sini?
+WRANGLEDIALOG_175_2_CONTENT,"Aku, mencari kucingku, namaku Hanya satu mata, meskipun, kurasa, itu harus di sana, tidak terlalu jauh."
+WRANGLEDIALOG_175_2_BUTTON_1,"Kami melihatnya, kami membawanya kembali kepada anda."
+WRANGLEDIALOG_175_3_CONTENT,"Tidak, itu cukup kasar."
+WRANGLEDIALOG_175_3_BUTTON_1,Mari kita lihat lagi.
+WRANGLEDIALOG_179_1_CONTENT,Tidak banyak yang kita tahu dan harus dilakukan untuk apa yang dijanjikan.
+WRANGLEDIALOG_179_2_CONTENT,Tidak banyak yang kita tahu dan harus dilakukan untuk apa yang dijanjikan.
+WRANGLEDIALOG_179_3_CONTENT,"Tak banyak yang kita ketahui, dan suatu hari nanti kita juga bisa pindah ke sana."
+WRANGLEDIALOG_179_4_CONTENT,"Kami tidak tahu banyak tentang hal itu dan meninggalkan daerah yang berangin ini, meskipun kami sangat menyukai hutan."
+WRANGLEDIALOG_179_5_CONTENT,"Kita tidak tahu banyak, alat itu sangat membantu saat ini, kekuatan yang sangat besar yang menggerakkan alat itu, sesuatu yang belum pernah kita lihat sebelumnya."
+WRANGLEDIALOG_179_6_CONTENT,"Kami tidak tahu banyak, dan untuk … maafkan kami, penculikan itu bukan tujuan kami."
+WRANGLEDIALOG_179_7_CONTENT,"Tidak banyak yang kita ketahui, teleport dengan alat transmisi adalah langkah terakhir dari operasi ini, tapi pikiran bahwa kita bisa menjadi anggota keluarga kerajaan, itu tidak bisa diketahui."
+WRANGLEDIALOG_179_8_CONTENT,"Tak banyak yang diketahui, tapi jangan memberi tugas sulit lain kali."
+WRANGLEDIALOG_179_9_CONTENT,Operasi ini terlalu banyak berharap menjadi raja baru.
+WRANGLEDIALOG_179_10_CONTENT,"Tidak banyak yang bisa kita ketahui, dan ketika menjadi raja baru, mimpi kita akan menjadi kenyataan juga."
+WRANGLEDIALOG_179_11_CONTENT,"Kita tidak tahu banyak, dan di antara mimpi dan menunggu, kita memilih mimpi."
+WRANGLEDIALOG_179_12_CONTENT,Kita tidak tahu banyak tentang kekuatan yang menggerakkan perangkat itu di sisi lain gunung ini.
+WRANGLEDIALOG_179_BUTTON_1,Ternyata begitu.
+WRANGLEDIALOG_191_CONTENT,Kami tidak tahu banyak.
+WRANGLEDIALOG_191_BUTTON_1,"Kalian tahu sesuatu, beritahu kami."
+WRANGLEDIALOG_192_CONTENT,"Meskipun aku tidak tahu apa-apa tentang hal itu, aku mendambakan kehidupan yang penuh petualangan."
+WRANGLEDIALOG_192_BUTTON_1,Bergabunglah dengan kami.
+WRANGLEDIALOG_194_CONTENT,"Meskipun aku tidak mengerti apa-apa, tapi aku melihat ke depan untuk kehidupan petualangan."
+WRANGLEDIALOG_194_BUTTON_1,Bergabunglah dengan kami.
+WE_LOOK_FORWARD_TO_LEARNING_PARTNERS,Aku mengharapkan seorang teman terpelajar.
+LIFE_IS_DOOMED_TO_DRIFT_BUT_ALSO_TO_LIVE_OUT_THEIR_OWN_WONDERFUL,"Jalannya tidak direncanakan, tapi hidup dengan tujuan."
+WE_HAVE_FOUND_THE_TWELVE_GOO,"Kami sudah temukan 12 cacing lengket di sini, jadi kami harus kembali lagi. Sehubungan dengan {NAME_AVATAR_27} dan {NAME_AVATAR_19}, dalam kasus mereka,,"
+MEMBERS_OF_THE_TEAM_WHO_LEFT,Anggota meninggalkan tim: %s.
+HOWEVER_SOME_MEMBERS_OF_THE_TEAM_STUBBORNLY_SURVIVED,Tapi masih ada anggota tim yang bertahan hidup.
+HOME_SAFE_1,Rumah adalah pelabuhan yang aman.
+HOME_SAFE_2,Rumah adalah tempat yang aman.
+HOME_IS_SAFE,Tetap aman di rumah.
+IT_IS_GETTING_DARK_YOU_CAN_NOT_PLAY_CHESS,"Ini akan gelap, atau gelap."
+WAY_HOME_1,Semoga kau ingat jalan pulang.
+WAY_HOME_2,"Saat ini, pulang adalah pilihan yang paling aman."
+IT_IS_GETTING_DARK_YOU_CAN_NOT_OPERATE,"Sudah mulai gelap, tidak bisa dioperasi."
+IT_IS_PLAY_CHESS_YOU_CAN_NOT_OPERATE,"Font color = ""# 404040"" PLAY_CHESS_NAME:"
+NAME_2,AMan
+WILL_FINAL,"Maksudmu …? , masih mencari dia dan menanyakan keberadaannya di … (i) … dan untuk mengetahui keberadaannya … (i) … mengatakan dia pergi ke timur …"
+TWELVE_BUGS,Dua belas lengket
+WRANGLEDIALOG_221_CONTENT,Anda sudah menemukan {TWELVE_BUGS}? Bagaimana mungkin?
+WRANGLEDIALOG_221_BUTTON_1,Dan di mana?
+WRANGLEDIALOG_221_1_CONTENT,"Kalian, kenapa bertanya padaku?"
+WRANGLEDIALOG_221_1_BUTTON_1,"Sudah memberitahu kami, itu {NAME_AVATAR_33} dan {NAME_AVATAR_20} meminta mereka untuk membantu anda."
+WRANGLEDIALOG_221_4_CONTENT,Sepertinya kau sudah tahu itu.
+WRANGLEDIALOG_221_4_BUTTON_1,"Kau yang menyuruhnya menculik, kenapa kau lakukan itu?"
+WRANGLEDIALOG_221_2_CONTENT,"Tahta itu milikku ayah bilang ada hal penting yang harus diumumkan di pesta ulang tahun ayah tebak, dia pasti bermaksud untuk mengumumkan pewaris tahta yang akan datang untuk memberikannya kepada orang lain"
+WRANGLEDIALOG_221_2_BUTTON_1,"Tapi, itu kakakmu."
+WRANGLEDIALOG_221_3_CONTENT,?? Kita bermain petak umpet?? Mencoba untuk menyelamatkan?? Temukan?? Ho-ho-ho.
+WRANGLEDIALOG_221_3_BUTTON_1,Jangan terlalu puas.
+WRANGLEDIALOG_225_CONTENT,Memulai permainan?
+WRANGLEDIALOG_225_BUTTON_1,Ini dia.
+THE_GAME_HAS_NOT_STARTED_YET,Permainan belum dimulai.
+I_AM_GOING_TO_START_COUNTING,Aku akan mulai menghitung.
+LOOK_WHERE_THEY_ARE,- mencari tahu di mana mereka?
+CURRENT_STANDING_POSITION_CANNOT_START_PATHFINDING,Jangan mulai mencari jalan.
+NAME_2_EYE,AMan eye
+WRANGLEDIALOG_227_CONTENT,Aku terjebak.
+WRANGLEDIALOG_227_BUTTON_1,Kami akan menyelamatkanmu.
+THE_LAST_COUNT_IS_NOT_OVER,Menghitung terakhir belum berakhir.
+WE_FINALLY_FOUND,Akhirnya kita menemukannya! Teman-teman berkumpul kembali!
+WRANGLEDIALOG_228_CONTENT,"Sekarang kalian sudah berkumpul kembali, saudariku, kita akan bertemu lagi nanti."
+WRANGLEDIALOG_228_BUTTON_1,Keadilan ada di pihak kita.
+WRANGLEDIALOG_230_CONTENT,"Kalian akhirnya menemukan … terima kasih! Dan, uh, saudarinya … semoga dia segera pulang, dan memberkati kalian semua!"
+WRANGLEDIALOG_230_BUTTON_1,Ini persahabatan kami.
+WE_WILL_TOGETHER,Aku selalu yakin bisa bertemu denganmu lagi. Ayah mereka seharusnya tidak terlalu jauh.
+I_CAN_NOT_HAVE_MY_LITTLE_GIFT_AGAIN,"Meskipun kau membuktikan keberanianmu, sebelumnya kau sudah mendapat hadiah kecilku."
+GOODS_NAME_11,Wig berubah warna
+GOODS_DESCRIPTION_18,Ini seharusnya on {JOB_LOBBYIST} - {GOODS_NAME_11}. \n{NAME_AVATAR_20} dibuat dengan bahan khusus.

@@ -1,0 +1,844 @@
+stringKey,stringContent
+NAME_GAME_NAME,Anlatırken yürüyen bir ekip - Müziğin ülkesi
+NAME_AVATAR_1,Yıldırım I
+NAME_AVATAR_2,Askeri bölüm
+NAME_AVATAR_3,Chen Xiao Ming
+NAME_AVATAR_4,Common Person
+NAME_AVATAR_5,Patlama
+NAME_AVATAR_6,Yıldırım II
+NAME_AVATAR_7,Yıldırım III
+NAME_AVATAR_8,Li Crooked Neck
+NAME_AVATAR_9,Güneş Tanrıçası
+NAME_AVATAR_10,Slime Over
+NAME_AVATAR_11,Slime Growth
+NAME_AVATAR_12,Slime For
+NAME_AVATAR_13,Slime Love
+NAME_AVATAR_14,Slime Resist
+NAME_AVATAR_15,Slime Disaster
+NAME_AVATAR_16,Slime Donot
+NAME_AVATAR_17,Slime Cherish
+NAME_AVATAR_18,Si Warm Heart
+NAME_AVATAR_19,Fa Princess Younger Sister
+NAME_AVATAR_19_2,Autumn Yu
+NAME_AVATAR_20,Silver Dragon
+NAME_AVATAR_21,Slime Ten
+NAME_AVATAR_22,Slime Thousand
+NAME_AVATAR_23,Slime Years
+NAME_AVATAR_24,Slime Life
+NAME_AVATAR_25,Do King
+NAME_AVATAR_26,Re Queen
+NAME_AVATAR_27,Mi Princess Elder Sister
+NAME_AVATAR_28,La Housekeeper
+NAME_AVATAR_29,Sol Butler
+NAME_AVATAR_30,Sırt çantası
+NAME_AVATAR_31,Not defteri
+NAME_AVATAR_32,{NAME_AVATAR_19}'dan mektup
+NAME_AVATAR_33,Three Dragons Gang
+NAME_AVATAR_34,{NAME_AVATAR_33}'dan mektup
+GOODS_NAME_1,Pathfinder kanvas ayakkabılar
+GOODS_NAME_2,teleskop
+GOODS_NAME_3,Peruk
+GOODS_NAME_4,Peruk
+GOODS_NAME_5,Peruk
+GOODS_NAME_6,Peruk
+GOODS_NAME_7,Uzun peruklar
+GOODS_NAME_8,Uzun peruklar
+GOODS_NAME_9,Uzun peruklar
+GOODS_NAME_10,Uzun peruklar
+JOB_LOBBYIST,Lobiciler
+NAME_1,Sevinç Ülkesi
+PLAY_CHESS_NAME,Oyun
+PLAY_CHESS_POINTS,{PLAY_CHESS_NAME} puan
+SCENE_NAME_1_HOME,{NAME_AVATAR_1}'nin evi
+SCENE_NAME_3_HOME,{NAME_AVATAR_3}'nin evi
+SCENE_NAME_4_HOME,{NAME_AVATAR_4}'nin evi
+SCENE_NAME_3_HOME_COURTYARD,Evin {NAME_AVATAR_3} bahçesi
+SCENE_NAME_CHORD_SQUARE,Polifonik Kare
+SCENE_NAME_STAVE_AVENUE,Personel Caddesi
+SCENE_NAME_HALL_OF_MELODY,Melodi Salonu
+SCENE_NAME_CLINKER_VALLEY,Yürüyen Ses Kanyonu
+SCENE_NAME_CRACKING_VOICE_RIDGE,Kırık Ses Sırtı
+SCENE_NAME_PLAY_CHESS,Oyun
+NPCARTICLETRIGGER_NAME_1,{NAME_AVATAR_1} Evin kapısı
+STARTGAMEPANEL_TITLELABEL38GAMETITLE,{NAME_GAME_NAME}
+STARTGAMEPANEL_COMMONLABELVERSION,Sürüm %s
+STARTGAMEPANEL_COMMONBUTTON31LOADGAME,Oyunu yükle
+STARTGAMEPANEL_STARTGAME,Oyunu başlat
+STARTGAMEPANEL_CONTINUEGAME,Oyuna devam et
+STARTGAMEPANEL_COMMONBUTTON31OPTION,Seçenekler
+STARTGAMEPANEL_COMMONBUTTON31EXITGAME,Oyundan çıkın
+STARTGAMEPANEL_COMMONLABELARCHIVE,Arşiv
+STARTGAMEPANEL_ARCHIVE_NEW_GAME,Yeni oyun
+STARTGAMEPANEL_ARCHIVE_CLEAR,Silmek
+STARTGAMEPANEL_ARCHIVE_CLEAR_DOUBLE_CONFIRMATION,%s ikinci onay arşivini silme
+PANEL_BUTTON_OK,Emin misiniz
+PANEL_BUTTON_CANCEL,İptal
+PANEL_BUTTON_CLOSE,Kapat
+OPTIONPANEL_COMMONLABEL31TITLE,Seçenekler arayüzü
+OPTIONPANEL_COMMONBUTTONLANGUAGE,Dil seçin
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO,Görüntü Çözünürlüğü:
+OPTIONPANEL_COMMONLABELFULLSCREEN,Tam ekran:
+OPTIONPANEL_COMMONLABELWINDOWSTRETCH,Resim germe:
+OPTIONPANEL_COMMONLABELMUSIC,Müzik:
+OPTIONPANEL_COMMONLABELSOUNDEFFECT,Ses efekti:
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_2,1280x720
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_3,1920x1080
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_SCREEN_RESOLUTION,Ekran çözünürlüğü
+OPTIONPANEL_COMMONLABELLANGUAGE,Dil:
+OPTIONPANEL_COMMONBUTTONDEFAULT,Temerrüt
+OPTIONPANEL_COMMONBUTTONRETURNTOHUBSCENE,Lobiye geri dön
+OPTIONPANEL_COMMONBUTTONEXITGAME,Oyundan çıkın
+OPTIONPANEL_COMMONBUTTONRETURNTOGAME,Oyuna geri dön
+OPTIONPANEL_GENERAL,Genel
+OPTIONPANEL_KEYBOARD,Tuş
+OPTIONPANEL_KEYBOARD_MOVE,Hareket etmek:
+OPTIONPANEL_KEYBOARD_MOVE_CONTENT,ADSW (veya ←→↓↑)
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK,{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1}/{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK}:
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK_CONTENT,E
+OPTIONPANEL_KEYBOARD_PLAY_CHESS,Oyun:
+OPTIONPANEL_KEYBOARD_PLAY_CHESS_CONTENT,P (devam etmek için farenin sol tuşu herhangi bir yere tıklayın)
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER,Bir rol seçin:
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER_CONTENT,1，2，3，4，5，6，7，8，9，0
+OPTIONPANEL_KEYBOARD_BAG,Sırt çantası:
+OPTIONPANEL_KEYBOARD_BAG_CONTENT,B
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD,Not defteri:
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD_CONTENT,"J (Page Up, PageDown) "
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN,Seçenekler arayüzü:
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN_CONTENT,O
+OPTIONPANEL_ABOUT,Hakkında
+OPTIONPANEL_ABOUT_NAME_OF_THE_GAME,Oyun adı: {NAME_GAME_NAME}.
+OPTIONPANEL_ABOUT_VERSION,Sürüm: %s.
+OPTIONPANEL_ABOUT_COPYRIGHT_AND_DEVELOPMENT,Açıklama: %s.
+OPTIONPANEL_ABOUT_CONTACT,İletişim: %s.
+OPTIONPANEL_ABOUT_CONTACT_COPY,kopya etmek
+OPTIONPANEL_ABOUT_THANKS,"Teşekkürler: Aileme teşekkür ederim, onların desteği olmasaydı, bu oyun mümkün olmazdı. "
+LANGUAGEPANEL_COMMONLABEL31TITLE,Bir dil seçin
+TIME_YEAR,yıl
+TIME_MONTH,ay
+TIME_DAY,gün
+TIME_HOUR,Saat
+TIME_MINUTE,bölmek
+TIME_SECOND,saniye
+BOOTSCENE_STARTING_STRING1,Başlangıç
+BOOTSCENE_STARTING_STRING2,Başlangıç.
+BOOTSCENE_STARTING_STRING3,Başlangıç:
+BOOTSCENE_STARTING_STRING4,Başlangıç...
+DAYNIGHTPANEL_COMMONLABELDAYSNUMBER,Gün %s
+DAYNIGHTPANEL_FIRSTSTARTNIGHT,Hava kararıyor.
+CURRENTSCENESHOWNAME_ENTER,%s girin.
+JOURNALRECORDPANEL_COMMONLABEL31TITLE,{NAME_AVATAR_31}
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20AVATAR,Rol
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20BAG,Mal
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20SCENE,Yer
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20TASK,Seyahat
+JOURNALRECORDPANEL_PLAY_CHESS_POINTS,Puan sayısı: %s - %s.
+DOWNPANEL_CONTROLWRANGLEDIALOG_COMMONBUTTONWRANGLEDIALOGCONTINUE,Devam et...
+DOWNPANEL_WRANGLEDIALOGBUTTON_STRINGFLAG,：
+UI_INPUT_ACTION_EVENT_TYPE_COMMONBUTTONITEM_TEXTUREBUTTON1_PRESSED_EVENT_IN_CD,Soğutma.
+AVATAR_CAN_NOT_MOVE,Hareket edemiyorum.
+AVATAR_HAD_EQUIP,Zaten yıpranmış: %s.
+AVATAR_HAD_EQUIP2,Zaten yıpranmış.
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1,Sırayla
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK,Konuşmak
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONPLAYCHESS1,{PLAY_CHESS_NAME}
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13BAGUSE,kullanmak
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13DISCARD,atmak
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD,%s atmak mı?
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_YES,atmak
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_NO,Tutmak
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13CHECK,Görünüm
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_1,Küller gider ve izledikten sonra yanarlar.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_2,Temizlenmiş.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_3,Temiz.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_4,Boş.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_5,Boş.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_6,Boş.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_7,"Boş, boş, boş. "
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_8,"Boş, boş, boş. "
+CHESSPANEL1_PLAYCHESS_START,{PLAY_CHESS_NAME} başlar
+CHESSPANEL1_PLAYCHESS_SUCCESS,{PLAY_CHESS_NAME} başarılı oldu
+CHESSPANEL1_PLAYCHESS_FAILURE,{PLAY_CHESS_NAME} başarısız oldu
+CHESSPANEL1_COMMONBUTTONCONTINUE,Devam et
+CHESSPANEL1_MOUSECLICKCONTINUE,(Sol fare tuşu devam etmek için herhangi bir yere tıklayın)
+CHESSPANEL1_POINTS,%s Puan sayısı: %s.
+SLOGAN_NEW_DAY_1,Yeni bir gün başlıyor.
+SLOGAN_NEW_DAY_2,Macera günü başlıyor.
+SLOGAN_NEW_DAY_3,Yeni bir gün.
+SLOGAN_NEW_DAY_4,Macera dolu bir gün.
+SLOGAN_NEW_DAY_5,Bu uzun bir yol.
+SLOGAN_NEW_DAY_6,"Uzun bir yol uzakta, gitmeye hazır. "
+SLOGAN_NEW_DAY_7,Kullanıma hazır.
+SLOGAN_NEW_DAY_8,Gidelim.
+SLOGAN_AVATAR_DEAD_1,Gece karanlıktan korkmayanları yutar.
+SLOGAN_AVATAR_DEAD_2,Hava karanlıktır ve gece tarafından yutulursunuz.
+NAVIGATIONMANAGER_NOT_VALID_PATH_END_POSITION,Geçersiz hedef.
+NAVIGATIONMANAGER_END_OBSTRUCTIONS_NEARBY,"Otomatik yol bulmayı durdurun, yakınlarda engeller var. "
+GOODS_DESCRIPTION_1,Bu ayakkabı ile otomatik olarak yürümek mümkündür.
+GOODS_DESCRIPTION_2,Özellikle zayıf aydınlatılmış yerlerde daha uzağı görün.
+GOODS_DESCRIPTION_3,"Bu, {GOODS_NAME_3}'nin {JOB_LOBBYIST} olmalıdır. "
+GOODS_DESCRIPTION_4,"Bu, {GOODS_NAME_4}'nin {JOB_LOBBYIST} olmalıdır. "
+GOODS_DESCRIPTION_5,"Bu, {GOODS_NAME_5}'nin {JOB_LOBBYIST} olmalıdır. "
+GOODS_DESCRIPTION_6,"Bu, {GOODS_NAME_6}'nin {JOB_LOBBYIST} olmalıdır. "
+GOODS_DESCRIPTION_7,"Bu, {GOODS_NAME_7}'nin {JOB_LOBBYIST} olmalıdır. "
+GOODS_DESCRIPTION_8,"Bu, {GOODS_NAME_8}'nin {JOB_LOBBYIST} olmalıdır. "
+GOODS_DESCRIPTION_9,"Bu, {GOODS_NAME_9}'nin {JOB_LOBBYIST} olmalıdır. "
+GOODS_DESCRIPTION_10,"Bu, {GOODS_NAME_10}'nin {JOB_LOBBYIST} olmalıdır. "
+GOODS_DESCRIPTION_11,"Bir sırt çantası, macera gezileri, yürüyüş için gerekli bir araç olan birçok eşyayı taşıyabilir. "
+GOODS_DESCRIPTION_12,"Yol boyunca gördüklerinizi, duyduklarınızı, karşılaştıklarınızı ve hissettiklerinizi kaydedin. \n{NAME_AVATAR_31} 4 sayfalandırmaya sahiptir:\n{JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20AVATAR} Takım üyeleri hakkındaki bilgileri açıklayan sayfalandırma. \n{JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20BAG} Pagination, sırt çantasının içeriğinin açıklaması. \n{JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20SCENE} ziyaret edilen yerleri kaydetmek için sayfalandırma. \n{JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20TASK} sayfalandırma, konuşulan şeyler kaydedilecektir. "
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_1,Bir ayakkabı bir çift ayakkabı anlamına mı geliyor?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_2,Sol ayak ve sağ ayak bir ayakkabı mıdır?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_3,Pili nereye koymalı?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_4,Anahtar bulunamadı.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_5,Anahtar nerede?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_6,Zaten takılı.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_7,Yolunuzu otomatik olarak bulabilirsiniz.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_8,Bu sefer kaybolmayacaksın.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_9,Nereye gidiyoruz?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_10,Bir yere gitmek istiyorum.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_1,Daha fazla bakın.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_2,Daha iyi görünürlük.
+GOODSADDFUNCTION_TELESCOPE_1,"Yeni beceriler, durugörü. "
+GOODSADDFUNCTION_TELESCOPE_2,"Clairvoyance değil, on metre kesinlikle orada. "
+GOODSREMOVEFUNCTION_TELESCOPE_1,Daha fazla bakamıyorum.
+GOODSREMOVEFUNCTION_TELESCOPE_2,Giymek rahatsız edici mi?
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_1,İyi ruhlarla.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_2,Qi Yu Xuanang.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_3,Yushu Linfeng.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_4,Göğsünü uzun tut.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_5,Özel.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_6,"Saçlı erkekler, eyerle atlar. "
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_7,Entelektüel bir destek olabilir.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_8,İstihbarat +1.
+GOODSADDFUNCTION_WIG_1,İyi şeyler.
+GOODSADDFUNCTION_WIG_2,Sonunda buldum.
+GOODSADDFUNCTION_WIG_3,Fena değil.
+GOODSADDFUNCTION_WIG_OTHER_1,Peruk?
+GOODSADDFUNCTION_WIG_OTHER_2,{JOB_LOBBYIST} için peruk takılmalıdır.
+GOODSADDFUNCTION_WIG_OTHER_3,{JOB_LOBBYIST} peruklar?
+GOODSREMOVEFUNCTION_WIG_1,İstihbarat -1.
+GOODSREMOVEFUNCTION_WIG_2,Soğuk kafa.
+GOODSREMOVEFUNCTION_WIG_3,Profesyonel değil.
+GOODSREMOVEFUNCTION_WIG_4,İstihbaratta bir düşüş hissediliyor.
+GOODSREMOVEFUNCTION_WIG_5,"Yanmış bir peruk, yanmış saçlarla aynıdır. "
+GOODSREMOVEFUNCTION_WIG_6,Perukları atmak üzücü değil.
+GOODSREMOVEFUNCTION_WIG_7,Peruksuz profesyoneldir.
+GOODSREMOVEFUNCTION_WIG_8,Profesyonellik peruklara güvenemez.
+GOODSADDFUNCTION_FOOT_1,Şimdi nasıl gideceğimi biliyorum.
+GOODSADDFUNCTION_FOOT_2,Bu ayakkabı bu kadar gelişmiş mi? Gezinebiliyor musunuz?
+GOODSADDFUNCTION_FOOT_3,Bu ayakkabının navigasyon için güce ihtiyacı var mı?
+GOODSADDFUNCTION_FOOT_4,Ayakkabı fırlatma navigasyonu mu?
+GOODSADDFUNCTION_FOOT_5,"Nasıl gideceğinizi, ayakkabılarınızla bileceksiniz. "
+GOODSREMOVEFUNCTION_FOOT_1,Yalınayak.
+GOODSREMOVEFUNCTION_FOOT_2,Artık gezinemiyorum.
+GOODSREMOVEFUNCTION_FOOT_3,"Atılan ayakkabılar ortadan kayboldu; Kayıp navigasyon, adım adım kendi başınıza. "
+GOODS_IN_USE,Kullanımda.
+GOODS_UNUSED,Kullanılmaz.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE,Görüş alanı: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE,Görüş alanı şekli: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_RHOMBUS,Lozenge
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_EGG,Yumurta şeklinde
+CANNOT_WEAR_IT_LOBBYIST_WIG_1,"Takılamaz, {JOB_LOBBYIST} özel peruk. "
+CANNOT_WEAR_IT_LOBBYIST_WIG_2,Bu {JOB_LOBBYIST} için bir peruktur.
+BAG_IS_FULL,Sırt çantası dolu ve daha fazla eşya taşınamıyor.
+BAG_ADD,Al: %s.
+BAG_REMOVE,At: %s.
+BAG_USE,Kullanım: %s.
+TOP_BUTTON,Üst düğme
+BOTTOM_BUTTON,alt düğme
+CLEAR_BUTTON,Temizle düğmesi
+AVATAR_DESCRIPTION_1,"Ben bir yılanım, güçlü bir yılanım. Üç kardeşin en büyüğüyüm. "
+AVATAR_DESCRIPTION_2,"Ben {NAME_AVATAR_3}'ın küçük arkadaşıyım. Gökyüzündeki bulutlar gibi koşacağım, rüzgar ve yağmur eşliğinde. \nEv çok sıcak, ben de dolaşmayı seviyorum, hadi birlikte dolaşalım! "
+AVATAR_DESCRIPTION_3,"İlkokulun beşinci sınıfı, bir öğrenci için hayatta önemli bir öğrenme aşamasıdır ve matematikteki dört işleme ek olarak, klasik edebiyat, müzik ve resim çalışmalarına başladım. "
+AVATAR_DESCRIPTION_4,"Bir avukat olarak, mahkemede mükemmelim. Aslında daha önce futbolcuydum. Peruğumu kim gördü? "
+AVATAR_DESCRIPTION_8,Ben bir işadamıyım ve adil ticaret benim inancım.
+AVATAR_DESCRIPTION_6,"Ben bir yılanım, güçlü bir yılanım, zırhlı bir yılanım. Üç kardeş arasında ikinciyim. "
+AVATAR_DESCRIPTION_7,"Ben bir yılanım, güçlü bir yılanım, zırhlı ve mekanik kollu bir yılanım. Üç kardeş arasında üçüncüyüm. "
+AVATAR_DESCRIPTION_5,Hız bir numaradır. Çıraklarım güçlü. \nHer zaman uzak yerler arıyorum.
+AVATAR_DESCRIPTION_9,"Gerekirse benimle konuş. \nKöpeğim sık sık etrafta koşuşturuyor, görüyor musun? "
+AVATAR_DESCRIPTION_10,"Biz zararlı değiliz, yüzüyoruz. "
+AVATAR_DESCRIPTION_11,"Biz zararlı değiliz, hayattayız. "
+AVATAR_DESCRIPTION_12,Bizim için ideal olduğu gibi zararlı değiliz.
+AVATAR_DESCRIPTION_13,"Biz zararlı değiliz, bizi çok seviyoruz. "
+AVATAR_DESCRIPTION_14,Biz zararlı değiliz ve rüzgardan korunma ceketi sıcak.
+AVATAR_DESCRIPTION_15,"Biz zararlı değiliz, felaket bir deneyimdir. "
+AVATAR_DESCRIPTION_16,"Biz zararlı değiliz, geleceğe bakmayın, doğal olarak rahatız. "
+AVATAR_DESCRIPTION_17,"Biz zararlı, acıma, tutum değiliz. "
+AVATAR_DESCRIPTION_18,"Kraliyet ailesinde doğdu, asla maceraya çıkmadı. Gökyüzündeki yıldızlar gibi olmak istiyorum, evren engin ve engin. Uzun yolculukta birbirimizle birlikte olmayı dört gözle bekliyoruz."
+AVATAR_DESCRIPTION_19,Prensesler tek kişilik bir meslek değildir ve prenseslerin de birçok iyi arkadaşı vardır.
+AVATAR_DESCRIPTION_20,Bu işlem gizli olarak yapılmalı ve açığa çıkarılmamalıdır.
+AVATAR_DESCRIPTION_21,"Biz zararlı değiliz, milyonda biriyiz. "
+AVATAR_DESCRIPTION_22,"Biz zararlı değiliz, genç ve gelecek vaat ediyoruz. "
+AVATAR_DESCRIPTION_23,"Biz haşere değiliz, onarım, bir tür yaşam. "
+AVATAR_DESCRIPTION_24,"Biz zararlı değiliz, biz bir yaşam ve bir tutumuz. "
+AVATAR_DESCRIPTION_25,Ben Kral {NAME_1} ve {NAME_1}'a hoş geldiniz.
+AVATAR_DESCRIPTION_26,Ben {NAME_1} Kraliçesiyim ve {NAME_1} sizi karşılıyor.
+AVATAR_DESCRIPTION_27,Ben en yaşlı prensesim ve taht benim.
+AVATAR_DESCRIPTION_28,"Aç olmalısın, yiyecek bir şeyler mi istiyorsun? Anlat. "
+AVATAR_DESCRIPTION_29,"Hizmet benim amacım. Şapkam güzel, o peruklara ihtiyacım yok. "
+ADDAVATARFROMSCENE_ADD_TEAM_MEMBERS,Ekibe yeni üye ekleyin: %s.
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_YOU_CANNOT_ADD_TEAM_MEMBERS_REPEATEDLY,Ekip üyeleri tekrar tekrar eklenemiyor: %s.
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_THE_TEAM_HAS_A_MAXIMUM_OF_AVATAR,Takımın maksimum %s çalışanı vardır.
+TIPS_STRING_AND_FLAG,，
+NO_JOURNALRECORDBOOK_CAN_NOT_VIEW,"{NAME_AVATAR_31} olmadan, kayıt görüntülenemez. "
+NO_JOURNALRECORDBOOK,{NAME_AVATAR_31} yoktur.
+NO_BAG_NO_MORE_ITEMS,"{NAME_AVATAR_30} olmadan, daha fazlasını taşıyamazsınız. "
+NO_BAG,{NAME_AVATAR_30} yoktur.
+SCENE_CONTENT_1_HOME,{NAME_AVATAR_1}'nin evinin güçlü bir gücü var.
+SCENE_CONTENT_3_HOME,{NAME_AVATAR_3}'nin evinde bir masa var ve masada {NAME_AVATAR_31} var.
+SCENE_CONTENT_4_HOME,{NAME_AVATAR_4} evde yatakta {NAME_AVATAR_30} vardır.
+SCENE_CONTENT_3_HOME_COURTYARD,{NAME_AVATAR_3} evin bahçesinde {NAME_AVATAR_2} vardır.
+SCENE_CONTENT_CHORD_SQUARE,Arkadaşlar sık sık burada toplanırlar. Bazı ağaçların ne zaman söndüğünü bilmiyorum ve yerin üzerinde koşan birçok tekerlek izi vardı.
+SCENE_CONTENT_STAVE_AVENUE,Önümüzde bilinmeyene giden yol. Burada birkaç parkur olduğu söylenir.
+SCENE_CONTENT_HALL_OF_MELODY,Burası çok sayıda odaya sahip {NAME_1} sarayı.
+SCENE_CONTENT_CLINKER_VALLEY,"Sürgün Toprakları, aradığınız kişiyi bulabileceğiniz yer. "
+SCENE_CONTENT_CRACKING_VOICE_RIDGE,Çorak dağlar ve yoğun orman.
+SCENE_CONTENT_PLAY_CHESS,"Nerede rekabet edilir, iyi şanslar sizinle. "
+WRANGLEDIALOG_1_CONTENT,Almak?
+WRANGLEDIALOG_1_BUTTON_1,Almak.
+WRANGLEDIALOG_1_BUTTON_2,Alma.
+WRANGLEDIALOG_2_CONTENT,Almak?
+WRANGLEDIALOG_2_BUTTON_1,Almak.
+WRANGLEDIALOG_2_BUTTON_2,Alma.
+WRANGLEDIALOG_3_CONTENT,Kapıyı aç mı?
+WRANGLEDIALOG_3_BUTTON_1,Açın.
+WRANGLEDIALOG_3_BUTTON_2,Açılmıyor.
+WRANGLEDIALOG_3_FUNCTION_1,Kapı açıldı.
+WRANGLEDIALOG_4_CONTENT,"Dışarı çıkmadan önce {NAME_AVATAR_30} getirin, ihtiyacınız olanı yapın. "
+WRANGLEDIALOG_5_CONTENT,{NAME_AVATAR_31} birçok şeyi kaydedebilir ve macera yolculuğuna tanıklık edebilir.
+WRANGLEDIALOG_6_CONTENT,"Kapının dışındaki dünya tehlikelidir, ama aynı zamanda yenilik ve eğlence doludur. "
+WRANGLEDIALOG_6_BUTTON_1,Dışarı çıkıp görmek istiyorum.
+WRANGLEDIALOG_7_CONTENT,"Dışarı çıkmadan önce, size söylemek istiyorum. "
+WRANGLEDIALOG_7_BUTTON_1,Dinliyorum.
+WRANGLEDIALOG_8_CONTENT,Zorluklar her yerde.
+WRANGLEDIALOG_8_BUTTON_1,Ben hazırım.
+WRANGLEDIALOG_9_CONTENT,Daha güçlü olabileceğimi hissediyorum.
+WRANGLEDIALOG_9_BUTTON_1,Sen zaten güçlüsün.
+WRANGLEDIALOG_9_BUTTON_2,Daha güçlü olabilir mi?
+WRANGLEDIALOG_10_CONTENT,Her zaman güçlü bir gücün beni beklediğini hissettim.
+WRANGLEDIALOG_10_BUTTON_1,Söyleyin ve dinleyin.
+WRANGLEDIALOG_10_BUTTON_2,Sabırsızlıkla beklenecek büyük güç.
+WRANGLEDIALOG_11_CONTENT,Bu güç bana uzun zamandır etrafta olduğunu hissettirdi.
+WRANGLEDIALOG_11_BUTTON_1,Uzun zaman önce mi?
+WRANGLEDIALOG_11_BUTTON_2,Onu bulacaksın.
+WRANGLEDIALOG_12_CONTENT,Birlikte bir maceraya çıkalım mı?
+WRANGLEDIALOG_12_BUTTON_1,Ekibimize katılın!
+WRANGLEDIALOG_12_BUTTON_2,Ve benzeri.
+GOODS_DESCRIPTION_13,"Sevgili {NAME_AVATAR_3}:\nDoğum günüm geliyor, doğum günü partim sizi davet ediyor, gelin ve beni {SCENE_NAME_HALL_OF_MELODY}'nin kuzeyindeki {SCENE_NAME_STAVE_AVENUE}'da bulun. Bir süredir yokum, seni çok özlüyorum ve seninle bir araya gelmeyi dört gözle bekliyorum. \n{NAME_AVATAR_19}, sınıf arkadaşınız {NAME_AVATAR_19}."
+WRANGLEDIALOG_13_CONTENT,"{PLAY_CHESS_NAME} Başarı kapıyı açar. Ancak bu sadece bir öğretici, {PLAY_CHESS_NAME} başarısızlığı hala gelip kapıyı tekrar açabilir."
+WRANGLEDIALOG_13_1_CONTENT,Konuşulan şeyler doğrudan {PLAY_CHESS_NAME} olabilir ve daha yüksek olmaya çalışabilir. \n{PLAY_CHESS_NAME} takımdır ve bazen çizginin önünde bulunan ekip üyeleri farklı sonuçlar doğurur.
+WRANGLEDIALOG_13_BUTTON_1,Gidelim.
+WRANGLEDIALOG_14_CONTENT,Her zaman onları bulmak istiyorum.
+WRANGLEDIALOG_15_CONTENT,Sanki çok uzakta değilmiş gibi.
+WRANGLEDIALOG_16_CONTENT,Onları bulabilecek miyim?
+WRANGLEDIALOG_17_CONTENT,"Ancak, hala {PLAY_CHESS_NAME} ihtiyacımız var ve güçlü yoldaşları seviyorum."
+WRANGLEDIALOG_18_CONTENT,Beklemek?
+WRANGLEDIALOG_18_BUTTON_1,Başarısız olursanız ne olur?
+WRANGLEDIALOG_19_CONTENT,"Emin olun, başarısızlık geri gelecektir."
+WRANGLEDIALOG_19_BUTTON_1,"Peki, başlayalım."
+WRANGLEDIALOG_20_CONTENT,Benimle oynamaya mı geldin?
+WRANGLEDIALOG_20_BUTTON_1,Ah evet.
+WRANGLEDIALOG_20_1_CONTENT,Gidelim.
+WRANGLEDIALOG_20_2_CONTENT,Bu doğru.
+WRANGLEDIALOG_20_3_CONTENT,{NAME_AVATAR_19} hatırlıyor musun?
+WRANGLEDIALOG_20_3_BUTTON,Biraz etkilendim.
+WRANGLEDIALOG_20_4_CONTENT,O benim ilkokul sınıf arkadaşımdı.
+WRANGLEDIALOG_20_5_CONTENT,Onu uzun zamandır görmedim.
+WRANGLEDIALOG_20_6_CONTENT,Doğum günü olduğunu düşündüm.
+WRANGLEDIALOG_20_6_BUTTON,O senin kız arkadaşın mı?
+WRANGLEDIALOG_20_7_CONTENT,Aslında biz sadece sınıf arkadaşıyız.
+WRANGLEDIALOG_20_8_CONTENT,Sınıf arkadaşlarının arkadaşlığı.
+WRANGLEDIALOG_20_8_BUTTON,Bu kadar basit.
+WRANGLEDIALOG_20_9_CONTENT,Hadi gidip onu görelim.
+WRANGLEDIALOG_20_9_BUTTON,Anlaşıldı.
+WRANGLEDIALOG_21_CONTENT,"Ancak, gitmeden önce hala {PLAY_CHESS_NAME} ihtiyacımız var, bu da öğrenmek için bir fırsat."
+WRANGLEDIALOG_21_BUTTON_1,"Peki, başlayalım."
+WRANGLEDIALOG_22_CONTENT,Bende yanlış bir şey var mı?
+WRANGLEDIALOG_22_BUTTON_1,Son zamanlarda meşgul müsünüz?
+WRANGLEDIALOG_23_CONTENT,"Gitmeden önce, hala herkesin kararlılığını test etmek istiyorum."
+WRANGLEDIALOG_23_BUTTON_1,"Peki, başlayalım."
+WRANGLEDIALOG_24_CONTENT,Nereye gidiyorsunuz?
+WRANGLEDIALOG_24_BUTTON_1,Bir maceraya atılın.
+WRANGLEDIALOG_24_1_CONTENT,Bir maceraya çık ve beni de yanına al.
+WRANGLEDIALOG_24_1_BUTTON_1,Birlikte yürüyün.
+WRANGLEDIALOG_24_2_CONTENT,"Ancak, en iyi arkadaşım olmadan, gitmiyorum."
+WRANGLEDIALOG_24_2_BUTTON_1,En iyi arkadaşın mı?
+WRANGLEDIALOG_24_3_CONTENT,"En iyi arkadaşlara sahip olmak için, beklentilerle dolu, bilinmeyen bir yolculuğa çıkın."
+WRANGLEDIALOG_24_3_BUTTON_1,Şiir okumakta oldukça iyisin.
+WRANGLEDIALOG_24_4_CONTENT,"Daha fazla kitap dinlerseniz, doğal olarak öyle olacaktır."
+WRANGLEDIALOG_24_5_CONTENT,En iyi arkadaşımla gideceğim.
+WRANGLEDIALOG_24_6_CONTENT,"Eğer {PLAY_CHESS_NAME}'da kazanabilirsen, seninle bir maceraya çıkmayı düşünebilirim."
+WRANGLEDIALOG_25_CONTENT,Maceralar her zaman dört gözle beklenecek bir şeydir.
+WRANGLEDIALOG_25_BUTTON_1,"Peki, başlayalım."
+WRANGLEDIALOG_22_1_CONTENT,Çok meşgul.
+WRANGLEDIALOG_22_1_BUTTON_1,Çok meşgul?
+WRANGLEDIALOG_22_2_CONTENT,Bir avukat olarak görevim öncelikle başkalarını ikna etmektir.
+WRANGLEDIALOG_22_2_BUTTON_1,"Öyleyse, sevgili {JOB_LOBBYIST}, birlikte bir maceraya çıkalım."
+WRANGLEDIALOG_22_3_CONTENT,Meşgulüm.
+WRANGLEDIALOG_22_3_BUTTON_1,"Birlikte macera yaşadığımız günler, anlattığınız hikayeleri dinlemek için vazgeçilmezdir."
+WRANGLEDIALOG_22_4_CONTENT,"Konuşmayı seviyorum, ama son zamanlarda ilgilenmiyorum."
+WRANGLEDIALOG_22_4_BUTTON_1,Çok yorgunsunuz ve uyum sağlamanız gerekiyor.
+WRANGLEDIALOG_22_5_CONTENT,"Gerçekten de, şirketten kovulduktan sonra, evde kalıyorum."
+WRANGLEDIALOG_22_5_BUTTON_1,"Yani, sana ihtiyacımız var."
+WRANGLEDIALOG_22_6_CONTENT,Bana ihtiyacın var mı?
+WRANGLEDIALOG_22_6_BUTTON_1,"Çünkü sen iyi bir küçük arkadaşsın, sana ihtiyacımız var."
+WRANGLEDIALOG_22_7_CONTENT,Macera zor bir maceraydı ve dayanamayacağımdan korkuyordum.
+WRANGLEDIALOG_22_7_BUTTON_1,Denemediğinizi nasıl anlarsınız?
+WRANGLEDIALOG_22_8_CONTENT,"Ayrıca, hayat bilinmeyen bir maceradır."
+WRANGLEDIALOG_22_9_CONTENT,"Bin kez düşünün, bir kez yapmak daha iyidir."
+WRANGLEDIALOG_22_10_CONTENT,Bu doğru mu?
+WRANGLEDIALOG_22_10_BUTTON_1,"Peki, daha ne bekliyorsunuz?"
+WRANGLEDIALOG_54_CONTENT,Günlerce görülmedi.
+WRANGLEDIALOG_54_BUTTON_1,Uzun.
+WRANGLEDIALOG_54_1_CONTENT,Hala büyük bir güç arıyoruz.
+WRANGLEDIALOG_54_1_BUTTON_1,Buldunuz mu?
+WRANGLEDIALOG_54_2_CONTENT,Hiçbir şey bulunamadı.
+WRANGLEDIALOG_54_3_CONTENT,Her zaman güçlü gücün çok uzak olmadığını hissediyorum.
+WRANGLEDIALOG_54_3_BUTTON_1,Biz de öyle hissediyoruz.
+WRANGLEDIALOG_54_4_CONTENT,Yani biz bir takımız.
+WRANGLEDIALOG_54_4_BUTTON_1,Bu güçlü güç hakkında başka ne hissediyorsunuz?
+WRANGLEDIALOG_54_5_CONTENT,Bence aramaya devam etmeliyiz ve sonunda cevabı bulabiliriz.
+WRANGLEDIALOG_54_5_BUTTON_1,Öğrendiğimiz gibi bize katılın.
+WRANGLEDIALOG_54_6_CONTENT,Ben de sadece ışınlandım ve bizi ışınlayan cihaz da bu güç tarafından yönlendirildi.
+WRANGLEDIALOG_54_6_BUTTON_1,Onu buldunuz mu?
+WRANGLEDIALOG_54_7_CONTENT,Son savaşın mirasıdır.
+WRANGLEDIALOG_54_8_CONTENT,Arkadan gelen başka takım üyeleri olmalı.
+WRANGLEDIALOG_54_8_BUTTON_1,"Hadi dışarı çıkalım ve önce bir göz atalım, sonra onu almak için geri dönelim."
+WRANGLEDIALOG_55_CONTENT,"Günlerdir görmedim, ama yine de denemek ve herkesin güvenini görmek istiyorum."
+WRANGLEDIALOG_55_BUTTON_1,"Peki, başlayalım."
+PLANET_47,Gezegen 47
+WRANGLEDIALOG_56_CONTENT,Güvenli bir şekilde geldi.
+WRANGLEDIALOG_56_BUTTON_1,Günlerce görülmedi.
+WRANGLEDIALOG_56_1_CONTENT,"Işınlanmaya giderken, belli belirsiz bir şey görüyor gibiyim?"
+WRANGLEDIALOG_56_1_BUTTON_1,Bakın ne oldu?
+WRANGLEDIALOG_56_2_CONTENT,Emin değilim çünkü gücün çok istikrarlı olduğunu hissetmiyorum.
+WRANGLEDIALOG_56_3_CONTENT,Anten benzeri bir cihaz ya da başka bir şey var gibi görünüyor.
+WRANGLEDIALOG_56_3_BUTTON_1,Ne yapıyorlar?
+WRANGLEDIALOG_56_4_CONTENT,Bilmiyorum ama sanki bu gücün istikrarsızlığıyla bir ilgisi varmış gibi geliyor.
+WRANGLEDIALOG_56_4_BUTTON_1,Başka ne görüyorsun?
+WRANGLEDIALOG_56_5_CONTENT,Tekrar iki kız görüyor gibiyim.
+WRANGLEDIALOG_56_5_BUTTON_1,İki kız?
+WRANGLEDIALOG_56_6_CONTENT,"Çok belirsiz, çok emin değilim."
+WRANGLEDIALOG_56_7_CONTENT,Yanında başka bir kişi daha var gibi görünüyor.
+WRANGLEDIALOG_56_7_BUTTON_1,Aman?
+WRANGLEDIALOG_56_8_CONTENT,{NAME_AVATAR_20} gibi görünüyor gibi hissediyorum.
+WRANGLEDIALOG_56_8_BUTTON_1,{NAME_AVATAR_20}'nin {NAME_AVATAR_33}'ı mı?
+WRANGLEDIALOG_56_9_CONTENT,"Muhtemelen hayır, son savaş sırasında sürgün edilmeliydi."
+WRANGLEDIALOG_56_9_BUTTON_1,"Gerçekten de, {PLANET_47} buradan uzaktır ve o olamaz."
+WRANGLEDIALOG_56_10_CONTENT,Yeni bir maceraya atılıyoruz.
+WRANGLEDIALOG_57_CONTENT,Gücümüz hala her zamanki gibi aynı mı? Hala denemek istiyorum.
+WRANGLEDIALOG_57_BUTTON_1,"Peki, başlayalım."
+WRANGLEDIALOG_76_1_CONTENT,Hepiniz hikayemi duymuşsunuzdur.
+WRANGLEDIALOG_76_2_CONTENT,Uzun zaman önce ve unutulmuş olabilir.
+WRANGLEDIALOG_76_3_CONTENT,Üç çırağım tüm becerilerimi öğrendi ve son derece güçlüydüler.
+WRANGLEDIALOG_76_4_CONTENT,Etrafta dolaşmayı ve cenneti ve dünyayı eve götürmeyi seviyorum.
+WRANGLEDIALOG_76_5_CONTENT,"Büyük yeteneklere sahip birçok insanla, birçok olağanüstü şeyle tanıştım."
+WRANGLEDIALOG_76_6_CONTENT,İnsanlarla rekabet etmeyi sevmiyorum ama rekabet edecek cesaretim var.
+WRANGLEDIALOG_76_7_CONTENT,Zafer sadece benden gelen bir iltifattır ve başarısızlık normdur.
+WRANGLEDIALOG_76_7_BUTTON_1,Oyun
+WRANGLEDIALOG_76_7_BUTTON_2,Hoşça kal
+WRANGLEDIALOG_83_CONTENT,"Sevgili yoldan geçenler, nereye gidiyorsun?"
+WRANGLEDIALOG_83_BUTTON_1,Bu {NAME_1} mı?
+WRANGLEDIALOG_83_1_CONTENT,"Büyük ülke, müziğin ülkesi, aynı zamanda benim memleketim ve vatanımdır ve kraliyet ailesinin bir üyesi olarak size cevabım, bunun tam olarak ne olduğudur."
+WRANGLEDIALOG_83_1_BUTTON_1,"Merhaba, sizinle tanışmak benim için bir onur."
+WRANGLEDIALOG_83_2_CONTENT,Ne iş yapıyorsun?
+WRANGLEDIALOG_83_2_BUTTON_1,Prensesini bulmak istiyoruz.
+WRANGLEDIALOG_83_3_CONTENT,Aman?
+WRANGLEDIALOG_83_3_BUTTON_1,Kayınpederinizin doğum günü olduğunu öğrendik ve onu tebrik etmeye geldik.
+WRANGLEDIALOG_83_4_CONTENT,Birbirinizi tanıyor musunuz?
+WRANGLEDIALOG_83_4_BUTTON_1,Biz prensesin sınıf arkadaşlarıyız.
+WRANGLEDIALOG_83_5_CONTENT,"Grubunuza baktım ve deneyimlerime göre, muhtemelen birbirinizi tanıyorsunuz."
+WRANGLEDIALOG_83_5_BUTTON_1,Onu bulmamıza yardım edebilir misin?
+WRANGLEDIALOG_83_6_CONTENT,"Söylemesi zor, kral ve kraliçeye sormalısın."
+WRANGLEDIALOG_83_6_BUTTON_1,Bize başvurabilir misiniz?
+WRANGLEDIALOG_83_7_CONTENT,Ben hevesli bir kraliyet üyesiyim.
+WRANGLEDIALOG_83_8_CONTENT,Ama sana inancım olduğunu kanıtlamalısın.
+WRANGLEDIALOG_84_CONTENT,Yapabilir miyim?
+WRANGLEDIALOG_84_BUTTON_1,"Peki, başlayalım."
+WRANGLEDIALOG_93_CONTENT,İş yapmam için beni mi arıyorsunuz?
+WRANGLEDIALOG_93_BUTTON_1,Büyük fırsatlar var.
+WRANGLEDIALOG_93_1_CONTENT,Ne kadar büyük bir anlaşma?
+WRANGLEDIALOG_93_1_BUTTON_1,Almak ve satmak için çok fazla.
+WRANGLEDIALOG_93_2_CONTENT,"Ticarette adilim ve beni büyük bir şeyle tanıştırırsanız, bittikten sonra vazgeçilmez olacaksınız."
+WRANGLEDIALOG_93_2_BUTTON_1,Kulağa adil geliyor.
+WRANGLEDIALOG_93_3_CONTENT,"Diyelim ki, önemli olan nedir?"
+WRANGLEDIALOG_93_3_BUTTON_1,Bir gezi için bizimle gelmenize ihtiyacımız var.
+WRANGLEDIALOG_93_4_CONTENT,Satın almak ve satmak için bir yolculuğa mı çıkıyorsunuz? İnsan kaçakçılığı?
+WRANGLEDIALOG_93_4_BUTTON_1,Nereye gitmek istiyorsun.
+WRANGLEDIALOG_93_5_CONTENT,"Geçen seferki ile aynı anlaşma olmazdı, değil mi?"
+WRANGLEDIALOG_93_6_CONTENT,Artık böyle bir iş yapmıyorum! Ne kadar para gitmiyor!
+WRANGLEDIALOG_93_6_BUTTON_1,Anlaşmanın ne olduğunu söylemedim.
+WRANGLEDIALOG_93_7_CONTENT,"Son maceranın deneyimi, hala çarpıntım var, ben bir işadamıyım, maceracı değil!"
+WRANGLEDIALOG_93_7_BUTTON_1,"Ancak, bu sefer çok para kazanabilir."
+WRANGLEDIALOG_93_8_CONTENT,Emin misiniz?
+WRANGLEDIALOG_93_8_BUTTON_1,Elbette.
+WRANGLEDIALOG_94_CONTENT,"Yine de gitmeden önce, ne kadar paranız olduğunu görmem gerekiyor."
+WRANGLEDIALOG_94_BUTTON_1,"Peki, başlayalım."
+PLAYCHESSSUCCESSFUNCTION_AVATAR_9_STRING,Başarı asla kolay değildir.
+PLAYCHESSFAILUREFUNCTION_AVATAR_9_STRING,Başarısızlık sonsuza dek sürmez.
+WRANGLEDIALOG_103_CONTENT,Sık sık kendimle konuşurum.
+WRANGLEDIALOG_103_BUTTON_1,Afedersin.
+WRANGLEDIALOG_103_FUNCTION_1_1,"Köpeğim sürekli etrafta koşuşturuyor, görüyor musun?"
+WRANGLEDIALOG_103_FUNCTION_1_2,Gerekirse benimle konuş.
+WRANGLEDIALOG_103_FUNCTION_1_3,"Zengin renk ağır yeşim kızgın ve kibirli, mavi kıyafetler ve su kolları mavi ve dalgalı, kimse tam renkli içmiyor ve bir teras Yueyang Lou var. Çelik tel binlerce kez titredi ve tribün sonunda geri dönmek zorunda kaldı, böylece bulutlar ayı ve kırmızı tozu kapladı ve küçük öğrenci hala geliyordu."
+WRANGLEDIALOG_103_FUNCTION_1_4,"Kırmızı gökyüzünü bulmak için dağların her yerinde yürümek, kar ve gözyaşı izleri üflemek. Düşen çiçek düşünceye takıntılıdır ve gözyaşları kırılmaz. Frost hep bir ağızdan oturdu, kılıca yaslandı ve uzun süre asılı kaldı. Bin Ordu Çamur Hapı gökyüzünde yürüdü ve gürledi ve uzun gökyüzü siluetleri parlattı. Dönen yağmur dağa baskı yaptı ve sakinlik ve yarı korku yoktu."
+WRANGLEDIALOG_103_FUNCTION_1_5,Batı rüzgarı kahramanca şarap içti ve kahramanın alacakaranlıkta geri döndüğünü görmedi. Geç eli geri döndürmek zordur ve yağmur hafifçe düşer. Güzellik beyaz yeşim plakaya gözyaşı damlıyor ve esintide yeşil bir ipek bırakmak zor. Yıldızlar ve ay ışığı muhteşemdir ve sevgili her zaman sarılacaktır.
+WRANGLEDIALOG_103_FUNCTION_1_6,"Şeftali çiçeklerini bulmak için başka bir yere gidin, şeftali çiçekleri hala bahar esintisinde gülümsüyor, bahar esintisi soğuk, insanların yüzlerindeki şeftali çiçekleri kırmızı, kırmızı yüz paha biçilmez sarhoş kasıtlı olarak, belli belirsiz bir şekilde gençken geçmişte."
+WRANGLEDIALOG_103_FUNCTION_1_7,"Binlerce mil buzullar biraz kırmızı, Xiaoxiao kuzey rüzgarı kimi ziyaret edeceğini sormak için? Uzun keder acımasız ve kılıç ustası yaklaşıyor ve dünya yoldan geçenlerle dolu."
+WRANGLEDIALOG_103_FUNCTION_1_8,"Yeşil dağlar, yeşil sular, beyaz bulutlar geçiyor, yabani otlar boşta çiçekler Nonuo sallanıyor, rüzgar ve vahşi kelebekleri kovalayan güçlü çimler, sınırı koruyan çöl sarısı kum. Dünyanın sonu fısıldadı, suda parıldıyordu, binlerce kederi çözmek ve beslemek zordur ve ayna su binası ayda bir çiçektir."
+WRANGLEDIALOG_103_FUNCTION_1_9,"Evden ve dünyanın sonundan on yıl uzakta, memleketimdeki parlak ay kalbimde parlıyor. Bütün eller çiçek ve çiçek eker ve zaman uçar."
+WRANGLEDIALOG_103_FUNCTION_1_10,"Kelebek etek vücudun etrafında uçtu, yeşim parmak şemsiyeyi çizgide yürümeye yönlendirdi, çiçek göletinin kalıntıları ve bin dağ özgürlük arayışına baktı."
+WRANGLEDIALOG_103_FUNCTION_1_11,"Canlı mevsimde en güzel seninle tanışmak bana en güzel hayatı ve en güzel gülümsemeyi verdi, günlerin böyle geçirilebileceğini, kalbimle yaşadığım sıcaklık ve doğa olduğunu anlayayım ve bir evim olsun. Çok inanılmaz, çok şaşırtıcı, çok hak etti. Bu önemli kararı verdiğim için çok şanslı olduğum kaderinde görünüyordu."
+WRANGLEDIALOG_103_FUNCTION_1_12,"Bilinçsizce, zaten osmanthus çiçek açıyor ve esinti ay ile kokulu. Yangtze Nehri'nin suyuna yalnız bakan birine yaslanarak, birlikte osmanthus'un kokusunun tadını çıkarabilirsiniz."
+WRANGLEDIALOG_103_FUNCTION_1_13,"Fei Ao koştu ve kumu kovaladı ve bir general olarak yemin etmedi. Sadece iç çekmek acımasız cennet eski değil, sadece Wuxiang kralından nefret ediyor."
+WRANGLEDIALOG_103_FUNCTION_1_14,"Parlak ay, dünyanın sonunun kahramanı olan sırdaşı aydınlatır. Bıçak nereye gidiyor? Ürpertici."
+WRANGLEDIALOG_103_FUNCTION_1_15,"Puslu alacakaranlık bulutlarında ay havuzunun etrafında dolaşırken, dallarda asılı şeftali çiçekleri yoktu. En nefret edilen batı rüzgarı geçti ve yıldızlar ne için endişeleneceklerini bilmiyorlar."
+WRANGLEDIALOG_103_FUNCTION_1_16,"uzaklara, uzaklara, görünmezliğe uçtu. Ona da dokunamıyorum. Onu göremediğiniz yerde, çok uzaklarda. Ayaklarının altındaki kumu tutarak, memleketinin nefesini ve tanıdık nefesini kaybetti. Ebedi bir yeniden birleşme olmayacak, uzun bir ayrılık olmayacak. Karahindiba da çiçek açacak, küçük şemsiyeler uzaktan kalkacak, lüks hava yolculuğu, yusufçuklar suyun hafifliğine işaret edecek, hala dünyaya uçacak, tanıdık nefesi çiğneyecek. Sarı kum uçtu, onunla gitmedim, sarı kum uçtu, hala tanıdık bir nefes. Sarı kum uçtu ve karahindiba hala orada sallanıyordu. Sarı kum uçtu ve küçük şemsiyeler hala gökyüzünde uçuyordu. Sarı kum uçup gitti, ama küçük yeşil bir tomurcuk gördüm."
+WRANGLEDIALOG_103_FUNCTION_1_17,"Bir uçak yaprağı yavaşça dallardan aşağı doğru yüzer ve soğuk rüzgar esiyor, havayı yavaşça çiziyor ve yere sabit bir şekilde iniyor. Bu, Toprak Ana'nın çağrısıdır. Bu yeni bir reenkarnasyondur. Beyaz bir kar tanesi yavaşça bulutların arasından geçti, eve tek yönlü bir bilet aldı, kuru hava yeryüzünde sürüklendi, bu Toprak Ana'nın rouge'uydu, sen çok güzelsin, anne. Gökyüzündeki gökkuşağı düştü, kırmızı kanımız, sarı yüzümüz, yeşil yeşil düzlem yapraklarıdır. İnce bir gazlı bez eşarp omuzlarınızdan düşer, akan rüzgarda uçar, yanıp söner, çok hızlı. Denizde ileri. Kum martıları cıvıl cıvıl, akan rüzgarda dörtnala koşuyor, sizler Toprak Ana'nın eşarbısınız, kum martılarsınız. Düşmeyen bir eşarptır."
+WRANGLEDIALOG_103_FUNCTION_1_18,"İlkbahar esintisi tekrar çiçek açıyor ve rüya dün gece kalpte çınlıyor, sadece aşk sohbeti devam ediyor ve kalp titriyor. Xiao Lou Lonely Moon kiminle ilgilenmek istiyor? Birbiri ardına düşen hilal dökülür, geçmişin tozu insanların yüzlerini araştırır ve şeftali çiçekleri bahar esintisine aptalca güler."
+WRANGLEDIALOG_103_FUNCTION_1_19,"Supergirl hala dünyayı kurtarmak için yerçekimine meydan okuyor, dönen tahta at hala küçük kızı beklerken tek başına dönüyor, akan karışık hamur Chuanyang Nehri'ndeki ördekler hala kayıtsız ve komşunun köpek yavrusu hala evimin merdivenlerinde taze pirinç tarlaları bırakmayı seviyor. Güneş hala parlak ve insanları kıkırdatıyor ve gülümseyen güneşli yüz hala çok sevimli."
+WRANGLEDIALOG_103_FUNCTION_1_20,"Bitmedi, bitmedi."
+WRANGLEDIALOG_104_CONTENT,Bu bir mektup.
+WRANGLEDIALOG_106_CONTENT,"Sevgili {NAME_AVATAR_3}:\nDoğum günüm geliyor, doğum günü partim sizi davet ediyor, gelin ve beni {SCENE_NAME_HALL_OF_MELODY}'nin kuzeyindeki {SCENE_NAME_STAVE_AVENUE}'da bulun. Bir süredir yokum, seni çok özlüyorum ve seninle bir araya gelmeyi dört gözle bekliyorum. \n{NAME_AVATAR_19}, sınıf arkadaşınız {NAME_AVATAR_19}."
+WRANGLEDIALOG_106_BUTTON_1,"Mektup neden buraya yerleştirildi? ,,, doğusunda {SCENE_NAME_STAVE_AVENUE} var, doğum günü partisine gidelim."
+TO_NAME_AVATAR_3_LETTER,{NAME_AVATAR_3} pro-start.
+I_LIKE_LOBBYIST,İyi konuşabilen insanları severim.
+IS_DOG1,"Rüzgar ve yağmur eşliğinde gereksiz yere koşmayı seviyorsun, sevgili küçük dostum, sen misin?"
+YOU_ARE_A_TALL_FELLOW,Sen üstün bir insansın!
+WINS_AND_LOSSES_ARE_COMMON_1,Zafer ve yenilgi olağandır.
+WINS_AND_LOSSES_ARE_COMMON_2,Hız bir numaradır.
+WINS_AND_LOSSES_ARE_COMMON_3,Çıraklarım güçlü.
+WINS_AND_LOSSES_ARE_COMMON_4,Her zaman uzak bir yer arıyorum.
+I_DONOT_HAVE_MY_BEST_FRIEND_HERE,En iyi arkadaşımla gideceğim.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_1,Açın.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_2,Açın.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_1,Bilgi güçtür.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_2,Kayıtlar yaşam içerir.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_1,Bir dünyayı izole edin.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_2,Huzur duygusunu koruyun.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_1,Demir ayakkabılara basacak yer yok.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_2,Herhangi bir çaba gerektirmez.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_1,Sınıf arkadaşlarından mektuplar.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_2,Bir arkadaştan gelen mektup.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_1,Sessiz.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_2,Sessizlik.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_3,"Tekrarlama, zaferin sihirli silahıdır."
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_4,Bir şeyler yapmanın bir sırrı var.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_5,Acele israf yapar.
+PLAYCHESSFAILUREFUNCTION_NPCARTICLE_ODETOJOY,"Ben {NAME_1}'ın koruyucusuyum, kralın sadık koruyucusuyum."
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_1,Kazanmak.
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_2,Kazanmalı.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_1,Şansa dokunulmalıdır.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_2,İyi şanslar da dokunulmalıdır.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_1,Kazanma ihtimalini hesapladım.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_2,Aynı zamanda öğrenmek için bir fırsattır.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_1,İyi sözler iyi şanslar anlamına gelmez.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_2,İfade metodik olmalıdır.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_1,Afar.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_2,Kutup gözü.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_1,İstediğiniz gibi gelin ve gidin.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_2,Geri çekme özgürlüğü.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_1,Çelik kollar.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_2,Güçlü güç.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_1,"Pazarlık, bir işadamının işadamının işidir."
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_2,Her şeyin bir bedeli vardır.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_1,Güneşin sıcaklığı sizi çevreliyor.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_2,Güneş üzerinizde parlıyor.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_1,Dayanıklılığım iyi.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_2,İyi bir öfkem var.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_1,Bir sürü arkadaşım var.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_2,Arkadaşlarım ve ben çok fazla bir araya geliyoruz.
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_1,Bana meydan okumaya nasıl cüret edersin?
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_2,Ateşle oynuyorsun.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_1,Soygunu engellemek için aşk için yüzen hayat.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_2,10.000 yıl boyunca pratik yapın.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_1,Bir sürü kardeşim var.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_2,Birkaç kız kardeşim var.
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_1,"İdeal mi gerçek mi, hangisini seçersiniz?"
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_2,Tuzlu balığın idealleri yoktur.
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_1,"Yapabilirim, yaparım."
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_2,Gökler ve yer geniştir ve kalp geniştir.
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_1,Burası gerçekten rüzgarlı.
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_2,Rüzgar kuvvetli esiyor.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_1,Erik çiçeklerinin kokusu acı soğuktan gelir.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_2,Acı çekmek bir hayattır.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_1,Geleceğin gelecekteki düzenlemeleri var.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_2,Bugün bugünün düzenlemesi var.
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_1,Ciddiyet bir tutumdur.
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_2,Benim tavrım ciddi ve değerli.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_1,Dünyada sen ve ben varız.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_2,Sen ve ben eşsiziz.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_1,Gençken çok motive olmuştum.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_2,Şimdi çok motiveyim.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_1,Kendinizi geliştirin.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_2,Kendinize bakın.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_1,Kendinizi görmek için xiulian uygulayın.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_2,"Kendi uygulama, kendi bilmek."
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_1,Taç altından yapılmıştır.
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_2,Taç parlıyor.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_1,"Taç ne kadar göz kamaştırıcı olursa olsun, sık sık silinmesi gerekir."
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_2,"Taç, bir kaliteyi temsil eden altından yapılmıştır."
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_1,Her şeyde kazanın ya da kaybedin.
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_2,İstediğimi alacağım.
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_1,"Oda ne kadar temiz olursa olsun, sık sık dikkat edilmesi gerekir."
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_2,Bir odayı toparlamak basit bir iş değildir.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_1,Bir işe uzun süre bağlı kalmak kolay değildir.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_2,Bir saraya bakmak kolay değildir.
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_1,Görülmemeliydim.
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_2,Beni göremiyorum.
+NOW_I_AM_THE_TEAM_LEADER,Şimdi çizginin önündeyim.
+NPCARTICLETRIGGER_NAME_2,{NAME_AVATAR_3} Evin kapısı
+NPCARTICLETRIGGER_NAME_3,{NAME_AVATAR_4} Evin kapısı
+WAIT_A_MOMENT,Bekleyin
+DICE_STARTED,%s yüz zarı başladı
+WHERE_ARE_THE_LOBBYISTS,{JOB_LOBBYIST} nerededir?
+SILENT_NOTE_DO,Sessiz Not · Do (1)
+SILENT_NOTE_RE,Sessiz Not · Re (2)
+SILENT_NOTE_MI,Sessiz Not · Mi (3)
+SILENT_NOTE_FA,Sessiz Not · Fa (4)
+SILENT_NOTE_SOL,Sessiz Not · Sol (5)
+SILENT_NOTE_LA,Sessiz Not · La (6)
+SILENT_NOTE_SI,Sessiz Not · Si (7)
+NOTE_DO,Do (1)
+NOTE_RE,Re (2)
+NOTE_MI,Mi (3)
+NOTE_FA,Fa (4)
+NOTE_SOL,Sol (5)
+NOTE_LA,La (6)
+NOTE_SI,Si (7)
+WRANGLEDIALOG_107_CONTENT,"Ben {SILENT_NOTE_MI}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_108_CONTENT,"Ben {SILENT_NOTE_MI}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_109_CONTENT,"Ben {SILENT_NOTE_FA}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_110_CONTENT,"Ben {SILENT_NOTE_SOL}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_111_CONTENT,"Ben {SILENT_NOTE_SOL}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_112_CONTENT,"Ben {SILENT_NOTE_FA}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_113_CONTENT,"Ben {SILENT_NOTE_MI}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_114_CONTENT,"Ben {SILENT_NOTE_RE}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_115_CONTENT,"Ben {SILENT_NOTE_DO}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_116_CONTENT,"Ben {SILENT_NOTE_DO}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_117_CONTENT,"Ben {SILENT_NOTE_RE}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_118_CONTENT,"Ben {SILENT_NOTE_MI}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_119_CONTENT,"Ben {SILENT_NOTE_MI}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_120_CONTENT,"Ben {SILENT_NOTE_RE}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_121_CONTENT,"Ben {SILENT_NOTE_RE}, {NAME_1}'nin koruyucusuyum."
+WRANGLEDIALOG_107_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_108_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_109_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_110_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_111_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_112_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_113_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_114_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_115_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_116_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_117_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_118_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_119_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_120_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WRANGLEDIALOG_121_BUTTON_1,Cesaretimi kanıtlamak istiyorum.
+WIN_THE_KING,Kralı kazandın.
+WRANGLEDIALOG_122_CONTENT,"Uzaktan arkadaşlar, bilge savaşçılar, {NAME_1} hoş geldiniz!"
+WRANGLEDIALOG_122_BUTTON_1,"Merhaba, sizinle tanışmak benim için bir onur."
+WRANGLEDIALOG_123_CONTENT,En küçük kızımın doğum günü partisi için mi buradasın?
+WRANGLEDIALOG_123_BUTTON_1,Evet. 
+WRANGLEDIALOG_124_CONTENT,"Tekrar hoş geldiniz! Küçük kızım ve kız kardeşi benim çalışmamda, gidip onu kendi başına bulabilirsin. Daha sonra, doğum günü partisinde, duyurmam gereken önemli bir şeyim var."
+WRANGLEDIALOG_124_BUTTON_1,Davetiniz için teşekkür ederiz.
+WRANGLEDIALOG_125_CONTENT,"Ancak, burada birçok oda olduğunu ve çalışmamın kuzey tarafında olduğunu hatırlatmak isterim."
+WRANGLEDIALOG_126_CONTENT,"Her kapı {NAME_1}'nin koruyucusudur, {NAME_1}'nin {SCENE_NAME_STAVE_AVENUE} koruyucuları ile aynıdır, onlar sadık muhafızlardır ve bazen sadece kraliyet personeli geçebilir."
+WRANGLEDIALOG_126_BUTTON_1,Anladım.
+WRANGLEDIALOG_127_CONTENT,"Akıllı savaşçı, müziği anlıyor musun?"
+WRANGLEDIALOG_127_BUTTON_1,"Biraz anlayın, hepimiz müzik dinlemeyi ve şarkı dinlemeyi severiz."
+WRANGLEDIALOG_128_CONTENT,Ayrıca çok çeşitli müzik ve şarkı dinlemeyi seviyorum! İyi müzik ve şarkılar ruhlarımızı arındırır!
+WRANGLEDIALOG_128_BUTTON_1,Çok haklısın.
+WRANGLEDIALOG_129_CONTENT,"{SCENE_NAME_STAVE_AVENUE} {NAME_1}'nin koruyucuları, büyükbabamın büyükbabasının büyükbabasının büyükbabasının büyükbabasının bile doğmadığı eski zamanlardan kalanlardır."
+WRANGLEDIALOG_129_BUTTON_1,Uzun zaman önceydi.
+WRANGLEDIALOG_130_CONTENT,"Onlara başarılı bir şekilde meydan okuyabilir ve cesaretinizi kanıtlayabilirseniz, size bazı özel küçük hediyeler vermeyi düşüneceğim."
+WRANGLEDIALOG_130_BUTTON_1,Ne özel küçük bir hediye?
+WRANGLEDIALOG_131_CONTENT,"Kişisel çekicilik katabilecek küçük eşyalar, sanırım bazılarınız bunları kullanabilir."
+WRANGLEDIALOG_131_BUTTON_1,Çok gizemli.
+WRANGLEDIALOG_132_CONTENT,"Git, {NAME_1} hoş geldin, bilge savaşçı, kendini kaptır!"
+WRANGLEDIALOG_132_BUTTON_1,Hoşçakal.
+WRANGLEDIALOG_133_CONTENT,Sorun mu yaşıyorsunuz?
+WRANGLEDIALOG_133_BUTTON_1,Bana bir ipucu verebilir misiniz?
+WRANGLEDIALOG_133_BUTTON_2,Meydan okumam başarılı oldu.
+WRANGLEDIALOG_134_CONTENT,"{NAME_1} Muhafızları'na meydan okumadan önce {SCENE_NAME_STAVE_AVENUE} size bir ipucu verebilirim,,,,,,"
+WRANGLEDIALOG_134_BUTTON_1,Sabırsızlıkla beklenecek ipuçları.
+WRANGLEDIALOG_134_BUTTON_2,Biraz daha fazla deneyeceğim.
+WRANGLEDIALOG_135_CONTENT,"Rulo çağrısının ,,, (1), Lai (2), Mi (3), Fa (4), Kışkırtma (5), La (6), Batı (7) biraz geliyor."
+WRANGLEDIALOG_135_BUTTON_1,Bana fısıldandın.
+WRANGLEDIALOG_136_CONTENT,Lütfen senin için küçük hediyemi kabul et.
+WRANGLEDIALOG_136_BUTTON_1,Cömertliğiniz için teşekkür ederiz.
+KING_LOW_VOICE,"Alçak bir ses, %s,,, kimseye söyleme dedi,,,"
+WHEN_I_WAS_YOUNG,"Gençken çok kullandığım bu küçük hediye, daha sonra bir tacım olduğunda, ona ihtiyacım yoktu."
+ALL_GIFTS_HAD_GIVE_YOU,Benim küçük hediyem senin için.
+YOU_NEED_TO_PROVE,Size verilen küçük hediyeyi almak için cesaretinizi kanıtlayın
+GOODS_NAME_HOUSEKEEPERKEY,{NAME_AVATAR_28} anahtarı
+GOODS_NAME_BUTLERKEY,{NAME_AVATAR_29} anahtarının anahtarı
+GOODS_NAME_QUEENKEY,{NAME_AVATAR_26} anahtarı
+DOOR_1,{SCENE_NAME_STAVE_AVENUE} Güneydeki Batı Kapısı
+DOOR_2,{SCENE_NAME_STAVE_AVENUE} Güneydeki Doğu Kapısı
+GOODS_DESCRIPTION_HOUSEKEEPERKEY,Taşırken {DOOR_1} açabilirsiniz.
+GOODS_DESCRIPTION_BUTLERKEY,Taşırken {DOOR_2} açabilirsiniz.
+GOODS_DESCRIPTION_QUEENKEY,"Taşırken, {SCENE_NAME_HALL_OF_MELODY} kapısını açabilirsiniz."
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_1,Firma.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_2,Uzun.
+NOT_EASY_OPEN_THE_DOOR_WITHOUT_THE_KEY,Anahtarsız kapıların açılması kolay değildir.
+WRANGLEDIALOG_139_CONTENT,"Aç olmalısın, yiyecek bir şeyler mi istiyorsun? Anlat."
+WRANGLEDIALOG_139_BUTTON_1,Burada ne yemelisin?
+WRANGLEDIALOG_139_BUTTON_2,Burada ilgilenmek gerçekten yoğun bir iş.
+WRANGLEDIALOG_139_1_CONTENT,Prensesin doğum günü partisinde doyurucu yemekler hazırladık.
+WRANGLEDIALOG_139_2_CONTENT,"Oh, ve {NAME_AVATAR_19} ve {NAME_AVATAR_27}'ı, kuzeydeki kralın çalışmasına giden küçük prenseslerin kız kardeşlerini gördüm."
+WRANGLEDIALOG_139_2_BUTTON_1,Bu şekilde.
+WRANGLEDIALOG_139_3_CONTENT,"Hala yapacak işlerim var ve onları bulmak istiyorsan, oraya gidebilirsin."
+WRANGLEDIALOG_139_3_BUTTON_1,İyi. 
+WRANGLEDIALOG_139_4_CONTENT,"Batıdaki {SCENE_NAME_CRACKING_VOICE_RIDGE}'den farklı olarak, görkemli {SCENE_NAME_HALL_OF_MELODY} var, ancak burada {SCENE_NAME_STAVE_AVENUE}'nin güneyindeki yola bakmaya da yardımcı olacağım."
+WRANGLEDIALOG_139_4_BUTTON_1,Orada bir anahtarın var mı?
+WRANGLEDIALOG_139_5_CONTENT,Sana yardım edebilmem için güvenimi kazanmalısın.
+WRANGLEDIALOG_139_5_BUTTON_1,Bir deneyelim.
+WRANGLEDIALOG_140_CONTENT,"Hizmet benim amacım. Görüyorsunuz, şapkam çok güzel, o peruklara ihtiyacım yok."
+WRANGLEDIALOG_140_BUTTON_1,Sizler burada harika bir ortama sahipsiniz.
+WRANGLEDIALOG_140_BUTTON_2,"Burada iş meşgul olmalı, değil mi?"
+WRANGLEDIALOG_140_1_CONTENT,"Kapının önündeki bahçe esas olarak benim bakımım, burada parlak ağaçlar geçemiyor, karanlık ağaçlar geçebiliyor,,, son zamanlarda ara sıra mor elbiseli yabancılar görüyorum,,, küçük prensesin doğum günü geliyor, prensesin doğum günü partisi için birçok hazırlık yaptık."
+WRANGLEDIALOG_147_BUTTON_1,{NAME_AVATAR_20}'nin {NAME_AVATAR_33}'ı mı? ，，，
+WRANGLEDIALOG_140_2_CONTENT,"Oh, ve {NAME_AVATAR_19} ve {NAME_AVATAR_27}'ı, kuzeydeki kralın çalışmasına giden küçük prenseslerin kız kardeşlerini gördüm."
+WRANGLEDIALOG_140_2_BUTTON_1,Bu şekilde.
+WRANGLEDIALOG_140_3_CONTENT,"Hala yapacak işlerim var ve onları bulmak istiyorsan, oraya gidebilirsin."
+WRANGLEDIALOG_140_3_BUTTON_1,İyi. 
+WRANGLEDIALOG_140_4_CONTENT,"Doğudaki {SCENE_NAME_CLINKER_VALLEY}'den farklı olarak, güzel bahçeler var, ancak burada {SCENE_NAME_STAVE_AVENUE}'nin güneyindeki yola bakmaya da yardımcı oluyorum."
+WRANGLEDIALOG_140_4_BUTTON_1,Orada bir anahtarın var mı?
+WRANGLEDIALOG_140_5_CONTENT,Sana yardım edebilmem için güvenimi kazanmalısın.
+WRANGLEDIALOG_140_5_BUTTON_1,Bir deneyelim.
+TRUSTED_CLASSMATE,Prensesin davet mektubunda adı geçen sınıf arkadaşlarına güvendiğimi söylemeliyim.
+YOU_HAD_THE_KEY,Bu anahtara zaten sahipsiniz.
+WRANGLEDIALOG_151_CONTENT,"Hoş geldiniz, uzaktan maceracılar."
+WRANGLEDIALOG_151_BUTTON_1,"Maceradan bahsetmişken, burada başka maceracılar var mı?"
+WRANGLEDIALOG_151_BUTTON_2,Sarayınız muhteşem.
+WRANGLEDIALOG_151_1_CONTENT,"Diğer maceracılar? Kral ve ben gençken, maceracıydık. O zamanlar, şimdi sizin gibi macera hakkında konuştuk,,, teleskoplar hakkında ne bilginiz vardı?"
+WRANGLEDIALOG_151_1_BUTTON_1,"Duydum, ama teleskopumuz yok."
+WRANGLEDIALOG_151_1_BUTTON_2,Bir teleskopumuz var.
+WRANGLEDIALOG_151_2_CONTENT,"Eğer güvenimi kazanabilirseniz, size gençken kullandığımız teleskopu vereceğim."
+WRANGLEDIALOG_151_2_BUTTON_1,Bunu isteyemem.
+WRANGLEDIALOG_151_3_CONTENT,Teleskopunuzu ayarlamanıza ve biraz daha fazlasını görüp göremeyeceğini görmenize yardımcı olabilirim.
+WRANGLEDIALOG_151_3_BUTTON_1,Başın dertte.
+WRANGLEDIALOG_151_4_CONTENT,"İki uşağa ek olarak, bu yerle de çok ilgileniyorum,,, yardım etmeye istekli olursanız, sarayın anahtarına sahibim, bu da girip çıkmanızı ve bu yerle ilgilenmenizi kolaylaştırabilir."
+WRANGLEDIALOG_151_4_BUTTON_1,Yapabiliriz.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_3,"Merak, ilerlemenin itici gücüdür."
+GOODS_TELESCOPE_VISUALFIELDDISTANCE2,Görüş alanı: %s (+%s).
+VISUAL_RANGE_IS_AT_MAXIMUM,{GOODS_NAME_2} görüş mesafesi maksimum değerine ulaştı.
+YOU_ALREADY_HAVE_A_TELESCOPE,Zaten bir teleskopunuz var.
+YOU_NEED_A_TELESCOPE_FIRST,Önce bir teleskopunuz olmalı.
+YOU_ALREADY_HAVE_THIS_KEY,Bu anahtara zaten sahipsiniz.
+HAVE_ALREADY_USED,Zaten kullanılıyor.
+DOOR_3,{SCENE_NAME_HALL_OF_MELODY} kapı
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_1,Eski kale.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_2,Antik tarih.
+WRANGLEDIALOG_160_CONTENT,Kimsin?
+WRANGLEDIALOG_160_BUTTON_1,{NAME_AVATAR_19}'nin sınıf arkadaşları. Bizi doğum günü partisine davet etti.
+WRANGLEDIALOG_160_1_CONTENT,"Doğum günü partisi? Burada doğum günü partisi olmadığını ,,, bahsettiğini duymadım, bu yüzden lütfen buradan çıkın."
+WRANGLEDIALOG_160_1_BUTTON_1,Biz
+WRANGLEDIALOG_160_2_CONTENT,"Lütfen dışarı çık, hala uğraşmam gereken şeyler var, beni rahatsız etme."
+WRANGLEDIALOG_160_2_BUTTON_1,"Az önce kralın doğum günü partisinden bahsettik,,,"
+WRANGLEDIALOG_160_3_CONTENT,"Yanlış duymuş olmalısın, kral yaşlı ve birçok şeyi net bir şekilde hatırlayamıyor. Lütfen dışarı çıkın."
+WRANGLEDIALOG_160_3_BUTTON_1,Krala tekrar soralım.
+WRANGLEDIALOG_133_BUTTON_3,"{NAME_AVATAR_27}和{NAME_AVATAR_19} hakkında,,,"
+WRANGLEDIALOG_165_CONTENT,"Hepsi benim kızlarım, en sevdiğim palmiye incileri, eğer bir sorun varsa, sana fısıldayacağım."
+WRANGLEDIALOG_165_BUTTON_1,Sadece biraz şaşkınım.
+WRANGLEDIALOGTYPEID_SISTER_1_SUCCESS_1,"Çalışmamda, {NAME_AVATAR_27} değil, sadece {NAME_AVATAR_19} görüyor musunuz? ,,, birlikte gittiler, gözünüz kamaşmıyor, değil mi? Tekrar kontrol edin."
+FAMILY_IS_THE_MOST_IMPORTANT_THING,Benim için aile en önemli şey.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_1,Başkalarının görmesine izin vermeyin.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_2,MeSign.
+TO_ROYAL_HOUSEHOLD_LETTER,Kraliyet personeli şahsen aydınlandı.
+NAME_AVATAR_35,Jin Chi Tong
+WRANGLEDIALOG_167_CONTENT,Bu gizli bir mektup.
+WRANGLEDIALOG_167_1_CONTENT,"Sevgili *****:\nBu gizli mektup size {NAME_AVATAR_20} of {NAME_AVATAR_33} tarafından iletilecektir, gizli tutmayı, okumayı ve yakmayı unutmayın, başkalarına haber vermeyin."
+WRANGLEDIALOG_167_1_BUTTON_1,"Bu gizli mektup kraliyet personeline ,,,{NAME_AVATAR_33} gönderilmişti,,,"
+WRANGLEDIALOG_167_2_CONTENT,Sonraki konulara {NAME_AVATAR_20}'ın {TWELVE_BUGS} ve {SCENE_NAME_CRACKING_VOICE_RIDGE} de yardımcı olacaktır. \nDoğum günü partisi nadir görülen bir zamandır ve fırsatı gördüğünüzde hepinize en iyisini diliyorum.
+WRANGLEDIALOG_167_2_BUTTON_1,"Önceden, bir ekip üyesi ışınlandığında, {NAME_AVATAR_20}'nin {NAME_AVATAR_33} değerini görüyor gibiydi,,,"
+WRANGLEDIALOG_167_3_CONTENT,"{NAME_AVATAR_33}'nin görkemli davası aynı zamanda Ru'nun terinin erdemidir ve cemaatin başı ve cemaat ona boyun eğer, ve başarıdan sonra, Ru'nun büyük dileği, Ru'nun istediği gibi tam olarak desteklenecektir. İyi haberi bekleyin. \n{NAME_AVATAR_33}會頭{NAME_AVATAR_35}"
+WRANGLEDIALOG_167_3_BUTTON_1,"{NAME_AVATAR_27} az önce burada olan,,, bu mektup ona gönderilmiş olabilir mi? ，，，"
+WRANGLEDIALOG_167_4_CONTENT,Mektup okundu.
+WRANGLEDIALOG_167_4_BUTTON_1,"{NAME_AVATAR_19} gitti, onlarla ilgili."
+GOODS_DESCRIPTION_17,"Sevgili *****:\nBu gizli mektup size {NAME_AVATAR_20} of {NAME_AVATAR_33} tarafından iletilecektir, gizli tutmayı, okumayı ve yakmayı unutmayın, başkalarına haber vermeyin. \nSonraki konulara {NAME_AVATAR_20} ve {SCENE_NAME_CRACKING_VOICE_RIDGE} {TWELVE_BUGS} de yardımcı olur. \nDoğum günü partisi nadir görülen bir zamandır ve fırsatı gördüğünüzde hepinize en iyisini diliyorum. \n{NAME_AVATAR_33}'nin görkemli davası, ayrıca Ru'nun teri ve atı sayesinde, cemaatin başı ve cemaat ona boyun eğdi ve olaydan sonra, Ru'nun büyük dileği, Ru'nun istediği gibi tam olarak desteklenecek. İyi haberi bekleyin. \n{NAME_AVATAR_33}會頭{NAME_AVATAR_35}"
+DOOR_CLOSE,Kapı kapandı.
+GUARD_THE_ROYAL_FAMILY,Guardian Royalty.
+WRANGLEDIALOG_173_CONTENT,Beni nasıl bulabilirsin?
+WRANGLEDIALOG_173_BUTTON_1,Bu sizsiniz.
+YOU_CAN_NOT_FOUND_QIU_YU,"{NAME_AVATAR_19} {TWELVE_BUGS} korumasına sahiptir ve çok güvenlidir,,, onu bulamazsınız."
+YOU_WILL_BE_SORRY,"Bana meydan okumaya cesaret et, pişman olacaksın."
+NAME_AVATAR_36,Gizli geçitler
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_1,Net bir şekilde göremiyorum.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_2,İçerisi karanlık.
+WRANGLEDIALOG_174_CONTENT,"Burada gizli bir geçit var,,, nereye götürdüğünü bilmiyorum?"
+WRANGLEDIALOG_174_BUTTON_1,İçeri girin.
+WRANGLEDIALOG_174_BUTTON_2,İçeri girmeyin.
+WRANGLEDIALOG_175_CONTENT,"Bu sensin, burada ne yapıyorsun?"
+WRANGLEDIALOG_175_BUTTON_1,{NAME_AVATAR_19} görüyor musunuz? Onu arıyoruz.
+WRANGLEDIALOG_175_1_CONTENT,Görmedim.
+WRANGLEDIALOG_175_1_BUTTON_1,Burada ne yapıyorsun?
+WRANGLEDIALOG_175_2_CONTENT,",,, {NAME_2} olarak adlandırılan kedimi arıyorum. {NAME_2}'nin sadece bir gözü var, ama bence orada olmalı, çok uzakta değil."
+WRANGLEDIALOG_175_2_BUTTON_1,"Eğer onu görürsek, onu size geri getirin."
+WRANGLEDIALOG_175_3_CONTENT,"Hayır, şiddetli ,,, gördüğünüzde dikkatli olun."
+WRANGLEDIALOG_175_3_BUTTON_1,Bir kez daha bakalım.
+WRANGLEDIALOG_179_1_CONTENT,Çok fazla bir şey bilmiyoruz ve {NAME_AVATAR_33} vaatlerinin yerine getirilmesi gerekiyor.
+WRANGLEDIALOG_179_2_CONTENT,Çok fazla bir şey bilmiyoruz ve {NAME_AVATAR_27} için söz verdiğimiz şeyin yapılması gerekiyor.
+WRANGLEDIALOG_179_3_CONTENT,Çok fazla bir şey bilmiyoruz ve yakın gelecekte {SCENE_NAME_HALL_OF_MELODY}'a geçebiliriz.
+WRANGLEDIALOG_179_4_CONTENT,Çok fazla bir şey bilmiyorduk ve ormanın tadını çıkarmamıza rağmen rüzgarın durmadığı bu yeri terk ettik.
+WRANGLEDIALOG_179_5_CONTENT,"Çok fazla bir şey bilmiyoruz, ışınlanma cihazı bu sefer çok yardımcı oldu, ışınlanma cihazını süren güçlü güç, daha önce hiç görmediğimiz güçlü güç."
+WRANGLEDIALOG_179_6_CONTENT,"Çok fazla bir şey bilmiyoruz ve {NAME_AVATAR_19} için üzgünüz, kaçırmak niyetimiz değildi."
+WRANGLEDIALOG_179_7_CONTENT,"Çok fazla bir şey bilmiyoruz, ışınlanma cihazıyla {NAME_AVATAR_19} ışınlanması bu operasyondaki son adımdır, ancak bizim de kraliyet ailesinin bir üyesi olabileceğimiz düşüncesi açıklanamaz derecede heyecan vericidir."
+WRANGLEDIALOG_179_8_CONTENT,"Çok fazla bir şey bilmiyoruz, yaşasın {NAME_AVATAR_33}, ama bir dahaki sefere bize bu kadar zor bir görev vermeyin."
+WRANGLEDIALOG_179_9_CONTENT,"Çok fazla bir şey bilmiyoruz, bu operasyon {NAME_AVATAR_27} emriydi ve yeni kral olmayı çok istiyordu."
+WRANGLEDIALOG_179_10_CONTENT,"Çok fazla bir şey bilmiyoruz ve {NAME_AVATAR_27} yeni kral olduğunda, hayallerimiz gerçek olacak."
+WRANGLEDIALOG_179_11_CONTENT,Çok fazla şey bilmiyoruz ve rüya görürken ve beklerken rüya görmeyi seçiyoruz.
+WRANGLEDIALOG_179_12_CONTENT,"Çok fazla bir şey bilmiyoruz, ancak ışınlanma cihazını yönlendiren güç dağın diğer tarafında."
+WRANGLEDIALOG_179_BUTTON_1,Öyle de oldu.
+WRANGLEDIALOG_191_CONTENT,Çok fazla bir şey bilmiyoruz.
+WRANGLEDIALOG_191_BUTTON_1,Bize bildiklerinizi anlatın.
+WRANGLEDIALOG_192_CONTENT,Hiçbir şey bilmesem de maceracı bir hayatın özlemini çekiyordum.
+WRANGLEDIALOG_192_BUTTON_1,Bize katılın.
+WRANGLEDIALOG_194_CONTENT,"Hiçbir şey anlamasam da, maceracı bir hayatı dört gözle bekliyorum."
+WRANGLEDIALOG_194_BUTTON_1,Bize katılın.
+WE_LOOK_FORWARD_TO_LEARNING_PARTNERS,Bilgili ortakları dört gözle bekliyorum.
+LIFE_IS_DOOMED_TO_DRIFT_BUT_ALSO_TO_LIVE_OUT_THEIR_OWN_WONDERFUL,"Her ne kadar yaşam yolu sürüklenmeye mahkum olsa da, aynı zamanda kendi harikanızı yaşamak."
+WE_HAVE_FOUND_THE_TWELVE_GOO,"{TWELVE_BUGS}, evet, burada on iki balçık solucanı bulduk,,, {SCENE_NAME_HALL_OF_MELODY}'a geri dönüp {NAME_AVATAR_25}'a {NAME_AVATAR_27} ve {NAME_AVATAR_19} hakkında ,,, sormanın zamanı geldi,,,"
+MEMBERS_OF_THE_TEAM_WHO_LEFT,Ekipten ayrılan üyeler: %s.
+HOWEVER_SOME_MEMBERS_OF_THE_TEAM_STUBBORNLY_SURVIVED,"Ancak, bazı ekip üyeleri inatla hayatta kaldı."
+HOME_SAFE_1,Ev güvenli bir sığınaktır.
+HOME_SAFE_2,Ev bizim güvenli sığınağımızdır.
+HOME_IS_SAFE,"Yoksa evde güvenli mi,,,"
+IT_IS_GETTING_DARK_YOU_CAN_NOT_PLAY_CHESS,"Hava kararacak, bu doğru değil."
+WAY_HOME_1,Umarım eve dönüş yolunu hatırlarsın.
+WAY_HOME_2,"Şu anda, eve gitmek en güvenli seçenektir."
+IT_IS_GETTING_DARK_YOU_CAN_NOT_OPERATE,Karanlık olacak ve operasyonel olmayacak.
+IT_IS_PLAY_CHESS_YOU_CAN_NOT_OPERATE,"{PLAY_CHESS_NAME}, operasyonel değil."
+NAME_2,AMan
+WILL_FINAL,"{NAME_AVATAR_27} mi demek istiyorsun? ,,, hala onu bulması ve {NAME_AVATAR_19}'nin nerede olduğunu sorması gerekiyor,,, {NAME_AVATAR_27}, kedisini {SCENE_NAME_CLINKER_VALLEY} bulmak için doğudaki {NAME_2}'a gideceğini söylüyor."
+TWELVE_BUGS,XII. Yapışkan
+WRANGLEDIALOG_221_CONTENT,{TWELVE_BUGS} buldunuz mu? Nasıl olabilir?
+WRANGLEDIALOG_221_BUTTON_1,{NAME_AVATAR_19} nerededir?
+WRANGLEDIALOG_221_1_CONTENT,"Neden ,,, bana soruyorsun?"
+WRANGLEDIALOG_221_1_BUTTON_1,{TWELVE_BUGS} bize {NAME_AVATAR_33} ve {NAME_AVATAR_20} kelimelerinin size yardımcı olmaları için talimat verdiğini söyledi.
+WRANGLEDIALOG_221_4_CONTENT,Görünüşe göre zaten biliyorsun.
+WRANGLEDIALOG_221_4_BUTTON_1,"{TWELVE_BUGS}'a {NAME_AVATAR_19}'yi kaçırmasını emrettin, bunu neden yaptın?"
+WRANGLEDIALOG_221_2_CONTENT,"{NAME_1} tahtı benim,,, babam doğum günü ziyafetinde duyurulacak önemli bir şey olduğunu söyledi, sanırım, tahtı {NAME_AVATAR_19}'a geçmek üzere olduğunu duyurmalı olmalıydı,,, sevdiği {NAME_AVATAR_19},,,Ben en büyük prensesim, tahtı miras alması gereken benim!"""
+WRANGLEDIALOG_221_2_BUTTON_1,Ama {NAME_AVATAR_19} senin kız kardeşin.
+WRANGLEDIALOG_221_3_CONTENT,",,,Hadi saklambaç oyunu oynayalım,,, {NAME_AVATAR_19} kaydetmek istiyorsanız, {NAME_2},,,{NAME_AVATAR_19}'nin benim tarafımdan {NAME_2_EYE}'da gizlendiğini ve daha önce karanlık tarafından yutulan arkadaşlarınızın da {NAME_2_EYE}, hahahaha'da olduğunu göreceksiniz."
+WRANGLEDIALOG_221_3_BUTTON_1,Çok fazla kendini beğenmiş olmayın.
+WRANGLEDIALOG_225_CONTENT,Oynamaya başlayın?
+WRANGLEDIALOG_225_BUTTON_1,İşte başlıyoruz.
+THE_GAME_HAS_NOT_STARTED_YET,Oyun henüz başlamadı.
+I_AM_GOING_TO_START_COUNTING,Saymaya başlayacağım.
+LOOK_WHERE_THEY_ARE,{NAME_2} Nerede olduklarını görüyor musunuz?
+CURRENT_STANDING_POSITION_CANNOT_START_PATHFINDING,Geçerli istasyon konumu yol bulmaya izin vermiyor.
+NAME_2_EYE,AMan gözler
+WRANGLEDIALOG_227_CONTENT,Sıkışıp kaldım.
+WRANGLEDIALOG_227_BUTTON_1,Sizi kurtarmak için buradayız.
+THE_LAST_COUNT_IS_NOT_OVER,Sayım sayısı henüz bitmedi.
+WE_FINALLY_FOUND,Sonunda {NAME_AVATAR_19} bulduk! Çocuklar yeniden bir araya geldi!
+WRANGLEDIALOG_228_CONTENT,"Şimdi yeniden bir araya geldiğine göre, kız kardeşim,,, daha sonra bir dönemimiz olacak."
+WRANGLEDIALOG_228_BUTTON_1,Adalet nihayetinde bizim tarafımızdadır.
+WRANGLEDIALOG_230_CONTENT,"Sonunda {NAME_AVATAR_19} buldun, teşekkür ederim! ,,, kız kardeşi {NAME_AVATAR_27}, umarım yakında kaybolur,,, seni kutsa!"
+WRANGLEDIALOG_230_BUTTON_1,Bu bizim samimi dostluğumuzdur.
+WE_WILL_TOGETHER,"Karanlıkta, belli belirsiz bir şekilde babamı, annemi, arkadaşlarını ve {NAME_AVATAR_27} gördüm ve her zaman seni tekrar göreceğime inandım! Baba, çok uzakta olmamalılar."
+I_CAN_NOT_HAVE_MY_LITTLE_GIFT_AGAIN,"Cesaretini kanıtlamış olsan da, bu küçük hediyeyi benden daha önce aldın."
+GOODS_NAME_11,Renk değiştiren peruklar
+GOODS_DESCRIPTION_18,"Bu, {GOODS_NAME_11}'nin {JOB_LOBBYIST} olmalıdır. \n{NAME_AVATAR_20} özel malzemelerden yapılmıştır."

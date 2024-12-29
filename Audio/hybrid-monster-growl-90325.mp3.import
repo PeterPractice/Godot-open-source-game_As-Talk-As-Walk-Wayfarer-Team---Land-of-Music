@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/hybrid-monster-growl-90325.mp3-ec204c3efd1cbf72c6cb8bc2c17f2796.mp3str"
+
+[deps]
+
+source_file="res://Audio/hybrid-monster-growl-90325.mp3"
+dest_files=[ "res://.import/hybrid-monster-growl-90325.mp3-ec204c3efd1cbf72c6cb8bc2c17f2796.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

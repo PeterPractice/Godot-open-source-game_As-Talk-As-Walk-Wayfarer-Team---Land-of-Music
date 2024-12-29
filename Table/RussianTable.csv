@@ -1,0 +1,844 @@
+stringKey,stringContent
+NAME_GAME_NAME,Команда рассказывающая историю - Нэшвилл
+NAME_AVATAR_1,Молн 1
+NAME_AVATAR_2,Консильер
+NAME_AVATAR_3,Chen Xiao Ming
+NAME_AVATAR_4,Common Person
+NAME_AVATAR_5,Починк трэнсам
+NAME_AVATAR_6,Молн 2
+NAME_AVATAR_7,Молн 3
+NAME_AVATAR_8,Li Crooked Neck
+NAME_AVATAR_9,Богиня солнца.
+NAME_AVATAR_10,Slime Over
+NAME_AVATAR_11,Slime Growth
+NAME_AVATAR_12,Slime For
+NAME_AVATAR_13,Slime Love
+NAME_AVATAR_14,Slime Resist
+NAME_AVATAR_15,Slime Disaster
+NAME_AVATAR_16,Slime Donot
+NAME_AVATAR_17,Slime Cherish
+NAME_AVATAR_18,Si Warm Heart
+NAME_AVATAR_19,Fa Princess Younger Sister
+NAME_AVATAR_19_2,Autumn Yu
+NAME_AVATAR_20,Silver Dragon
+NAME_AVATAR_21,Slime Ten
+NAME_AVATAR_22,Slime Thousand
+NAME_AVATAR_23,Slime Years
+NAME_AVATAR_24,Slime Life
+NAME_AVATAR_25,Do King
+NAME_AVATAR_26,Re Queen
+NAME_AVATAR_27,Mi Princess Elder Sister
+NAME_AVATAR_28,La Housekeeper
+NAME_AVATAR_29,Sol Butler
+NAME_AVATAR_30,рюкзак
+NAME_AVATAR_31,Блокнот.
+NAME_AVATAR_32,Письмо {NAME_AVATAR_19}
+NAME_AVATAR_33,Three Dragons Gang
+NAME_AVATAR_34,Письмо (NAME_AVATAR_33)
+GOODS_NAME_1,Зондирующие парусиновые туфли
+GOODS_NAME_2,Телескоп.
+GOODS_NAME_3,парик
+GOODS_NAME_4,парик
+GOODS_NAME_5,парик
+GOODS_NAME_6,парик
+GOODS_NAME_7,Длинные волосы.
+GOODS_NAME_8,Длинные волосы.
+GOODS_NAME_9,Длинные волосы.
+GOODS_NAME_10,Длинные волосы.
+JOB_LOBBYIST,лоббист
+NAME_1,Страна веселья.
+PLAY_CHESS_NAME,игра
+PLAY_CHESS_POINTS,{PLAY_CHESS_NAME} точка
+SCENE_NAME_1_HOME,Дом {NAME_AVATAR_1}
+SCENE_NAME_3_HOME,Дом {NAME_AVATAR_3}
+SCENE_NAME_4_HOME,Дом {NAME_AVATAR_4}
+SCENE_NAME_3_HOME_COURTYARD,{NAME_AVATAR_3} Внутренний двор дома
+SCENE_NAME_CHORD_SQUARE,Корт.
+SCENE_NAME_STAVE_AVENUE,Авеню спектра
+SCENE_NAME_HALL_OF_MELODY,Мелодический дворец
+SCENE_NAME_CLINKER_VALLEY,Звуковой каньон.
+SCENE_NAME_CRACKING_VOICE_RIDGE,Сломанный хребет.
+SCENE_NAME_PLAY_CHESS,игра
+NPCARTICLETRIGGER_NAME_1,{NAME_AVATAR_1} Дверь в дом
+STARTGAMEPANEL_TITLELABEL38GAMETITLE,{NAME_GAME_NAME}
+STARTGAMEPANEL_COMMONLABELVERSION,Верс %s
+STARTGAMEPANEL_COMMONBUTTON31LOADGAME,Загрузка
+STARTGAMEPANEL_STARTGAME,Начинаем игру
+STARTGAMEPANEL_CONTINUEGAME,Продолжайте игру
+STARTGAMEPANEL_COMMONBUTTON31OPTION,вариант
+STARTGAMEPANEL_COMMONBUTTON31EXITGAME,Выйти из игры
+STARTGAMEPANEL_COMMONLABELARCHIVE,архивн
+STARTGAMEPANEL_ARCHIVE_NEW_GAME,Новая игра
+STARTGAMEPANEL_ARCHIVE_CLEAR,удал
+STARTGAMEPANEL_ARCHIVE_CLEAR_DOUBLE_CONFIRMATION,Удалите файл для повторного подтверждения%s
+PANEL_BUTTON_OK,увер
+PANEL_BUTTON_CANCEL,отмен
+PANEL_BUTTON_CLOSE,закр
+OPTIONPANEL_COMMONLABEL31TITLE,Фаза интерфейса опций
+OPTIONPANEL_COMMONBUTTONLANGUAGE,Выберите язык (Language)
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO,изображения:
+OPTIONPANEL_COMMONLABELFULLSCREEN,Полный:
+OPTIONPANEL_COMMONLABELWINDOWSTRETCH,Pастягива:
+OPTIONPANEL_COMMONLABELMUSIC,Музыка:
+OPTIONPANEL_COMMONLABELSOUNDEFFECT,Эффект звука:
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_2,чип
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_3,1920x1080
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_SCREEN_RESOLUTION,Разрешение экрана
+OPTIONPANEL_COMMONLABELLANGUAGE,Язык:
+OPTIONPANEL_COMMONBUTTONDEFAULT,По умолчан
+OPTIONPANEL_COMMONBUTTONRETURNTOHUBSCENE,Назад в холл.
+OPTIONPANEL_COMMONBUTTONEXITGAME,Выйти из игры.
+OPTIONPANEL_COMMONBUTTONRETURNTOGAME,Возвращайся в игру.
+OPTIONPANEL_GENERAL,нормальн
+OPTIONPANEL_KEYBOARD,кнопк
+OPTIONPANEL_KEYBOARD_MOVE,Шаг:
+OPTIONPANEL_KEYBOARD_MOVE_CONTENT,ADSW (ил ← → ↓ ↑)
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK,{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1}/{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK}:
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK_CONTENT,E
+OPTIONPANEL_KEYBOARD_PLAY_CHESS,Игра:
+OPTIONPANEL_KEYBOARD_PLAY_CHESS_CONTENT,P (щелчок левой клавиши мыши продолжается где угодно)
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER,Выбирайте персонажа:
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER_CONTENT,1，2，3，4，5，6，7，8，9，0
+OPTIONPANEL_KEYBOARD_BAG,Рюкзак:
+OPTIONPANEL_KEYBOARD_BAG_CONTENT,B
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD,Блокнот:
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD_CONTENT,J（флип：PageUp，PageDown）
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN,Интерфейс опций:
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN_CONTENT,O
+OPTIONPANEL_ABOUT,относится к
+OPTIONPANEL_ABOUT_NAME_OF_THE_GAME,Название игры: {NAME_GAME_NAME}.
+OPTIONPANEL_ABOUT_VERSION,Версия: %s.
+OPTIONPANEL_ABOUT_COPYRIGHT_AND_DEVELOPMENT,Описание: %s.
+OPTIONPANEL_ABOUT_CONTACT,Контакт: %s
+OPTIONPANEL_ABOUT_CONTACT_COPY,скопирова
+OPTIONPANEL_ABOUT_THANKS,"Спасибо: благодаря моим родным, без их поддержки нет и игры. "
+LANGUAGEPANEL_COMMONLABEL31TITLE,Выбирайте язык.
+TIME_YEAR,год
+TIME_MONTH,месяц
+TIME_DAY,—
+TIME_HOUR,когд
+TIME_MINUTE,очк
+TIME_SECOND,секунд
+BOOTSCENE_STARTING_STRING1,Включаю.
+BOOTSCENE_STARTING_STRING2,Включаю.
+BOOTSCENE_STARTING_STRING3,Включаю...
+BOOTSCENE_STARTING_STRING4,Включаю.
+DAYNIGHTPANEL_COMMONLABELDAYSNUMBER,дней %s
+DAYNIGHTPANEL_FIRSTSTARTNIGHT,Будет темно.
+CURRENTSCENESHOWNAME_ENTER,Ввод %s.
+JOURNALRECORDPANEL_COMMONLABEL31TITLE,{NAME_AVATAR_31}
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20AVATAR,рол
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20BAG,вещ
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20SCENE,мест
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20TASK,Путешествова по
+JOURNALRECORDPANEL_PLAY_CHESS_POINTS,Количество очков: от %s до %s.
+DOWNPANEL_CONTROLWRANGLEDIALOG_COMMONBUTTONWRANGLEDIALOGCONTINUE,Продолжайте.
+DOWNPANEL_WRANGLEDIALOGBUTTON_STRINGFLAG,:
+UI_INPUT_ACTION_EVENT_TYPE_COMMONBUTTONITEM_TEXTUREBUTTON1_PRESSED_EVENT_IN_CD,Охлаждение.
+AVATAR_CAN_NOT_MOVE,Не могу пошевелиться.
+AVATAR_HAD_EQUIP,Уже ношу: %s.
+AVATAR_HAD_EQUIP2,Надень.
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1,наступить
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK,поговор
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONPLAYCHESS1,{PLAY_CHESS_NAME}
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13BAGUSE,использова
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13DISCARD,выброс
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD,Выбросить %s?
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_YES,выброс
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_NO,остав
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13CHECK,провер
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_1,"Пепел исчезает, после того, как ты смотришь, ты горишь. "
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_2,Чисто.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_3,Чисто.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_4,Пуст.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_5,Пусто.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_6,Пусто.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_7,"Пусто, пусто, пусто. "
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_8,"Пусто, пусто, пусто. "
+CHESSPANEL1_PLAYCHESS_START,{PLAY_CHESS_NAME} начинается
+CHESSPANEL1_PLAYCHESS_SUCCESS,{PLAY_CHESS_NAME} Успех
+CHESSPANEL1_PLAYCHESS_FAILURE,{PLAY_CHESS_NAME} неудача
+CHESSPANEL1_COMMONBUTTONCONTINUE,продолжа
+CHESSPANEL1_MOUSECLICKCONTINUE,Нажмите на левую кнопку.
+CHESSPANEL1_POINTS,%s от общего числа очков: %s.
+SLOGAN_NEW_DAY_1,Начинается новый день.
+SLOGAN_NEW_DAY_2,Начинается день приключений.
+SLOGAN_NEW_DAY_3,Новый день.
+SLOGAN_NEW_DAY_4,День приключений.
+SLOGAN_NEW_DAY_5,Путь неблизкий.
+SLOGAN_NEW_DAY_6,Путь далек и готов.
+SLOGAN_NEW_DAY_7,Приготовиться.
+SLOGAN_NEW_DAY_8,Поехали.
+SLOGAN_AVATAR_DEAD_1,"Ночь поглощает тех, кто не боится темноты. "
+SLOGAN_AVATAR_DEAD_2,Тьма поглотила тебя.
+NAVIGATIONMANAGER_NOT_VALID_PATH_END_POSITION,Недействительный пункт назначения.
+NAVIGATIONMANAGER_END_OBSTRUCTIONS_NEARBY,Прекратить автоматические поиски.
+GOODS_DESCRIPTION_1,С этими туфлями можно ходить автоматически.
+GOODS_DESCRIPTION_2,"Смотри дальше, особенно там, где плохой свет. "
+GOODS_DESCRIPTION_3,Это должно быть {JOB_LOBBYIST} {GOODS_NAME_3}.
+GOODS_DESCRIPTION_4,Это должно быть {JOB_LOBBYIST} {GOODS_NAME_4}.
+GOODS_DESCRIPTION_5,Это должно быть {JOB_LOBBYIST} {GOODS_NAME_5}.
+GOODS_DESCRIPTION_6,Это должно быть {JOB_LOBBYIST} {GOODS_NAME_6}.
+GOODS_DESCRIPTION_7,Это должно быть {JOB_LOBBYIST} {GOODS_NAME_7}.
+GOODS_DESCRIPTION_8,Это должно быть {JOB_LOBBYIST} {GOODS_NAME_8}.
+GOODS_DESCRIPTION_9,Это должно быть {JOB_LOBBYIST} {GOODS_NAME_9}.
+GOODS_DESCRIPTION_10,Это должно быть {JOB_LOBBYIST} {GOODS_NAME_10}.
+GOODS_DESCRIPTION_11,"Рюкзак может нести много вещей, приключения, необходимые инструменты для похода. "
+GOODS_DESCRIPTION_12,"Записывай все, что видишь, чувствуешь, чувствуешь, чувствуешь. Существует четыре страницы: страницы для описания информации о членах команды. Страницы с описанием вещей в рюкзаке. Страницы с записями о местах, где вы были. Страницы, все, что когда-либо обсуждалось, записываются. "
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_1,Один ботинок для пары?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_2,Левая нога и правая нога-это туфля?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_3,Где батарейки?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_4,Не могу найти выключатель.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_5,Где переключатель?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_6,Уже надел.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_7,Мы можем автоматически найти дорогу.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_8,На этот раз я не заблужусь.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_9,Куда мы едем?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_10,"Я подумаю, куда мне идти. "
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_1,Посмотри дальше.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_2,Вид лучше.
+GOODSADDFUNCTION_TELESCOPE_1,"Новые навыки, ясновидящий. "
+GOODSADDFUNCTION_TELESCOPE_2,Не очень-то похоже на ясновидящего.
+GOODSREMOVEFUNCTION_TELESCOPE_1,Дальше смотреть нельзя.
+GOODSREMOVEFUNCTION_TELESCOPE_2,Неудобно?
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_1,И сияет.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_2,Хьен-ху.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_3,Нефритовый ветер.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_4,Выше голову.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_5,Профессионально.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_6,"Человек за волосы, лошадь за седло. "
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_7,Это может быть повышением интеллекта.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_8,Интеллект плюс Один.
+GOODSADDFUNCTION_WIG_1,Хорошая вещь.
+GOODSADDFUNCTION_WIG_2,Наконец-то.
+GOODSADDFUNCTION_WIG_3,Хорошо.
+GOODSADDFUNCTION_WIG_OTHER_1,Парик?
+GOODSADDFUNCTION_WIG_OTHER_2,Парик должен быть надет {джоб_lobbyist}.
+GOODSADDFUNCTION_WIG_OTHER_3,{JOB_LOBBYIST} Парик?
+GOODSREMOVEFUNCTION_WIG_1,Интеллект -1.
+GOODSREMOVEFUNCTION_WIG_2,Голова холодная.
+GOODSREMOVEFUNCTION_WIG_3,Я больше не чувствую себя профессиональной.
+GOODSREMOVEFUNCTION_WIG_4,Почувствовало снижение интеллекта.
+GOODSREMOVEFUNCTION_WIG_5,"Обугленный парик такой же, как и волосы. "
+GOODSREMOVEFUNCTION_WIG_6,Жаль выбрасывать парик.
+GOODSREMOVEFUNCTION_WIG_7,Он профессионал и без парика.
+GOODSREMOVEFUNCTION_WIG_8,Профессионал не может полагаться на парик.
+GOODSADDFUNCTION_FOOT_1,Теперь ты знаешь дорогу.
+GOODSADDFUNCTION_FOOT_2,Эти туфли такие высокие? Навигация?
+GOODSADDFUNCTION_FOOT_3,Для навигации обуви нужен источник питания?
+GOODSADDFUNCTION_FOOT_4,Это навигация для бросания ботинок?
+GOODSADDFUNCTION_FOOT_5,"Как ходить, если ты в ботинках. "
+GOODSREMOVEFUNCTION_FOOT_1,Босиком.
+GOODSREMOVEFUNCTION_FOOT_2,Не могу ориентироваться.
+GOODSREMOVEFUNCTION_FOOT_3,"Туфли, которые выбросили, просто исчезли; Потерянная навигация, шаг за шагом. "
+GOODS_IN_USE,Используй.
+GOODS_UNUSED,Не используется.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE,Дальность обзора: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE,Визуальная форма: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_RHOMBUS,ромб
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_EGG,яйц
+CANNOT_WEAR_IT_LOBBYIST_WIG_1,"Не могу его носить, {JOB_LOBBYIST} только парик. "
+CANNOT_WEAR_IT_LOBBYIST_WIG_2,Это для парика {JOB_LOBBYIST}.
+BAG_IS_FULL,Рюкзак полон и не может нести больше вещей.
+BAG_ADD,Доля: %s.
+BAG_REMOVE,Выброси: %s.
+BAG_USE,Используйте: %s.
+TOP_BUTTON,Верхняя кнопка
+BOTTOM_BUTTON,Кнопка внизу.
+CLEAR_BUTTON,Нажми кнопку.
+AVATAR_DESCRIPTION_1,"Я змея, сильная змея. Я самый старший из трёх братьев. "
+AVATAR_DESCRIPTION_2,"Я был маленьким партнером в {NAME_AVATAR_3}. Я буду бежать, как облака в небе, беспричинно, в компании ветра и дождя. У меня дома очень уютно, и я тоже люблю бродить, так что давай вместе скитаемся! "
+AVATAR_DESCRIPTION_3,"Пятый класс начальной школы является важным периодом обучения в жизни для ученика, и, помимо четырех математических операций, я начал изучать классику, музыку и живопись. "
+AVATAR_DESCRIPTION_4,"Как адвокат, в суде, я хорош. До этого я был футболистом. Кто видел мой парик? "
+AVATAR_DESCRIPTION_8,"Я бизнесмен, и я верю в справедливость сделки. "
+AVATAR_DESCRIPTION_6,"Я змея, сильная змея, змея в доспехах. Из трех братьев я был вторым. "
+AVATAR_DESCRIPTION_7,"Я змея, сильная змея, змея в доспехах и механических руках. Я третий из трёх братьев. "
+AVATAR_DESCRIPTION_5,Скорость-это первое значение. Мои ученики очень сильны. Я искал издалека.
+AVATAR_DESCRIPTION_9,"Можешь поговорить со мной, если хочешь. Моя собака постоянно бегает, видишь? "
+AVATAR_DESCRIPTION_10,"Мы не паразиты, плывущие по течению. "
+AVATAR_DESCRIPTION_11,"Мы не паразиты, живые и здоровые. "
+AVATAR_DESCRIPTION_12,"Мы не паразиты, в идеале. "
+AVATAR_DESCRIPTION_13,"Мы не паразиты, которые делают с нами, что хотят. "
+AVATAR_DESCRIPTION_14,"Мы не паразиты, и ветровое покрытие теплое. "
+AVATAR_DESCRIPTION_15,"Мы не паразиты, а катастрофа-это опыт. "
+AVATAR_DESCRIPTION_16,"Мы не паразиты, мы не смотрим в будущее, мы рождаемся спонтанными. "
+AVATAR_DESCRIPTION_17,"Мы не паразиты, тиш, это отношение. "
+AVATAR_DESCRIPTION_18,"Родом из королевской семьи, никогда не выходил из дома. Я хочу быть как звезда на небе, юниверсал, глобал. В ожидании долгого пути, мы будем рядом друг с другом."
+AVATAR_DESCRIPTION_19,"Принцесса не делает карьеру в одиночку, и у принцессы много хороших друзей. "
+AVATAR_DESCRIPTION_20,Операция должна проводиться тайно и не должна быть раскрыта.
+AVATAR_DESCRIPTION_21,"Мы не паразиты, Один на миллион. "
+AVATAR_DESCRIPTION_22,"Мы не паразиты, молодые и молодые для нас. "
+AVATAR_DESCRIPTION_23,"Мы не паразиты, Хью, это жизнь. "
+AVATAR_DESCRIPTION_24,"Мы не паразиты, для, для жизни и для отношения. "
+AVATAR_DESCRIPTION_25,"{NAME_1} Я король, добро пожаловать. "
+AVATAR_DESCRIPTION_26,"{NAME_1} Я королева, добро пожаловать. "
+AVATAR_DESCRIPTION_27,"Я большая принцесса, и трон мой. "
+AVATAR_DESCRIPTION_28,"Вы, должно быть, голодны. Скажи мне. "
+AVATAR_DESCRIPTION_29,"Моя цель-служить. У меня красивая шляпа, и мне не нужны парики. "
+ADDAVATARFROMSCENE_ADD_TEAM_MEMBERS,Команда добавляет новых членов: %s.
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_YOU_CANNOT_ADD_TEAM_MEMBERS_REPEATEDLY,Нельзя повторно добавлять членов команды: %s.
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_THE_TEAM_HAS_A_MAXIMUM_OF_AVATAR,Команда набрала максимум процентов %s.
+TIPS_STRING_AND_FLAG,", "
+NO_JOURNALRECORDBOOK_CAN_NOT_VIEW,Записи не могут быть доступны без {NAME_AVATAR_31}.
+NO_JOURNALRECORDBOOK,Не существует {NAME_AVATAR_31}.
+NO_BAG_NO_MORE_ITEMS,Без {NAME_AVATAR_30} мы не можем нести больше вещей.
+NO_BAG,Не существует {NAME_AVATAR_30}.
+SCENE_CONTENT_1_HOME,{NAME_AVATAR_1} В доме есть огромная сила.
+SCENE_CONTENT_3_HOME,"{NAME_AVATAR_3} в доме есть столы, а на столе есть {NAME_AVATAR_31}. "
+SCENE_CONTENT_4_HOME,"{NAME_AVATAR_4}, лежащие на кровати в доме, могут быть найдены {NAME_AVATAR_30}. "
+SCENE_CONTENT_3_HOME_COURTYARD,{NAME_AVATAR_3} Во внутреннем дворе имеется {NAME_AVATAR_2}.
+SCENE_CONTENT_CHORD_SQUARE,"Маленькие друзья часто собираются здесь. Неизвестно, с каких пор некоторые деревья завяли, а на земле остались следы того, как колесо сбилось. "
+SCENE_CONTENT_STAVE_AVENUE,"Дорога, ведущая в неизвестность. Говорят, здесь несколько троп. "
+SCENE_CONTENT_HALL_OF_MELODY,{NAME_1} Это дворец с множеством комнат.
+SCENE_CONTENT_CLINKER_VALLEY,"Место изгнания, где можно найти того, кто ищет. "
+SCENE_CONTENT_CRACKING_VOICE_RIDGE,"Дикие горы, джунгли густые. "
+SCENE_CONTENT_PLAY_CHESS,"Где бы ты ни был, удачи тебе. "
+WRANGLEDIALOG_1_CONTENT,Забрать?
+WRANGLEDIALOG_1_BUTTON_1,Снимай.
+WRANGLEDIALOG_1_BUTTON_2,Не брать.
+WRANGLEDIALOG_2_CONTENT,Забрать?
+WRANGLEDIALOG_2_BUTTON_1,Снимай.
+WRANGLEDIALOG_2_BUTTON_2,Не брать.
+WRANGLEDIALOG_3_CONTENT,Открыть дверь?
+WRANGLEDIALOG_3_BUTTON_1,Открой.
+WRANGLEDIALOG_3_BUTTON_2,Не открывай.
+WRANGLEDIALOG_3_FUNCTION_1,Дверь была открыта.
+WRANGLEDIALOG_4_CONTENT,"Возьмите то {NAME_AVATAR_30}, что вам нужно, перед тем как уйти. "
+WRANGLEDIALOG_5_CONTENT,{NAME_AVATAR_31} Многие вещи могут быть записаны и засвидетельствованы приключенческим путешествием.
+WRANGLEDIALOG_6_CONTENT,Мир за дверью опасен и полон новшеств и веселья.
+WRANGLEDIALOG_6_BUTTON_1,Я хочу выйти и посмотреть.
+WRANGLEDIALOG_7_CONTENT,"Перед тем, как уйти, я дам тебе совет. "
+WRANGLEDIALOG_7_BUTTON_1,Я слушаю.
+WRANGLEDIALOG_8_CONTENT,Вызов есть везде.
+WRANGLEDIALOG_8_BUTTON_1,Я готов к этому.
+WRANGLEDIALOG_9_CONTENT,"Я чувствую, что могу быть сильнее. "
+WRANGLEDIALOG_9_BUTTON_1,Ты и так очень сильная.
+WRANGLEDIALOG_9_BUTTON_2,Может быть сильнее?
+WRANGLEDIALOG_10_CONTENT,"Я всегда чувствовал, что меня ждет великая сила. "
+WRANGLEDIALOG_10_BUTTON_1,Расскажи мне.
+WRANGLEDIALOG_10_BUTTON_2,Большая сила заставляет ждать.
+WRANGLEDIALOG_11_CONTENT,"Эта сила заставляет меня чувствовать, что это в прошлом. "
+WRANGLEDIALOG_11_BUTTON_1,Это было давно?
+WRANGLEDIALOG_11_BUTTON_2,Ты найдешь его.
+WRANGLEDIALOG_12_CONTENT,Мы отправимся в приключение вместе?
+WRANGLEDIALOG_12_BUTTON_1,Присоединяйтесь к нам!
+WRANGLEDIALOG_12_BUTTON_2,Еще немного.
+GOODS_DESCRIPTION_13,"Дорогая, приближается мой день рождения, и я приглашаю тебя на вечеринку в честь моего дня рождения, так что приезжай ко мне на Север. Некоторое время не было, я скучал по тебе, с нетерпением ждал встречи с тобой. {NAME_AVATAR_19}, ваш одноклассник."
+WRANGLEDIALOG_13_CONTENT,"Успех открывает дверь. Однако это всего лишь обучение, и неудача может прийти и снова открыть дверь."
+WRANGLEDIALOG_13_1_CONTENT,"То, о чем мы говорили, может быть использовано непосредственно в игре {PLAY_CHESS_NAME}. Команда — это команда, и иногда команда, которая стоит впереди, оказывается другой."
+WRANGLEDIALOG_13_BUTTON_1,Начинай.
+WRANGLEDIALOG_14_CONTENT,Я всегда хотел найти их.
+WRANGLEDIALOG_15_CONTENT,Как будто это не так далеко.
+WRANGLEDIALOG_16_CONTENT,Найду ли я их?
+WRANGLEDIALOG_17_CONTENT,"Но, тем не менее, нам все еще нужны сильные спутники."
+WRANGLEDIALOG_18_CONTENT,Еще немного?
+WRANGLEDIALOG_18_BUTTON_1,"Что будет, если не получится?"
+WRANGLEDIALOG_19_CONTENT,"Не волнуйся, я вернусь к провалу."
+WRANGLEDIALOG_19_BUTTON_1,"Ладно, давайте начнем."
+WRANGLEDIALOG_20_CONTENT,Ты пришла ко мне поиграть?
+WRANGLEDIALOG_20_BUTTON_1,Да.
+WRANGLEDIALOG_20_1_CONTENT,Пошли.
+WRANGLEDIALOG_20_2_CONTENT,Да.
+WRANGLEDIALOG_20_3_CONTENT,Помнишь?
+WRANGLEDIALOG_20_3_BUTTON,Я впечатлен.
+WRANGLEDIALOG_20_4_CONTENT,Она была моей одноклассницей в начальной школе.
+WRANGLEDIALOG_20_5_CONTENT,Давно её не видел.
+WRANGLEDIALOG_20_6_CONTENT,"Я вдруг вспомнил, что скоро ее день рождения."
+WRANGLEDIALOG_20_6_BUTTON,Она твоя девушка?
+WRANGLEDIALOG_20_7_CONTENT,"Вообще-то, мы просто одноклассники."
+WRANGLEDIALOG_20_8_CONTENT,Дружба одноклассников.
+WRANGLEDIALOG_20_8_BUTTON,Это простой вопрос.
+WRANGLEDIALOG_20_9_CONTENT,"Пойдем посмотрим, как она."
+WRANGLEDIALOG_20_9_BUTTON,Да.
+WRANGLEDIALOG_21_CONTENT,"Тем не менее, прежде чем мы отправимся, нам нужно узнать, что также является возможностью для обучения."
+WRANGLEDIALOG_21_BUTTON_1,"Ладно, давайте начнем."
+WRANGLEDIALOG_22_CONTENT,Чем могу помочь?
+WRANGLEDIALOG_22_BUTTON_1,Ты был занят в последнее время?
+WRANGLEDIALOG_23_CONTENT,"Перед тем, как мы отправимся, я хотел бы испытать вашу решительность."
+WRANGLEDIALOG_23_BUTTON_1,"Ладно, давайте начнем."
+WRANGLEDIALOG_24_CONTENT,Куда?
+WRANGLEDIALOG_24_BUTTON_1,Иди и рискни.
+WRANGLEDIALOG_24_1_CONTENT,Возьми меня с собой.
+WRANGLEDIALOG_24_1_BUTTON_1,Вместе.
+WRANGLEDIALOG_24_2_CONTENT,Но я не пойду туда без моего лучшего маленького друга.
+WRANGLEDIALOG_24_2_BUTTON_1,Твой лучший друг?
+WRANGLEDIALOG_24_3_CONTENT,"Иметь лучших маленьких друзей, отправиться в неизвестное путешествие, полный надежд."
+WRANGLEDIALOG_24_3_BUTTON_1,А ты хорошо читаешь стихи.
+WRANGLEDIALOG_24_4_CONTENT,"Чем больше ты читаешь, тем больше природа."
+WRANGLEDIALOG_24_5_CONTENT,Я ухожу с моим лучшим другом.
+WRANGLEDIALOG_24_6_CONTENT,"Если бы ты мог победить в игре, я бы мог подумать о Том, чтобы рискнуть с тобой."
+WRANGLEDIALOG_25_CONTENT,Приключения всегда заставляют ждать.
+WRANGLEDIALOG_25_BUTTON_1,"Ладно, давайте начнем."
+WRANGLEDIALOG_22_1_CONTENT,Занят.
+WRANGLEDIALOG_22_1_BUTTON_1,Занят?
+WRANGLEDIALOG_22_2_CONTENT,"Моя задача как адвоката состоит в Том, чтобы убедить людей."
+WRANGLEDIALOG_22_2_BUTTON_1,"Так что, со всем уважением, давайте отправимся в приключение вместе."
+WRANGLEDIALOG_22_3_CONTENT,Я занят.
+WRANGLEDIALOG_22_3_BUTTON_1,"Наши приключения вместе, не меньше, чем хотелось бы услышать истории, которые ты рассказываешь."
+WRANGLEDIALOG_22_4_CONTENT,"Да, я люблю поболтать, но... в последнее время у меня не было особого интереса."
+WRANGLEDIALOG_22_4_BUTTON_1,"Ты так устала, что тебе нужно привыкнуть."
+WRANGLEDIALOG_22_5_CONTENT,"После того, как меня уволили из компании, я остался дома."
+WRANGLEDIALOG_22_5_BUTTON_1,Так что ты нам нужен.
+WRANGLEDIALOG_22_6_CONTENT,Я вам нужен?
+WRANGLEDIALOG_22_6_BUTTON_1,"Потому что ты хорошая маленькая компания, так что... ты нужна нам."
+WRANGLEDIALOG_22_7_CONTENT,"Приключения-это тысячи опасностей, и я боюсь, что не выживу."
+WRANGLEDIALOG_22_7_BUTTON_1,"Как узнать, не попробовав?"
+WRANGLEDIALOG_22_8_CONTENT,"Также как и то, что жизнь-это неизведанное приключение."
+WRANGLEDIALOG_22_9_CONTENT,"Тысячу раз думаю, лучше сделать это Один раз."
+WRANGLEDIALOG_22_10_CONTENT,Правда?
+WRANGLEDIALOG_22_10_BUTTON_1,Так чего же мы ждем?
+WRANGLEDIALOG_54_CONTENT,Не виделись несколько дней.
+WRANGLEDIALOG_54_BUTTON_1,Давно не виделись.
+WRANGLEDIALOG_54_1_CONTENT,Мы все еще ищем могущественную силу.
+WRANGLEDIALOG_54_1_BUTTON_1,Нашел что-нибудь?
+WRANGLEDIALOG_54_2_CONTENT,Ничего не нашли.
+WRANGLEDIALOG_54_3_CONTENT,"Я всегда чувствовал, что великая сила где-то рядом."
+WRANGLEDIALOG_54_3_BUTTON_1,Мы тоже так думаем.
+WRANGLEDIALOG_54_4_CONTENT,"Итак, мы команда."
+WRANGLEDIALOG_54_4_BUTTON_1,Что еще ты чувствуешь по поводу этой огромной силы?
+WRANGLEDIALOG_54_5_CONTENT,"Я чувствую, что мы должны продолжать поиски и в конце концов найти ответы."
+WRANGLEDIALOG_54_5_BUTTON_1,"Присоединяйтесь к нам, и мы вместе найдем ответы."
+WRANGLEDIALOG_54_6_CONTENT,"Я только что телепортировался, и устройство, которое телепортировало нас, также управляется этой силой."
+WRANGLEDIALOG_54_6_BUTTON_1,Вы уже нашли его?
+WRANGLEDIALOG_54_7_CONTENT,Он остался после последней битвы.
+WRANGLEDIALOG_54_8_CONTENT,Там должны быть и другие члены команды.
+WRANGLEDIALOG_54_8_BUTTON_1,"Давайте выйдем, осмотримся, а потом вернемся за ним."
+WRANGLEDIALOG_55_CONTENT,"Прошло много дней, и я все еще хочу проверить, насколько мы уверены."
+WRANGLEDIALOG_55_BUTTON_1,"Ладно, давайте начнем."
+PLANET_47,Планета 47.
+WRANGLEDIALOG_56_CONTENT,Прибытие безопасно.
+WRANGLEDIALOG_56_BUTTON_1,Не виделись несколько дней.
+WRANGLEDIALOG_56_1_CONTENT,"Кажется, я что-то видел по пути к телепорту?"
+WRANGLEDIALOG_56_1_BUTTON_1,Что ты видишь?
+WRANGLEDIALOG_56_2_CONTENT,"Я не уверен, потому что чувствую, что эта сила не очень стабильна."
+WRANGLEDIALOG_56_3_CONTENT,"Похоже, есть какое-то устройство, похожее на антенну, или что-то вроде того."
+WRANGLEDIALOG_56_3_BUTTON_1,Что они делают?
+WRANGLEDIALOG_56_4_CONTENT,"Не знаю, но ощущение, что это как-то связано с нестабильностью силы."
+WRANGLEDIALOG_56_4_BUTTON_1,Что еще ты видишь?
+WRANGLEDIALOG_56_5_CONTENT,"Кажется, я вижу еще двух девушек."
+WRANGLEDIALOG_56_5_BUTTON_1,Две девушки?
+WRANGLEDIALOG_56_6_CONTENT,"Слишком размыто, я не уверен."
+WRANGLEDIALOG_56_7_CONTENT,"Кажется, рядом с ним еще кто-то есть."
+WRANGLEDIALOG_56_7_BUTTON_1,.
+WRANGLEDIALOG_56_8_CONTENT,"Я чувствую, что он очень похож."
+WRANGLEDIALOG_56_8_BUTTON_1,Является ли это {NAME_AVATAR_20}?
+WRANGLEDIALOG_56_9_CONTENT,Он должен был быть изгнан во время последней битвы.
+WRANGLEDIALOG_56_9_BUTTON_1,"Действительно, это очень далеко отсюда, и это не может быть он."
+WRANGLEDIALOG_56_10_CONTENT,Мы начинаем новое приключение.
+WRANGLEDIALOG_57_CONTENT,"Наши силы все еще действуют, как обычно? Я все еще хочу попробовать."
+WRANGLEDIALOG_57_BUTTON_1,"Ладно, давайте начнем."
+WRANGLEDIALOG_76_1_CONTENT,Вы все слышали мою историю.
+WRANGLEDIALOG_76_2_CONTENT,"Старые времена, возможно, скоро будут забыты."
+WRANGLEDIALOG_76_3_CONTENT,"Трое моих учеников выучили все мои навыки, и они невероятно богаты."
+WRANGLEDIALOG_76_4_CONTENT,"Я люблю путешествовать, небо и земля для моего дома."
+WRANGLEDIALOG_76_5_CONTENT,"Я встречал много талантливых людей, много необычных вещей."
+WRANGLEDIALOG_76_6_CONTENT,"Я не люблю соперничать с людьми, но у меня есть мужество."
+WRANGLEDIALOG_76_7_CONTENT,Победа-это всего лишь Один из моих комплиментов.
+WRANGLEDIALOG_76_7_BUTTON_1,игра
+WRANGLEDIALOG_76_7_BUTTON_2,пок
+WRANGLEDIALOG_83_CONTENT,"Дорогой прохожий, куда вы направляетесь?"
+WRANGLEDIALOG_83_BUTTON_1,Это здесь?
+WRANGLEDIALOG_83_1_CONTENT,"Великая страна, страна музыки, и мой родной город, и мой родной город, и как член королевской семьи, я даю вам ответ:"
+WRANGLEDIALOG_83_1_BUTTON_1,Приятно познакомиться.
+WRANGLEDIALOG_83_2_CONTENT,Что вы делаете?
+WRANGLEDIALOG_83_2_BUTTON_1,Мы хотим найти вашу принцессу.
+WRANGLEDIALOG_83_3_CONTENT,.
+WRANGLEDIALOG_83_3_BUTTON_1,"Мы узнали, что у вашей принцессы скоро день рождения, и пришли поздравить вас."
+WRANGLEDIALOG_83_4_CONTENT,Вы знакомы?
+WRANGLEDIALOG_83_4_BUTTON_1,Мы одноклассники принцессы.
+WRANGLEDIALOG_83_5_CONTENT,"Я измерил вашу линию, и, по моему опыту, вы, вероятно, знаете друг друга."
+WRANGLEDIALOG_83_5_BUTTON_1,Вы можете помочь нам найти ее?
+WRANGLEDIALOG_83_6_CONTENT,"Трудно сказать, пока не допросите короля и королеву."
+WRANGLEDIALOG_83_6_BUTTON_1,Вы можете нас представить?
+WRANGLEDIALOG_83_7_CONTENT,Я ревностный член королевской семьи.
+WRANGLEDIALOG_83_8_CONTENT,"Но вы должны доказать, что я верю в вас."
+WRANGLEDIALOG_84_CONTENT,Можно?
+WRANGLEDIALOG_84_BUTTON_1,"Ладно, давайте начнем."
+WRANGLEDIALOG_93_CONTENT,Вы предлагаете мне сделку?
+WRANGLEDIALOG_93_BUTTON_1,Это большая сделка.
+WRANGLEDIALOG_93_1_CONTENT,Насколько большая сделка?
+WRANGLEDIALOG_93_1_BUTTON_1,Большая сделка.
+WRANGLEDIALOG_93_2_CONTENT,"Я буду справедлив, если ты предложишь мне большую сделку."
+WRANGLEDIALOG_93_2_BUTTON_1,Звучит вполне справедливо.
+WRANGLEDIALOG_93_3_CONTENT,"Скажи, что это за сделка?"
+WRANGLEDIALOG_93_3_BUTTON_1,"Нам нужно, чтобы вы пошли с нами на сделку."
+WRANGLEDIALOG_93_4_CONTENT,Пойти на сделку? Торговля людьми?
+WRANGLEDIALOG_93_4_BUTTON_1,Где бы ты хотел быть.
+WRANGLEDIALOG_93_5_CONTENT,"Это не та сделка, что была в прошлый раз?"
+WRANGLEDIALOG_93_6_CONTENT,Я больше не занимаюсь такими делами! Ни за какие деньги!
+WRANGLEDIALOG_93_6_BUTTON_1,"Я еще не сказал, что это за сделка."
+WRANGLEDIALOG_93_7_CONTENT,"Я до сих пор не оправился от последнего приключения, я бизнесмен, а не авантюрист!"
+WRANGLEDIALOG_93_7_BUTTON_1,Но... в этот раз будет много денег.
+WRANGLEDIALOG_93_8_CONTENT,Правда?
+WRANGLEDIALOG_93_8_BUTTON_1,Конечно.
+WRANGLEDIALOG_94_CONTENT,"Но прежде, чем мы начнем, мне нужно увидеть, сколько у вас денег."
+WRANGLEDIALOG_94_BUTTON_1,"Ладно, давайте начнем."
+PLAYCHESSSUCCESSFUNCTION_AVATAR_9_STRING,Успех никогда не бывает легким.
+PLAYCHESSFAILUREFUNCTION_AVATAR_9_STRING,Неудача не длится вечно.
+WRANGLEDIALOG_103_CONTENT,Я тоже часто говорю сама с собой.
+WRANGLEDIALOG_103_BUTTON_1,Извините.
+WRANGLEDIALOG_103_FUNCTION_1_1,Моя собака постоянно бегает по округе.
+WRANGLEDIALOG_103_FUNCTION_1_2,"Можешь поговорить со мной, если хочешь."
+WRANGLEDIALOG_103_FUNCTION_1_3,"Яркая яркая нефритово-бушующая ярость, волны с зелеными рукавами, заполненные непьющими цветами, которые остаются на террасе с тёщей и тёщей. Канат сотрясается в тысячи оборотов, трибуны в конце концов должны вернуться и сказать, чтобы облака покрывали красную пыльцу, которая остается красноречивостью."
+WRANGLEDIALOG_103_FUNCTION_1_4,"Ступая по тысячам гор в поисках красных лучей, снежная свеча сдувает слезу. Когда кто-то проигрывает, кто-то выигрывает, а кто-то плачет. Ириски окрасят сироты и взмывают ввысь, опираясь на длинные пули от меча. Тысячи оползней идут по небу, гром, длинные пустые силуэты. Циклон, который давит на горы, не смягчает и половины цвета."
+WRANGLEDIALOG_103_FUNCTION_1_5,"Пьет героическое вино на западном ветру, не видя, как герой возвращается в сумерки. В конце концов, трудно вернуть, когда дождь льёт на цветы. Красавица плачет на нефритовом блюдечке, а ветер не оставляет нити. Звезда зиозу лунный свет, где любовники часто обнимаются."
+WRANGLEDIALOG_103_FUNCTION_1_6,"Прежд весн улыба разберет куд друг мест цветущ персик, цветущ персик, весен ветерок в холодн брос лиц, лиц цветущ персик подобн. Красн, красот бесцен пьян хотел, смутн добр деньк подростков."
+WRANGLEDIALOG_103_FUNCTION_1_7,"Тысяча миль ледника, красное море, красивый северный ветер. Он тосковал по безжалостному палачу, бродил по краю земли."
+WRANGLEDIALOG_103_FUNCTION_1_8,"Зелёная гора, зелёная вода, белые облака, сорняки, трясущиеся от страха, бабочки, бегущие за бабочками, почтовая почта в пустыне. Тонкие слова, блестящие блестящие воды, непреодолимые чувства, цветы на платформе зеркальной воды."
+WRANGLEDIALOG_103_FUNCTION_1_9,"Десять раз вдали от дома, на краю земли, и завтра Луна осветит мое сердце. Многократные культивационные культуры."
+WRANGLEDIALOG_103_FUNCTION_1_10,"Юбка-бабочка плывёт вокруг цветка, нефритово-пальцевая линия ведёт за зонтик, осязаньоньоньоньоньоньоньоль у пруда для жатвы, и тысячи гор стремятся к свободе."
+WRANGLEDIALOG_103_FUNCTION_1_11,"Встретить самого красивого тебя в разгар бурного сезона и подарить мне самую красивую жизнь и самую красивую улыбку, которая помогла мне понять, что дни могут быть такими, какие они есть, тепло и природа, которые я чувствую сердцем, дают мне дом. Так невероятно, так удивительно, так естественно. Похоже, судьба сделала меня таким счастливым, что я приняла это важное решение."
+WRANGLEDIALOG_103_FUNCTION_1_12,"Квай хюн хэ хва, со ин хэ, которая пришла вместе с луной. Прислонившись к реке янцзы в одиночестве, пусть король насладится ароматом корицы."
+WRANGLEDIALOG_103_FUNCTION_1_13,"Гордыня за песком, без клятвой генерала. Тольк вздох безжалостн дне не стар, ненавид тольк Gai приветств сян без."
+WRANGLEDIALOG_103_FUNCTION_1_14,"Доверенным лицом завтра луны, героем на краю земли. Куда делся нож? Турсер дрожит от страха."
+WRANGLEDIALOG_103_FUNCTION_1_15,"Тучи сгущались над лунным бассейном и не видели цветка персика. Больше всего я ненавижу западный ветер, который прошел, и я не могу не заказать звезды."
+WRANGLEDIALOG_103_FUNCTION_1_16,"Улетела далеко, далеко, невидимая. И не трогать. Там, где его не видно, далеко. Хватайся за песок под ногами, пропадай запах родной земли, пропадай знакомый запах. Не будет вечного воссоединения, не будет долгих прощаний. Одуванчики также распускаются, взлетающие маленькие зонтики, экстравагантные воздушные путешествия, легкий поток воды стрекозы, все еще летит к земле и жует знакомое дыхание. Желтая песчинка пролетела мимо, и я не последовал за ним. Желтые пески летают, одуванчики все еще болтаются. Желтые пески летают, а маленькие зонтики всё ещё летают. Желтые пески пролетают мимо, но видят маленькие зеленые ростки."
+WRANGLEDIALOG_103_FUNCTION_1_17,"Плакаморский лист медленно развевается на ветвях, холодный ветер дует, легкий воздух, стабильно приземляется на землю. Это зов матери земли. Это новый цикл. Белый снег медленно падает сквозь облака, покупая билет в Один конец домой, сухой воздух падает на землю, румяна матушки земли, и ты прекрасна, мама. Радуга в небе падает, красная-наша кровь, жёлтая-наши лица, зелёная-листья сикаморы на ветвях. Тонкая салфетка, парящая с твоих плеч, летит по ветру, проносится мимо, так быстро. В море вечности. Сойка щебечет, мчащийся по ветру, ты-сари матери земли, чайка. Это сари, которые не падают."
+WRANGLEDIALOG_103_FUNCTION_1_18,"Весенний ветерок вновь распустился в персики, и прошлой ночью во сне раздался звон, и только после того, как возобновился дружеский разговор, струилось плотное облако дыма и нахлынули тучи. Кто это? Льются лунные зубы, пыль прошлого исследует лицо человека, персиковый цветок смеется весенним ветром."
+WRANGLEDIALOG_103_FUNCTION_1_19,"Супергёрл по-прежнему противостоит притяжению земли, чтобы спасти землю, карусель кружит в одиночестве, в ожидании девочек, и плавающая через реку чуань-ян утка остается вялой, а соседский щенок любит оставлять свежие рисовые поля на моем крыльце. Солнце по-прежнему сияет ярче, чем когда-либо, и лицо, улыбающееся от солнца, остается таким же милым."
+WRANGLEDIALOG_103_FUNCTION_1_20,Не завершено. Не завершено.
+WRANGLEDIALOG_104_CONTENT,Это письмо.
+WRANGLEDIALOG_106_CONTENT,"Дорогая, приближается мой день рождения, и я приглашаю тебя на вечеринку в честь моего дня рождения, так что приезжай ко мне на Север. Некоторое время не было, я скучал по тебе, с нетерпением ждал встречи с тобой. {NAME_AVATAR_19}, ваш одноклассник."
+WRANGLEDIALOG_106_BUTTON_1,"Почему письмо было оставлено здесь? И на востоке мы увидим, как она празднует свой день рождения."
+TO_NAME_AVATAR_3_LETTER,Поцелуй.
+I_LIKE_LOBBYIST,Мне нравятся болтуны.
+IS_DOG1,Ты любишь беспричинно бегать в компании ветра и дождя.
+YOU_ARE_A_TALL_FELLOW,Ты высокий человек!
+WINS_AND_LOSSES_ARE_COMMON_1,Победа или поражение-обычное дело.
+WINS_AND_LOSSES_ARE_COMMON_2,Скорость-это первое значение.
+WINS_AND_LOSSES_ARE_COMMON_3,Мои ученики очень сильны.
+WINS_AND_LOSSES_ARE_COMMON_4,Я искал издалека.
+I_DONOT_HAVE_MY_BEST_FRIEND_HERE,Я ухожу с моим лучшим другом.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_1,Открой.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_2,Открывай.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_1,Знание-это сила.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_2,В записях вся жизнь.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_1,Изолировать мир.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_2,Сохрани спокойствие.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_1,Никаких следов взлома обуви.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_2,Получить все без труда.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_1,Письмо от одноклассника.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_2,Письмо от друга.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_1,Тишина.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_2,Тишина.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_3,Повторение-залог победы.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_4,В этом есть секрет.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_5,Поспешишь-беда беда.
+PLAYCHESSFAILUREFUNCTION_NPCARTICLE_ODETOJOY,"Я страж короля, верный страж короля."
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_1,Победа.
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_2,Победа.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_1,Удача на моей стороне.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_2,К удаче тоже надо прикасаться.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_1,Я рассчитал шансы на победу.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_2,Это также возможность учиться.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_1,"Хороший оратор не значит, что ему повезло."
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_2,Чтобы выразить свои чувства.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_1,Далеко.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_2,Полюс.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_1,Как хочешь.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_2,"Бери, что хочешь."
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_1,Стальная рука.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_2,Сильная сила.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_1,Торговля-это ремесло бизнесмена.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_2,Всему есть цена.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_1,Тепло солнечного света окружает тебя.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_2,Солнце светит на тебя.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_1,У меня хорошая выносливость.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_2,У меня хороший характер.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_1,У меня много друзей.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_2,Мы с друзьями часто тусуемся.
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_1,Как ты смеешь бросать мне вызов?
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_2,Ты играешь с огнем.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_1,"Плавучий, чтобы остановить любовь."
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_2,Любой ценой.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_1,У меня много братьев.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_2,У меня есть несколько сестер.
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_1,"Идеал и реальность, что ты выберешь?"
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_2,У солёной Рыбы нет идеалов.
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_1,"Я могу, я могу."
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_2,"Небо и земля широки, сердце шире."
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_1,Здесь сильный ветер.
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_2,Ветер сильный и сильный.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_1,Крести пахнут от холода.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_2,Страдание-это жизнь.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_1,Есть планы на будущее.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_2,Есть планы на сегодня.
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_1,"Серьезно, это отношение."
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_2,Я отношусь к этому серьезно и лелею.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_1,Мир принадлежит нам с тобой.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_2,Мы с тобой уникальны.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_1,В молодости я много работал.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_2,У меня сейчас тоже стояк.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_1,Приведи себя в порядок.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_2,Посмотри на себя.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_1,Исправь это для себя.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_2,"Сам почини, сам знаешь."
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_1,Корона сделана из золота.
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_2,Корона сияет.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_1,Даже самая ослепительная корона нуждается в постоянной подтирании.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_2,"Корона сделана из золота, что представляет собой качество."
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_1,Все дело в победе или поражении.
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_2,"Я получу все, что захочу."
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_1,Даже самая чистая комната требует постоянного ухода.
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_2,Прибираться в комнате не так-то просто.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_1,Долгое время упорствовать в работе-это не легко.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_2,Следить за дворцом-это не легко.
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_1,Не надо было меня видеть.
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_2,Не видеть меня.
+NOW_I_AM_THE_TEAM_LEADER,Теперь я в первых рядах.
+NPCARTICLETRIGGER_NAME_2,Дверь в дом
+NPCARTICLETRIGGER_NAME_3,Дверь в дом
+WAIT_A_MOMENT,подожд
+DICE_STARTED,Кости на уровне %s включены
+WHERE_ARE_THE_LOBBYISTS,Где это?
+SILENT_NOTE_DO,Безмолвная нота - Do (1)
+SILENT_NOTE_RE,Безмолвная нота - Re (2)
+SILENT_NOTE_MI,Безмолвная нота - Mi (3)
+SILENT_NOTE_FA,Безмолвная нота - Fa (4)
+SILENT_NOTE_SOL,Безмолвная нота - Sol (5)
+SILENT_NOTE_LA,Безмолвная нота - La (6)
+SILENT_NOTE_SI,Безмолвная нота - Si (7)
+NOTE_DO,Do (1)
+NOTE_RE,Re (2)
+NOTE_MI,Mi (3)
+NOTE_FA,Fa (4)
+NOTE_SOL,Sol (5)
+NOTE_LA,La (6)
+NOTE_SI,Si (7)
+WRANGLEDIALOG_107_CONTENT,"Я страж {SILENT_NOTE_MI}, хранителя {NAME_1}."
+WRANGLEDIALOG_108_CONTENT,"Я страж {SILENT_NOTE_MI}, хранителя {NAME_1}."
+WRANGLEDIALOG_109_CONTENT,"Я страж {SILENT_NOTE_FA}, {NAME_1}."
+WRANGLEDIALOG_110_CONTENT,"Я страж {SILENT_NOTE_SOL}, хранителя {NAME_1}."
+WRANGLEDIALOG_111_CONTENT,"Я страж {SILENT_NOTE_SOL}, хранителя {NAME_1}."
+WRANGLEDIALOG_112_CONTENT,"Я страж {SILENT_NOTE_FA}, {NAME_1}."
+WRANGLEDIALOG_113_CONTENT,"Я страж {SILENT_NOTE_MI}, хранителя {NAME_1}."
+WRANGLEDIALOG_114_CONTENT,"Я страж {SILENT_NOTE_RE}, {NAME_1}."
+WRANGLEDIALOG_115_CONTENT,Я страж {SILENT_NOTE_DO} {NAME_1}.
+WRANGLEDIALOG_116_CONTENT,Я страж {SILENT_NOTE_DO} {NAME_1}.
+WRANGLEDIALOG_117_CONTENT,"Я страж {SILENT_NOTE_RE}, {NAME_1}."
+WRANGLEDIALOG_118_CONTENT,"Я страж {SILENT_NOTE_MI}, хранителя {NAME_1}."
+WRANGLEDIALOG_119_CONTENT,"Я страж {SILENT_NOTE_MI}, хранителя {NAME_1}."
+WRANGLEDIALOG_120_CONTENT,"Я страж {SILENT_NOTE_RE}, {NAME_1}."
+WRANGLEDIALOG_121_CONTENT,"Я страж {SILENT_NOTE_RE}, {NAME_1}."
+WRANGLEDIALOG_107_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_108_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_109_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_110_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_111_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_112_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_113_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_114_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_115_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_116_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_117_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_118_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_119_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_120_BUTTON_1,Я хочу доказать свою храбрость.
+WRANGLEDIALOG_121_BUTTON_1,Я хочу доказать свою храбрость.
+WIN_THE_KING,Ты выиграл короля.
+WRANGLEDIALOG_122_CONTENT,"Друзья издалека, умные воины, добро пожаловать!"
+WRANGLEDIALOG_122_BUTTON_1,Приятно познакомиться.
+WRANGLEDIALOG_123_CONTENT,Вы пришли на день рождения моей маленькой девочки?
+WRANGLEDIALOG_123_BUTTON_1,- да.
+WRANGLEDIALOG_124_CONTENT,"Добро пожаловать! Моя маленькая девочка и ее сестра сейчас в моем кабинете, и вы можете найти ее сами. Позже, на дне рождения, у меня есть важное объявление."
+WRANGLEDIALOG_124_BUTTON_1,Спасибо за приглашение.
+WRANGLEDIALOG_125_CONTENT,"Однако, я должен вам напомнить, что здесь много комнат, а мой кабинет находится на севере."
+WRANGLEDIALOG_126_CONTENT,"Каждая дверь является хранителем, как и хранители {SCENE_NAME_STAVE_AVENUE} {NAME_1}, которые являются преданными защитниками и иногда могут пройти только члены королевской семьи."
+WRANGLEDIALOG_126_BUTTON_1,Понял.
+WRANGLEDIALOG_127_CONTENT,"Умный воин, ты знаешь что-нибудь о музыке?"
+WRANGLEDIALOG_127_BUTTON_1,"Мы все любим слушать музыку, слушать песни."
+WRANGLEDIALOG_128_CONTENT,Я тоже люблю слушать музыку и песни! Хорошая музыка и песни очищают наши души!
+WRANGLEDIALOG_128_BUTTON_1,Вы совершенно правы.
+WRANGLEDIALOG_129_CONTENT,"Хранители хранителей, которые остались с незапамятных времен, когда дедушка дедушки дедушки моего дедушки даже не родился."
+WRANGLEDIALOG_129_BUTTON_1,Много лет прошло.
+WRANGLEDIALOG_130_CONTENT,"Если тебе удастся бросить им вызов и доказать свою храбрость, я подумаю над тем, чтобы подарить тебе несколько особенных маленьких подарков."
+WRANGLEDIALOG_130_BUTTON_1,Какой особый подарок?
+WRANGLEDIALOG_131_CONTENT,"Маленькие детали, которые могут добавить харизму, и я думаю, что некоторые из вас могут пригодиться."
+WRANGLEDIALOG_131_BUTTON_1,Такой загадочный.
+WRANGLEDIALOG_132_CONTENT,"Давай, добро пожаловать, мудрый воин, утони!"
+WRANGLEDIALOG_132_BUTTON_1,До свидания.
+WRANGLEDIALOG_133_CONTENT,У тебя проблемы?
+WRANGLEDIALOG_133_BUTTON_1,Дашь мне подсказку?
+WRANGLEDIALOG_133_BUTTON_2,Я бросил вызов и победил.
+WRANGLEDIALOG_134_CONTENT,"Перед тем, как стать хранителями, я могу дать вам небольшой совет:"
+WRANGLEDIALOG_134_BUTTON_1,"Намек, которого можно ожидать."
+WRANGLEDIALOG_134_BUTTON_2,Я попробую еще немного.
+WRANGLEDIALOG_135_CONTENT,"Do (1), Re (2), Mi (3), Fa (4), Sol (5), La (6), Si (7),,, подойди немного."
+WRANGLEDIALOG_135_BUTTON_1,Говори шепотом.
+WRANGLEDIALOG_136_CONTENT,"Пожалуйста, прими мой маленький подарок."
+WRANGLEDIALOG_136_BUTTON_1,Спасибо за вашу щедрость.
+KING_LOW_VOICE,"Низкий голос говорит, %s,,, не говори остальным,,,"
+WHEN_I_WAS_YOUNG,"Этот маленький подарок, который я часто использовала в молодости, когда у меня была корона, которая мне не была нужна."
+ALL_GIFTS_HAD_GIVE_YOU,Все мои маленькие подарки для тебя.
+YOU_NEED_TO_PROVE,"Нужно доказать свою храбрость, чтобы получить небольшой подарок"
+GOODS_NAME_HOUSEKEEPERKEY,Ключ {NAME_AVATAR_28}
+GOODS_NAME_BUTLERKEY,Ключ {NAME_AVATAR_29}
+GOODS_NAME_QUEENKEY,Ключ {NAME_AVATAR_26}
+DOOR_1,Западные ворота на юге
+DOOR_2,Восточные ворота на юге {SCENE_NAME_STAVE_AVENUE}
+GOODS_DESCRIPTION_HOUSEKEEPERKEY,При ношении его можно открыть {DOOR_1}.
+GOODS_DESCRIPTION_BUTLERKEY,При ношении его можно открыть {DOOR_2}.
+GOODS_DESCRIPTION_QUEENKEY,При ношении двери могут быть открыты {SCENE_NAME_HALL_OF_MELODY}.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_1,Крепко.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_2,Давно.
+NOT_EASY_OPEN_THE_DOOR_WITHOUT_THE_KEY,Дверь без ключа нелегко открыть.
+WRANGLEDIALOG_139_CONTENT,"Вы, должно быть, голодны. Скажи мне."
+WRANGLEDIALOG_139_BUTTON_1,Что у вас тут есть вкусного?
+WRANGLEDIALOG_139_BUTTON_2,Здесь очень много работы.
+WRANGLEDIALOG_139_1_CONTENT,На дне рождения принцессы мы приготовили обильную еду.
+WRANGLEDIALOG_139_2_CONTENT,"О, я вижу, что сестра маленькой принцессы отправилась в кабинет короля на севере."
+WRANGLEDIALOG_139_2_BUTTON_1,Ясно.
+WRANGLEDIALOG_139_3_CONTENT,"У меня есть работа, так что, если вы ищете их, можете посмотреть там."
+WRANGLEDIALOG_139_3_BUTTON_1,Хорошо.
+WRANGLEDIALOG_139_4_CONTENT,"В отличие от западной {SCENE_NAME_CRACKING_VOICE_RIDGE}, здесь есть величественные {SCENE_NAME_HALL_OF_MELODY}, за исключением этого места, где я помогаю измерить тропины на юге."
+WRANGLEDIALOG_139_4_BUTTON_1,У тебя есть ключ?
+WRANGLEDIALOG_139_5_CONTENT,"Я не смогу помочь вам, пока вы не завоюете мое доверие."
+WRANGLEDIALOG_139_5_BUTTON_1,Давай попробуем.
+WRANGLEDIALOG_140_CONTENT,"Моя цель-служить. Видите ли, у меня такая красивая шляпа, что мне не пришлось бы использовать эти парики."
+WRANGLEDIALOG_140_BUTTON_1,У вас тут хорошая атмосфера.
+WRANGLEDIALOG_140_BUTTON_2,"Наверное, здесь много работы?"
+WRANGLEDIALOG_140_1_CONTENT,"Сад у двери в основном охраняется мной, через которое не проходят яркие деревья, через которые можно пройти через темные деревья, и в последнее время я вижу, что время от времени появляются незнакомцы в фиолетовых халатах, и у маленькой принцессы скоро день рождения, и мы много готовимся к празднованию дня рождения принцессы."
+WRANGLEDIALOG_147_BUTTON_1,"Это не может быть {NAME_AVATAR_33} {NAME_AVATAR_20}?,,,"
+WRANGLEDIALOG_140_2_CONTENT,"О, я вижу, что сестра маленькой принцессы отправилась в кабинет короля на севере."
+WRANGLEDIALOG_140_2_BUTTON_1,Ясно.
+WRANGLEDIALOG_140_3_CONTENT,"У меня есть работа, так что, если вы ищете их, можете посмотреть там."
+WRANGLEDIALOG_140_3_BUTTON_1,Хорошо.
+WRANGLEDIALOG_140_4_CONTENT,"В отличие от восточной части, здесь есть красивые сады, за исключением этого места, где я помогаю измерить тропинки на юге."
+WRANGLEDIALOG_140_4_BUTTON_1,У тебя есть ключ?
+WRANGLEDIALOG_140_5_CONTENT,"Я не смогу помочь вам, пока вы не завоюете мое доверие."
+WRANGLEDIALOG_140_5_BUTTON_1,Давай попробуем.
+TRUSTED_CLASSMATE,"Должен сказать, я больше доверяю ученикам принцессы, о которых говорилось в приглашении."
+YOU_HAD_THE_KEY,У тебя уже есть этот ключ.
+WRANGLEDIALOG_151_CONTENT,"Добро пожаловать, путешественники из далека."
+WRANGLEDIALOG_151_BUTTON_1,"Кстати, о приключениях, у вас здесь есть другие авантюристы?"
+WRANGLEDIALOG_151_BUTTON_2,Ваш дворец великолепен.
+WRANGLEDIALOG_151_1_CONTENT,"Другие искатели приключений? Когда король был молод, мы оба были авантюристами. Мы были такими же, как вы сейчас, говоря о приключениях."
+WRANGLEDIALOG_151_1_BUTTON_1,"Да, но у нас нет телескопа."
+WRANGLEDIALOG_151_1_BUTTON_2,У нас есть телескоп.
+WRANGLEDIALOG_151_2_CONTENT,"Если вы сможете завоевать мое доверие, я пришлю вам телескоп, который мы использовали в молодости."
+WRANGLEDIALOG_151_2_BUTTON_1,С удовольствием.
+WRANGLEDIALOG_151_3_CONTENT,"Я могу помочь вам настроить телескоп, чтобы он мог смотреть дальше."
+WRANGLEDIALOG_151_3_BUTTON_1,Спасибо.
+WRANGLEDIALOG_151_4_CONTENT,"Помимо двух домработниц, я также часто здесь работаю, и если вы хотите помочь, у меня есть ключ от дворца, который позволит вам войти и выйти отсюда."
+WRANGLEDIALOG_151_4_BUTTON_1,Мы можем.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_3,Любопытство-двигатель прогресса.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE2,Дальность видимости: %s (+%s).
+VISUAL_RANGE_IS_AT_MAXIMUM,Дальность видимости достигла максимума.
+YOU_ALREADY_HAVE_A_TELESCOPE,У тебя уже есть телескоп.
+YOU_NEED_A_TELESCOPE_FIRST,Сначала тебе нужен телескоп.
+YOU_ALREADY_HAVE_THIS_KEY,У тебя уже есть этот ключ.
+HAVE_ALREADY_USED,Уже используется.
+DOOR_3,Дверь {SCENE_NAME_HALL_OF_MELODY}
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_1,Старый замок.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_2,Старая история.
+WRANGLEDIALOG_160_CONTENT,Кто вы такие?
+WRANGLEDIALOG_160_BUTTON_1,"Одноклассники (NAME_AVATAR_19). На ее дне рождения."
+WRANGLEDIALOG_160_1_CONTENT,"День рождения? Я не слышал, чтобы она упоминала, что здесь нет вечеринки по случаю дня рождения, так что, пожалуйста, убирайтесь отсюда."
+WRANGLEDIALOG_160_1_BUTTON_1,Мы...
+WRANGLEDIALOG_160_2_CONTENT,"Пожалуйста, выйдите, мне нужно кое-что уладить."
+WRANGLEDIALOG_160_2_BUTTON_1,"Мы только что говорили с королем о вечеринке в честь дня рождения,"
+WRANGLEDIALOG_160_3_CONTENT,"Вы, должно быть, ослышались, король стар и многое не помнит. Пожалуйста, выйдите."
+WRANGLEDIALOG_160_3_BUTTON_1,Давайте спросим короля еще раз.
+WRANGLEDIALOG_133_BUTTON_3,"Что касается {NAME_AVATAR_27} и {NAME_AVATAR_19},"
+WRANGLEDIALOG_165_CONTENT,"Все мои сестры-мои любимые дочери, моя любимая жемчужина в моей ладони, и если что-то не так, скажите ближе, и я прошепчу вам."
+WRANGLEDIALOG_165_BUTTON_1,Я просто немного запутался.
+WRANGLEDIALOGTYPEID_SISTER_1_SUCCESS_1,"В моем кабинете вы видите только то, что видите, а не то, что видите? Вы что, ослепли? Возвращайся и проверь еще раз."
+FAMILY_IS_THE_MOST_IMPORTANT_THING,Семья для меня самое важное.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_1,Никому не показывай.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_2,Секретное письмо.
+TO_ROYAL_HOUSEHOLD_LETTER,Королевский поцелуй.
+NAME_AVATAR_35,Золотой мальчик.
+WRANGLEDIALOG_167_CONTENT,Это секретное письмо.
+WRANGLEDIALOG_167_1_CONTENT,"При всем уважении, ***** * : * письмо будет передано вам с сохранением конфиденциальности, которое может быть сожжено после просмотра, и никому не должно быть известно."
+WRANGLEDIALOG_167_1_BUTTON_1,"Это письмо было адресовано королевскому персоналу,"
+WRANGLEDIALOG_167_2_CONTENT,"После этого в этом деле вам также поможет помощь в выполнении задачи  {TWELVE_BUGS} {SCENE_AVATAR_20} и {TWELVE_BUGS} {SCENE_NAME_CRACKING_VOICE_RIDGE}. Время для вечеринки в честь дня рождения, импровизировать, пожелать вам всего наилучшего."
+WRANGLEDIALOG_167_2_BUTTON_1,"Ранее, когда команда телепортировалась, мне показалось, что она увидела что-то,"
+WRANGLEDIALOG_167_3_CONTENT,"Великие дела и слава тебе за то, что ты сделал, будут стоять в первых и прихожанах и поклоняться, и после того, как все будет сделано, я обещаю тебе полную поддержку. В ожидании ответа на звонок. {NAME_AVATAR_33}"
+WRANGLEDIALOG_167_3_BUTTON_1,"То письмо, которое только что было здесь, было адресовано ей? Да."
+WRANGLEDIALOG_167_4_CONTENT,Письмо прочитано.
+WRANGLEDIALOG_167_4_BUTTON_1,"Он исчез, и это как-то связано с этим?"
+GOODS_DESCRIPTION_17,"При всем уважении, ***** * : * письмо будет передано вам с сохранением конфиденциальности, которое может быть сожжено после просмотра, и никому не должно быть известно. После этого мероприятия вам в этом поможет также помощь в выполнении задачи {TWELVE_BUGS} из {NAME_AVATAR_20} и {SCENE_NAME_CRACKING_VOICE_RIDGE}. Время для вечеринки в честь дня рождения, импровизировать, пожелать вам всего наилучшего. Великие дела и слава тебе за то, что ты так усердно труждаешься, будут стоять на первом месте и поклоняться прихожанам, и после того, как все будет сделано, я обещаю тебе полную поддержку. В ожидании ответа на звонок. {NAME_AVATAR_33}"
+DOOR_CLOSE,Дверь закрыта.
+GUARD_THE_ROYAL_FAMILY,Охранять королевскую семью.
+WRANGLEDIALOG_173_CONTENT,Как ты меня найдешь?
+WRANGLEDIALOG_173_BUTTON_1,Это ты.
+YOU_CAN_NOT_FOUND_QIU_YU,"Есть защита, безопасная, которую вы не сможете найти."
+YOU_WILL_BE_SORRY,"Посмейте бросить мне вызов, и вы пожалеете."
+NAME_AVATAR_36,Потайн туннел
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_1,Не вижу.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_2,Там очень темно.
+WRANGLEDIALOG_174_CONTENT,"Неужели здесь есть секретный проход, который не знает, куда он ведет?"
+WRANGLEDIALOG_174_BUTTON_1,Залезай.
+WRANGLEDIALOG_174_BUTTON_2,Не ходи туда.
+WRANGLEDIALOG_175_CONTENT,Это вы. Что вы здесь делаете?
+WRANGLEDIALOG_175_BUTTON_1,Видите? Мы ищем её.
+WRANGLEDIALOG_175_1_CONTENT,Нет.
+WRANGLEDIALOG_175_1_BUTTON_1,Что ты здесь делаешь?
+WRANGLEDIALOG_175_2_CONTENT,"Я ищу свою киску, и она называется... Только Один глаз, но я думаю, что он должен быть где-то здесь, недалеко."
+WRANGLEDIALOG_175_2_BUTTON_1,"Если мы его увидим, мы вернем его тебе."
+WRANGLEDIALOG_175_3_CONTENT,"Нет, нет, нет, нет, нет."
+WRANGLEDIALOG_175_3_BUTTON_1,Посмотрим еще раз.
+WRANGLEDIALOG_179_1_CONTENT,"Мало что известно о Том, что нужно сделать для выполнения обязательств {NAME_AVATAR_33}."
+WRANGLEDIALOG_179_2_CONTENT,"Мы мало что знаем, и обещания, которые мы должны выполнить, должны быть выполнены."
+WRANGLEDIALOG_179_3_CONTENT,"Мы мало что знаем, и в ближайшем будущем мы также можем переехать в дом {SCENE_NAME_HALL_OF_MELODY}."
+WRANGLEDIALOG_179_4_CONTENT,"Мы мало что знаем и покидаем это место, где ветер не останавливается, хотя мы любим лес."
+WRANGLEDIALOG_179_5_CONTENT,"Мы мало что знаем, и устройство телепортации очень помогло в этот раз, и эта мощная сила управляла устройством телепорта, мощной силой, которую мы никогда раньше не видели."
+WRANGLEDIALOG_179_6_CONTENT,"Мы мало что знаем, и нам очень жаль, что похищение не было нашим намерением."
+WRANGLEDIALOG_179_7_CONTENT,"Мало что известно о Том, что телепортация с помощью устройства телепорта {NAME_AVATAR_19} является последним шагом этой операции, но мысль о Том, что мы тоже можем стать частью королевской семьи, не вызывает никакого волнения."
+WRANGLEDIALOG_179_8_CONTENT,"Мы мало что знаем, да здравствует, но в следующий раз не поручайте нам столь сложное задание."
+WRANGLEDIALOG_179_9_CONTENT,"Мы мало что знаем об этой операции, которая является приказом {NAME_AVATAR_27}, которая слишком сильно хочет стать новым королем."
+WRANGLEDIALOG_179_10_CONTENT,"Мы мало что знаем, и наши мечты сбудутся, когда мы станем новыми королями."
+WRANGLEDIALOG_179_11_CONTENT,"Мы мало что знаем, и в мечтах и ожиданиях мы выбираем мечты."
+WRANGLEDIALOG_179_12_CONTENT,"Мы мало что знаем, сила, управляющая транспортным устройством, находится за холмом."
+WRANGLEDIALOG_179_BUTTON_1,Так вот в чем дело.
+WRANGLEDIALOG_191_CONTENT,Мы мало что знаем.
+WRANGLEDIALOG_191_BUTTON_1,"Расскажите нам о Том, что вы знаете."
+WRANGLEDIALOG_192_CONTENT,"Хотя я ничего не знаю, я жажду приключений."
+WRANGLEDIALOG_192_BUTTON_1,Присоединяйся к нам.
+WRANGLEDIALOG_194_CONTENT,"Хотя я ничего не понимаю, я с нетерпением жду приключений."
+WRANGLEDIALOG_194_BUTTON_1,Присоединяйся к нам.
+WE_LOOK_FORWARD_TO_LEARNING_PARTNERS,Я ожидаю ученого партнера.
+LIFE_IS_DOOMED_TO_DRIFT_BUT_ALSO_TO_LIVE_OUT_THEIR_OWN_WONDERFUL,"Жизнь, хоть и обречена на дрейф, но и на собственное великолепие."
+WE_HAVE_FOUND_THE_TWELVE_GOO,"Мы нашли 12 слизняков, которые здесь, и мы должны вернуться сейчас же. Что касается их состояния {NAME_AVATAR_27} и {NAME_AVATAR_19},"
+MEMBERS_OF_THE_TEAM_WHO_LEFT,Покидающий команду: %s.
+HOWEVER_SOME_MEMBERS_OF_THE_TEAM_STUBBORNLY_SURVIVED,Но кто-то из членов команды выжил.
+HOME_SAFE_1,Дом-это безопасное место.
+HOME_SAFE_2,Дом-наш рай.
+HOME_IS_SAFE,Дома безопасно.
+IT_IS_GETTING_DARK_YOU_CAN_NOT_PLAY_CHESS,"Будет темно, а не игра."
+WAY_HOME_1,"Надеюсь, ты помнишь дорогу домой."
+WAY_HOME_2,В этот момент возвращение домой было самым безопасным вариантом.
+IT_IS_GETTING_DARK_YOU_CAN_NOT_OPERATE,Скоро стемнеет и не будет никакой операции.
+IT_IS_PLAY_CHESS_YOU_CAN_NOT_OPERATE,"{PLAY_CHESS_NAME, неоперабельная."
+NAME_2,AMan
+WILL_FINAL,"Ты хочешь сказать... Тем не менее, мы должны найти ее и спросить о ее местонахождении, и сказать, что она направляется на Восток в поисках своей киски, где ее должны увидеть."
+TWELVE_BUGS,12 слизи.
+WRANGLEDIALOG_221_CONTENT,Вы уже нашли? Как это возможно?
+WRANGLEDIALOG_221_BUTTON_1,Где он?
+WRANGLEDIALOG_221_1_CONTENT,"Ребята, почему вы спрашиваете меня?"
+WRANGLEDIALOG_221_1_BUTTON_1,"Нам уже сказали, что это были {NAME_AVATAR_33} и {NAME_AVATAR_20}, которые попросили их помочь вам."
+WRANGLEDIALOG_221_4_CONTENT,"Похоже, вы уже в курсе."
+WRANGLEDIALOG_221_4_BUTTON_1,"Ты тот, кто заказал похищение, зачем ты это сделал?"
+WRANGLEDIALOG_221_2_CONTENT,"Мой трон, и мой отец сказал, что на праздновании дня рождения он должен сделать важное объявление, и я полагаю, что он должен объявить о предстоящей передаче престола, и что я большая принцесса, и что я должна занять его!"
+WRANGLEDIALOG_221_2_BUTTON_1,Но это твоя сестра.
+WRANGLEDIALOG_221_3_CONTENT,"Давайте поиграем в прятки, чтобы найти ответ на вопрос, который я спрятал в {NAME_AVATAR_19} Ха-ха-ха."
+WRANGLEDIALOG_221_3_BUTTON_1,Не слишком радуйся.
+WRANGLEDIALOG_225_CONTENT,Начнем игру?
+WRANGLEDIALOG_225_BUTTON_1,Давай начнем.
+THE_GAME_HAS_NOT_STARTED_YET,Игра еще не началась.
+I_AM_GOING_TO_START_COUNTING,Я собираюсь начать считать.
+LOOK_WHERE_THEY_ARE,"Посмотри, где они."
+CURRENT_STANDING_POSITION_CANNOT_START_PATHFINDING,Текущая позиция не позволяет начать поиск пути.
+NAME_2_EYE,AMan глаза
+WRANGLEDIALOG_227_CONTENT,Я в ловушке.
+WRANGLEDIALOG_227_BUTTON_1,Мы пришли спасти тебя.
+THE_LAST_COUNT_IS_NOT_OVER,Последний подсчет еще не закончен.
+WE_FINALLY_FOUND,Наконец-то мы нашли! Маленькие друзья снова вместе!
+WRANGLEDIALOG_228_CONTENT,"Теперь, когда вы снова вместе, моя сестра, увидимся снова."
+WRANGLEDIALOG_228_BUTTON_1,Справедливость на нашей стороне.
+WRANGLEDIALOG_230_CONTENT,"Вы наконец-то нашли его, спасибо! И ее сестра, которая, надеюсь, скоро заблудится и благословит вас всех!"
+WRANGLEDIALOG_230_BUTTON_1,Это наша искренняя дружба.
+WE_WILL_TOGETHER,"Я вижу в темноте отца, мать и вас, маленьких партнеров, и я всегда верю, что увижу вас снова! Отец, они должны быть где-то рядом."
+I_CAN_NOT_HAVE_MY_LITTLE_GIFT_AGAIN,"Несмотря на то, что вы доказали свою храбрость, ранее вы получили этот маленький подарок от меня."
+GOODS_NAME_11,Парик.
+GOODS_DESCRIPTION_18,Это должно быть {JOB_LOBBYIST} {GOODS_NAME_11}. / {NAME_AVATAR_20} делается из специального материала.

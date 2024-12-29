@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/panflute_j008b-77898_2.mp3-9f0222b0e81888671a0679e4e2bdad24.mp3str"
+
+[deps]
+
+source_file="res://Audio/panflute_j008b-77898_2.mp3"
+dest_files=[ "res://.import/panflute_j008b-77898_2.mp3-9f0222b0e81888671a0679e4e2bdad24.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

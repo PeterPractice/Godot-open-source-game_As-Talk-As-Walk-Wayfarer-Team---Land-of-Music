@@ -1,0 +1,216 @@
+[gd_scene load_steps=21 format=2]
+
+[ext_resource path="res://Script/Scene/DebugScene2.gd" type="Script" id=1]
+[ext_resource path="res://Scene/Water/SuanLaTang.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Shader/Water/GeistDevWindWaker2DWaterShaderCanvasItem/GeistDevWindWaker2DWaterShaderCanvasItem_Circle.shader" type="Shader" id=3]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonSetting.tscn" type="PackedScene" id=4]
+[ext_resource path="res://UI/CommonUI/CommonHeadPortrait.tscn" type="PackedScene" id=5]
+[ext_resource path="res://UI/CommonUI/CommonButtonSkill.tscn" type="PackedScene" id=6]
+[ext_resource path="res://UI/CommonUI/CommonButtonItem.tscn" type="PackedScene" id=7]
+[ext_resource path="res://UI/CommonUI/CommonButtonBuff.tscn" type="PackedScene" id=8]
+[ext_resource path="res://UI/CommonUI/CommonRichTextLabel.tscn" type="PackedScene" id=9]
+[ext_resource path="res://Script/UI/CommonUI/CommonRichTextLabel/CommonRichTextLabel_Ghost.gd" type="Script" id=10]
+[ext_resource path="res://Script/UI/CommonUI/CommonRichTextLabel/CommonRichTextLabel_Pulse.gd" type="Script" id=11]
+[ext_resource path="res://Script/UI/CommonUI/CommonRichTextLabel/CommonRichTextLabel_Matrix.gd" type="Script" id=12]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonBook.tscn" type="PackedScene" id=13]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonDetailed6.tscn" type="PackedScene" id=14]
+[ext_resource path="res://UI/CommonUI/CommonTextureButtonDetailed3.tscn" type="PackedScene" id=15]
+[ext_resource path="res://UI/CommonUI/CommonLinkButton.tscn" type="PackedScene" id=16]
+
+[sub_resource type="ShaderMaterial" id=1]
+shader = ExtResource( 3 )
+shader_param/WATER_COL = Color( 0.262745, 0.333333, 0.349019, 1 )
+shader_param/WATER2_COL = Color( 0.207843, 0.274509, 0.30196, 1 )
+shader_param/FOAM_COL = Color( 0.396078, 0.466666, 0.482352, 1 )
+shader_param/tile = Vector2( 1, 1 )
+shader_param/time_factor = Vector2( 1, 1 )
+shader_param/offset_factor = Vector2( 1, 1 )
+shader_param/amplitude = Vector2( 0.05, 0.05 )
+shader_param/directionX = 1
+shader_param/directionY = 1
+
+[sub_resource type="RichTextEffect" id=2]
+script = ExtResource( 10 )
+
+[sub_resource type="RichTextEffect" id=3]
+script = ExtResource( 11 )
+
+[sub_resource type="RichTextEffect" id=4]
+script = ExtResource( 12 )
+
+[node name="DebugScene2" type="Node2D"]
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DWalkScene" type="Node2D" parent="."]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DWater" type="Node2D" parent="node2DWalkScene"]
+position = Vector2( -300, -100 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DSuanLaTang" type="Node2D" parent="node2DWalkScene/node2DWater"]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="suanLaTang1" parent="node2DWalkScene/node2DWater/node2DSuanLaTang" instance=ExtResource( 2 )]
+margin_right = 100.0
+margin_bottom = 100.0
+
+[node name="colorRect1" type="ColorRect" parent="node2DWalkScene/node2DWater/node2DSuanLaTang"]
+material = SubResource( 1 )
+margin_left = 100.0
+margin_right = 200.0
+margin_bottom = 100.0
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="suanLaTang2" parent="node2DWalkScene/node2DWater/node2DSuanLaTang" instance=ExtResource( 2 )]
+margin_left = 200.0
+margin_right = 300.0
+margin_bottom = 100.0
+
+[node name="node2DAvatar" type="Node2D" parent="node2DWalkScene"]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="controlPanel" type="Control" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonHeadPortrait1" parent="controlPanel" instance=ExtResource( 5 )]
+margin_left = 100.0
+margin_right = 100.0
+margin_bottom = -40.0
+
+[node name="controlButton" type="Control" parent="controlPanel"]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonButtonSkill1" parent="controlPanel/controlButton" instance=ExtResource( 6 )]
+margin_top = 50.0
+margin_bottom = 94.0
+
+[node name="commonButtonSkill2" parent="controlPanel/controlButton" instance=ExtResource( 6 )]
+margin_top = 100.0
+margin_bottom = 144.0
+
+[node name="commonButtonItem1" parent="controlPanel/controlButton" instance=ExtResource( 7 )]
+margin_left = 20.0
+margin_top = 150.0
+margin_right = 64.0
+margin_bottom = 194.0
+
+[node name="commonButtonItem2" parent="controlPanel/controlButton" instance=ExtResource( 7 )]
+margin_left = 20.0
+margin_top = 200.0
+margin_right = 64.0
+margin_bottom = 244.0
+
+[node name="commonButtonBuff1" parent="controlPanel/controlButton" instance=ExtResource( 8 )]
+margin_left = 100.0
+margin_top = 150.0
+margin_right = 104.0
+margin_bottom = 154.0
+
+[node name="commonButtonBuff2" parent="controlPanel/controlButton" instance=ExtResource( 8 )]
+margin_left = 100.0
+margin_top = 200.0
+margin_right = 104.0
+margin_bottom = 204.0
+
+[node name="commonTextureButtonSetting1" parent="controlPanel/controlButton" instance=ExtResource( 4 )]
+
+[node name="commonTextureButtonBook1" parent="controlPanel/controlButton" instance=ExtResource( 13 )]
+margin_left = 200.0
+margin_right = 232.0
+
+[node name="commonTextureButtonDetailed3_1" parent="controlPanel/controlButton" instance=ExtResource( 15 )]
+margin_left = 200.0
+margin_top = 40.0
+margin_right = 232.0
+margin_bottom = 72.0
+
+[node name="commonTextureButtonDetailed6_1" parent="controlPanel/controlButton" instance=ExtResource( 14 )]
+margin_left = 200.0
+margin_top = 80.0
+margin_right = 232.0
+margin_bottom = 112.0
+
+[node name="controlCommonRichTextLabel" type="Control" parent="controlPanel"]
+margin_left = -220.0
+margin_right = -180.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonRichTextLabel1" parent="controlPanel/controlCommonRichTextLabel" instance=ExtResource( 9 )]
+margin_right = 200.0
+margin_bottom = 92.0
+
+[node name="commonRichTextLabelWave" parent="controlPanel/controlCommonRichTextLabel" instance=ExtResource( 9 )]
+margin_top = 100.0
+margin_right = 200.0
+margin_bottom = 124.0
+
+[node name="commonRichTextLabelTornado" parent="controlPanel/controlCommonRichTextLabel" instance=ExtResource( 9 )]
+margin_top = 130.0
+margin_right = 200.0
+margin_bottom = 154.0
+
+[node name="commonRichTextLabelShake" parent="controlPanel/controlCommonRichTextLabel" instance=ExtResource( 9 )]
+margin_top = 160.0
+margin_right = 200.0
+margin_bottom = 184.0
+
+[node name="commonRichTextLabelFade" parent="controlPanel/controlCommonRichTextLabel" instance=ExtResource( 9 )]
+margin_top = 190.0
+margin_right = 200.0
+margin_bottom = 214.0
+
+[node name="commonRichTextLabelRainbow" parent="controlPanel/controlCommonRichTextLabel" instance=ExtResource( 9 )]
+margin_top = 220.0
+margin_right = 200.0
+margin_bottom = 244.0
+
+[node name="commonRichTextLabelGhost" parent="controlPanel/controlCommonRichTextLabel" instance=ExtResource( 9 )]
+margin_top = 250.0
+margin_right = 200.0
+margin_bottom = 274.0
+custom_effects = [ SubResource( 2 ) ]
+
+[node name="commonRichTextLabelPulse" parent="controlPanel/controlCommonRichTextLabel" instance=ExtResource( 9 )]
+margin_top = 280.0
+margin_right = 200.0
+margin_bottom = 304.0
+custom_effects = [ SubResource( 3 ) ]
+
+[node name="commonRichTextLabelMatrix" parent="controlPanel/controlCommonRichTextLabel" instance=ExtResource( 9 )]
+margin_top = 310.0
+margin_right = 200.0
+margin_bottom = 334.0
+custom_effects = [ SubResource( 4 ) ]
+
+[node name="controlLinkButton" type="Control" parent="controlPanel"]
+margin_left = 260.0
+margin_right = 260.0
+
+[node name="commonLinkButton1" parent="controlPanel/controlLinkButton" instance=ExtResource( 16 )]
+text = "commonLinkButton1"

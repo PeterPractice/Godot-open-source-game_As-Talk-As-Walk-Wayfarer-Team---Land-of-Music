@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/zipping-pencil-case-37454_2.mp3-2d17b1311697df32d70ad7702d9dc2e9.mp3str"
+
+[deps]
+
+source_file="res://Audio/zipping-pencil-case-37454_2.mp3"
+dest_files=[ "res://.import/zipping-pencil-case-37454_2.mp3-2d17b1311697df32d70ad7702d9dc2e9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

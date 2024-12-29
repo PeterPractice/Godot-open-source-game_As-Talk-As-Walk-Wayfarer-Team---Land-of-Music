@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/hmm-oh-6957_3.mp3-2ffe359f07da45b88bbaef74cd10016b.mp3str"
+
+[deps]
+
+source_file="res://Audio/hmm-oh-6957_3.mp3"
+dest_files=[ "res://.import/hmm-oh-6957_3.mp3-2ffe359f07da45b88bbaef74cd10016b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

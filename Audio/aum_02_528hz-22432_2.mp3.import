@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/aum_02_528hz-22432_2.mp3-2be03dddb5b0c822102c19724e4cc402.mp3str"
+
+[deps]
+
+source_file="res://Audio/aum_02_528hz-22432_2.mp3"
+dest_files=[ "res://.import/aum_02_528hz-22432_2.mp3-2be03dddb5b0c822102c19724e4cc402.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

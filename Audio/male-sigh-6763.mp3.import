@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/male-sigh-6763.mp3-c2625c3b62b6e073761c0a81ab2ebf0e.mp3str"
+
+[deps]
+
+source_file="res://Audio/male-sigh-6763.mp3"
+dest_files=[ "res://.import/male-sigh-6763.mp3-c2625c3b62b6e073761c0a81ab2ebf0e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

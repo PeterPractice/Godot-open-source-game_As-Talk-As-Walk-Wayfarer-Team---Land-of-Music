@@ -1,0 +1,92 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Script/Scene/TileMapNavigation.gd" type="Script" id=1]
+[ext_resource path="res://Script/Scene/TileMapCollision.gd" type="Script" id=2]
+[ext_resource path="res://Scene/Footprint/Footprint.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Scene/SceneResource/TilesetWarFog.tres" type="TileSet" id=4]
+[ext_resource path="res://Script/Scene/TileMapWarFog.gd" type="Script" id=5]
+
+[node name="WalkSceneTemplate1" type="Node2D"]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="tileMapGround" type="TileMap" parent="."]
+format = 1
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="tileMapGroundSuperstratum" type="TileMap" parent="."]
+format = 1
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DChangeSceneTrigger" type="Node2D" parent="."]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DNPCArticleTrigger" type="Node2D" parent="."]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DNPCTrigger" type="Node2D" parent="."]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DNPC" type="Node2D" parent="."]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DAvatar" type="Node2D" parent="."]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="node2DNPCArticleTriggerSuperstratum" type="Node2D" parent="."]
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="tileMapConstruction" type="TileMap" parent="."]
+format = 1
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="tileMapCollision" type="TileMap" parent="."]
+modulate = Color( 1, 1, 1, 0.490196 )
+format = 1
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="tileMapSuperstratum" type="TileMap" parent="."]
+format = 1
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="tileMapWarFog" type="TileMap" parent="."]
+visible = false
+tile_set = ExtResource( 4 )
+format = 1
+script = ExtResource( 5 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="tileMapNavigation" type="TileMap" parent="."]
+format = 1
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="footprint1" parent="tileMapNavigation" instance=ExtResource( 3 )]

@@ -1,0 +1,17 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Picture/UI/CommonButton/CommonTextureButtonClear.png" type="Texture" id=1]
+[ext_resource path="res://Picture/UI/CommonButton/CommonTextureButtonClear_Pressed.png" type="Texture" id=2]
+[ext_resource path="res://Picture/UI/CommonButton/CommonTextureButtonClear_Hover.png" type="Texture" id=3]
+[ext_resource path="res://Script/UI/CommonUI/CommonTextureButton.gd" type="Script" id=4]
+
+[node name="CommonTextureButtonClear" type="TextureButton"]
+margin_right = 32.0
+margin_bottom = 32.0
+texture_normal = ExtResource( 1 )
+texture_pressed = ExtResource( 2 )
+texture_hover = ExtResource( 3 )
+script = ExtResource( 4 )
+__meta__ = {
+"_edit_lock_": true
+}

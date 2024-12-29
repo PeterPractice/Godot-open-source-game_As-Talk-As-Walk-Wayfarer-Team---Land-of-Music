@@ -1,0 +1,56 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Script/Scene/SuanLaTang.gd" type="Script" id=1]
+[ext_resource path="res://Shader/Water/GeistDevWindWaker2DWaterShaderCanvasItem/GeistDevWindWaker2DWaterShaderCanvasItem_Square.shader" type="Shader" id=2]
+[ext_resource path="res://Shader/Water/GeistDevWindWaker2DWaterShaderCanvasItem/GeistDevWindWaker2DWaterShaderCanvasItem_Circle.shader" type="Shader" id=3]
+
+[sub_resource type="ShaderMaterial" id=1]
+shader = ExtResource( 3 )
+shader_param/WATER_COL = Color( 0.262745, 0.333333, 0.349019, 1 )
+shader_param/WATER2_COL = Color( 0.207843, 0.274509, 0.30196, 1 )
+shader_param/FOAM_COL = Color( 0.396078, 0.466666, 0.482352, 1 )
+shader_param/tile = Vector2( 1, 1 )
+shader_param/time_factor = Vector2( 1, 1 )
+shader_param/offset_factor = Vector2( 1, 1 )
+shader_param/amplitude = Vector2( 0.05, 0.05 )
+shader_param/directionX = 1
+shader_param/directionY = 1
+
+[sub_resource type="ShaderMaterial" id=2]
+shader = ExtResource( 2 )
+shader_param/WATER_COL = Color( 0.262745, 0.333333, 0.349019, 1 )
+shader_param/WATER2_COL = Color( 0.207843, 0.274509, 0.30196, 1 )
+shader_param/FOAM_COL = Color( 0.396078, 0.466666, 0.482352, 1 )
+shader_param/tile = Vector2( 1, 1 )
+shader_param/time_factor = Vector2( 1, 1 )
+shader_param/offset_factor = Vector2( 1, 1 )
+shader_param/amplitude = Vector2( 0.05, 0.05 )
+shader_param/directionX = 1
+shader_param/directionY = 1
+
+[node name="SuanLaTang" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="colorRectCircle" type="ColorRect" parent="."]
+material = SubResource( 1 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="colorRectSquare" type="ColorRect" parent="."]
+material = SubResource( 2 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}

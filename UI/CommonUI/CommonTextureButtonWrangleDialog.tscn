@@ -1,0 +1,31 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Script/UI/CommonUI/CommonTextureButtonWithLabel.gd" type="Script" id=1]
+[ext_resource path="res://Picture/UI/CommonButton/CommonTextureButtonWrangleDialog_Pressed.png" type="Texture" id=2]
+[ext_resource path="res://Picture/UI/CommonButton/CommonTextureButtonWrangleDialog_Hover.png" type="Texture" id=3]
+[ext_resource path="res://Picture/UI/CommonButton/CommonTextureButtonWrangleDialog.png" type="Texture" id=4]
+[ext_resource path="res://UI/CommonUI/CommonLabel.tscn" type="PackedScene" id=5]
+
+[node name="CommonTextureButtonWrangleDialog" type="TextureButton"]
+margin_right = 660.0
+margin_bottom = 23.0
+texture_normal = ExtResource( 4 )
+texture_pressed = ExtResource( 2 )
+texture_hover = ExtResource( 3 )
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelLeft" parent="." instance=ExtResource( 5 )]
+margin_right = 660.0
+margin_bottom = 23.0
+
+[node name="textureRectPressed" type="TextureRect" parent="."]
+visible = false
+margin_right = 660.0
+margin_bottom = 23.0
+texture = ExtResource( 2 )
+__meta__ = {
+"_edit_lock_": true
+}

@@ -1,0 +1,227 @@
+[gd_scene load_steps=11 format=2]
+
+[ext_resource path="res://Script/UI/StartGamePanel.gd" type="Script" id=1]
+[ext_resource path="res://UI/CommonUI/CommonButton.tscn" type="PackedScene" id=2]
+[ext_resource path="res://UI/CommonUI/CommonButton31.tscn" type="PackedScene" id=3]
+[ext_resource path="res://UI/CommonUI/CommonLabel13.tscn" type="PackedScene" id=4]
+[ext_resource path="res://UI/CommonUI/TitleLabel38.tscn" type="PackedScene" id=5]
+[ext_resource path="res://UI/CommonUI/CommonLabel.tscn" type="PackedScene" id=6]
+[ext_resource path="res://UI/CommonUI/CommonButton10.tscn" type="PackedScene" id=7]
+[ext_resource path="res://Avatar/Player1.tscn" type="PackedScene" id=8]
+[ext_resource path="res://Avatar/SilverCarp1.tscn" type="PackedScene" id=10]
+[ext_resource path="res://Avatar/Snake1.tscn" type="PackedScene" id=11]
+
+[node name="StartGamePanel" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="titleLabel38GameTitle" parent="." instance=ExtResource( 5 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -640.0
+margin_top = -242.0
+margin_right = 640.0
+margin_bottom = -188.0
+grow_horizontal = 2
+text = "述途路人团·乐之国"
+align = 1
+
+[node name="commonButton31StartGame" parent="." instance=ExtResource( 3 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 60.0
+margin_top = -172.0
+margin_right = 360.0
+margin_bottom = -122.0
+text = "StartGame"
+
+[node name="commonButton31LoadGame" parent="." instance=ExtResource( 3 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 60.0
+margin_top = -112.0
+margin_right = 360.0
+margin_bottom = -62.0
+text = "LoadGame"
+
+[node name="commonButton31Option" parent="." instance=ExtResource( 3 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 60.0
+margin_top = -52.0
+margin_right = 360.0
+margin_bottom = -2.0
+text = "Option"
+
+[node name="commonButton31ExitGame" parent="." instance=ExtResource( 3 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 60.0
+margin_top = 8.0
+margin_right = 360.0
+margin_bottom = 58.0
+text = "ExitGame"
+
+[node name="controlArchive" type="Control" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 365.0
+margin_top = -142.0
+margin_right = 405.0
+margin_bottom = -102.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelArchive" parent="controlArchive" instance=ExtResource( 6 )]
+margin_right = 200.0
+margin_bottom = 23.0
+text = "LabelArchive"
+align = 1
+
+[node name="commonButtonArchive1" parent="controlArchive" instance=ExtResource( 2 )]
+margin_top = 30.0
+margin_right = 200.0
+margin_bottom = 59.0
+text = "Archive1"
+align = 0
+
+[node name="commonButtonArchive2" parent="controlArchive" instance=ExtResource( 2 )]
+margin_top = 65.0
+margin_right = 200.0
+margin_bottom = 94.0
+text = "Archive2"
+align = 0
+
+[node name="commonButtonArchive3" parent="controlArchive" instance=ExtResource( 2 )]
+margin_top = 100.0
+margin_right = 200.0
+margin_bottom = 129.0
+text = "Archive3"
+align = 0
+
+[node name="commonButtonArchive4" parent="controlArchive" instance=ExtResource( 2 )]
+margin_top = 135.0
+margin_right = 200.0
+margin_bottom = 164.0
+text = "Archive4"
+align = 0
+
+[node name="controlArchiveClear" type="Control" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 568.0
+margin_top = -112.0
+margin_right = 608.0
+margin_bottom = -72.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonButton10ArchiveClear1" parent="controlArchiveClear" instance=ExtResource( 7 )]
+margin_top = 2.0
+margin_right = 60.0
+margin_bottom = 23.0
+text = "Clear1"
+
+[node name="commonButton10ArchiveClear2" parent="controlArchiveClear" instance=ExtResource( 7 )]
+margin_top = 37.0
+margin_right = 60.0
+margin_bottom = 58.0
+text = "Clear2"
+
+[node name="commonButton10ArchiveClear3" parent="controlArchiveClear" instance=ExtResource( 7 )]
+margin_top = 72.0
+margin_right = 60.0
+margin_bottom = 93.0
+text = "Clear3"
+
+[node name="commonButton10ArchiveClear4" parent="controlArchiveClear" instance=ExtResource( 7 )]
+margin_top = 107.0
+margin_right = 60.0
+margin_bottom = 128.0
+text = "Clear4"
+
+[node name="commonButton10ArchiveClearDoubleConfirmation" parent="." instance=ExtResource( 7 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 378.0
+margin_top = 30.0
+margin_right = 628.0
+margin_bottom = 51.0
+align = 2
+
+[node name="commonLabelVersion" parent="." instance=ExtResource( 4 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 420.0
+margin_top = 330.0
+margin_right = 620.0
+margin_bottom = 349.0
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+text = "Version 00.00.00"
+align = 2
+
+[node name="controlFirstAvatar" type="Control" parent="."]
+margin_left = 452.0
+margin_top = 80.0
+margin_right = 492.0
+margin_bottom = 120.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="snake1A" parent="controlFirstAvatar" instance=ExtResource( 11 )]
+
+[node name="player1A" parent="controlFirstAvatar" instance=ExtResource( 8 )]
+
+[node name="silverCarp1A" parent="controlFirstAvatar" instance=ExtResource( 10 )]
+
+[node name="textureButton1" type="TextureButton" parent="controlFirstAvatar"]
+margin_left = -32.0
+margin_top = -32.0
+margin_right = 32.0
+margin_bottom = 32.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[connection signal="pressed" from="commonButton31StartGame" to="." method="_on_commonButton31StartGame_pressed"]
+[connection signal="pressed" from="commonButton31LoadGame" to="." method="_on_commonButton31LoadGame_pressed"]
+[connection signal="pressed" from="commonButton31Option" to="." method="_on_commonButton31Option_pressed"]
+[connection signal="pressed" from="commonButton31ExitGame" to="." method="_on_commonButton31ExitGame_pressed"]
+[connection signal="pressed" from="controlArchive/commonButtonArchive1" to="." method="_on_commonButtonArchive1_pressed"]
+[connection signal="pressed" from="controlArchive/commonButtonArchive2" to="." method="_on_commonButtonArchive2_pressed"]
+[connection signal="pressed" from="controlArchive/commonButtonArchive3" to="." method="_on_commonButtonArchive3_pressed"]
+[connection signal="pressed" from="controlArchive/commonButtonArchive4" to="." method="_on_commonButtonArchive4_pressed"]
+[connection signal="pressed" from="controlArchiveClear/commonButton10ArchiveClear1" to="." method="_on_commonButton10ArchiveClear1_pressed"]
+[connection signal="pressed" from="controlArchiveClear/commonButton10ArchiveClear2" to="." method="_on_commonButton10ArchiveClear2_pressed"]
+[connection signal="pressed" from="controlArchiveClear/commonButton10ArchiveClear3" to="." method="_on_commonButton10ArchiveClear3_pressed"]
+[connection signal="pressed" from="controlArchiveClear/commonButton10ArchiveClear4" to="." method="_on_commonButton10ArchiveClear4_pressed"]
+[connection signal="pressed" from="commonButton10ArchiveClearDoubleConfirmation" to="." method="_on_commonButton10ArchiveClearDoubleConfirmation_pressed"]
+[connection signal="mouse_entered" from="controlFirstAvatar/textureButton1" to="." method="_on_textureButton1_mouse_entered"]
+[connection signal="mouse_exited" from="controlFirstAvatar/textureButton1" to="." method="_on_textureButton1_mouse_exited"]
+[connection signal="pressed" from="controlFirstAvatar/textureButton1" to="." method="_on_textureButton1_pressed"]

@@ -1,0 +1,82 @@
+[gd_scene load_steps=9 format=2]
+
+[ext_resource path="res://Picture/UI/Icon/Skill/SkillHover.png" type="Texture" id=1]
+[ext_resource path="res://Picture/UI/Icon/Skill/SkillCD.png" type="Texture" id=2]
+[ext_resource path="res://Picture/UI/Icon/Skill/SkillPressed.png" type="Texture" id=3]
+[ext_resource path="res://Picture/UI/Icon/Buff/BuffBG.png" type="Texture" id=4]
+[ext_resource path="res://Picture/UI/Icon/Buff/BuffFrame.png" type="Texture" id=5]
+[ext_resource path="res://UI/CommonUI/CommonLabel10.tscn" type="PackedScene" id=6]
+[ext_resource path="res://Script/UI/CommonUI/CommonButtonBuff.gd" type="Script" id=7]
+[ext_resource path="res://Script/UI/CommonUI/CommonTextureButton.gd" type="Script" id=8]
+
+[node name="CommonButtonBuff" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_right = -1236.0
+margin_bottom = -676.0
+script = ExtResource( 7 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureRectBG" type="TextureRect" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+texture = ExtResource( 4 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureRectNormal" type="TextureRect" parent="."]
+margin_left = 5.0
+margin_top = 5.0
+margin_right = 49.0
+margin_bottom = 49.0
+rect_scale = Vector2( 0.773, 0.773 )
+stretch_mode = 4
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureProgressCD" type="TextureProgress" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+texture_progress = ExtResource( 2 )
+fill_mode = 5
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureButton1" type="TextureButton" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+texture_pressed = ExtResource( 3 )
+texture_hover = ExtResource( 1 )
+script = ExtResource( 8 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="textureRectFrame" type="TextureRect" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+mouse_filter = 2
+texture = ExtResource( 5 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelRight" parent="." instance=ExtResource( 6 )]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -44.0
+margin_top = -18.0
+margin_right = -5.0
+margin_bottom = -3.0
+align = 2
+
+[connection signal="mouse_entered" from="textureButton1" to="." method="_on_textureButton1_mouse_entered"]
+[connection signal="mouse_exited" from="textureButton1" to="." method="_on_textureButton1_mouse_exited"]
+[connection signal="pressed" from="textureButton1" to="." method="_on_textureButton1_pressed"]

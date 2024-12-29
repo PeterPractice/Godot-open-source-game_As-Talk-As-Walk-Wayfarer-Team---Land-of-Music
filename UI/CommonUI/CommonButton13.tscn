@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Font/Font13.tres" type="DynamicFont" id=1]
+[ext_resource path="res://Script/UI/CommonUI/CommonButton.gd" type="Script" id=2]
+
+[node name="CommonButton13" type="Button"]
+margin_right = 12.0
+margin_bottom = 25.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = ExtResource( 1 )
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}

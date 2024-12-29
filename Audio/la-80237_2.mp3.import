@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/la-80237_2.mp3-be2f9a35ca203f52c688e8bed3912f4c.mp3str"
+
+[deps]
+
+source_file="res://Audio/la-80237_2.mp3"
+dest_files=[ "res://.import/la-80237_2.mp3-be2f9a35ca203f52c688e8bed3912f4c.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ambiant-cinematic-drone-main-10526.mp3-69062d6e100946f08d12471d56f50438.mp3str"
+
+[deps]
+
+source_file="res://Audio/ambiant-cinematic-drone-main-10526.mp3"
+dest_files=[ "res://.import/ambiant-cinematic-drone-main-10526.mp3-69062d6e100946f08d12471d56f50438.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

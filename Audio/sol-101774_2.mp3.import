@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sol-101774_2.mp3-12e6ec028288f5743a215f49aaec39f2.mp3str"
+
+[deps]
+
+source_file="res://Audio/sol-101774_2.mp3"
+dest_files=[ "res://.import/sol-101774_2.mp3-12e6ec028288f5743a215f49aaec39f2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

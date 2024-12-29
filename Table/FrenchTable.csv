@@ -1,0 +1,844 @@
+stringKey,stringContent
+NAME_GAME_NAME,Une équipe qui marche en racontant - Pays de la musique
+NAME_AVATAR_1,La foudre 1
+NAME_AVATAR_2,Division de l’armée iraquienne
+NAME_AVATAR_3,Chen Xiao Ming
+NAME_AVATAR_4,Common Person
+NAME_AVATAR_5,Vent
+NAME_AVATAR_6,La foudre 2
+NAME_AVATAR_7,La foudre 3
+NAME_AVATAR_8,Li Crooked Neck
+NAME_AVATAR_9,Déesse du soleil
+NAME_AVATAR_10,Slime Over
+NAME_AVATAR_11,Slime Growth
+NAME_AVATAR_12,Slime For
+NAME_AVATAR_13,Slime Love
+NAME_AVATAR_14,Slime Resist
+NAME_AVATAR_15,Slime Disaster
+NAME_AVATAR_16,Slime Donot
+NAME_AVATAR_17,Slime Cherish
+NAME_AVATAR_18,Si Warm Heart
+NAME_AVATAR_19,Fa Princess Younger Sister
+NAME_AVATAR_19_2,Autumn Yu
+NAME_AVATAR_20,Silver Dragon
+NAME_AVATAR_21,Slime Ten
+NAME_AVATAR_22,Slime Thousand
+NAME_AVATAR_23,Slime Years
+NAME_AVATAR_24,Slime Life
+NAME_AVATAR_25,Do King
+NAME_AVATAR_26,Re Queen
+NAME_AVATAR_27,Mi Princess Elder Sister
+NAME_AVATAR_28,La Housekeeper
+NAME_AVATAR_29,Sol Butler
+NAME_AVATAR_30,Sac
+NAME_AVATAR_31,Bloc-notes
+NAME_AVATAR_32,La lettre de {NAME_AVATAR_19}
+NAME_AVATAR_33,Three Dragons Gang
+NAME_AVATAR_34,La lettre de {NAME_AVATAR_33}
+GOODS_NAME_1,Espadrilles exploratoires
+GOODS_NAME_2,Télescope
+GOODS_NAME_3,Perruques
+GOODS_NAME_4,Perruques
+GOODS_NAME_5,Perruques
+GOODS_NAME_6,Perruques
+GOODS_NAME_7,Cheveux longs faux
+GOODS_NAME_8,Cheveux longs faux
+GOODS_NAME_9,Cheveux longs faux
+GOODS_NAME_10,Cheveux longs faux
+JOB_LOBBYIST,Les lobbyistes
+NAME_1,Le pays du plaisir
+PLAY_CHESS_NAME,Partie D’échecs
+PLAY_CHESS_POINTS,{PLAY_CHESS_NAME} Points
+SCENE_NAME_1_HOME,Accueil de {NAME_AVATAR_1}
+SCENE_NAME_3_HOME,Accueil de {NAME_AVATAR_3}
+SCENE_NAME_4_HOME,Accueil de {NAME_AVATAR_4}
+SCENE_NAME_3_HOME_COURTYARD,{NAME_AVATAR_3} cour de la maison
+SCENE_NAME_CHORD_SQUARE,Carré des acordes
+SCENE_NAME_STAVE_AVENUE,Avenue des lignes
+SCENE_NAME_HALL_OF_MELODY,La grande salle mélodique
+SCENE_NAME_CLINKER_VALLEY,Promenade des gorges sonores
+SCENE_NAME_CRACKING_VOICE_RIDGE,La crête rompue
+SCENE_NAME_PLAY_CHESS,Partie D’échecs
+NPCARTICLETRIGGER_NAME_1,{NAME_AVATAR_1} la porte de la maison
+STARTGAMEPANEL_TITLELABEL38GAMETITLE,{NAME_GAME_NAME}
+STARTGAMEPANEL_COMMONLABELVERSION,Version %s
+STARTGAMEPANEL_COMMONBUTTON31LOADGAME,Charger le jeu
+STARTGAMEPANEL_STARTGAME,Commencer le jeu
+STARTGAMEPANEL_CONTINUEGAME,Continuer le jeu
+STARTGAMEPANEL_COMMONBUTTON31OPTION,Les options
+STARTGAMEPANEL_COMMONBUTTON31EXITGAME,Quitter le jeu
+STARTGAMEPANEL_COMMONLABELARCHIVE,Archivage
+STARTGAMEPANEL_ARCHIVE_NEW_GAME,Le nouveau jeu
+STARTGAMEPANEL_ARCHIVE_CLEAR,Supprimé
+STARTGAMEPANEL_ARCHIVE_CLEAR_DOUBLE_CONFIRMATION,Supprimer l’archive %s deuxième confirmation 
+PANEL_BUTTON_OK,Déterminer
+PANEL_BUTTON_CANCEL,Annulation
+PANEL_BUTTON_CLOSE,La fermeture
+OPTIONPANEL_COMMONLABEL31TITLE,Interface des options
+OPTIONPANEL_COMMONBUTTONLANGUAGE,Sélectionnez la langue (langue)
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO,Image:
+OPTIONPANEL_COMMONLABELFULLSCREEN,Plein écran:
+OPTIONPANEL_COMMONLABELWINDOWSTRETCH,L’image s’étire:
+OPTIONPANEL_COMMONLABELMUSIC,La musique:
+OPTIONPANEL_COMMONLABELSOUNDEFFECT,Effets sonores:
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_2,1280x720
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_3,1920x1080
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_SCREEN_RESOLUTION,Résolution de l’écran
+OPTIONPANEL_COMMONLABELLANGUAGE,Langues parlées:
+OPTIONPANEL_COMMONBUTTONDEFAULT,Par défaut
+OPTIONPANEL_COMMONBUTTONRETURNTOHUBSCENE,Retour au lobby
+OPTIONPANEL_COMMONBUTTONEXITGAME,Quitter le jeu
+OPTIONPANEL_COMMONBUTTONRETURNTOGAME,Retour au jeu
+OPTIONPANEL_GENERAL,General
+OPTIONPANEL_KEYBOARD,Touches
+OPTIONPANEL_KEYBOARD_MOVE,Pour déménager:
+OPTIONPANEL_KEYBOARD_MOVE_CONTENT,ADSW (ou ←→↓↑)
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK,{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1}/{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK}:
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK_CONTENT,E
+OPTIONPANEL_KEYBOARD_PLAY_CHESS,Partie:
+OPTIONPANEL_KEYBOARD_PLAY_CHESS_CONTENT,P (clic gauche de la souris n’importe où pour continuer)
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER,Sélectionnez un rôle:
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER_CONTENT,"1,2,3,4,5,6,7,8,9,0 "
+OPTIONPANEL_KEYBOARD_BAG,Sac:
+OPTIONPANEL_KEYBOARD_BAG_CONTENT,B
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD,Bloc-notes:
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD_CONTENT,"J (tourner la page: PageUp, PageDown) "
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN,Interface des options:
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN_CONTENT,O
+OPTIONPANEL_ABOUT,Concerne
+OPTIONPANEL_ABOUT_NAME_OF_THE_GAME,Nom du jeu: {NAME_GAME_NAME}.
+OPTIONPANEL_ABOUT_VERSION,Version: %s.
+OPTIONPANEL_ABOUT_COPYRIGHT_AND_DEVELOPMENT,Description: %s.
+OPTIONPANEL_ABOUT_CONTACT,Contact: %s.
+OPTIONPANEL_ABOUT_CONTACT_COPY,La reproduction
+OPTIONPANEL_ABOUT_THANKS,"Remerciements: aux membres de ma famille, sans leur soutien, ce jeu n’existerait pas. "
+LANGUAGEPANEL_COMMONLABEL31TITLE,Choisissez votre langue
+TIME_YEAR,en
+TIME_MONTH,le
+TIME_DAY,le
+TIME_HOUR,Lors de la
+TIME_MINUTE,h
+TIME_SECOND,S
+BOOTSCENE_STARTING_STRING1,En cours de démarrage
+BOOTSCENE_STARTING_STRING2,En cours de démarrage.
+BOOTSCENE_STARTING_STRING3,Démarrage en cours..
+BOOTSCENE_STARTING_STRING4,Démarrage en cours...
+DAYNIGHTPANEL_COMMONLABELDAYSNUMBER,Nombre de jours %s
+DAYNIGHTPANEL_FIRSTSTARTNIGHT,Il fait nuit.
+CURRENTSCENESHOWNAME_ENTER,Entrez %s.
+JOURNALRECORDPANEL_COMMONLABEL31TITLE,{NAME_AVATAR_31}
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20AVATAR,Le rôle
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20BAG,Articles
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20SCENE,Locales
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20TASK,Voyages
+JOURNALRECORDPANEL_PLAY_CHESS_POINTS,Partie D’échecs Points: %s à %s.
+DOWNPANEL_CONTROLWRANGLEDIALOG_COMMONBUTTONWRANGLEDIALOGCONTINUE,Pour continuer...
+DOWNPANEL_WRANGLEDIALOGBUTTON_STRINGFLAG,:
+UI_INPUT_ACTION_EVENT_TYPE_COMMONBUTTONITEM_TEXTUREBUTTON1_PRESSED_EVENT_IN_CD,Dans le refroidissement.
+AVATAR_CAN_NOT_MOVE,Ne peut pas se déplacer.
+AVATAR_HAD_EQUIP,Déjà porté: %s.
+AVATAR_HAD_EQUIP2,Déjà porté.
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1,Interactive
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK,Parler
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONPLAYCHESS1,Partie
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13BAGUSE,L’utilisation de
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13DISCARD,jetez
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD,Jeter %s?
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_YES,jetez
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_NO,garder
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13CHECK,voir
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_1,"Les cendres s’éteignent, les regards se brûlent. "
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_2,A été effacé.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_3,Il est propre.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_4,Vide.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_5,Vide et vide.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_6,Vide vide vide.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_7,"Vide, vide, vide. "
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_8,"Vide, vide, vide. "
+CHESSPANEL1_PLAYCHESS_START,{PLAY_CHESS_NAME} commencer
+CHESSPANEL1_PLAYCHESS_SUCCESS,{PLAY_CHESS_NAME} succès
+CHESSPANEL1_PLAYCHESS_FAILURE,{PLAY_CHESS_NAME} a échoué
+CHESSPANEL1_COMMONBUTTONCONTINUE,continue
+CHESSPANEL1_MOUSECLICKCONTINUE,(clic gauche de la souris n’importe où pour continuer)
+CHESSPANEL1_POINTS,%s Partie D’échecs Points: %s.
+SLOGAN_NEW_DAY_1,Une nouvelle journée commence.
+SLOGAN_NEW_DAY_2,Une journée d’aventure commence.
+SLOGAN_NEW_DAY_3,Un nouveau jour.
+SLOGAN_NEW_DAY_4,Une journée d’aventure.
+SLOGAN_NEW_DAY_5,La route est longue.
+SLOGAN_NEW_DAY_6,"Longue route, prêt à partir. "
+SLOGAN_NEW_DAY_7,Prêt à partir.
+SLOGAN_NEW_DAY_8,Le départ.
+SLOGAN_AVATAR_DEAD_1,La nuit dévore ceux qui ne craignent pas les ténèbres.
+SLOGAN_AVATAR_DEAD_2,Il fait nuit et vous êtes dévoré par la nuit.
+NAVIGATIONMANAGER_NOT_VALID_PATH_END_POSITION,Destination non valide.
+NAVIGATIONMANAGER_END_OBSTRUCTIONS_NEARBY,Arrêt de la recherche automatique de chemin. Obstacles à proximité.
+GOODS_DESCRIPTION_1,"Avec ces chaussures, il est possible de marcher automatiquement. "
+GOODS_DESCRIPTION_2,"Regardez plus loin, surtout dans les endroits mal éclairés. "
+GOODS_DESCRIPTION_3,Ceci devrait être {GOODS_NAME_3} de {JOB_LOBBYIST}.
+GOODS_DESCRIPTION_4,Ce devrait être {GOODS_NAME_4} de {JOB_LOBBYIST}.
+GOODS_DESCRIPTION_5,Ce devrait être {GOODS_NAME_5} de {JOB_LOBBYIST}.
+GOODS_DESCRIPTION_6,Ceci devrait être {GOODS_NAME_6} de {JOB_LOBBYIST}.
+GOODS_DESCRIPTION_7,Ceci devrait être {GOODS_NAME_7} de {JOB_LOBBYIST}.
+GOODS_DESCRIPTION_8,Ceci devrait être {GOODS_NAME_8} de {JOB_LOBBYIST}.
+GOODS_DESCRIPTION_9,Ce devrait être {GOODS_NAME_9} de {JOB_LOBBYIST}.
+GOODS_DESCRIPTION_10,Cela devrait être {GOODS_NAME_10} de {JOB_LOBBYIST}.
+GOODS_DESCRIPTION_11,"Sac à dos peut transporter beaucoup de choses, voyage d’aventure, outil essentiel pour la randonnée. "
+GOODS_DESCRIPTION_12,"Enregistrer ce qui est vu, entendu, rencontré et ressenti sur le chemin. \n{NAME_AVATAR_31} a 4 paginations: \n{JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20AVATAR} paginations qui décrivent les informations des membres de l’équipe. \n{JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20BAG} pagination, description de l’article dans le sac à dos. \n{JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20SCENE} pagination pour enregistrer les endroits visités. \n{JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20TASK} pagination, les choses qui ont été dialoguées, seront enregistrées. "
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_1,Une chaussure pour une paire de chaussures?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_2,Le pied gauche et le pied droit sont une chaussure?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_3,Où placer la batterie?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_4,L’interrupteur n’a pas été trouvé.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_5,Où est l’interrupteur?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_6,Déjà habillé.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_7,Peut trouver son chemin automatiquement.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_8,Ne se perdra pas cette fois.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_9,Où allons-nous?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_10,Je pense où je vais.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_1,Regardez plus loin.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_2,Meilleure vue.
+GOODSADDFUNCTION_TELESCOPE_1,Nouvelles compétences. Clairvoyance.
+GOODSADDFUNCTION_TELESCOPE_2,"Pas de clairvoyance, dix mètres doivent être là. "
+GOODSREMOVEFUNCTION_TELESCOPE_1,Ne peut pas regarder plus loin.
+GOODSREMOVEFUNCTION_TELESCOPE_2,Vous n’êtes pas à l’aise de porter?
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_1,Être fabuleux.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_2,Chai yu hennang.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_3,Yushu avec le vent.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_4,Levez la tête.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_5,Le professionnel.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_6,"L’homme repose sur ses cheveux, le cheval sur sa selle. "
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_7,Il peut y avoir une amélioration intellectuelle.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_8,Intelligence +1.
+GOODSADDFUNCTION_WIG_1,De bonnes choses.
+GOODSADDFUNCTION_WIG_2,Enfin trouvé.
+GOODSADDFUNCTION_WIG_3,Pas mal.
+GOODSADDFUNCTION_WIG_OTHER_1,Une perruque?
+GOODSADDFUNCTION_WIG_OTHER_2,La perruque doit être portée par {JOB_LOBBYIST}.
+GOODSADDFUNCTION_WIG_OTHER_3,Une perruque pour {JOB_LOBBYIST}?
+GOODSREMOVEFUNCTION_WIG_1,Intelligence -1.
+GOODSREMOVEFUNCTION_WIG_2,Tête froide.
+GOODSREMOVEFUNCTION_WIG_3,Je ne Me Sens plus professionnel.
+GOODSREMOVEFUNCTION_WIG_4,Ressenti une diminution de l’intelligence.
+GOODSREMOVEFUNCTION_WIG_5,La perruque brûlée est comme les cheveux brûlés.
+GOODSREMOVEFUNCTION_WIG_6,Il n’est pas dommage de jeter la perruque.
+GOODSREMOVEFUNCTION_WIG_7,Il est professionnel sans perruque.
+GOODSREMOVEFUNCTION_WIG_8,Les professionnels ne peuvent pas compter sur des perruques.
+GOODSADDFUNCTION_FOOT_1,Celui-ci sait comment aller.
+GOODSADDFUNCTION_FOOT_2,Cette chaussure est-elle si haut de gamme? Capable de naviguer?
+GOODSADDFUNCTION_FOOT_3,Cette chaussure de navigation a-t-elle besoin d’une alimentation?
+GOODSADDFUNCTION_FOOT_4,Est-ce lancer des chaussures de navigation?
+GOODSADDFUNCTION_FOOT_5,Comment se déplacer? Savoir avec des chaussures.
+GOODSREMOVEFUNCTION_FOOT_1,Pieds nus.
+GOODSREMOVEFUNCTION_FOOT_2,Ne peut plus naviguer.
+GOODSREMOVEFUNCTION_FOOT_3,"Les chaussures jetées, disparaissent simplement; Navigation perdue, marchez vous-même pas à pas. "
+GOODS_IN_USE,En service.
+GOODS_UNUSED,Non utilisé.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE,Distance de vue: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE,Forme de champ de vision: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_RHOMBUS,Nombre de mailles losanges
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_EGG,Forme d’œuf
+CANNOT_WEAR_IT_LOBBYIST_WIG_1,"Impossible à porter, {JOB_LOBBYIST} perruque dédiée. "
+CANNOT_WEAR_IT_LOBBYIST_WIG_2,Voici une perruque pour {JOB_LOBBYIST}.
+BAG_IS_FULL,"Le sac à dos est plein, il n’est pas possible de transporter plus d’articles. "
+BAG_ADD,Obtenu en: %s.
+BAG_REMOVE,Jeter: %s.
+BAG_USE,Utilisation: %s.
+TOP_BUTTON,Le bouton supérieur
+BOTTOM_BUTTON,Bouton en bas
+CLEAR_BUTTON,Vider le bouton
+AVATAR_DESCRIPTION_1,"Je suis le serpent, le serpent fort. Je suis le plus âgé des trois frères. "
+AVATAR_DESCRIPTION_2,"Je suis un petit compagnon de {NAME_AVATAR_3}. Je courrai comme les nuages du ciel, avec la pluie et la pluie. \n la maison est très accueillante, j’aime aussi Me Promener. Allons errer ensemble! "
+AVATAR_DESCRIPTION_3,"La cinquième année de l’école primaire est une étape importante dans la vie d’un élève. En plus des quatre opérations en mathématiques, j’ai commencé à étudier les lettres classiques, la musique et le dessin. "
+AVATAR_DESCRIPTION_4,"En tant qu’avocat au tribunal, je suis excellent. \n en fait, avant j’étais footballeur. \n qui a vu ma perruque? "
+AVATAR_DESCRIPTION_8,Je suis un homme d’affaires et le commerce équitable est mon credo.
+AVATAR_DESCRIPTION_6,"Je suis le serpent, le serpent fort, le serpent en armure. Je suis le deuxième des trois frères. "
+AVATAR_DESCRIPTION_7,"Je suis le serpent, le serpent fort, le serpent vêtu d’une armure et d’un bras robotique. Je suis le troisième des trois frères. "
+AVATAR_DESCRIPTION_5,La vitesse est la première priorité. \n Mes Apprentis sont très forts. \n j’ai toujours cherché loin.
+AVATAR_DESCRIPTION_9,Parlez avec moi si vous le souhaitez. \n mon chien court souvent partout. L’avez-vous vu?
+AVATAR_DESCRIPTION_10,"Nous ne sommes pas des parasites, nous flottant. "
+AVATAR_DESCRIPTION_11,"Nous ne sommes pas des parasites, nous sommes vivants. "
+AVATAR_DESCRIPTION_12,"Nous ne sommes pas des parasites, pour l’idéal nous. "
+AVATAR_DESCRIPTION_13,"Nous ne sommes pas des parasites, nous aimons ce qui nous arrive. "
+AVATAR_DESCRIPTION_14,Nous ne sommes pas des ravageurs et le manteau est chaud pour le vent.
+AVATAR_DESCRIPTION_15,Nous ne sommes pas des ravageurs. Le ravage est une expérience.
+AVATAR_DESCRIPTION_16,Nous ne sommes pas des ravageurs qui ne regardent pas vers l’avenir.
+AVATAR_DESCRIPTION_17,"Nous ne sommes pas un parasite, dommage, c’est une attitude. "
+AVATAR_DESCRIPTION_18,"De naissance royale, jamais sorti à l’aventure. Je serai comme les étoiles du ciel, universel et vaste. Nous nous réjouissons de nous accompagner les uns les autres sur de longues distances."
+AVATAR_DESCRIPTION_19,La princesse n’est pas une profession solitaire. La princesse a aussi beaucoup de bons amis.
+AVATAR_DESCRIPTION_20,Cette opération doit être menée en secret et ne pas être exposée.
+AVATAR_DESCRIPTION_21,"Nous ne sommes pas des parasites, nous sommes un sur un million. "
+AVATAR_DESCRIPTION_22,Nous ne sommes pas des parasites. Nous sommes jeunes et prometteurs.
+AVATAR_DESCRIPTION_23,"Nous ne sommes pas un parasite, réparation, une vie. "
+AVATAR_DESCRIPTION_24,"Nous ne sommes pas un parasite, pour, est une vie, mais aussi une attitude. "
+AVATAR_DESCRIPTION_25,Je suis {NAME_1} roi et {NAME_1} vous souhaite la bienvenue.
+AVATAR_DESCRIPTION_26,Je suis {NAME_1} queen et {NAME_1} vous souhaite la bienvenue.
+AVATAR_DESCRIPTION_27,Je suis la grande princesse et le trône est à moi.
+AVATAR_DESCRIPTION_28,Vous devez avoir faim. Vous voulez manger quelque chose? Dites-le moi.
+AVATAR_DESCRIPTION_29,"Le service est mon but. Mon chapeau est beau, je n’aurai pas besoin de ces perruques. "
+ADDAVATARFROMSCENE_ADD_TEAM_MEMBERS,Nouveaux membres ajoutés à l’équipe: %s.
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_YOU_CANNOT_ADD_TEAM_MEMBERS_REPEATEDLY,Les membres de l’équipe ne peuvent pas être ajoutés plusieurs fois: %s.
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_THE_TEAM_HAS_A_MAXIMUM_OF_AVATAR,Équipe maximum %s personnes.
+TIPS_STRING_AND_FLAG,", "
+NO_JOURNALRECORDBOOK_CAN_NOT_VIEW,"Sans {NAME_AVATAR_31}, l’enregistrement ne peut pas être vu. "
+NO_JOURNALRECORDBOOK,Pas {NAME_AVATAR_31}.
+NO_BAG_NO_MORE_ITEMS,"Sans {NAME_AVATAR_30}, il n’est pas possible de transporter plus d’articles. "
+NO_BAG,Pas {NAME_AVATAR_30}.
+SCENE_CONTENT_1_HOME,Il y a une grande force chez {NAME_AVATAR_1}.
+SCENE_CONTENT_3_HOME,{NAME_AVATAR_3} a une table à la maison et {NAME_AVATAR_31} sur la table.
+SCENE_CONTENT_4_HOME,{NAME_AVATAR_4} lit à la maison avec {NAME_AVATAR_30}.
+SCENE_CONTENT_3_HOME_COURTYARD,{NAME_AVATAR_3} la maison a {NAME_AVATAR_2} dans sa cour.
+SCENE_CONTENT_CHORD_SQUARE,"Les petits compagnons se réunissent souvent ici. \n on ne sait pas quand, certains arbres se sont flétris et de nombreuses traces de roues écrasées ont laissé sur le sol. "
+SCENE_CONTENT_STAVE_AVENUE,La route vers l’inconnu. \n on dit qu’il y a plusieurs chemins.
+SCENE_CONTENT_HALL_OF_MELODY,Voici le palais de {NAME_1} avec beaucoup de chambres.
+SCENE_CONTENT_CLINKER_VALLEY,"Lieu d’exil, où l’on peut trouver ceux que l’on veut. "
+SCENE_CONTENT_CRACKING_VOICE_RIDGE,"Désert, jungle dense. "
+SCENE_CONTENT_PLAY_CHESS,"Où essayer, la chance est avec vous. "
+WRANGLEDIALOG_1_CONTENT,Ramasser?
+WRANGLEDIALOG_1_BUTTON_1,Ramasser et récupérer.
+WRANGLEDIALOG_1_BUTTON_2,Pas de ramassage.
+WRANGLEDIALOG_2_CONTENT,Ramasser?
+WRANGLEDIALOG_2_BUTTON_1,Ramasser et récupérer.
+WRANGLEDIALOG_2_BUTTON_2,Pas de ramassage.
+WRANGLEDIALOG_3_CONTENT,Ouvrir la porte?
+WRANGLEDIALOG_3_BUTTON_1,Pour ouvrir.
+WRANGLEDIALOG_3_BUTTON_2,Ne s’ouvre pas.
+WRANGLEDIALOG_3_FUNCTION_1,La porte s’ouvre.
+WRANGLEDIALOG_4_CONTENT,"Prenez {NAME_AVATAR_30} avec vous avant de sortir, ce dont vous avez besoin. "
+WRANGLEDIALOG_5_CONTENT,{NAME_AVATAR_31} peut enregistrer beaucoup de choses et être témoin d’un voyage d’aventure.
+WRANGLEDIALOG_6_CONTENT,Le monde au-delà de la porte est dangereux et plein de nouveautés et d’amusement en même temps.
+WRANGLEDIALOG_6_BUTTON_1,Je veux sortir et voir.
+WRANGLEDIALOG_7_CONTENT,"Avant de sortir, il faut vous conseiller. "
+WRANGLEDIALOG_7_BUTTON_1,Je suis à l’écoute.
+WRANGLEDIALOG_8_CONTENT,Les défis sont partout.
+WRANGLEDIALOG_8_BUTTON_1,Je suis prêt.
+WRANGLEDIALOG_9_CONTENT,Je Me Sens plus fort.
+WRANGLEDIALOG_9_BUTTON_1,Vous êtes déjà fort.
+WRANGLEDIALOG_9_BUTTON_2,Peut être plus fort?
+WRANGLEDIALOG_10_CONTENT,J’ai toujours senti une grande force qui m’attendait.
+WRANGLEDIALOG_10_BUTTON_1,Parlez et écoutez.
+WRANGLEDIALOG_10_BUTTON_2,Une grande puissance qui laisse espérer.
+WRANGLEDIALOG_11_CONTENT,Cette force Me Fait sentir depuis longtemps.
+WRANGLEDIALOG_11_BUTTON_1,Est-ce quelque chose de très loin?
+WRANGLEDIALOG_11_BUTTON_2,Vous le trouverez.
+WRANGLEDIALOG_12_CONTENT,Partons à l’aventure ensemble?
+WRANGLEDIALOG_12_BUTTON_1,Rejoignez notre équipe!
+WRANGLEDIALOG_12_BUTTON_2,Encore un instant.
+GOODS_DESCRIPTION_13,"Cher {NAME_AVATAR_3} : \n mon anniversaire approche et je vous invite à ma fête d’anniversaire. Venez Me Trouver à {SCENE_NAME_HALL_OF_MELODY} au nord de {SCENE_NAME_STAVE_AVENUE}. \n a disparu pendant un certain temps. Vous manquez beaucoup. Au plaisir de faire la fête avec vous. \n{NAME_AVATAR_19}, votre compagnon de classe {NAME_AVATAR_19}."
+WRANGLEDIALOG_13_CONTENT,"{PLAY_CHESS_NAME} le succès ouvre la porte. \n cependant, c’est juste un enseignement, {PLAY_CHESS_NAME} échec peut encore revenir et ouvrir la porte."
+WRANGLEDIALOG_13_1_CONTENT,"Les choses ont parlé, vous pouvez directement {PLAY_CHESS_NAME}, plus haut que le test. \n{PLAY_CHESS_NAME} est l’équipe. Il y a des moments où les joueurs en tête auront des résultats différents."
+WRANGLEDIALOG_13_BUTTON_1,Pour commencer.
+WRANGLEDIALOG_14_CONTENT,J’ai toujours voulu les trouver.
+WRANGLEDIALOG_15_CONTENT,Comme si elle n’était pas loin.
+WRANGLEDIALOG_16_CONTENT,Vais-je les trouver?
+WRANGLEDIALOG_17_CONTENT,"Cependant, nous avons toujours besoin de {PLAY_CHESS_NAME}. J’aime les compagnons forts."
+WRANGLEDIALOG_18_CONTENT,Un peu plus tard?
+WRANGLEDIALOG_18_BUTTON_1,Que se passe-t-il en cas d’échec?
+WRANGLEDIALOG_19_CONTENT,"Rassurez-vous, revenez à l’échec."
+WRANGLEDIALOG_19_BUTTON_1,"Eh bien, commençons."
+WRANGLEDIALOG_20_CONTENT,Tu viens jouer avec moi?
+WRANGLEDIALOG_20_BUTTON_1,C’est vrai.
+WRANGLEDIALOG_20_1_CONTENT,On y va.
+WRANGLEDIALOG_20_2_CONTENT,C’est ça.
+WRANGLEDIALOG_20_3_CONTENT,Vous rappelez-vous {NAME_AVATAR_19}?
+WRANGLEDIALOG_20_3_BUTTON,Un peu impressionné.
+WRANGLEDIALOG_20_4_CONTENT,Elle était une camarade de classe à l’école primaire.
+WRANGLEDIALOG_20_5_CONTENT,Ça faisait longtemps que je ne la voyais pas.
+WRANGLEDIALOG_20_6_CONTENT,Je Me Suis souvenu que son anniversaire approchait.
+WRANGLEDIALOG_20_6_BUTTON,C’est ta copine?
+WRANGLEDIALOG_20_7_CONTENT,"En fait, nous étions juste des camarades de classe."
+WRANGLEDIALOG_20_8_CONTENT,L’amitié des camarades de classe.
+WRANGLEDIALOG_20_8_BUTTON,La question est si simple.
+WRANGLEDIALOG_20_9_CONTENT,Allons la voir.
+WRANGLEDIALOG_20_9_BUTTON,Très bien.
+WRANGLEDIALOG_21_CONTENT,"Cependant, nous avons besoin de {PLAY_CHESS_NAME} avant de partir. C’est aussi une occasion d’apprendre."
+WRANGLEDIALOG_21_BUTTON_1,"Eh bien, commençons."
+WRANGLEDIALOG_22_CONTENT,Vous avez besoin de moi?
+WRANGLEDIALOG_22_BUTTON_1,Avez-vous été occupé récemment?
+WRANGLEDIALOG_23_CONTENT,"Avant de partir, je voudrais encore tester les résolutions de chacun."
+WRANGLEDIALOG_23_BUTTON_1,"Eh bien, commençons."
+WRANGLEDIALOG_24_CONTENT,Pour aller où?
+WRANGLEDIALOG_24_BUTTON_1,Sortez à l’aventure.
+WRANGLEDIALOG_24_1_CONTENT,"Sortez à l’aventure, prends-moi."
+WRANGLEDIALOG_24_1_BUTTON_1,Marcher ensemble.
+WRANGLEDIALOG_24_2_CONTENT,Mais je n’irai pas sans mon meilleur petit compagnon.
+WRANGLEDIALOG_24_2_BUTTON_1,Votre meilleur petit compagnon?
+WRANGLEDIALOG_24_3_CONTENT,"Embarquez pour un voyage dans l’inconnu, plein d’attentes, en bonne compagnie."
+WRANGLEDIALOG_24_3_BUTTON_1,Tu lis assez bien la poésie.
+WRANGLEDIALOG_24_4_CONTENT,"Lire plus, la nature le fera."
+WRANGLEDIALOG_24_5_CONTENT,Je vais marcher avec mon meilleur petit compagnon.
+WRANGLEDIALOG_24_6_CONTENT,"Si vous parvenez à {PLAY_CHESS_NAME}, et que vous remportez la victoire, je pense peut-être à l’aventure avec vous."
+WRANGLEDIALOG_25_CONTENT,L’aventure est toujours attendue.
+WRANGLEDIALOG_25_BUTTON_1,"Eh bien, commençons."
+WRANGLEDIALOG_22_1_CONTENT,Très occupé.
+WRANGLEDIALOG_22_1_BUTTON_1,Vous êtes occupé?
+WRANGLEDIALOG_22_2_CONTENT,"En tant qu’avocat, ma tâche consiste avant tout à convaincre."
+WRANGLEDIALOG_22_2_BUTTON_1,"Alors, vénérable {JOB_LOBBYIST}, partons à l’aventure ensemble."
+WRANGLEDIALOG_22_3_CONTENT,Je suis très occupé.
+WRANGLEDIALOG_22_3_BUTTON_1,Les jours que nous passons ensemble à l’aventure ne manquent pas de vouloir entendre les histoires que vous racontez.
+WRANGLEDIALOG_22_4_CONTENT,"J’aime beaucoup parler, mais, ces derniers temps, il y a toujours peu d’intérêt."
+WRANGLEDIALOG_22_4_BUTTON_1,Vous êtes trop fatigué et vous avez besoin d’un ajustement.
+WRANGLEDIALOG_22_5_CONTENT,Il est vrai que je suis resté à la maison depuis mon licenciement.
+WRANGLEDIALOG_22_5_BUTTON_1,"Donc, nous avons besoin de vous."
+WRANGLEDIALOG_22_6_CONTENT,Vous avez besoin de moi?
+WRANGLEDIALOG_22_6_BUTTON_1,"Parce que vous êtes un bon petit compagnon, donc, nous avons besoin de vous."
+WRANGLEDIALOG_22_7_CONTENT,L’aventure est si difficile que je crains de ne pas tenir.
+WRANGLEDIALOG_22_7_BUTTON_1,Comment savoir sans essayer?
+WRANGLEDIALOG_22_8_CONTENT,"Aussi, la vie est une aventure inconnue."
+WRANGLEDIALOG_22_9_CONTENT,"Pensez mille fois, mieux vaut faire une fois."
+WRANGLEDIALOG_22_10_CONTENT,C’est le cas?
+WRANGLEDIALOG_22_10_BUTTON_1,"Alors, qu’attendez-vous?"
+WRANGLEDIALOG_54_CONTENT,Je ne vois pas depuis plusieurs jours.
+WRANGLEDIALOG_54_BUTTON_1,Depuis longtemps.
+WRANGLEDIALOG_54_1_CONTENT,Nous sommes toujours à la recherche de grands pouvoirs.
+WRANGLEDIALOG_54_1_BUTTON_1,Avez-vous trouvé quelque chose?
+WRANGLEDIALOG_54_2_CONTENT,Rien n’a été trouvé.
+WRANGLEDIALOG_54_3_CONTENT,J’ai toujours l’impression que cette grande force n’est pas loin.
+WRANGLEDIALOG_54_3_BUTTON_1,Nous partageons ce sentiment.
+WRANGLEDIALOG_54_4_CONTENT,Nous sommes donc une équipe.
+WRANGLEDIALOG_54_4_BUTTON_1,Que ressentez-vous d’autre de cette force puissante?
+WRANGLEDIALOG_54_5_CONTENT,Je pense que nous devons continuer à chercher et que la réponse finira par être trouvée.
+WRANGLEDIALOG_54_5_BUTTON_1,"Joignez-vous à notre équipe. Ensemble, nous trouverons les réponses."
+WRANGLEDIALOG_54_6_CONTENT,"Moi aussi, je viens de Me Téléporter et le dispositif qui nous transporte est également conduit par cette force."
+WRANGLEDIALOG_54_6_BUTTON_1,Vous l’avez déjà trouvé?
+WRANGLEDIALOG_54_7_CONTENT,Il est un vestige de la dernière bataille.
+WRANGLEDIALOG_54_8_CONTENT,Il devrait y avoir d’autres membres de l’équipe qui viennent derrière.
+WRANGLEDIALOG_54_8_BUTTON_1,Nous sortons pour le voir et reviendrons le chercher dans un instant.
+WRANGLEDIALOG_55_CONTENT,Après plusieurs jours de ne pas voir 、 je veux toujours essayer 、 voir la confiance de tous 。
+WRANGLEDIALOG_55_BUTTON_1,"Eh bien, commençons."
+PLANET_47,La planète 47
+WRANGLEDIALOG_56_CONTENT,Arrivée en toute sécurité.
+WRANGLEDIALOG_56_BUTTON_1,Je ne vois pas depuis plusieurs jours.
+WRANGLEDIALOG_56_1_CONTENT,Que semble-t-il que je vois vaporeusement sur le chemin de la transmission?
+WRANGLEDIALOG_56_1_BUTTON_1,Voir quoi?
+WRANGLEDIALOG_56_2_CONTENT,Je ne suis pas très sûr parce que j’ai l’impression que cette force n’est pas très stable.
+WRANGLEDIALOG_56_3_CONTENT,"Comme s’il y avait quelque chose comme une antenne, ou quelque chose d’autre."
+WRANGLEDIALOG_56_3_BUTTON_1,Que font-ils?
+WRANGLEDIALOG_56_4_CONTENT,"Je ne sais pas, mais il semble qu’il y ait quelque chose à voir avec l’instabilité de cette force."
+WRANGLEDIALOG_56_4_BUTTON_1,Que voyez-vous d’autre?
+WRANGLEDIALOG_56_5_CONTENT,J’ai l’impression de voir deux autres filles.
+WRANGLEDIALOG_56_5_BUTTON_1,Deux filles?
+WRANGLEDIALOG_56_6_CONTENT,"Trop vague, je ne suis pas très sûr."
+WRANGLEDIALOG_56_7_CONTENT,Il semble qu’il y ait un autre à côté.
+WRANGLEDIALOG_56_7_BUTTON_1,Oh?
+WRANGLEDIALOG_56_8_CONTENT,J’ai l’impression qu’il ressemble à {NAME_AVATAR_20}.
+WRANGLEDIALOG_56_8_BUTTON_1,Est-ce {NAME_AVATAR_20} de {NAME_AVATAR_33}?
+WRANGLEDIALOG_56_9_CONTENT,Il aurait dû être banni de la dernière bataille.
+WRANGLEDIALOG_56_9_BUTTON_1,Il est vrai que {PLANET_47} est loin d’ici et ne peut pas être lui.
+WRANGLEDIALOG_56_10_CONTENT,Nous commençons une nouvelle aventure.
+WRANGLEDIALOG_57_CONTENT,Notre force est-elle toujours la même? Je voudrais quand même essayer.
+WRANGLEDIALOG_57_BUTTON_1,"Eh bien, commençons."
+WRANGLEDIALOG_76_1_CONTENT,"Mon histoire, vous l’avez tous entendue."
+WRANGLEDIALOG_76_2_CONTENT,Vieux et probablement presque oublié.
+WRANGLEDIALOG_76_3_CONTENT,Mes Trois apprentis ont appris toutes Mes Facultés et ils sont extrêmement puissants.
+WRANGLEDIALOG_76_4_CONTENT,"J’aime errer, le ciel et la terre sont chez moi."
+WRANGLEDIALOG_76_5_CONTENT,"J’ai rencontré beaucoup de gens compétents, beaucoup de choses extraordinaires."
+WRANGLEDIALOG_76_6_CONTENT,"Je n’aime pas jouer avec les gens. Cependant, j’ai le courage de décider."
+WRANGLEDIALOG_76_7_CONTENT,La victoire est aussi seulement un compliment de ma part. La défaite est une chose courante.
+WRANGLEDIALOG_76_7_BUTTON_1,Partie d’échecs
+WRANGLEDIALOG_76_7_BUTTON_2,adieu
+WRANGLEDIALOG_83_CONTENT,"Chers passants, où allez-vous?"
+WRANGLEDIALOG_83_BUTTON_1,Est-ce {NAME_1} ici?
+WRANGLEDIALOG_83_1_CONTENT,"Le grand pays, le pays de la musique, mais aussi ma patrie et ma patrie. En tant que royal, je vous réponds que c’est ici."
+WRANGLEDIALOG_83_1_BUTTON_1,"Bonjour, c’est un honneur de vous rencontrer."
+WRANGLEDIALOG_83_2_CONTENT,Comment pouvez-vous nous aider?
+WRANGLEDIALOG_83_2_BUTTON_1,Nous cherchons votre princesse.
+WRANGLEDIALOG_83_3_CONTENT,Oh?
+WRANGLEDIALOG_83_3_BUTTON_1,Nous avons appris que votre princesse va fêter son anniversaire. Venez nous féliciter.
+WRANGLEDIALOG_83_4_CONTENT,Vous vous connaissez?
+WRANGLEDIALOG_83_4_BUTTON_1,Nous étions les camarades de classe de la princesse.
+WRANGLEDIALOG_83_5_CONTENT,"J’ai examiné votre groupe et, d’après mon expérience, vous le connaissez probablement."
+WRANGLEDIALOG_83_5_BUTTON_1,Pouvez-vous nous aider à la trouver?
+WRANGLEDIALOG_83_6_CONTENT,Il n’est pas facile de le dire. Demandez au roi et à la reine.
+WRANGLEDIALOG_83_6_BUTTON_1,Vous pouvez nous parrainer?
+WRANGLEDIALOG_83_7_CONTENT,Je suis un membre enthousiaste de la couronne.
+WRANGLEDIALOG_83_8_CONTENT,"Mais, vous devez prouver, ma confiance en vous."
+WRANGLEDIALOG_84_CONTENT,Est-ce possible?
+WRANGLEDIALOG_84_BUTTON_1,"Eh bien, commençons."
+WRANGLEDIALOG_93_CONTENT,Vous voulez Me Contacter pour une vente?
+WRANGLEDIALOG_93_BUTTON_1,Il y a de grandes affaires.
+WRANGLEDIALOG_93_1_CONTENT,Quel âge acheter et vendre?
+WRANGLEDIALOG_93_1_BUTTON_1,Grande vente.
+WRANGLEDIALOG_93_2_CONTENT,"Je fais des affaires très justes. Si vous Me Présentez de grandes affaires, il n’y aura pas sans vous."
+WRANGLEDIALOG_93_2_BUTTON_1,Cela semble juste.
+WRANGLEDIALOG_93_3_CONTENT,"Dites-le vite, quelle est la grande affaire?"
+WRANGLEDIALOG_93_3_BUTTON_1,Une vente qui nécessite que vous nous suiviez.
+WRANGLEDIALOG_93_4_CONTENT,Une vente à pied? La traite des êtres humains?
+WRANGLEDIALOG_93_4_BUTTON_1,Où vous voulez aller.
+WRANGLEDIALOG_93_5_CONTENT,"Ce n’est pas la dernière vente, n’est-ce pas?"
+WRANGLEDIALOG_93_6_CONTENT,Je ne fais plus ce genre de vente! Combien ne pas aller!
+WRANGLEDIALOG_93_6_BUTTON_1,Je n’ai pas encore dit une vente.
+WRANGLEDIALOG_93_7_CONTENT,"L’expérience de la dernière aventure, j’ai encore des palpitations dans mon cœur. Je suis un homme d’affaires, pas un aventurier!"
+WRANGLEDIALOG_93_7_BUTTON_1,"Mais, cette fois, faire beaucoup d’argent."
+WRANGLEDIALOG_93_8_CONTENT,C’est vrai?
+WRANGLEDIALOG_93_8_BUTTON_1,Bien sûr.
+WRANGLEDIALOG_94_CONTENT,"Cependant, avant de partir, je dois voir combien vous avez d’argent."
+WRANGLEDIALOG_94_BUTTON_1,"Eh bien, commençons."
+PLAYCHESSSUCCESSFUNCTION_AVATAR_9_STRING,Le succès n’est jamais facile.
+PLAYCHESSFAILUREFUNCTION_AVATAR_9_STRING,L’échec ne dure pas éternellement.
+WRANGLEDIALOG_103_CONTENT,Je parle souvent moi-même aussi.
+WRANGLEDIALOG_103_BUTTON_1,Je suis désolé.
+WRANGLEDIALOG_103_FUNCTION_1_1,Mon chien court souvent. L’avez-vous vu?
+WRANGLEDIALOG_103_FUNCTION_1_2,Parlez avec moi si vous le souhaitez.
+WRANGLEDIALOG_103_FUNCTION_1_3,"Couleur forte poids jade furieux, qingyi manches d’eau bionripple, personne ne boit plein de couleur, à avoir une terrasse yue yang lou. Les fils de fer tremblent de mille coups, et les tribunes retournent, pour que les nuages couvrent la lune de poussière rouge, et que la petite vie soit allée."
+WRANGLEDIALOG_103_FUNCTION_1_4,"Il a parcouru les montagnes pour trouver du rouge, et a soufflé des larmes. Les fleurs vengeance obsession, les mains tenants larmes boire l’or ne cassera pas. Le givre s’assied brisé, appuyé sur une épée longue bombe de penser de carrie. Des milliers de boues marchent le ciel et le tonnerre, des silhouettes flashes aériennes. Tournez la pluie et la pluie pressent la moitié de la montagne, pas de repos et moitié de hanpeck."
+WRANGLEDIALOG_103_FUNCTION_1_5,"Zéphyr buvait fort le vin du héros, et il ne voyait pas le crépuscule du héros. Après une chute tardive, la pluie et les fleurs sont légères. La beauté goutte les larmes blanc jade plat, le vent clair ne peut pas laisser un bleu. Les étoiles et la lune brillent, les amants finiront par se blottisser."
+WRANGLEDIALOG_103_FUNCTION_1_6,"Aller ailleurs pour trouver des fleurs de pêche, les fleurs de pêche rient encore la brise de printemps, la brise de printemps dans le froid sur la face humaine, la face humaine de la fleur de pêche rouge, inestimable ivre intensé, sombre dans le passé de l’adolescence."
+WRANGLEDIALOG_103_FUNCTION_1_7,"Le glacier de qiili un peu rouge, qui xiaoxiao beifeng a demandé aux invités? Long chung couteau impitoyable proche, le champion du monde."
+WRANGLEDIALOG_103_FUNCTION_1_8,"Des montagnes vertes, des eaux vertes, des nuages blancs, des herbes sauvages qui agitent nono, des papillons qui courent après les papillons, des sables jaunes qui gardent les frontières. Fin des mots sur les rives du monde, eau étincelante au milieu de la nage, mille tristesse désespérée de l’admiration, miroir des étages d’eau au milieu des fleurs de la lune."
+WRANGLEDIALOG_103_FUNCTION_1_9,"Dix cargaison loin de la maison, la lune brille dans mon coeur. Quand les mains plantent, le temps fleurit."
+WRANGLEDIALOG_103_FUNCTION_1_10,"La jupe papillon coulait autour des fleurs, les doigts de jade tenaient le parapluie en ligne, apitoiaient sur les piscines de fleurs et les tremblements de voix, des milliers de montagnes regardaient après la liberté."
+WRANGLEDIALOG_103_FUNCTION_1_11,"Rencontrer la plus belle de vous pendant la saison animée m’a donné la plus belle vie et le plus beau sourire. Il m’a fait comprendre que les jours peuvent être passés de cette façon. C’est la chaleur et la nature avec le cœur qui m’a donné un foyer. Si incroyable, si surprenant, si mérité. Il semblait que c’était le destin qui Me Donnait la chance de prendre cette décision importante."
+WRANGLEDIALOG_103_FUNCTION_1_12,"Inconscient est déjà osmantea floraison 、 xu vent avec le pistolet de la lune est venu 。 Appuyé sur les eaux du yangtze, puisse le roi récompenser le parfum des osmantas."
+WRANGLEDIALOG_103_FUNCTION_1_13,"Vole les vagues et le sable avec orgueil, sans serment général. Déplorant l’impitorité de cet homme, il haïssait seulement gaixia sans roi."
+WRANGLEDIALOG_103_FUNCTION_1_14,Confident de mizuki et héros de tianya. Où va le couteau? Secouer le coeur.
+WRANGLEDIALOG_103_FUNCTION_1_15,"On ne voyait pas de branche suspendue de fleurs de pêche. Le vent d’ouest est passé, les étoiles ne savent pas."
+WRANGLEDIALOG_103_FUNCTION_1_16,"A volé loin, loin, invisible. Et ne peut pas toucher. Ce qui ne peut pas être vu, est loin. Attrapez le sable sous vos pieds, il manque le souffle de la patrie, le souffle familier. Il n’y aura pas de Réunion éternelle, pas de séparation durable. Le pissenlit s’épanouira encore, les décollages de petits parapluies chanceux, les voyages aériens extravagants, la légèreté des libélules qui s’arrosent encore vers la terre et mâchent les odeurs familières. Yellow sand a volé, je ne suis pas allé avec lui, yellow sand a volé, ou le souffle familier. Le sable jaune volait, et le pissenlit balançait encore là. Le sable jaune a volé, le ciel inondé de petits parapluies qui volaient encore. Le sable jaune a volé, mais il a vu un peu de bourgeons verts."
+WRANGLEDIALOG_103_FUNCTION_1_17,"Une feuille de sycomore tombe doucement des branches, le vent froid passe, rame légèrement l’air et atterrit fermement sur la terre. Est l’appel de la terre mère. Est une nouvelle incarnation. Un flocon de neige blanc passe lentement à travers les nuages et achète un billet aller simple pour rentrer à la maison. L’air sec tombe sur la terre, c’est le rouge de la terre mère. Vous êtes belle, maman. L’arc-en-ciel tomberait dans le ciel; le rouge était notre sang, le jaune notre visage, le vert les feuilles de sycomore aux branches vertes. La voile fine tombe de vos épaules, vole dans le vent courant, un flash, si rapide. Sans précédent sur la mer de bimasa. Les goélands crient, s’envolent dans le vent qui court, vous êtes la gaze de la terre mère, goélands. Est une mousseline qui ne tombe pas."
+WRANGLEDIALOG_103_FUNCTION_1_18,"La brise du printemps se répand, les rêves rongent la nuit dernière, les conversations se prolongent, les volutes de fumée tremblent. Qui xiaolou lonymoon veut photographier? La lune tombe, la poussière et les cendres d’antan fouillent le visage, les fleurs de pêche rient du printemps."
+WRANGLEDIALOG_103_FUNCTION_1_19,"La superfemme est encore résister à la gravité de la terre pour voler pour sauver la terre, le cheval de troie tourne toujours seul en attendant la petite fille, la rivière chuan yang mélangé coule le canard est encore apathie, le chiot voisin aime encore laisser un nouveau riz tankyo à l’entrée de mon étage. Le soleil est encore brillant et fait rire fou, sourire fou visage ensoleillé est encore si mignon."
+WRANGLEDIALOG_103_FUNCTION_1_20,"Inachevé, inachevé."
+WRANGLEDIALOG_104_CONTENT,Voici une lettre.
+WRANGLEDIALOG_106_CONTENT,"Cher {NAME_AVATAR_3} : \n mon anniversaire approche et je vous invite à ma fête d’anniversaire. Venez Me Trouver à {SCENE_NAME_HALL_OF_MELODY} au nord de {SCENE_NAME_STAVE_AVENUE}. \n a disparu pendant un certain temps. Vous manquez beaucoup. Au plaisir de faire la fête avec vous. \n{NAME_AVATAR_19}, votre compagnon de classe {NAME_AVATAR_19}."
+WRANGLEDIALOG_106_BUTTON_1,"Pourquoi la lettre a-t-elle été placée ici? ,,, est {SCENE_NAME_STAVE_AVENUE}. Allons à sa fête d’anniversaire."
+TO_NAME_AVATAR_3_LETTER,{NAME_AVATAR_3} pro-start.
+I_LIKE_LOBBYIST,J’aime les gens qui parlent.
+IS_DOG1,"Vous aimez courir librement, la pluie et le vent, cher petit compagnon, c’est vous?"
+YOU_ARE_A_TALL_FELLOW,Vous êtes un homme supérieur!
+WINS_AND_LOSSES_ARE_COMMON_1,Gagner ou perdre est une chose constante.
+WINS_AND_LOSSES_ARE_COMMON_2,La vitesse est la première priorité.
+WINS_AND_LOSSES_ARE_COMMON_3,Mes Apprentis sont très forts.
+WINS_AND_LOSSES_ARE_COMMON_4,J’ai toujours cherché loin.
+I_DONOT_HAVE_MY_BEST_FRIEND_HERE,Je vais marcher avec mon meilleur petit compagnon.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_1,Ouvrez le bar.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_2,Ouvrez-le.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_1,La connaissance est le pouvoir.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_2,Les enregistrements sont une vie.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_1,Isoler un monde.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_2,Réservez une part de sérénité.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_1,Chaussures de fer sans recherche.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_2,Il ne prend pas beaucoup de temps.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_1,Lettres de camarades de classe.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_2,Lettre d’un ami.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_1,Le silence.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_2,Le silence.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_3,La répétition est la magie de la victoire.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_4,Il y a un secret pour faire les choses.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_5,"Plus vite, plus vite."
+PLAYCHESSFAILUREFUNCTION_NPCARTICLE_ODETOJOY,"Je suis le gardien de {NAME_1}, le fidèle gardien du roi."
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_1,Doit vaincre.
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_2,Doit gagner.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_1,La chance est à toucher.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_2,La chance est aussi à toucher.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_1,J’ai calculé Mes Chances de gagner.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_2,C’est aussi une occasion d’apprendre.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_1,"Parler bien, ce n’est pas avoir de la chance."
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_2,Une expression raffinée.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_1,De loin.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_2,Le pôle.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_1,Aller et venir librement.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_2,Rangez librement.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_1,Bras en acier.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_2,Une force forte.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_1,Le marchandage est la banque du marchand.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_2,Tout a un prix.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_1,La chaleur du soleil vous entoure.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_2,Le soleil brille sur vous.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_1,J’ai une bonne endurance.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_2,J’ai un bon caractère.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_1,J’ai beaucoup d’amis.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_2,Mes Amis et moi nous réunissons souvent.
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_1,Osez-vous Me Défier?
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_2,Vous jouez avec le feu.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_1,Flottant comme un obstacle à l’amour.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_2,Pratiquez pendant mille ans.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_1,J’ai beaucoup de frères.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_2,J’ai plusieurs soeurs.
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_1,"Idéal ou réalité, quel est votre choix?"
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_2,Le poisson salé n’a pas d’idéal.
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_1,"Je le fais, je le fais."
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_2,"Large ciel et terre, large cœur."
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_1,Le vent est fort ici.
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_2,Le vent souffle violemment.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_1,Parfum pruneau de froid amer.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_2,La souffrance est une vie.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_1,L’avenir a des arrangements pour l’avenir.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_2,"Aujourd’hui, il y a des arrangements pour aujourd’hui."
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_1,"Sérieux, c’est une attitude."
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_2,Mon attitude est sérieuse et chère.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_1,Le monde est vous et moi.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_2,Vous et moi sommes uniques.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_1,"Quand j’étais jeune, je faisais beaucoup."
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_2,Je suis très énergique maintenant.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_1,Cultiver soi-même.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_2,Examinez vous-même.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_1,Hugh pour se voir.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_2,"Votre propre réparation, vous le savez."
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_1,La couronne est en or.
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_2,La couronne étincelait.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_1,"Une couronne éblouissante, doit également être essuyé fréquemment."
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_2,"La couronne est en or, ce qui représente une qualité."
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_1,Gagnez et perdez en tout.
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_2,"Ce que je veux, je le reçois."
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_1,"La chambre à nouveau propre, doit également être pris en charge fréquemment."
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_2,Nettoyer la chambre n’est pas un travail simple.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_1,"Persévérer longtemps dans un travail, pas facile."
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_2,"Prendre soin d’un palais, ce n’est pas facile."
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_1,Ne devrait pas Me Voir.
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_2,Ne Me Voit pas.
+NOW_I_AM_THE_TEAM_LEADER,"Maintenant, je suis en tête de la file."
+NPCARTICLETRIGGER_NAME_2,{NAME_AVATAR_3} la porte de la maison
+NPCARTICLETRIGGER_NAME_3,{NAME_AVATAR_4} la porte de la maison
+WAIT_A_MOMENT,attends
+DICE_STARTED,%s face dés a commencé
+WHERE_ARE_THE_LOBBYISTS,Où trouver {JOB_LOBBYIST}?
+SILENT_NOTE_DO,Notes de silence · Do (1)
+SILENT_NOTE_RE,Notes de silence · Re (2)
+SILENT_NOTE_MI,Notes de silence · Mi (3)
+SILENT_NOTE_FA,Notes de silence · Fa (4)
+SILENT_NOTE_SOL,Notes de silence · Sol (5)
+SILENT_NOTE_LA,Notes de silence · La (6)
+SILENT_NOTE_SI,Notes de silence · Si (7)
+NOTE_DO,Do (1)
+NOTE_RE,Re (2)
+NOTE_MI,Mi (3)
+NOTE_FA,Fa (4)
+NOTE_SOL,Sol (5)
+NOTE_LA,La (6)
+NOTE_SI,Si (7)
+WRANGLEDIALOG_107_CONTENT,"Je suis le gardien de {SILENT_NOTE_MI}, {NAME_1}."
+WRANGLEDIALOG_108_CONTENT,"Je suis le gardien de {SILENT_NOTE_MI}, {NAME_1}."
+WRANGLEDIALOG_109_CONTENT,"Je suis le gardien de {SILENT_NOTE_FA}, {NAME_1}."
+WRANGLEDIALOG_110_CONTENT,"Je suis le gardien de {SILENT_NOTE_SOL}, {NAME_1}."
+WRANGLEDIALOG_111_CONTENT,"Je suis le gardien de {SILENT_NOTE_SOL}, {NAME_1}."
+WRANGLEDIALOG_112_CONTENT,"Je suis le gardien de {SILENT_NOTE_FA}, {NAME_1}."
+WRANGLEDIALOG_113_CONTENT,"Je suis le gardien de {SILENT_NOTE_MI}, {NAME_1}."
+WRANGLEDIALOG_114_CONTENT,"Je suis le gardien de {SILENT_NOTE_RE}, {NAME_1}."
+WRANGLEDIALOG_115_CONTENT,"Je suis le gardien de {SILENT_NOTE_DO}, {NAME_1}."
+WRANGLEDIALOG_116_CONTENT,"Je suis le gardien de {SILENT_NOTE_DO}, {NAME_1}."
+WRANGLEDIALOG_117_CONTENT,"Je suis le gardien de {SILENT_NOTE_RE}, {NAME_1}."
+WRANGLEDIALOG_118_CONTENT,"Je suis le gardien de {SILENT_NOTE_MI}, {NAME_1}."
+WRANGLEDIALOG_119_CONTENT,"Je suis le gardien de {SILENT_NOTE_MI}, {NAME_1}."
+WRANGLEDIALOG_120_CONTENT,"Je suis le gardien de {SILENT_NOTE_RE}, {NAME_1}."
+WRANGLEDIALOG_121_CONTENT,"Je suis le gardien de {SILENT_NOTE_RE}, {NAME_1}."
+WRANGLEDIALOG_107_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_108_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_109_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_110_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_111_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_112_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_113_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_114_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_115_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_116_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_117_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_118_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_119_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_120_BUTTON_1,Je veux prouver mon courage.
+WRANGLEDIALOG_121_BUTTON_1,Je veux prouver mon courage.
+WIN_THE_KING,Vous avez gagné le roi.
+WRANGLEDIALOG_122_CONTENT,"Amis venus de loin, guerriers intelligents, {NAME_1} vous souhaite la bienvenue!"
+WRANGLEDIALOG_122_BUTTON_1,"Bonjour, c’est un honneur de vous rencontrer."
+WRANGLEDIALOG_123_CONTENT,Vous êtes ici pour la fête d’anniversaire de ma petite fille?
+WRANGLEDIALOG_123_BUTTON_1,"Oui, oui."
+WRANGLEDIALOG_124_CONTENT,"Encore une fois, bienvenue! Ma petite fille et sa soeur sont dans mon bureau; vous pouvez aller la chercher vous-même. Plus tard, à la fête d’anniversaire, j’ai encore des choses importantes à annoncer."
+WRANGLEDIALOG_124_BUTTON_1,Nous vous remercions de l’invitation.
+WRANGLEDIALOG_125_CONTENT,Je vous rappelle cependant qu’il y a beaucoup de chambres ici et que mon bureau est au nord.
+WRANGLEDIALOG_126_CONTENT,"Chaque porte est un gardien de {NAME_1}, le même que les gardiens de {NAME_1} de {SCENE_NAME_STAVE_AVENUE}. Ils sont tous des gardiens loyaux et parfois seuls les personnels royaux peuvent passer."
+WRANGLEDIALOG_126_BUTTON_1,Je l’ai compris.
+WRANGLEDIALOG_127_CONTENT,"Guerrier intelligent, connaissez-vous la musique?"
+WRANGLEDIALOG_127_BUTTON_1,"Comprendre un peu, nous aimons tous écouter de la musique, écouter des chansons."
+WRANGLEDIALOG_128_CONTENT,J’aime aussi écouter toutes sortes de musique et de chansons! La bonne musique et les chansons purifient notre âme!
+WRANGLEDIALOG_128_BUTTON_1,Vous avez tout à fait raison.
+WRANGLEDIALOG_129_CONTENT,"Les gardiens de {NAME_1} de {SCENE_NAME_STAVE_AVENUE}, ils sont restés depuis des temps immémables, à l’époque où le grand-père du grand-père de mon grand-père n’était même pas né."
+WRANGLEDIALOG_129_BUTTON_1,Très vieux.
+WRANGLEDIALOG_130_CONTENT,"Si vous réussissez à les défier et à prouver votre courage, je vais envisager de vous envoyer des petits cadeaux spéciaux."
+WRANGLEDIALOG_130_BUTTON_1,Qu’est-ce qu’un petit cadeau spécial?
+WRANGLEDIALOG_131_CONTENT,"Un petit objet qui peut ajouter à votre charme personnel. Je suppose que parmi vous, certains petits compagnons pourraient être utiles."
+WRANGLEDIALOG_131_BUTTON_1,Si mystérieux.
+WRANGLEDIALOG_132_CONTENT,"Allez-y, {NAME_1} bienvenue, guerrier intelligent, plongez!"
+WRANGLEDIALOG_132_BUTTON_1,Au revoir.
+WRANGLEDIALOG_133_CONTENT,Vous rencontrez des difficultés?
+WRANGLEDIALOG_133_BUTTON_1,Pouvez-vous Me Donner un indice?
+WRANGLEDIALOG_133_BUTTON_2,J’ai réussi mon défi.
+WRANGLEDIALOG_134_CONTENT,"Défier les gardiens de {NAME_1} de {SCENE_NAME_STAVE_AVENUE} avant,,, je peux vous donner un petit indice,,,"
+WRANGLEDIALOG_134_BUTTON_1,Des conseils qui font attendre.
+WRANGLEDIALOG_134_BUTTON_2,Je vais essayer un peu plus.
+WRANGLEDIALOG_135_CONTENT,"Do (1), Re (2), Mi (3), Fa (4), Sol (5), La (6), Si (7),,, viens un peu."
+WRANGLEDIALOG_135_BUTTON_1,Vous Me le dites à voix basse.
+WRANGLEDIALOG_136_CONTENT,Veuillez accepter ce petit cadeau que je vous offre.
+WRANGLEDIALOG_136_BUTTON_1,Merci pour votre générosité.
+KING_LOW_VOICE,"Voix basse dit, %s,,, ne le dites à personne,,,"
+WHEN_I_WAS_YOUNG,"Ce petit cadeau, j’ai beaucoup utilisé quand j’étais plus jeune. Plus tard, j’ai eu une couronne et je n’en ai pas besoin."
+ALL_GIFTS_HAD_GIVE_YOU,Mes Petits cadeaux sont là pour vous.
+YOU_NEED_TO_PROVE,Prouver votre courage pour obtenir le petit cadeau qui vous est offert
+GOODS_NAME_HOUSEKEEPERKEY,La clé de {NAME_AVATAR_28}
+GOODS_NAME_BUTLERKEY,La clé de {NAME_AVATAR_29}
+GOODS_NAME_QUEENKEY,La clé de {NAME_AVATAR_26}
+DOOR_1,{SCENE_NAME_STAVE_AVENUE} ouest au sud
+DOOR_2,{SCENE_NAME_STAVE_AVENUE} porte est au sud
+GOODS_DESCRIPTION_HOUSEKEEPERKEY,"Lors du transport, vous pouvez ouvrir {DOOR_1}."
+GOODS_DESCRIPTION_BUTLERKEY,"Lors du transport, vous pouvez ouvrir {DOOR_2}."
+GOODS_DESCRIPTION_QUEENKEY,"Lors du transport, vous pouvez ouvrir la porte de {SCENE_NAME_HALL_OF_MELODY}."
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_1,Avec fermeté.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_2,De longue date.
+NOT_EASY_OPEN_THE_DOOR_WITHOUT_THE_KEY,Une porte sans clé n’est pas facile à ouvrir.
+WRANGLEDIALOG_139_CONTENT,Vous devez avoir faim. Vous voulez manger quelque chose? Dites-le moi.
+WRANGLEDIALOG_139_BUTTON_1,Qu’est-ce que vous avez à manger ici?
+WRANGLEDIALOG_139_BUTTON_2,C’est vraiment un travail très chargé ici.
+WRANGLEDIALOG_139_1_CONTENT,"Pour la fête d’anniversaire de la princesse, nous avons préparé un repas copieux."
+WRANGLEDIALOG_139_2_CONTENT,"Oh, je vois {NAME_AVATAR_19} et {NAME_AVATAR_27}, c’est-à-dire la soeur de la petite princesse, qui sont allées au bureau du roi au nord."
+WRANGLEDIALOG_139_2_BUTTON_1,C’est comme ça.
+WRANGLEDIALOG_139_3_CONTENT,"J’ai encore du travail à faire, et si vous les cherchez, allez voir là-bas."
+WRANGLEDIALOG_139_3_BUTTON_1,Très bien.
+WRANGLEDIALOG_139_4_CONTENT,"Au lieu de {SCENE_NAME_CRACKING_VOICE_RIDGE} à l’ouest, il y a le majestueux {SCENE_NAME_HALL_OF_MELODY}. En plus ici, je vais aider à regarder le chemin au sud de {SCENE_NAME_STAVE_AVENUE}."
+WRANGLEDIALOG_139_4_BUTTON_1,Avez-vous la clé?
+WRANGLEDIALOG_139_5_CONTENT,Vous devez gagner ma confiance pour que je puisse vous aider.
+WRANGLEDIALOG_139_5_BUTTON_1,Essayons-le.
+WRANGLEDIALOG_140_CONTENT,"Le service est mon but. Vous voyez, mon chapeau est beau, je n’aurai pas besoin de ces perruques."
+WRANGLEDIALOG_140_BUTTON_1,Vous êtes ici dans un bel environnement.
+WRANGLEDIALOG_140_BUTTON_2,Le travail doit être très occupé ici?
+WRANGLEDIALOG_140_1_CONTENT,"Le jardin à la porte est principalement de mon soin. Ici, les arbres brillants ne peuvent pas passer, mais les arbres sombres peuvent passer. Récemment, j’ai parfois vu des étrangers en robe violette hanter."
+WRANGLEDIALOG_147_BUTTON_1,"Est-ce {NAME_AVATAR_20} de {NAME_AVATAR_33}? ,,,,"
+WRANGLEDIALOG_140_2_CONTENT,"Oh, je vois {NAME_AVATAR_19} et {NAME_AVATAR_27}, c’est-à-dire la soeur de la petite princesse, qui sont allées au bureau du roi au nord."
+WRANGLEDIALOG_140_2_BUTTON_1,C’est comme ça.
+WRANGLEDIALOG_140_3_CONTENT,"J’ai encore du travail à faire, et si vous les cherchez, allez voir là-bas."
+WRANGLEDIALOG_140_3_BUTTON_1,Très bien.
+WRANGLEDIALOG_140_4_CONTENT,"A la différence de {SCENE_NAME_CLINKER_VALLEY} à l’est, il y a de beaux jardins. En plus ici, je vais aider à regarder le chemin au sud de {SCENE_NAME_STAVE_AVENUE}."
+WRANGLEDIALOG_140_4_BUTTON_1,Avez-vous la clé?
+WRANGLEDIALOG_140_5_CONTENT,Vous devez gagner ma confiance pour que je puisse vous aider.
+WRANGLEDIALOG_140_5_BUTTON_1,Essayons-le.
+TRUSTED_CLASSMATE,Je dois dire que je fais plus confiance aux camarades de classe mentionnés dans l’invitation de la princesse.
+YOU_HAD_THE_KEY,Vous avez déjà cette clé.
+WRANGLEDIALOG_151_CONTENT,"Bienvenue, aventuriers venus de loin."
+WRANGLEDIALOG_151_BUTTON_1,"En parlant d’aventure, avez-vous d’autres aventuriers ici s’il vous plaît?"
+WRANGLEDIALOG_151_BUTTON_2,Votre palais est magnifique.
+WRANGLEDIALOG_151_1_CONTENT,"Autres aventuriers? Quand le roi et moi étions jeunes, nous étions des aventuriers. À l’époque, nous étions comme vous maintenant,,, en ce qui concerne l’aventure, vous connaissez les télescopes?"
+WRANGLEDIALOG_151_1_BUTTON_1,"Entendu parler, mais nous n’avons pas de télescope."
+WRANGLEDIALOG_151_1_BUTTON_2,Nous avons un télescope.
+WRANGLEDIALOG_151_2_CONTENT,"Si vous pouvez gagner ma confiance, je vous donne le télescope que nous avons utilisé dans notre jeunesse."
+WRANGLEDIALOG_151_2_BUTTON_1,Impossible à demander.
+WRANGLEDIALOG_151_3_CONTENT,Je peux vous aider à ajuster votre télescope pour essayer de voir un peu plus loin.
+WRANGLEDIALOG_151_3_BUTTON_1,Je vous en prie.
+WRANGLEDIALOG_151_4_CONTENT,"En plus des deux gouvernantes, je m’occupe souvent de ce lieu, et, si vous voulez m’aider, j’ai les clés du palais qui vous faciliteront l’entrée et la sortie."
+WRANGLEDIALOG_151_4_BUTTON_1,Nous pouvons le faire.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_3,La curiosité est le moteur du progrès.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE2,Distance de vue: %s (+%s).
+VISUAL_RANGE_IS_AT_MAXIMUM,La distance de vision de {GOODS_NAME_2} a atteint son maximum.
+YOU_ALREADY_HAVE_A_TELESCOPE,Vous avez déjà un télescope.
+YOU_NEED_A_TELESCOPE_FIRST,Vous aurez d’abord un télescope.
+YOU_ALREADY_HAVE_THIS_KEY,Vous avez déjà cette clé.
+HAVE_ALREADY_USED,Déjà utilisé.
+DOOR_3,La porte de {SCENE_NAME_HALL_OF_MELODY}
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_1,Le vieux château.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_2,Une histoire ancienne.
+WRANGLEDIALOG_160_CONTENT,Qui êtes-vous?
+WRANGLEDIALOG_160_BUTTON_1,Camarades de classe de {NAME_AVATAR_19}. Pour sa fête d’anniversaire.
+WRANGLEDIALOG_160_1_CONTENT,"Une fête d’anniversaire? Je n’ai pas entendu parler d’elle, il n’y a pas de fête d’anniversaire ici. S’il vous plaît, sortez d’ici."
+WRANGLEDIALOG_160_1_BUTTON_1,"Nous,,,"
+WRANGLEDIALOG_160_2_CONTENT,"Sortez, s’il vous plaît. J’ai encore des affaires à régler. Ne venez pas Me Déranger."
+WRANGLEDIALOG_160_2_BUTTON_1,"Nous venons de parler au roi de la fête d’anniversaire,"
+WRANGLEDIALOG_160_3_CONTENT,"Vous devez avoir mal entendu. Le roi est vieux et beaucoup de choses ne se souviennent pas exactement. Sortez, s’il vous plaît."
+WRANGLEDIALOG_160_3_BUTTON_1,Nous allons demander au roi.
+WRANGLEDIALOG_133_BUTTON_3,"Concernant {NAME_AVATAR_27} et {NAME_AVATAR_19},,"
+WRANGLEDIALOG_165_CONTENT,"Leurs soeurs sont Mes Filles, la paume de ma perle préférée, quand il y a un problème près, je vous le dis à voix basse."
+WRANGLEDIALOG_165_BUTTON_1,Je suis tout simplement un peu incompréhensible.
+WRANGLEDIALOGTYPEID_SISTER_1_SUCCESS_1,"Dans mon bureau, vous ne voyez que {NAME_AVATAR_27} et pas {NAME_AVATAR_19}? ,,, ils sont passés ensemble. Vous n’avez rien vu? Revenez y vérifier à nouveau."
+FAMILY_IS_THE_MOST_IMPORTANT_THING,"Pour moi, la famille est le plus important."
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_1,Ne pas laisser les autres voir.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_2,Une lettre secrète.
+TO_ROYAL_HOUSEHOLD_LETTER,Personnel royal beikai.
+NAME_AVATAR_35,L’enfant rouge d’or
+WRANGLEDIALOG_167_CONTENT,C’est une lettre secrète.
+WRANGLEDIALOG_167_1_CONTENT,"Cher ***** : \n cette lettre secrète vous sera transmise par {NAME_AVATAR_20} de {NAME_AVATAR_33}. N’oubliez pas de la garder confidentielle. Après l’avoir lue, elle peut être brûlée. Ne la laissez pas savoir aux autres."
+WRANGLEDIALOG_167_1_BUTTON_1,"Cette lettre secrètement adressée au personnel royal,, {NAME_AVATAR_33},,"
+WRANGLEDIALOG_167_2_CONTENT,"Par la suite, vous êtes également assisté par {TWELVE_BUGS} de {NAME_AVATAR_20} et {SCENE_NAME_CRACKING_VOICE_RIDGE}. \n le moment des fêtes d’anniversaire n’est pas toujours le même. Nous vous souhaitons le meilleur."
+WRANGLEDIALOG_167_2_BUTTON_1,"Un membre de l’équipe précédent, lors de la transmission, semble avoir vu {NAME_AVATAR_20} de {NAME_AVATAR_33},,,"
+WRANGLEDIALOG_167_3_CONTENT,NAME_AVATAR_33} cette entreprise majestueuse a aussi eu son mérite. \n au plaisir de vous entendre. \n{NAME_AVATAR_33} début de session {NAME_AVATAR_35}
+WRANGLEDIALOG_167_3_BUTTON_1,"{NAME_AVATAR_27} qui vient d’être ici,,, est-ce que cette lettre était destinée à elle? ,,,,"
+WRANGLEDIALOG_167_4_CONTENT,La lettre a été lue.
+WRANGLEDIALOG_167_4_BUTTON_1,{NAME_AVATAR_19} manque et est lié à eux.
+GOODS_DESCRIPTION_17,"Cher ***** : \n cette lettre secrète vous sera transmise par {NAME_AVATAR_20} de {NAME_AVATAR_33}. N’oubliez pas de la garder confidentielle. Après l’avoir lue, elle peut être brûlée. Ne la laissez pas savoir aux autres. Après \n, vous êtes également assisté par {TWELVE_BUGS} de {NAME_AVATAR_20} et {SCENE_NAME_CRACKING_VOICE_RIDGE}. \n le moment des fêtes d’anniversaire n’est pas toujours le même. Nous vous souhaitons le meilleur. La cause majestueuse de \n{NAME_AVATAR_33} a également eu le mérite de votre sueur. La tête de l’assemblée et la congrégation ont regardé et adoré. Une fois cela fait, votre grand désir et notre assemblée se sont engagés à soutenir pleinement, comme vous le souhaitez. \n au plaisir de vous entendre. \n{NAME_AVATAR_33} début de session {NAME_AVATAR_35}"
+DOOR_CLOSE,La porte se referma.
+GUARD_THE_ROYAL_FAMILY,Gardien du royal.
+WRANGLEDIALOG_173_CONTENT,Comment Me Trouver?
+WRANGLEDIALOG_173_BUTTON_1,C’est vous.
+YOU_CAN_NOT_FOUND_QIU_YU,"{NAME_AVATAR_19} avec la protection de {TWELVE_BUGS}, c’est sûr,,, vous ne trouverez pas."
+YOU_WILL_BE_SORRY,"Osez Me Défier, vous le regretterez."
+NAME_AVATAR_36,Mitterrand road
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_1,Impossible à voir.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_2,L’intérieur est sombre.
+WRANGLEDIALOG_174_CONTENT,"Il y a un chemin secret ici,,, je ne sais pas où?"
+WRANGLEDIALOG_174_BUTTON_1,Entrez dans.
+WRANGLEDIALOG_174_BUTTON_2,Ne pas entrer.
+WRANGLEDIALOG_175_CONTENT,C’est vous! Que faites-vous ici?
+WRANGLEDIALOG_175_BUTTON_1,Avez-vous vu {NAME_AVATAR_19}? Nous la cherchons.
+WRANGLEDIALOG_175_1_CONTENT,Je ne vois pas.
+WRANGLEDIALOG_175_1_BUTTON_1,Que faites-vous ici?
+WRANGLEDIALOG_175_2_CONTENT,"Je,,, cherche mon chat. Il s’appelle {NAME_2}. {NAME_2} a seulement un œil. Cependant, je pense, il devrait être juste là-bas, pas loin."
+WRANGLEDIALOG_175_2_BUTTON_1,"Si nous le voyons, nous vous le rapporterons."
+WRANGLEDIALOG_175_3_CONTENT,"Pas besoin, c’est dur, quand vous le voyez,,, faites attention à vous-même."
+WRANGLEDIALOG_175_3_BUTTON_1,Nous verrons à nouveau.
+WRANGLEDIALOG_179_1_CONTENT,"Nous ne savons pas grand-chose, ce qui a été promis à {NAME_AVATAR_33} doit être fait."
+WRANGLEDIALOG_179_2_CONTENT,"Nous ne savons pas grand-chose, ce qui a été promis à {NAME_AVATAR_27} doit être fait."
+WRANGLEDIALOG_179_3_CONTENT,"Nous ne savons pas grand-chose. Dans un avenir proche, nous pourrions aussi déménager pour vivre dans {SCENE_NAME_HALL_OF_MELODY}."
+WRANGLEDIALOG_179_4_CONTENT,"Nous ne savons pas grand-chose et quittons cet endroit où le vent ne s’arrête pas, bien que nous aimions beaucoup la forêt."
+WRANGLEDIALOG_179_5_CONTENT,"Nous ne savons pas grand-chose. Le téléportateur a été d’une grande aide cette fois. Une force puissante a conduit le téléportateur, une force puissante que nous n’avions jamais vu auparavant."
+WRANGLEDIALOG_179_6_CONTENT,"Nous ne savons pas grand-chose, nous sommes désolés pour {NAME_AVATAR_19}, l’enlèvement n’est pas notre intention."
+WRANGLEDIALOG_179_7_CONTENT,"Nous ne savons pas grand-chose. La transmission de {NAME_AVATAR_19} au moyen d’un appareil de téléportation est la dernière étape de cette opération, mais l’idée que nous puissions aussi devenir des membres de la couronne est insensée."
+WRANGLEDIALOG_179_8_CONTENT,"Nous ne savons pas grand-chose, longue vie à {NAME_AVATAR_33}, mais ne nous confiez pas une tâche aussi difficile la prochaine fois."
+WRANGLEDIALOG_179_9_CONTENT,"On ne sait pas grand-chose, l’opération a été commandée par {NAME_AVATAR_27}, qui voulait trop être le nouveau roi."
+WRANGLEDIALOG_179_10_CONTENT,"Nous ne savons pas grand-chose, et lorsque {NAME_AVATAR_27} deviendra le nouveau roi, notre rêve se réalisera."
+WRANGLEDIALOG_179_11_CONTENT,"Nous ne savons pas grand-chose. Dans le rêve et l’attente, nous avons choisi de rêver."
+WRANGLEDIALOG_179_12_CONTENT,"On ne sait pas grand-chose. La force qui anime le dispositif de transfert, est de l’autre côté de la montagne."
+WRANGLEDIALOG_179_BUTTON_1,Voilà ce qui s’est passé.
+WRANGLEDIALOG_191_CONTENT,Nous ne savons pas grand-chose.
+WRANGLEDIALOG_191_BUTTON_1,Dites-nous ce que vous savez.
+WRANGLEDIALOG_192_CONTENT,"Bien que je ne connaisse rien, j’ai soif d’une vie aventureuse."
+WRANGLEDIALOG_192_BUTTON_1,Joignez-vous à nous.
+WRANGLEDIALOG_194_CONTENT,"Bien que je ne comprenne rien, j’attends avec impatience une vie aventureuse."
+WRANGLEDIALOG_194_BUTTON_1,Joignez-vous à nous.
+WE_LOOK_FORWARD_TO_LEARNING_PARTNERS,Je m’attends à des partenaires savants.
+LIFE_IS_DOOMED_TO_DRIFT_BUT_ALSO_TO_LIVE_OUT_THEIR_OWN_WONDERFUL,"Bien que destiné à la dérive, l’homme doit aussi vivre sa propre splendeur."
+WE_HAVE_FOUND_THE_TWELVE_GOO,"Nous avons trouvé {TWELVE_BUGS}, oui, ce sont les douze visqueuses ici,,, devrait maintenant revenir {SCENE_NAME_HALL_OF_MELODY} avec {NAME_AVATAR_25} demander, Concernant {NAME_AVATAR_27} et {NAME_AVATAR_19},,, leur situation,,,"
+MEMBERS_OF_THE_TEAM_WHO_LEFT,Membres quittant l’équipe: %s.
+HOWEVER_SOME_MEMBERS_OF_THE_TEAM_STUBBORNLY_SURVIVED,"Cependant, certains membres de l’équipe ont résisté avec ténacité."
+HOME_SAFE_1,La maison est un havre de sécurité.
+HOME_SAFE_2,La maison est notre refuge.
+HOME_IS_SAFE,"Ou la sécurité à la maison ah,,"
+IT_IS_GETTING_DARK_YOU_CAN_NOT_PLAY_CHESS,"Il va faire sombre, pas de jeu."
+WAY_HOME_1,J’espère que vous vous souvenez du chemin de retour.
+WAY_HOME_2,"À ce moment-là, rentrer à la maison est l’option la plus sûre."
+IT_IS_GETTING_DARK_YOU_CAN_NOT_OPERATE,Il va faire sombre. Inopérable.
+IT_IS_PLAY_CHESS_YOU_CAN_NOT_OPERATE,"{PLAY_CHESS_NAME}, non opérable."
+NAME_2,AMan
+WILL_FINAL,"Vous avez dit {NAME_AVATAR_27}? ,,, encore pour la trouver et lui demander où {NAME_AVATAR_19} est,,, {NAME_AVATAR_27} dit qu’elle se rendait à {SCENE_NAME_CLINKER_VALLEY} à l’est, à la recherche de son chat {NAME_2} où elle devrait la rencontrer."
+TWELVE_BUGS,Douze collants collants
+WRANGLEDIALOG_221_CONTENT,Vous avez trouvé {TWELVE_BUGS}? Comment est-ce possible?
+WRANGLEDIALOG_221_BUTTON_1,Où se trouve {NAME_AVATAR_19}?
+WRANGLEDIALOG_221_1_CONTENT,"Vous,,, pourquoi Me Demandez?"
+WRANGLEDIALOG_221_1_BUTTON_1,{TWELVE_BUGS} nous l’a déjà dit et ce sont {NAME_AVATAR_33} et {NAME_AVATAR_20} qui les ont appelés à vous aider.
+WRANGLEDIALOG_221_4_CONTENT,Il semble que vous le saviez déjà.
+WRANGLEDIALOG_221_4_BUTTON_1,Vous avez demandé à {TWELVE_BUGS} d’enlever {NAME_AVATAR_19}. Pourquoi avez-vous fait cela?
+WRANGLEDIALOG_221_2_CONTENT,"Le trône de {NAME_1} est le mien,,, le père dit qu’il y a quelque chose d’important à annoncer à la fête d’anniversaire, et je devine, qu’il doit annoncer le trône imminent à {NAME_AVATAR_19},,, il est partial pour {NAME_AVATAR_19},,, je suis la grande princesse, et je suis celui qui devrait succéder!"
+WRANGLEDIALOG_221_2_BUTTON_1,"Cependant, {NAME_AVATAR_19} est votre sœur."
+WRANGLEDIALOG_221_3_CONTENT,",,, jouons à cache-cache,,, pour récupérer {NAME_AVATAR_19}, il suffit de trouver {NAME_2},,, {NAME_AVATAR_19} déjà caché par moi dans {NAME_2_EYE}, et votre petit compagnon précédemment dévoré par l’obscurité est dans {NAME_2_EYE}, Hahahahahah."
+WRANGLEDIALOG_221_3_BUTTON_1,Ne soyez pas trop triomphant.
+WRANGLEDIALOG_225_CONTENT,Commencer le jeu?
+WRANGLEDIALOG_225_BUTTON_1,Nous y allons.
+THE_GAME_HAS_NOT_STARTED_YET,Le jeu n’a pas encore commencé.
+I_AM_GOING_TO_START_COUNTING,Je vais commencer à compter.
+LOOK_WHERE_THEY_ARE,{NAME_2} voir où ils sont?
+CURRENT_STANDING_POSITION_CANNOT_START_PATHFINDING,Position actuelle. Vous ne pouvez pas commencer à trouver le chemin.
+NAME_2_EYE,Les yeux de AMan
+WRANGLEDIALOG_227_CONTENT,Je suis coincé.
+WRANGLEDIALOG_227_BUTTON_1,Nous sommes là pour vous sauver.
+THE_LAST_COUNT_IS_NOT_OVER,Le dernier comptage n’est pas terminé.
+WE_FINALLY_FOUND,Nous avons enfin trouvé {NAME_AVATAR_19}! Les petits compagnons sont réunis!
+WRANGLEDIALOG_228_CONTENT,"Maintenant que vous êtes réunis, ma soeur, nous nous verrons."
+WRANGLEDIALOG_228_BUTTON_1,La justice est de notre côté.
+WRANGLEDIALOG_230_CONTENT,"Vous avez enfin trouvé {NAME_AVATAR_19}. Merci à vous! ,, sa soeur {NAME_AVATAR_27}, j’espère qu’elle reviendra bientôt,,, bénédictions!"
+WRANGLEDIALOG_230_BUTTON_1,C’est notre amitié sincère.
+WE_WILL_TOGETHER,"J’ai vu le père et le roi, la mère et vous, petits compagnons, et {NAME_AVATAR_27} dans l’obscurité. Je crois toujours que je vais vous revoir! Père, ils ne devraient pas être loin."
+I_CAN_NOT_HAVE_MY_LITTLE_GIFT_AGAIN,"Bien que vous ayez prouvé votre courage, vous avez déjà eu ce petit cadeau de moi avant."
+GOODS_NAME_11,Changement de couleur perruque
+GOODS_DESCRIPTION_18,Cela devrait être {GOODS_NAME_11} de {JOB_LOBBYIST}. \n{NAME_AVATAR_20} est fabriqué avec des matériaux spéciaux.

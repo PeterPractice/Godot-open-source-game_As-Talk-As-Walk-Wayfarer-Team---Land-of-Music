@@ -1,0 +1,45 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Avatar/Equip/Wig1_AHair.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Script/Avatar/Equip/Wig.gd" type="Script" id=2]
+
+[node name="Wig1" type="Node2D"]
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="wig1_AHair1" parent="." instance=ExtResource( 1 )]
+
+[node name="wig1_AHair2" parent="." instance=ExtResource( 1 )]
+position = Vector2( 4, 3 )
+
+[node name="wig1_AHair3" parent="." instance=ExtResource( 1 )]
+position = Vector2( 8, 6 )
+
+[node name="wig1_AHair4" parent="." instance=ExtResource( 1 )]
+position = Vector2( 12, 8 )
+
+[node name="wig1_AHair5" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2, 6 )
+
+[node name="wig1_AHair6" parent="." instance=ExtResource( 1 )]
+position = Vector2( 5, 9 )
+
+[node name="wig1_AHair7" parent="." instance=ExtResource( 1 )]
+position = Vector2( 8.8995, 12.104 )
+
+[node name="wig1_AHair8" parent="." instance=ExtResource( 1 )]
+position = Vector2( 15, 9 )
+
+[node name="wig1_AHair9" parent="." instance=ExtResource( 1 )]
+position = Vector2( -1.06066, 8.59099 )
+
+[node name="wig1_AHair10" parent="." instance=ExtResource( 1 )]
+position = Vector2( 2.65165, 12.0208 )
+
+[node name="wig1_AHair11" parent="." instance=ExtResource( 1 )]
+position = Vector2( 12.0208, 15.9983 )
+
+[node name="wig1_AHair12" parent="." instance=ExtResource( 1 )]
+position = Vector2( 17.059, 13.5078 )

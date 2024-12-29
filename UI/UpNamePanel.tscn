@@ -1,0 +1,162 @@
+[gd_scene load_steps=9 format=2]
+
+[ext_resource path="res://Script/UI/UpNamePanel.gd" type="Script" id=1]
+[ext_resource path="res://UI/CommonUI/TitleLabel38.tscn" type="PackedScene" id=2]
+[ext_resource path="res://UI/CommonUI/CommonHSeparator.tscn" type="PackedScene" id=3]
+[ext_resource path="res://UI/CommonUI/TitleLabel20.tscn" type="PackedScene" id=4]
+[ext_resource path="res://UI/CommonUI/CommonLabel31.tscn" type="PackedScene" id=5]
+
+[sub_resource type="Animation" id=1]
+resource_name = "FadeOut"
+length = 6.0
+tracks/0/type = "value"
+tracks/0/path = NodePath("controlUpName:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 6 ),
+"transitions": PoolRealArray( 1, 1 ),
+"update": 0,
+"values": [ Color( 1, 1, 1, 1 ), Color( 1, 1, 1, 0 ) ]
+}
+
+[sub_resource type="Animation" id=2]
+resource_name = "TimeEndToHide"
+length = 60.0
+tracks/0/type = "value"
+tracks/0/path = NodePath("controlTips:visible")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 60 ),
+"transitions": PoolRealArray( 1 ),
+"update": 1,
+"values": [ false ]
+}
+
+[sub_resource type="Animation" id=3]
+resource_name = "TimeEndToHide"
+length = 10.0
+tracks/0/type = "value"
+tracks/0/path = NodePath("controlTips:visible")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray(  ),
+"transitions": PoolRealArray(  ),
+"update": 1,
+"values": [  ]
+}
+
+[node name="UpNamePanel" type="Control"]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -640.0
+margin_right = 640.0
+mouse_filter = 2
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRectDebugBG" type="ColorRect" parent="."]
+visible = false
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0.0235294, 0.00392157, 0.00392157, 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="controlUpName" type="Control" parent="."]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_top = 84.0
+margin_bottom = 84.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="titleLabel38Name" parent="controlUpName" instance=ExtResource( 2 )]
+anchor_right = 1.0
+margin_top = 84.0
+margin_right = 0.0
+margin_bottom = 138.0
+
+[node name="commonHSeparator1" parent="controlUpName" instance=ExtResource( 3 )]
+anchor_right = 1.0
+margin_top = 84.0
+margin_right = 54.0
+margin_bottom = 88.0
+rect_rotation = 90.0
+
+[node name="commonHSeparator2" parent="controlUpName" instance=ExtResource( 3 )]
+anchor_right = 1.0
+margin_top = 84.0
+margin_right = 54.0
+margin_bottom = 88.0
+rect_rotation = 90.0
+
+[node name="animationPlayerUpName" type="AnimationPlayer" parent="."]
+anims/FadeOut = SubResource( 1 )
+
+[node name="controlTips" type="Control" parent="."]
+visible = false
+anchor_left = 0.5
+anchor_right = 0.5
+margin_top = 42.0
+margin_bottom = 42.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="titleLabel20Tips" parent="controlTips" instance=ExtResource( 4 )]
+anchor_right = 1.0
+margin_top = 40.0
+margin_right = 0.0
+margin_bottom = 69.0
+
+[node name="commonHSeparator1" parent="controlTips" instance=ExtResource( 3 )]
+anchor_right = 1.0
+margin_top = 37.0
+margin_right = 3.0
+margin_bottom = 41.0
+
+[node name="commonHSeparator2" parent="controlTips" instance=ExtResource( 3 )]
+margin_top = 72.0
+margin_right = 3.0
+margin_bottom = 76.0
+
+[node name="animationPlayerTips" type="AnimationPlayer" parent="."]
+anims/TimeEndToHide = SubResource( 2 )
+
+[node name="controlMiddleString" type="Control" parent="."]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_top = 336.0
+margin_bottom = 336.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="CommonLabel31" parent="controlMiddleString" instance=ExtResource( 5 )]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_top = -22.0
+margin_right = 0.0
+margin_bottom = 22.0
+
+[node name="animationPlayerMiddleString" type="AnimationPlayer" parent="."]
+anims/TimeEndToHide = SubResource( 3 )
+
+[connection signal="animation_finished" from="animationPlayerUpName" to="." method="_on_animationPlayerUpName_animation_finished"]
+[connection signal="animation_finished" from="animationPlayerTips" to="." method="_on_animationPlayerTips_animation_finished"]
+[connection signal="animation_finished" from="animationPlayerMiddleString" to="." method="_on_animationPlayerMiddleString_animation_finished"]

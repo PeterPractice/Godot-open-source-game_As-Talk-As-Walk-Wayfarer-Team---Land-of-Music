@@ -1,0 +1,40 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://Script/UI/CommonUI/CommonTextureButtonWithTitle.gd" type="Script" id=1]
+[ext_resource path="res://Picture/UI/CommonButton/CommonTextureButtonPlayChess.png" type="Texture" id=2]
+[ext_resource path="res://Picture/UI/CommonButton/CommonTextureButtonPlayChess_Pressed.png" type="Texture" id=3]
+[ext_resource path="res://Picture/UI/CommonButton/CommonTextureButtonPlayChess_Hover.png" type="Texture" id=4]
+[ext_resource path="res://UI/CommonUI/CommonLabel13.tscn" type="PackedScene" id=5]
+[ext_resource path="res://UI/CommonUI/TitleLabel20.tscn" type="PackedScene" id=6]
+
+[node name="CommonTextureButtonPlayChess" type="TextureButton"]
+margin_right = 32.0
+margin_bottom = 32.0
+texture_normal = ExtResource( 2 )
+texture_pressed = ExtResource( 3 )
+texture_hover = ExtResource( 4 )
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelLeft" parent="." instance=ExtResource( 5 )]
+margin_left = 33.0
+margin_top = 13.0
+margin_right = 61.0
+margin_bottom = 32.0
+
+[node name="textureRectPressed" type="TextureRect" parent="."]
+visible = false
+margin_right = 32.0
+margin_bottom = 32.0
+texture = ExtResource( 3 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="titleLabelCenter" parent="." instance=ExtResource( 6 )]
+margin_left = 50.0
+margin_top = 2.0
+margin_right = 170.0
+margin_bottom = 31.0

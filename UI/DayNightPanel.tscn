@@ -1,0 +1,110 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://UI/CommonUI/CommonLabel.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Picture/UI/DayNight/SunAndMoonMask.png" type="Texture" id=2]
+[ext_resource path="res://Picture/UI/DayNight/SunAndMoon.png" type="Texture" id=3]
+[ext_resource path="res://Script/UI/DayNightPanel.gd" type="Script" id=4]
+[ext_resource path="res://Picture/UI/DayNight/SecondHand_2.png" type="Texture" id=5]
+[ext_resource path="res://Picture/UI/DayNight/SecondHand_2_2.png" type="Texture" id=6]
+
+[sub_resource type="CanvasItemMaterial" id=1]
+light_mode = 2
+
+[node name="DayNightPanel" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+script = ExtResource( 4 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="colorRectBlackBG" type="ColorRect" parent="."]
+modulate = Color( 0, 0, 0, 1 )
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="controlClock" type="Control" parent="."]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -125.0
+margin_top = -13.0
+margin_bottom = 98.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="commonLabelDaysNumber" parent="controlClock" instance=ExtResource( 1 )]
+anchor_right = 1.0
+margin_top = 21.0
+margin_right = 0.0
+margin_bottom = 44.0
+grow_horizontal = 0
+text = "Days 1"
+align = 1
+
+[node name="textureRectDayNight" type="TextureRect" parent="controlClock"]
+material = SubResource( 1 )
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -125.0
+margin_top = 44.0
+margin_right = -11.0
+margin_bottom = 158.0
+rect_pivot_offset = Vector2( 57, 57 )
+mouse_filter = 2
+texture = ExtResource( 3 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="light2DDayNight" type="Light2D" parent="controlClock"]
+position = Vector2( 57, 101 )
+texture = ExtResource( 2 )
+mode = 2
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="controlSecondHand" type="Control" parent="controlClock"]
+anchor_left = 1.0
+anchor_right = 1.0
+margin_left = -76.0
+margin_top = 24.0
+margin_right = -56.0
+margin_bottom = 44.0
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="TextureRect" type="TextureRect" parent="controlClock/controlSecondHand"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -10.0
+margin_top = -10.0
+margin_right = 10.0
+margin_bottom = 10.0
+texture = ExtResource( 5 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="TextureRect2" type="TextureRect" parent="controlClock/controlSecondHand"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -10.0
+margin_top = -10.0
+margin_right = 10.0
+margin_bottom = 10.0
+texture = ExtResource( 6 )
+__meta__ = {
+"_edit_lock_": true
+}

@@ -1,0 +1,844 @@
+stringKey,stringContent
+NAME_GAME_NAME,Những nhóm nói chuyện và đi bộ - Quốc gia âm nhạc
+NAME_AVATAR_1,Tia chớp 1
+NAME_AVATAR_2,Quân sư
+NAME_AVATAR_3,Chen Xiao Ming
+NAME_AVATAR_4,Common Person
+NAME_AVATAR_5,JiFeng
+NAME_AVATAR_6,Tia chớp 2
+NAME_AVATAR_7,Tia chớp 3
+NAME_AVATAR_8,Li Crooked Neck
+NAME_AVATAR_9,Nữ thần mặt trời
+NAME_AVATAR_10,Slime Over
+NAME_AVATAR_11,Slime Growth
+NAME_AVATAR_12,Slime For
+NAME_AVATAR_13,Slime Love
+NAME_AVATAR_14,Slime Resist
+NAME_AVATAR_15,Slime Disaster
+NAME_AVATAR_16,Slime Donot
+NAME_AVATAR_17,Slime Cherish
+NAME_AVATAR_18,Si Warm Heart
+NAME_AVATAR_19,Fa Princess Younger Sister
+NAME_AVATAR_19_2,Autumn Yu
+NAME_AVATAR_20,Silver Dragon
+NAME_AVATAR_21,Slime Ten
+NAME_AVATAR_22,Slime Thousand
+NAME_AVATAR_23,Slime Years
+NAME_AVATAR_24,Slime Life
+NAME_AVATAR_25,Do King
+NAME_AVATAR_26,Re Queen
+NAME_AVATAR_27,Mi Princess Elder Sister
+NAME_AVATAR_28,La Housekeeper
+NAME_AVATAR_29,Sol Butler
+NAME_AVATAR_30,Ba lô
+NAME_AVATAR_31,Sổ ghi chú
+NAME_AVATAR_32,Thư của {NAME_AVATAR_19}
+NAME_AVATAR_33,Three Dragons Gang
+NAME_AVATAR_34,Thư của {NAME_AVATAR_33}
+GOODS_NAME_1,Giày dép tìm đường
+GOODS_NAME_2,Kính viễn vọng
+GOODS_NAME_3,Tóc giả
+GOODS_NAME_4,Tóc giả
+GOODS_NAME_5,Tóc giả
+GOODS_NAME_6,Tóc giả
+GOODS_NAME_7,Tóc dài
+GOODS_NAME_8,Tóc dài
+GOODS_NAME_9,Tóc dài
+GOODS_NAME_10,Tóc dài
+JOB_LOBBYIST,Thực hiện
+NAME_1,Đất nước âm nhạc
+PLAY_CHESS_NAME,Đấu cờ
+PLAY_CHESS_POINTS,{PLAY_CHESS_NAME} điểm
+SCENE_NAME_1_HOME,{NAME_AVATAR_1} ngôi nhà
+SCENE_NAME_3_HOME,{NAME_AVATAR_3} ngôi nhà
+SCENE_NAME_4_HOME,{NAME_AVATAR_4} ngôi nhà
+SCENE_NAME_3_HOME_COURTYARD,{NAME_AVATAR_3} sân nhà
+SCENE_NAME_CHORD_SQUARE,Hòa âm plaza
+SCENE_NAME_STAVE_AVENUE,Đại lộ ngũ quang phổ
+SCENE_NAME_HALL_OF_MELODY,Melody hall
+SCENE_NAME_CLINKER_VALLEY,Thung lũng âm thanh
+SCENE_NAME_CRACKING_VOICE_RIDGE,Phá âm linh
+SCENE_NAME_PLAY_CHESS,Đấu cờ
+NPCARTICLETRIGGER_NAME_1,{NAME_AVATAR_1} cửa nhà
+STARTGAMEPANEL_TITLELABEL38GAMETITLE,{NAME_GAME_NAME}
+STARTGAMEPANEL_COMMONLABELVERSION,Version %s
+STARTGAMEPANEL_COMMONBUTTON31LOADGAME,Tải trò chơi
+STARTGAMEPANEL_STARTGAME,Bắt đầu trò chơi
+STARTGAMEPANEL_CONTINUEGAME,Tiếp tục trò chơi
+STARTGAMEPANEL_COMMONBUTTON31OPTION,Tùy chọn
+STARTGAMEPANEL_COMMONBUTTON31EXITGAME,Thoát khỏi trò chơi
+STARTGAMEPANEL_COMMONLABELARCHIVE,Lưu trữ
+STARTGAMEPANEL_ARCHIVE_NEW_GAME,Trò chơi mới
+STARTGAMEPANEL_ARCHIVE_CLEAR,Xoá bỏ
+STARTGAMEPANEL_ARCHIVE_CLEAR_DOUBLE_CONFIRMATION,Xoá dữ liệu %s xác nhận thứ hai
+PANEL_BUTTON_OK,Chắc chắn
+PANEL_BUTTON_CANCEL,Hủy bỏ
+PANEL_BUTTON_CLOSE,Đóng cửa
+OPTIONPANEL_COMMONLABEL31TITLE,Giao diện tùy chọn
+OPTIONPANEL_COMMONBUTTONLANGUAGE,Chọn ngôn ngữ
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO,Độ phân giải ảnh:
+OPTIONPANEL_COMMONLABELFULLSCREEN,Toàn màn hình:
+OPTIONPANEL_COMMONLABELWINDOWSTRETCH,Kéo dài hình ảnh:
+OPTIONPANEL_COMMONLABELMUSIC,Âm nhạc:
+OPTIONPANEL_COMMONLABELSOUNDEFFECT,Hiệu ứng âm thanh:
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_2,1280x720
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_3,1920x1080
+OPTIONPANEL_COMMONLABELVIDEORESOLUTIONRATIO_SCREEN_RESOLUTION,Độ phân giải màn hình
+OPTIONPANEL_COMMONLABELLANGUAGE,Ngôn ngữ:
+OPTIONPANEL_COMMONBUTTONDEFAULT,Mặc định
+OPTIONPANEL_COMMONBUTTONRETURNTOHUBSCENE,Trở về sảnh
+OPTIONPANEL_COMMONBUTTONEXITGAME,Thoát khỏi trò chơi
+OPTIONPANEL_COMMONBUTTONRETURNTOGAME,Trở lại trò chơi
+OPTIONPANEL_GENERAL,General
+OPTIONPANEL_KEYBOARD,Bàn phím
+OPTIONPANEL_KEYBOARD_MOVE,Di chuyển:
+OPTIONPANEL_KEYBOARD_MOVE_CONTENT,ADSW (hoặc ←→↓↑)
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK,{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1}/{DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK}:
+OPTIONPANEL_KEYBOARD_INTERACTION_TALK_CONTENT,E
+OPTIONPANEL_KEYBOARD_PLAY_CHESS,Trò cá cược:
+OPTIONPANEL_KEYBOARD_PLAY_CHESS_CONTENT,P (click chuột bên trái để tiếp tục bất cứ nơi nào)
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER,Chọn vai:
+OPTIONPANEL_KEYBOARD_SELECT_CHARACTER_CONTENT,"1,2,3,4,5,6,7,8,9,0 "
+OPTIONPANEL_KEYBOARD_BAG,Ba lô:
+OPTIONPANEL_KEYBOARD_BAG_CONTENT,B
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD,Ghi chú:
+OPTIONPANEL_KEYBOARD_JOURNAL_RECORD_CONTENT,"J (lật trang: PageUp, PageDown) "
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN,Giao diện tùy chọn:
+OPTIONPANEL_KEYBOARD_OPTIONS_SCREEN_CONTENT,O
+OPTIONPANEL_ABOUT,về
+OPTIONPANEL_ABOUT_NAME_OF_THE_GAME,Tên trò chơi: {NAME_GAME_NAME}.
+OPTIONPANEL_ABOUT_VERSION,Phiên bản: %s.
+OPTIONPANEL_ABOUT_COPYRIGHT_AND_DEVELOPMENT,Mô tả: %s.
+OPTIONPANEL_ABOUT_CONTACT,Liên lạc: %s.
+OPTIONPANEL_ABOUT_CONTACT_COPY,SAO chép
+OPTIONPANEL_ABOUT_THANKS,"Cảm ơn: cảm ơn gia đình tôi, không có sự hỗ trợ của họ, không có trò chơi này. "
+LANGUAGEPANEL_COMMONLABEL31TITLE,Chọn ngôn ngữ
+TIME_YEAR,năm
+TIME_MONTH,tháng
+TIME_DAY,Vào ngày
+TIME_HOUR,khi
+TIME_MINUTE,phút
+TIME_SECOND,giây
+BOOTSCENE_STARTING_STRING1,Bắt đầu
+BOOTSCENE_STARTING_STRING2,Đang khởi động.
+BOOTSCENE_STARTING_STRING3,Khởi động …
+BOOTSCENE_STARTING_STRING4,Đang khởi động …
+DAYNIGHTPANEL_COMMONLABELDAYSNUMBER,Ngày %s.
+DAYNIGHTPANEL_FIRSTSTARTNIGHT,Trời sắp tối rồi.
+CURRENTSCENESHOWNAME_ENTER,Vào %s.
+JOURNALRECORDPANEL_COMMONLABEL31TITLE,{NAME_AVATAR_31}
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20AVATAR,Vai trò
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20BAG,Đồ vật
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20SCENE,nơi
+JOURNALRECORDPANEL_CONTROLPAGING_TITLEBUTTON20TASK,Chuyến đi
+JOURNALRECORDPANEL_PLAY_CHESS_POINTS,Tỉ lệ cược: %s đến %s.
+DOWNPANEL_CONTROLWRANGLEDIALOG_COMMONBUTTONWRANGLEDIALOGCONTINUE,Tiếp tục đi …
+DOWNPANEL_WRANGLEDIALOGBUTTON_STRINGFLAG,:
+UI_INPUT_ACTION_EVENT_TYPE_COMMONBUTTONITEM_TEXTUREBUTTON1_PRESSED_EVENT_IN_CD,Làm mát.
+AVATAR_CAN_NOT_MOVE,Không thể di chuyển.
+AVATAR_HAD_EQUIP,Đã mặc: %s.
+AVATAR_HAD_EQUIP2,Đã được mặc.
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1,Tương tác
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONINTERACTION1_TALK,Nói chuyện
+DOWNPANEL_CONTROLINTERACTION_COMMONTEXTUREBUTTONPLAYCHESS1,{PLAY_CHESS_NAME}
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13BAGUSE,Sử dụng
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13DISCARD,Vứt đi
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD,Vứt bỏ %s?
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_YES,Vứt đi
+DOWNPANEL_WRANGLEDIALOG_ASK_DISCARD_NO,Giữ nó
+DOWNPANEL_CONTROLBAGUSE_COMMONBUTTON13CHECK,Kiểm tra
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_1,Tro tàn và bốc cháy.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_2,Đã trống.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_3,Sạch sẽ.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_4,Trống.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_5,Trống rỗng.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_6,Trống rỗng trống rỗng.
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_7,"Trống rỗng, trống rỗng, trống rỗng. "
+DOWNPANEL_COMMONRICHTEXTLABELJOURNALRECORD_CLEAR_8,"Trống rỗng, trống rỗng, trống rỗng. "
+CHESSPANEL1_PLAYCHESS_START,{PLAY_CHESS_NAME} bắt đầu
+CHESSPANEL1_PLAYCHESS_SUCCESS,{PLAY_CHESS_NAME} thành công
+CHESSPANEL1_PLAYCHESS_FAILURE,{PLAY_CHESS_NAME} lỗi
+CHESSPANEL1_COMMONBUTTONCONTINUE,Tiếp tục
+CHESSPANEL1_MOUSECLICKCONTINUE,(click chuột bên trái bất cứ nơi nào để tiếp tục)
+CHESSPANEL1_POINTS,%s tỉ lệ cược: %s.
+SLOGAN_NEW_DAY_1,Một ngày mới bắt đầu.
+SLOGAN_NEW_DAY_2,Ngày phiêu lưu bắt đầu.
+SLOGAN_NEW_DAY_3,Một ngày mới.
+SLOGAN_NEW_DAY_4,Một ngày phiêu lưu.
+SLOGAN_NEW_DAY_5,Một chuyến đi dài.
+SLOGAN_NEW_DAY_6,"Chuyến đi dài, chuẩn bị đi. "
+SLOGAN_NEW_DAY_7,Chuẩn bị đi.
+SLOGAN_NEW_DAY_8,Khởi hành.
+SLOGAN_AVATAR_DEAD_1,Bóng đêm nuốt chửng những người không sợ bóng tối.
+SLOGAN_AVATAR_DEAD_2,"Trời tối, anh bị bóng đêm nuốt chửng. "
+NAVIGATIONMANAGER_NOT_VALID_PATH_END_POSITION,Điểm đến không hợp lệ.
+NAVIGATIONMANAGER_END_OBSTRUCTIONS_NEARBY,"Dừng tự động tìm đường, có chướng ngại vật gần đó. "
+GOODS_DESCRIPTION_1,"Với đôi giày này, bạn có thể đi bộ một cách tự động. "
+GOODS_DESCRIPTION_2,"Nhìn xa hơn, đặc biệt là ở những nơi có ánh sáng xấu. "
+GOODS_DESCRIPTION_3,Có lẽ là {JOB_LOBBYIST} {GOODS_NAME_3}.
+GOODS_DESCRIPTION_4,Có lẽ là {JOB_LOBBYIST} {GOODS_NAME_3}
+GOODS_DESCRIPTION_5,Có lẽ là {JOB_LOBBYIST} {GOODS_NAME_3}
+GOODS_DESCRIPTION_6,Có lẽ là {JOB_LOBBYIST} {GOODS_NAME_3}
+GOODS_DESCRIPTION_7,Có lẽ là {JOB_LOBBYIST} {GOODS_NAME_3}
+GOODS_DESCRIPTION_8,Có lẽ là {JOB_LOBBYIST} {GOODS_NAME_3}
+GOODS_DESCRIPTION_9,Có lẽ là {JOB_LOBBYIST} {GOODS_NAME_3}
+GOODS_DESCRIPTION_10,Có lẽ là {JOB_LOBBYIST} {GOODS_NAME_3}
+GOODS_DESCRIPTION_11,"Ba lô có thể mang rất nhiều đồ đạc, những chuyến phiêu lưu, những công cụ cần thiết để đi bộ. "
+GOODS_DESCRIPTION_12,"Ghi lại những gì bạn thấy, nghe, thấy, cảm nhận. Có 4 trang báo cáo về thông tin của các thành viên trong nhóm. Hồ sơ lưu trữ đồ trong ba lô. Trang ghi lại những nơi đã đến. Những gì đã nói sẽ được ghi lại. "
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_1,Một đôi giày cho một đôi giày?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_2,Chân trái và chân phải là một đôi giày?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_3,Pin đâu?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_4,Không tìm thấy công tắc.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_5,Công tắc đâu?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_6,Mặc vào đi.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_7,Có thể tự động tìm đường.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_8,Lần này sẽ không bị lạc đâu.
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_9,Chúng ta sẽ đi đâu?
+GOODSUSEFUNCTION_PUTONEQUIP_FOOT_10,Để tôi nghĩ xem tôi sẽ đi đâu.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_1,Nhìn xa hơn.
+GOODSUSEFUNCTION_PUTONEQUIP_TELESCOPE_2,Tầm nhìn tốt hơn.
+GOODSADDFUNCTION_TELESCOPE_1,Một kỹ năng mới.
+GOODSADDFUNCTION_TELESCOPE_2,"Không phải là một thiên tài, 10 mét là chắc chắn. "
+GOODSREMOVEFUNCTION_TELESCOPE_1,Không thể nhìn xa hơn.
+GOODSREMOVEFUNCTION_TELESCOPE_2,Đeo khó chịu?
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_1,Sáng chói.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_2,Gyeon-woo.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_3,Yushu trong gió.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_4,Ngẩng đầu lên.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_5,Thiếu tá.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_6,"Người thì dựa vào tóc, ngựa thì dựa vào yên. "
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_7,Có thể sẽ có sự cải thiện trí tuệ.
+GOODSUSEFUNCTION_PUTONEQUIP_WIG_8,Trí thông minh cộng 1.
+GOODSADDFUNCTION_WIG_1,Hay đấy.
+GOODSADDFUNCTION_WIG_2,Cuối cùng cũng tìm thấy.
+GOODSADDFUNCTION_WIG_3,Không tệ đâu.
+GOODSADDFUNCTION_WIG_OTHER_1,Tóc giả?
+GOODSADDFUNCTION_WIG_OTHER_2,Nên mặc bộ tóc giả {JOB_LOBBYIST}.
+GOODSADDFUNCTION_WIG_OTHER_3,Bộ tóc giả ở {JOB_LOBBYIST}? 
+GOODSREMOVEFUNCTION_WIG_1,Trí tuệ -1.
+GOODSREMOVEFUNCTION_WIG_2,Đầu lạnh.
+GOODSREMOVEFUNCTION_WIG_3,Cảm thấy không chuyên nghiệp.
+GOODSREMOVEFUNCTION_WIG_4,Cảm thấy sự suy giảm trí tuệ.
+GOODSREMOVEFUNCTION_WIG_5,Tóc giả cháy giống tóc cháy.
+GOODSREMOVEFUNCTION_WIG_6,Không có gì đáng tiếc khi tóc giả bị vứt đi.
+GOODSREMOVEFUNCTION_WIG_7,Anh ta là chuyên gia mà không cần tóc giả.
+GOODSREMOVEFUNCTION_WIG_8,Chuyên gia không thể dựa vào tóc giả.
+GOODSADDFUNCTION_FOOT_1,Điều này biết làm thế nào để đi.
+GOODSADDFUNCTION_FOOT_2,Giày cao cấp như vậy? Có thể điều hướng?
+GOODSADDFUNCTION_FOOT_3,Điều hướng giày cần năng lượng?
+GOODSADDFUNCTION_FOOT_4,Ném giày hướng?
+GOODSADDFUNCTION_FOOT_5,"Làm thế nào để có được, mang giày biết. "
+GOODSREMOVEFUNCTION_FOOT_1,Chân đất.
+GOODSREMOVEFUNCTION_FOOT_2,Không thể điều hướng.
+GOODSREMOVEFUNCTION_FOOT_3,"Những đôi giày bị vứt đi, chúng biến mất. Mất định hướng, đi từng bước một. "
+GOODS_IN_USE,Trong sử dụng.
+GOODS_UNUSED,Chưa được sử dụng.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE,Khoảng cách tầm nhìn: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE,Hình ảnh khung cảnh: %s.
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_RHOMBUS,Hình thoi
+GOODS_TELESCOPE_VISUALFIELDSHARPTYPE_EGG,""" "
+CANNOT_WEAR_IT_LOBBYIST_WIG_1,Không thể mặc bộ tóc giả đặc biệt {JOB_LOBBYIST}.
+CANNOT_WEAR_IT_LOBBYIST_WIG_2,Đây là bộ tóc giả cho {JOB_LOBBYIST}. 
+BAG_IS_FULL,"Ba lô đã đầy đủ, không thể mang thêm đồ đạc. "
+BAG_ADD,Đã nhận: %s.
+BAG_REMOVE,Vứt bỏ: %s.
+BAG_USE,Sử dụng: %s.
+TOP_BUTTON,Nút trên cùng
+BOTTOM_BUTTON,Nút dưới cùng
+CLEAR_BUTTON,Mở nút
+AVATAR_DESCRIPTION_1,"Tôi là rắn, rắn mạnh mẽ. Trong ba người anh em, tôi là lớn nhất. "
+AVATAR_DESCRIPTION_2,"{NAME_AVATAR_3} Tôi là một người bạn nhỏ. Tôi sẽ chạy như một đám mây trên bầu trời, gió và mưa. Gia đình rất ấm áp, tôi thích đi lang thang, chúng tôi đi lang thang! "
+AVATAR_DESCRIPTION_3,"Năm tiểu học là một giai đoạn quan trọng trong cuộc sống của một sinh viên, và ngoài bốn phép toán, tôi đã bắt đầu học cổ điển, âm nhạc và tranh vẽ. "
+AVATAR_DESCRIPTION_4,"Với tư cách là một luật sư, trước tòa, tôi rất giỏi. Tôi là cầu thủ bóng đá. Có ai thấy tóc giả của tôi không? "
+AVATAR_DESCRIPTION_8,"Tôi là một doanh nhân, và kinh doanh công bằng là niềm tin của tôi. "
+AVATAR_DESCRIPTION_6,"Ta là rắn, rắn mạnh, rắn mặc giáp. Trong ba người anh em, tôi đứng thứ hai. "
+AVATAR_DESCRIPTION_7,"Tôi là một con rắn, một con rắn mạnh mẽ, một con rắn mặc áo giáp và cánh tay robot. Trong số ba người anh em, tôi đứng thứ ba. "
+AVATAR_DESCRIPTION_5,Tốc độ là số một. Các đệ tử của tôi đều mạnh mẽ. Tôi luôn tìm kiếm khoảng cách.
+AVATAR_DESCRIPTION_9,"Nếu cần, bạn có thể nói chuyện với tôi. Con chó của tôi chạy khắp nơi. "
+AVATAR_DESCRIPTION_10,"Chúng ta không phải là sâu mọt, chúng ta đang trôi nổi. "
+AVATAR_DESCRIPTION_11,Chúng ta không phải là sâu mọt.
+AVATAR_DESCRIPTION_12,Chúng ta không phải là sâu hại cho những người lý tưởng.
+AVATAR_DESCRIPTION_13,Chúng tôi không phải là sâu mọt.
+AVATAR_DESCRIPTION_14,"Chúng ta không phải là sâu mọt, và áo khoác ấm áp của gió. "
+AVATAR_DESCRIPTION_15,Chúng ta không phải là sâu mọt.
+AVATAR_DESCRIPTION_16,"Chúng ta không phải là sâu mọt, không nhìn vào tương lai, tự nhiên. "
+AVATAR_DESCRIPTION_17,Chúng ta không phải là sâu mọt.
+AVATAR_DESCRIPTION_18,"Xuất thân từ hoàng gia, chưa bao giờ ra ngoài phiêu lưu. Tôi sẽ trở thành một ngôi SAO trên bầu trời, với bầu trời rộng lớn và bầu trời mênh mông. Chúng ta sẽ đi cùng nhau trên con đường dài."
+AVATAR_DESCRIPTION_19,"Công chúa không phải là công việc của con người, và công chúa cũng có rất nhiều bạn bè tốt. "
+AVATAR_DESCRIPTION_20,Chiến dịch này phải được tiến hành trong bí mật và không thể bị lộ.
+AVATAR_DESCRIPTION_21,Chúng ta không phải là sâu mọt.
+AVATAR_DESCRIPTION_22,Chúng ta không phải là sâu mọt.
+AVATAR_DESCRIPTION_23,"Chúng tôi không phải là sâu mọt, sửa chữa, là một cuộc sống. "
+AVATAR_DESCRIPTION_24,"Chúng tôi không phải là sâu mọt, là một cuộc sống, là một thái độ. "
+AVATAR_DESCRIPTION_25,{NAME_1} Ta là vua.
+AVATAR_DESCRIPTION_26,{NAME_1} Ta là hoàng hậu.
+AVATAR_DESCRIPTION_27,Ta là công chúa vĩ đại và ngai vàng là của ta.
+AVATAR_DESCRIPTION_28,"Chắc anh đói rồi, muốn ăn gì không? Nói tôi nghe đi. "
+AVATAR_DESCRIPTION_29,"Phục vụ là mục đích của tôi. Mũ của tôi rất đẹp, và tôi không cần mấy bộ tóc giả đó. "
+ADDAVATARFROMSCENE_ADD_TEAM_MEMBERS,Thêm thành viên mới: %s.
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_YOU_CANNOT_ADD_TEAM_MEMBERS_REPEATEDLY,Không thể lặp lại việc thêm thành viên của đội: %s.
+ADDSAVEGAMEDATA_ARCHIVE_AVATARLIST_THE_TEAM_HAS_A_MAXIMUM_OF_AVATAR,Đội tối đa là % người.
+TIPS_STRING_AND_FLAG,"Này, "
+NO_JOURNALRECORDBOOK_CAN_NOT_VIEW,"Không có {NAME_AVATAR_31}, không thể xem hồ sơ. "
+NO_JOURNALRECORDBOOK,Không có gì cả.
+NO_BAG_NO_MORE_ITEMS,{NAME_AVATAR_30} Không thể mang thêm đồ vật nếu không có.
+NO_BAG,{NAME_AVATAR_30} Không có gì cả.
+SCENE_CONTENT_1_HOME,{NAME_AVATAR_1} Có một lực lượng lớn ở nhà.
+SCENE_CONTENT_3_HOME,"{NAME_AVATAR_3} Có bàn ở nhà, có bàn ở nhà {NAME_AVATAR_31}. "
+SCENE_CONTENT_4_HOME,{NAME_AVATAR_4} Trên giường ở nhà {NAME_AVATAR_30}.
+SCENE_CONTENT_3_HOME_COURTYARD,{NAME_AVATAR_3} Sân nhà có {NAME_AVATAR_2}.
+SCENE_CONTENT_CHORD_SQUARE,Những người bạn nhỏ thường tụ tập ở đây. Không biết khi nào thì một số cây héo úa và có rất nhiều dấu vết bị xe đạp đè lên mặt đất.
+SCENE_CONTENT_STAVE_AVENUE,Một con đường dẫn tới những nơi chưa biết đến. Nghe nói có vài đường mòn ở đây.
+SCENE_CONTENT_HALL_OF_MELODY,{NAME_1} Đây là cung điện với rất nhiều phòng.
+SCENE_CONTENT_CLINKER_VALLEY,"Vùng đất đày ải, nơi có thể tìm thấy người cần tìm. "
+SCENE_CONTENT_CRACKING_VOICE_RIDGE,"Hoang vu, rừng rậm. "
+SCENE_CONTENT_PLAY_CHESS,May mắn sẽ ở cùng các bạn.
+WRANGLEDIALOG_1_CONTENT,Nhặt nó?
+WRANGLEDIALOG_1_BUTTON_1,Gặm nhấm.
+WRANGLEDIALOG_1_BUTTON_2,Không gặm nhấm.
+WRANGLEDIALOG_2_CONTENT,Nhặt nó?
+WRANGLEDIALOG_2_BUTTON_1,Gặm nhấm.
+WRANGLEDIALOG_2_BUTTON_2,Không gặm nhấm.
+WRANGLEDIALOG_3_CONTENT,Mở cửa ra?
+WRANGLEDIALOG_3_BUTTON_1,Mở ra đi.
+WRANGLEDIALOG_3_BUTTON_2,Không mở.
+WRANGLEDIALOG_3_FUNCTION_1,Cửa mở rồi.
+WRANGLEDIALOG_4_CONTENT,"Mang theo trước khi ra ngoài {NAME_AVATAR_30}, bất cứ thứ gì anh cần. "
+WRANGLEDIALOG_5_CONTENT,{NAME_AVATAR_31} Có rất nhiều thứ để ghi lại và chứng kiến những chuyến đi phiêu lưu.
+WRANGLEDIALOG_6_CONTENT,"Thế giới ngoài kia rất nguy hiểm, nhưng cũng đầy những điều mới mẻ và thú vị. "
+WRANGLEDIALOG_6_BUTTON_1,Tôi muốn ra ngoài xem.
+WRANGLEDIALOG_7_CONTENT,"Trước khi đi ra ngoài, để cho bạn biết. "
+WRANGLEDIALOG_7_BUTTON_1,Tôi đang nghe đây.
+WRANGLEDIALOG_8_CONTENT,Thách thức ở khắp nơi.
+WRANGLEDIALOG_8_BUTTON_1,Tôi đã sẵn sàng.
+WRANGLEDIALOG_9_CONTENT,Tôi cảm thấy mình có thể mạnh mẽ hơn.
+WRANGLEDIALOG_9_BUTTON_1,Con đã khỏe rồi.
+WRANGLEDIALOG_9_BUTTON_2,Có thể mạnh hơn?
+WRANGLEDIALOG_10_CONTENT,Tôi luôn cảm thấy có một sức mạnh lớn đang chờ đợi tôi.
+WRANGLEDIALOG_10_BUTTON_1,Nói nghe đi.
+WRANGLEDIALOG_10_BUTTON_2,Sức mạnh to lớn khiến người ta trông chờ.
+WRANGLEDIALOG_11_CONTENT,Sức mạnh này làm tôi cảm thấy có từ lâu.
+WRANGLEDIALOG_11_BUTTON_1,Là một thời gian dài?
+WRANGLEDIALOG_11_BUTTON_2,Anh sẽ tìm ra hắn.
+WRANGLEDIALOG_12_CONTENT,Chúng ta đi phiêu lưu cùng nhau?
+WRANGLEDIALOG_12_BUTTON_1,Tham gia với chúng tôi!
+WRANGLEDIALOG_12_BUTTON_2,Khoan đã.
+GOODS_DESCRIPTION_13,"Sinh nhật của tôi đang đến, và tôi mời bạn đến dự tiệc sinh nhật của tôi, hãy đến gặp tôi ở phía bắc đường trường phát triển name_stave_đường. Tôi đã mất tích một thời gian, tôi nhớ bạn rất nhiều và rất mong được nhóm họp với bạn. Bạn học của bạn."
+WRANGLEDIALOG_13_CONTENT,"Bạn có thể mở cửa nếu bạn thành công. Nhưng đó chỉ là một bài giảng, và thất bại vẫn có thể đến và mở cửa một lần nữa."
+WRANGLEDIALOG_13_1_CONTENT,"Những điều bạn đã nói, bạn có thể trực tiếp. Đó là các đội, và đôi khi các cầu thủ ở phía trước sẽ có kết quả khác nhau."
+WRANGLEDIALOG_13_BUTTON_1,Bắt đầu đi.
+WRANGLEDIALOG_14_CONTENT,Tôi luôn muốn tìm chúng.
+WRANGLEDIALOG_15_CONTENT,Có vẻ như không xa lắm.
+WRANGLEDIALOG_16_CONTENT,Tôi sẽ tìm chúng chứ?
+WRANGLEDIALOG_17_CONTENT,Nhưng chúng ta vẫn cần những người bạn mạnh mẽ.
+WRANGLEDIALOG_18_CONTENT,Đợi nữa à?
+WRANGLEDIALOG_18_BUTTON_1,Thất bại thì SAO?
+WRANGLEDIALOG_19_CONTENT,Hãy yên tâm rằng thất bại là tốt.
+WRANGLEDIALOG_19_BUTTON_1,"Được rồi, bắt đầu thôi."
+WRANGLEDIALOG_20_CONTENT,Bạn đến với tôi để chơi?
+WRANGLEDIALOG_20_BUTTON_1,"Yeah, yeah."
+WRANGLEDIALOG_20_1_CONTENT,Chúng ta đi thôi.
+WRANGLEDIALOG_20_2_CONTENT,Nhân tiện.
+WRANGLEDIALOG_20_3_CONTENT,Anh có nhớ không?
+WRANGLEDIALOG_20_3_BUTTON,Một chút ấn tượng.
+WRANGLEDIALOG_20_4_CONTENT,Cô ấy là bạn học trường tiểu học của tôi.
+WRANGLEDIALOG_20_5_CONTENT,Lâu rồi không gặp.
+WRANGLEDIALOG_20_6_CONTENT,Tôi chợt nhớ ra là sắp đến sinh nhật cô ấy rồi.
+WRANGLEDIALOG_20_6_BUTTON,Cô ấy là bạn gái của bạn?
+WRANGLEDIALOG_20_7_CONTENT,"Trong thực tế, chúng tôi chỉ là bạn học."
+WRANGLEDIALOG_20_8_CONTENT,Tình bạn học sinh.
+WRANGLEDIALOG_20_8_BUTTON,Câu hỏi đơn giản như vậy.
+WRANGLEDIALOG_20_9_CONTENT,Đi xem cô ấy thế nào.
+WRANGLEDIALOG_20_9_BUTTON,"Được rồi, được rồi."
+WRANGLEDIALOG_21_CONTENT,"Tuy nhiên, trước khi đi, chúng ta vẫn cần một cơ hội để học hỏi."
+WRANGLEDIALOG_21_BUTTON_1,"Được rồi, bắt đầu thôi."
+WRANGLEDIALOG_22_CONTENT,Tôi có một cái gì đó?
+WRANGLEDIALOG_22_BUTTON_1,Bạn đang bận rộn?
+WRANGLEDIALOG_23_CONTENT,"Trước khi đi, tôi muốn thử thách sự quyết tâm của mọi người."
+WRANGLEDIALOG_23_BUTTON_1,"Được rồi, bắt đầu thôi."
+WRANGLEDIALOG_24_CONTENT,Đi đâu vậy?
+WRANGLEDIALOG_24_BUTTON_1,Ra ngoài và phiêu lưu.
+WRANGLEDIALOG_24_1_CONTENT,"Một cuộc phiêu lưu, với tôi."
+WRANGLEDIALOG_24_1_BUTTON_1,Đi cùng nhau.
+WRANGLEDIALOG_24_2_CONTENT,Nhưng tôi sẽ không đi nếu không có người bạn tốt nhất của tôi.
+WRANGLEDIALOG_24_2_BUTTON_1,Bạn bè tốt nhất của bạn?
+WRANGLEDIALOG_24_3_CONTENT,"Để có một người bạn tốt nhất, một cuộc hành trình đầy hy vọng."
+WRANGLEDIALOG_24_3_BUTTON_1,Bạn có thể đọc thơ.
+WRANGLEDIALOG_24_4_CONTENT,"Đọc sách nhiều hơn, tự nhiên."
+WRANGLEDIALOG_24_5_CONTENT,Tôi sẽ đi với người bạn tốt nhất của tôi.
+WRANGLEDIALOG_24_6_CONTENT,"Nếu anh có thể giành chiến thắng, tôi có thể cân nhắc việc đi phiêu lưu cùng anh."
+WRANGLEDIALOG_25_CONTENT,Phiêu lưu luôn khiến người ta mong đợi.
+WRANGLEDIALOG_25_BUTTON_1,"Được rồi, bắt đầu thôi."
+WRANGLEDIALOG_22_1_CONTENT,Rất bận.
+WRANGLEDIALOG_22_1_BUTTON_1,Bận à?
+WRANGLEDIALOG_22_2_CONTENT,"Là một luật sư, nhiệm vụ của tôi chủ yếu là thuyết phục mọi người."
+WRANGLEDIALOG_22_2_BUTTON_1,"Vậy thì, xin chào, chúng ta hãy cùng nhau phiêu lưu."
+WRANGLEDIALOG_22_3_CONTENT,Tôi đang bận.
+WRANGLEDIALOG_22_3_BUTTON_1,"Những ngày chúng ta cùng nhau phiêu lưu, chúng ta không thể không muốn nghe câu chuyện của bạn."
+WRANGLEDIALOG_22_4_CONTENT,"Tôi rất thích nói chuyện, nhưng gần đây không có nhiều hứng thú."
+WRANGLEDIALOG_22_4_BUTTON_1,Anh quá mệt mỏi để điều chỉnh.
+WRANGLEDIALOG_22_5_CONTENT,Tôi đã ở nhà từ khi bị đuổi khỏi công ty.
+WRANGLEDIALOG_22_5_BUTTON_1,"Vì vậy, chúng tôi cần anh."
+WRANGLEDIALOG_22_6_CONTENT,Các anh cần tôi?
+WRANGLEDIALOG_22_6_BUTTON_1,"Vì anh là một người bạn tốt, nên chúng tôi cần anh."
+WRANGLEDIALOG_22_7_CONTENT,"Cuộc phiêu lưu này rất nguy hiểm, và tôi sợ rằng tôi không thể chịu đựng được."
+WRANGLEDIALOG_22_7_BUTTON_1,Làm SAO biết được nếu không thử?
+WRANGLEDIALOG_22_8_CONTENT,Cuộc sống là một cuộc phiêu lưu chưa được biết đến.
+WRANGLEDIALOG_22_9_CONTENT,"Một ngàn lần, tốt hơn làm điều đó một lần."
+WRANGLEDIALOG_22_10_CONTENT,"Đúng vậy, phải không?"
+WRANGLEDIALOG_22_10_BUTTON_1,"Vậy, còn chờ gì nữa?"
+WRANGLEDIALOG_54_CONTENT,Nhiều ngày không thấy.
+WRANGLEDIALOG_54_BUTTON_1,Một thời gian dài.
+WRANGLEDIALOG_54_1_CONTENT,Chúng ta vẫn đang tìm kiếm một sức mạnh mạnh mẽ.
+WRANGLEDIALOG_54_1_BUTTON_1,Có tìm thấy gì không?
+WRANGLEDIALOG_54_2_CONTENT,Không tìm thấy gì.
+WRANGLEDIALOG_54_3_CONTENT,Tôi luôn cảm thấy sức mạnh đó không xa.
+WRANGLEDIALOG_54_3_BUTTON_1,Chúng tôi cũng cảm thấy thế.
+WRANGLEDIALOG_54_4_CONTENT,"Vậy, chúng ta là một đội."
+WRANGLEDIALOG_54_4_BUTTON_1,Bạn cảm thấy thế nào về sức mạnh này?
+WRANGLEDIALOG_54_5_CONTENT,Tôi nghĩ chúng ta cần phải tiếp tục tìm kiếm và tìm ra câu trả lời.
+WRANGLEDIALOG_54_5_BUTTON_1,"Hãy tham gia cùng chúng tôi, và chúng tôi sẽ cùng nhau tìm câu trả lời."
+WRANGLEDIALOG_54_6_CONTENT,"Tôi vừa mới chuyển đến, và thiết bị này được điều khiển bởi lực đó."
+WRANGLEDIALOG_54_6_BUTTON_1,Bạn đã tìm thấy?
+WRANGLEDIALOG_54_7_CONTENT,Nó còn sót lại từ trận chiến trước.
+WRANGLEDIALOG_54_8_CONTENT,Có những cầu thủ khác ở phía sau.
+WRANGLEDIALOG_54_8_BUTTON_1,"Chúng tôi đã đi để xem, sẽ trở lại để chọn anh ta lên."
+WRANGLEDIALOG_55_CONTENT,"Nhiều ngày không thấy, tôi muốn thử, hãy xem niềm tin của tất cả mọi người."
+WRANGLEDIALOG_55_BUTTON_1,"Được rồi, bắt đầu thôi."
+PLANET_47,Hành tinh 47
+WRANGLEDIALOG_56_CONTENT,Đến nơi an toàn.
+WRANGLEDIALOG_56_BUTTON_1,Nhiều ngày không thấy.
+WRANGLEDIALOG_56_1_CONTENT,"Trên đường đi, tôi có thể thấy gì?"
+WRANGLEDIALOG_56_1_BUTTON_1,Thấy gì?
+WRANGLEDIALOG_56_2_CONTENT,Tôi không chắc vì tôi cảm thấy sức mạnh đó không ổn định.
+WRANGLEDIALOG_56_3_CONTENT,"Có vẻ như có một cái gì đó giống như một cái ăng-ten, hay một cái gì đó."
+WRANGLEDIALOG_56_3_BUTTON_1,Họ đang làm gì vậy.
+WRANGLEDIALOG_56_4_CONTENT,"Tôi không biết, nhưng có vẻ như có gì đó liên quan đến sự bất ổn của lực lượng đó."
+WRANGLEDIALOG_56_4_BUTTON_1,Anh còn thấy gì nữa?
+WRANGLEDIALOG_56_5_CONTENT,Hình như tôi thấy hai cô gái khác.
+WRANGLEDIALOG_56_5_BUTTON_1,Hai cô gái?
+WRANGLEDIALOG_56_6_CONTENT,Tôi không chắc lắm.
+WRANGLEDIALOG_56_7_CONTENT,Có vẻ như có một người khác.
+WRANGLEDIALOG_56_7_BUTTON_1,Oh?
+WRANGLEDIALOG_56_8_CONTENT,Tôi cảm thấy anh ta rất giống.
+WRANGLEDIALOG_56_8_BUTTON_1,Có phải là {NAME_AVATAR_33} không?
+WRANGLEDIALOG_56_9_CONTENT,"Trong trận chiến vừa rồi, anh ta đã bị trục xuất."
+WRANGLEDIALOG_56_9_BUTTON_1,"Thật vậy, cách đây rất xa, không thể là hắn."
+WRANGLEDIALOG_56_10_CONTENT,Chúng ta sẽ bắt đầu một cuộc phiêu lưu mới.
+WRANGLEDIALOG_57_CONTENT,Sức mạnh của chúng ta vẫn như thường lệ à? Tôi vẫn muốn thử.
+WRANGLEDIALOG_57_BUTTON_1,"Được rồi, bắt đầu thôi."
+WRANGLEDIALOG_76_1_CONTENT,"Câu chuyện của tôi, tất cả các bạn đều đã nghe."
+WRANGLEDIALOG_76_2_CONTENT,Có thể đã bị lãng quên.
+WRANGLEDIALOG_76_3_CONTENT,"Ba học trò của tôi đã học được tất cả các kỹ năng của tôi, và họ có sức mạnh tuyệt vời."
+WRANGLEDIALOG_76_4_CONTENT,"Tôi thích lang thang, thiên đường là nhà."
+WRANGLEDIALOG_76_5_CONTENT,"Tôi đã gặp rất nhiều người giỏi, rất nhiều điều phi thường."
+WRANGLEDIALOG_76_6_CONTENT,"Tôi không thích thi đấu với người khác, nhưng tôi rất can đảm."
+WRANGLEDIALOG_76_7_CONTENT,"Chiến thắng chỉ là một lời khen ngợi của tôi, thất bại là bình thường."
+WRANGLEDIALOG_76_7_BUTTON_1,Đấu cờ
+WRANGLEDIALOG_76_7_BUTTON_2,Tạm biệt
+WRANGLEDIALOG_83_CONTENT,"Người qua đường thân mến, các anh đi đâu vậy?"
+WRANGLEDIALOG_83_BUTTON_1,Đây là {NAME_1}?
+WRANGLEDIALOG_83_1_CONTENT,"Vương quốc vĩ đại, quê hương âm nhạc, quê hương và quê hương của tôi, và với tư cách là một thành viên của hoàng gia, câu trả lời của tôi cho bạn là, đây chính là."
+WRANGLEDIALOG_83_1_BUTTON_1,"Xin chào, rất vinh dự được gặp anh."
+WRANGLEDIALOG_83_2_CONTENT,Các anh có việc gì?
+WRANGLEDIALOG_83_2_BUTTON_1,Chúng tôi muốn tìm công chúa của anh.
+WRANGLEDIALOG_83_3_CONTENT,Oh?
+WRANGLEDIALOG_83_3_BUTTON_1,Chúng tôi biết công chúa của anh sắp tổ chức sinh nhật và chúng tôi đến để chúc mừng.
+WRANGLEDIALOG_83_4_CONTENT,Hai người biết nhau à?
+WRANGLEDIALOG_83_4_BUTTON_1,Chúng tôi là bạn học của công chúa.
+WRANGLEDIALOG_83_5_CONTENT,"Tôi đã quan sát tất cả các bạn, và theo kinh nghiệm của tôi, các bạn có thể biết."
+WRANGLEDIALOG_83_5_BUTTON_1,Anh có thể giúp chúng tôi tìm cô ấy không?
+WRANGLEDIALOG_83_6_CONTENT,Không thể nói được. chỉ cần hỏi nhà vua và hoàng hậu.
+WRANGLEDIALOG_83_6_BUTTON_1,Bạn có thể giúp chúng tôi giới thiệu?
+WRANGLEDIALOG_83_7_CONTENT,Tôi là một thành viên hoàng gia nhiệt tình.
+WRANGLEDIALOG_83_8_CONTENT,Nhưng các bạn cần phải chứng minh sự tin tưởng của tôi.
+WRANGLEDIALOG_84_CONTENT,Được chứ?
+WRANGLEDIALOG_84_BUTTON_1,"Được rồi, bắt đầu thôi."
+WRANGLEDIALOG_93_CONTENT,Bạn có muốn tôi để làm kinh doanh?
+WRANGLEDIALOG_93_BUTTON_1,Có một vụ làm ăn lớn.
+WRANGLEDIALOG_93_1_CONTENT,Những gì bán?
+WRANGLEDIALOG_93_1_BUTTON_1,Một vụ mua bán lớn.
+WRANGLEDIALOG_93_2_CONTENT,"Tôi làm kinh doanh là rất công bằng, nếu bạn giới thiệu cho tôi một doanh nghiệp lớn, sau khi bạn."
+WRANGLEDIALOG_93_2_BUTTON_1,Nghe có vẻ công bằng.
+WRANGLEDIALOG_93_3_CONTENT,Nói nhanh đi. thỏa thuận lớn là gì?
+WRANGLEDIALOG_93_3_BUTTON_1,Việc mua bán cần anh đi cùng chúng tôi.
+WRANGLEDIALOG_93_4_CONTENT,Một chuyến đi mua bán? Buôn bán?
+WRANGLEDIALOG_93_4_BUTTON_1,Mày nghĩ mày đang ở đâu.
+WRANGLEDIALOG_93_5_CONTENT,"Không phải là bán cuối cùng, phải không?"
+WRANGLEDIALOG_93_6_CONTENT,Tôi không bán nữa! Bao nhiêu tiền không đi!
+WRANGLEDIALOG_93_6_BUTTON_1,Tôi chưa nói là mua bán.
+WRANGLEDIALOG_93_7_CONTENT,"Tôi là một doanh nhân, không phải là một nhà thám hiểm!"
+WRANGLEDIALOG_93_7_BUTTON_1,Nhưng lần này sẽ kiếm được rất nhiều tiền.
+WRANGLEDIALOG_93_8_CONTENT,Thật à?
+WRANGLEDIALOG_93_8_BUTTON_1,Chắc chắn rồi.
+WRANGLEDIALOG_94_CONTENT,"Nhưng trước khi chúng ta đi, tôi cần xem anh có bao nhiêu tiền."
+WRANGLEDIALOG_94_BUTTON_1,"Được rồi, bắt đầu thôi."
+PLAYCHESSSUCCESSFUNCTION_AVATAR_9_STRING,Thành công không bao giờ là dễ dàng.
+PLAYCHESSFAILUREFUNCTION_AVATAR_9_STRING,Thất bại không kéo dài mãi.
+WRANGLEDIALOG_103_CONTENT,Tôi thường nói chuyện với chính mình.
+WRANGLEDIALOG_103_BUTTON_1,Xin lỗi vì đã làm phiền.
+WRANGLEDIALOG_103_FUNCTION_1_1,"Con chó của tôi chạy khắp nơi, anh có thấy nó không?"
+WRANGLEDIALOG_103_FUNCTION_1_2,"Nếu cần, bạn có thể nói chuyện với tôi."
+WRANGLEDIALOG_103_FUNCTION_1_3,"Màu sắc nặng jade tức giận, tsing yi tay áo màu xanh ly, không ai uống đầy đủ, sân thượng yueyang building. Dây thép rung lên trong một ngàn lần dài, khán đài đã phải quay trở lại, được gọi là đám mây che mặt trăng màu đỏ, cuộc sống là vẫn còn rất rõ ràng."
+WRANGLEDIALOG_103_FUNCTION_1_4,"Đi khắp thiên sơn để tìm hồng hà, tuyết rơi nước mắt dấu vết. Nỗi đau buồn của tôi giữ, giữ nước mắt vàng không thể phá vỡ. Kem nhuộm tóc của họ đang ngồi trên một cây kiếm dài treo đột ngột. Ngàn quân bùn đi ngày sấm sét, sợ hãi trong không gian shem silhouetted. Bay trên một ngọn núi mưa, không phải là một nửa sợ hãi."
+WRANGLEDIALOG_103_FUNCTION_1_5,"Zephyr uống rượu anh hùng, không thấy anh hùng về vào buổi tối. Trễ một lần là khó khăn, mưa rơi bông hoa nhẹ. Vẻ đẹp nước mắt tấm trắng, gió không thể ở lại một màu xanh lá cây. Vũ trụ SAO ánh trăng, người yêu sẽ thường xuyên ôm ấp."
+WRANGLEDIALOG_103_FUNCTION_1_6,"Đi nơi khác để tìm đào, đào nụ cười mùa xuân, mùa xuân lạnh hấp dẫn, khuôn mặt của peach blossom tương ứng với màu đỏ, màu đỏ là vô ích, một thiếu niên trong quá khứ."
+WRANGLEDIALOG_103_FUNCTION_1_7,"Băng đỏ ngàn dặm, xiaoxiao north wind yêu cầu những người? Long lo lắng tàn nhẫn khách hàng gần, đường dài trên thế giới."
+WRANGLEDIALOG_103_FUNCTION_1_8,"Ngọn núi màu xanh lá cây và những đám mây trắng, cỏ nhàn rỗi lắc, nhanh chóng đuổi theo loài bướm, sa mạc hoàng sa bảo vệ biên giới. Các kết thúc của các ngôn ngữ trên thế giới, bơi trong nước lấp lánh, vô cùng khó khăn để giải quyết tình yêu, nước sàn tháng hoa."
+WRANGLEDIALOG_103_FUNCTION_1_9,"Mười năm xa nhà, ánh trăng theo trái Tim của tôi. Thời gian trôi qua khi tất cả chúng ta cùng nhau trồng hoa."
+WRANGLEDIALOG_103_FUNCTION_1_10,"Cánh hoa xung quanh cơ thể của mình, yu có nghĩa là một ô để đi bộ, nước hoa bên cạnh âm thanh ông, qianshan nhìn vào tự do."
+WRANGLEDIALOG_103_FUNCTION_1_11,"Gặp gỡ đẹp nhất bạn trong mùa bận rộn, đã cho tôi cuộc sống đẹp nhất và nụ cười đẹp nhất, cho tôi biết ngày có thể được chi tiêu như thế này, là cảm thấy ấm áp và tự nhiên, làm cho tôi có một ngôi nhà. Thật không thể tin nổi, thật đáng ngạc nhiên, thật hiển nhiên. Có vẻ như số phận đã giúp tôi may mắn vì đã đưa ra quyết định quan trọng đó."
+WRANGLEDIALOG_103_FUNCTION_1_12,"Osmanthus là mở, xu với mặt trăng bước hương thơm. Ngồi một mình ngắm nhìn sông dương tử, bạn có thể thưởng thức hương thơm ngọt ngào."
+WRANGLEDIALOG_103_FUNCTION_1_13,"Hãy tự hào bước đi trên những con sóng và cát mà không có lời thề của một vị tướng. Trớ trêu là thiên đàng không hề già đi, chỉ ghét gaixia không có hạng vương."
+WRANGLEDIALOG_103_FUNCTION_1_14,"Mặt trăng theo bạn bè, anh hùng. Con dao đi đâu? Cảm thấy khó chịu."
+WRANGLEDIALOG_103_FUNCTION_1_15,"Dim và chạng vạng đến mặt trăng hồ, không thấy peach blossom treo cành cây. Ghét zephyr đã đi qua, các ngôi SAO không lo lắng."
+WRANGLEDIALOG_103_FUNCTION_1_16,"Đã bay đến một nơi xa xôi, không thể nhìn thấy. Không thể chạm vào. Những nơi không thể nhìn thấy, là những nơi xa xôi. Nắm lấy cát dưới chân, không còn hơi thở của quê hương, không còn hơi thở quen thuộc. Không đoàn tụ mãi mãi, không chia tay lâu dài. Bồ công anh sẽ nở, chiếc ô dù nhỏ cất cánh từ xa, du lịch xa hoa, chuồn chuồn nước nhẹ nhàng, vẫn bay vào trái đất, nhai hơi thở quen thuộc. Hoàng cát bay, tôi đã không đi với anh ta, hoàng cát bay, vẫn là một hơi thở quen thuộc. Cát hoàng sa bay qua, bồ công anh vẫn còn lắc lư. Hoàng cát bay ngang qua và chiếc ô dù nhỏ vẫn bay. Khi cát bay ngang qua, nó thấy một chồi cây xanh."
+WRANGLEDIALOG_103_FUNCTION_1_17,"Một lá cây rơi chậm chạp, gió lạnh thổi qua, không khí nhẹ nhàng, vững vàng đáp xuống đất. Đó là lời kêu gọi của mẹ đất. Là một vòng luân hồi mới. Một bông tuyết trắng từ từ xuyên qua đám mây, mua một vé một chiều về nhà, khô không khí trên mặt đất, là màu hồng của mẹ trái đất, bạn đang rất đẹp, mẹ. Cầu vồng trên bầu trời rơi xuống, màu đỏ là máu của chúng tôi, màu vàng là khuôn mặt của chúng tôi, màu xanh lá cây lá cây. Một chiếc khăn mỏng rơi từ vai của bạn, bay trong gió chạy, một chớp mắt, rất nhanh. Đi về phía biển khơi. Mòng biển đang kêu, đang chạy trong gió, bạn là đất mẹ khăn, mòng biển. Là một chiếc khăn không rơi xuống."
+WRANGLEDIALOG_103_FUNCTION_1_18,"Mùa xuân và đào hoa nở, giấc mơ trái Tim vang lên đêm qua, chỉ có thể nói chuyện tiếp tục ngày, lo lắng và buồn. Tòa nhà nhỏ của tháng theo ai? Đã rơi xuống mặt trăng, tro bụi trong quá khứ, peach blossom cười mùa xuân."
+WRANGLEDIALOG_103_FUNCTION_1_19,"Nữ siêu nhân vẫn còn chống lại lực hấp dẫn của trái đất bay trên bầu trời để cứu trái đất, một con ngựa gỗ quay quay một mình chờ đợi cho các cô gái nhỏ, chảy hỗn hợp của sông dương vịt vẫn còn nhàm chán, hàng xóm con chó con vẫn thích để lại một tươi trên cầu thang của tôi. Mặt trời vẫn còn tươi sáng làm cho một nụ cười ngớ ngẩn, ngớ ngẩn mặt trời vẫn còn rất dễ thương."
+WRANGLEDIALOG_103_FUNCTION_1_20,"Chưa hoàn thành, chưa hoàn thành."
+WRANGLEDIALOG_104_CONTENT,Đây là một lá thư.
+WRANGLEDIALOG_106_CONTENT,"Sinh nhật của tôi đang đến, và tôi mời bạn đến dự tiệc sinh nhật của tôi, hãy đến gặp tôi ở phía bắc đường trường phát triển name_stave_đường. Tôi đã mất tích một thời gian, tôi nhớ bạn rất nhiều và rất mong được nhóm họp với bạn. Bạn học của bạn."
+WRANGLEDIALOG_106_BUTTON_1,Tại SAO lá thư lại ở đây? Đi dự sinh nhật nó đi.
+TO_NAME_AVATAR_3_LETTER,{NAME_AVATAR_3} khởi động.
+I_LIKE_LOBBYIST,Tôi thích người biết nói.
+IS_DOG1,"Giống như chạy miễn phí, mưa và mưa công ty, bạn bè thân mến, là bạn?"
+YOU_ARE_A_TALL_FELLOW,Bạn là một người đàn ông cao!
+WINS_AND_LOSSES_ARE_COMMON_1,Thắng hay thua là chuyện bình thường.
+WINS_AND_LOSSES_ARE_COMMON_2,Tốc độ là số một.
+WINS_AND_LOSSES_ARE_COMMON_3,Đồ đệ của tôi rất mạnh mẽ.
+WINS_AND_LOSSES_ARE_COMMON_4,Tôi đã tìm kiếm khoảng cách.
+I_DONOT_HAVE_MY_BEST_FRIEND_HERE,Tôi sẽ đi với người bạn tốt nhất của tôi.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_1,Mở cửa đi.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_1_2,Mở ra đi.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_1,Kiến thức là sức mạnh.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_2_2,Ghi lại cuộc sống.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_1,Cô lập một thế giới.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_3_2,Giữ một chút yên tĩnh.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_1,Không có nơi để tìm.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_9_2,Không phải là một công việc khó khăn.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_1,Thư từ bạn cùng lớp.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_10_2,Thư của một người bạn.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_1,Im lặng.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_2,Im lặng.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_3,Lặp lại là bí quyết chiến thắng.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_4,Có một bí mật để làm điều đó.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_11_5,"Mau lên, mau lên."
+PLAYCHESSFAILUREFUNCTION_NPCARTICLE_ODETOJOY,Ta là người bảo vệ trung thành của nhà vua.
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_1,Chiến thắng.
+PLAYCHESSSTARTWORDSKEY_AVATAR_1_2,Phải thắng.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_1,May mắn là phải được chạm vào.
+PLAYCHESSSTARTWORDSKEY_AVATAR_2_2,Vận may cũng phải được chạm vào.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_1,Tôi đã tính toán xác suất chiến thắng.
+PLAYCHESSSTARTWORDSKEY_AVATAR_3_2,Đó cũng là một cơ hội để học hỏi.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_1,Nói tốt không có nghĩa là may mắn.
+PLAYCHESSSTARTWORDSKEY_AVATAR_4_2,Hãy biểu đạt theo cách.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_1,Khoảng cách.
+PLAYCHESSSTARTWORDSKEY_AVATAR_5_2,Aurora.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_1,Đến và đi đều đặn.
+PLAYCHESSSTARTWORDSKEY_AVATAR_6_2,Cứ tự nhiên.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_1,Cánh tay sắt.
+PLAYCHESSSTARTWORDSKEY_AVATAR_7_2,Sức mạnh mạnh mẽ.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_1,Mặc cả là nghề của một doanh nhân.
+PLAYCHESSSTARTWORDSKEY_AVATAR_8_2,Mọi thứ đều có giá cả.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_1,Sự ấm áp của mặt trời bao quanh bạn.
+PLAYCHESSSTARTWORDSKEY_AVATAR_9_2,Mặt trời đang chiếu sáng anh.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_1,Tôi có sức chịu đựng tốt.
+PLAYCHESSSTARTWORDSKEY_AVATAR_10_2,Tôi có một tính khí tốt.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_1,Tôi có rất nhiều bạn.
+PLAYCHESSSTARTWORDSKEY_AVATAR_11_2,Bạn bè tôi và tôi tiệc tùng rất nhiều.
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_1,SAO ngươi dám thách thức ta?
+PLAYCHESSSTARTWORDSKEY_AVATAR_12_2,Anh đang đùa với lửa.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_1,Phusheng bảo vệ tình yêu.
+PLAYCHESSSTARTWORDSKEY_AVATAR_13_2,Bất chấp hàng ngàn năm thực hành.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_1,Tôi có rất nhiều anh em.
+PLAYCHESSSTARTWORDSKEY_AVATAR_14_2,Tôi có nhiều chị em.
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_1,"Lý tưởng và thực tế, bạn chọn?"
+PLAYCHESSSTARTWORDSKEY_AVATAR_15_2,Cá mặn không có lý tưởng.
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_1,"Tôi có thể, tôi."
+PLAYCHESSSTARTWORDSKEY_AVATAR_16_2,"Thiên đàng rộng lớn, trái Tim rộng lớn."
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_1,Ở đây gió mạnh quá.
+PLAYCHESSSTARTWORDSKEY_AVATAR_17_2,Gió thổi mạnh.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_1,Mận hương từ lạnh.
+PLAYCHESSSTARTWORDSKEY_AVATAR_18_2,Đau khổ là một cuộc sống.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_1,Tương lai có những sắp xếp tương lai.
+PLAYCHESSSTARTWORDSKEY_AVATAR_19_2,Hôm nay là ngày hôm nay của sự sắp xếp.
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_1,"Nghiêm túc, là một thái độ."
+PLAYCHESSSTARTWORDSKEY_AVATAR_20_2,Thái độ của tôi là nghiêm túc và trân trọng.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_1,Thế giới của riêng bạn và tôi.
+PLAYCHESSSTARTWORDSKEY_AVATAR_21_2,Bạn và tôi là duy nhất.
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_1,"Khi còn trẻ, tôi đã làm rất tốt."
+PLAYCHESSSTARTWORDSKEY_AVATAR_22_2,Tôi làm việc rất tốt.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_1,Luyện tập bản thân.
+PLAYCHESSSTARTWORDSKEY_AVATAR_23_2,Nhìn lại chính mình.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_1,Tu sửa để nhìn thấy chính mình.
+PLAYCHESSSTARTWORDSKEY_AVATAR_24_2,"Sửa chữa của họ, họ biết."
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_1,Vương miện được làm bằng vàng.
+PLAYCHESSSTARTWORDSKEY_AVATAR_25_2,Vương miện lấp lánh.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_1,"Vương miện lấp lánh, cũng cần phải lau chùi thường xuyên."
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_2,"Vương miện được làm bằng vàng, và nó đại diện cho một phẩm chất."
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_1,Thắng hay thua trong mọi việc.
+PLAYCHESSSTARTWORDSKEY_AVATAR_27_2,Những gì tôi muốn sẽ được nhận.
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_1,"Sạch sẽ phòng, cũng cần phải luôn luôn chăm sóc."
+PLAYCHESSSTARTWORDSKEY_AVATAR_28_2,Dọn phòng không phải là một công việc đơn giản.
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_1,"Một công việc lâu dài, không phải là dễ dàng."
+PLAYCHESSSTARTWORDSKEY_AVATAR_29_2,"Chăm sóc một cung điện, không dễ dàng."
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_1,Không nên nhìn thấy tôi.
+PLAYCHESSSTARTWORDSKEY_AVATAR_30_2,Không thể nhìn thấy tôi.
+NOW_I_AM_THE_TEAM_LEADER,"Bây giờ, tôi đứng trước hàng."
+NPCARTICLETRIGGER_NAME_2,Cửa nhà
+NPCARTICLETRIGGER_NAME_3,Cửa nhà
+WAIT_A_MOMENT,Chờ một chút
+DICE_STARTED,%s xúc xắc đã kích hoạt
+WHERE_ARE_THE_LOBBYISTS,Ở đâu có tin nhắn?
+SILENT_NOTE_DO,Âm nhạc im lặng · Do (1)
+SILENT_NOTE_RE,Âm nhạc im lặng · Re (2)
+SILENT_NOTE_MI,Âm nhạc im lặng · Mi (3)
+SILENT_NOTE_FA,Âm nhạc im lặng · Fa (4)
+SILENT_NOTE_SOL,Âm nhạc im lặng · Sol (5)
+SILENT_NOTE_LA,Âm nhạc im lặng · La (6)
+SILENT_NOTE_SI,Âm nhạc im lặng · Si (7)
+NOTE_DO,Do (1)
+NOTE_RE,Re (2)
+NOTE_MI,Mi (3)
+NOTE_FA,Fa (4)
+NOTE_SOL,Sol (5)
+NOTE_LA,La (6)
+NOTE_SI,Si (7)
+WRANGLEDIALOG_107_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_108_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_109_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_110_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_111_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_112_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_113_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_114_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_115_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_116_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_117_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_118_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_119_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_120_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_121_CONTENT,Tôi là người bảo vệ.
+WRANGLEDIALOG_107_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_108_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_109_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_110_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_111_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_112_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_113_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_114_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_115_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_116_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_117_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_118_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_119_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_120_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WRANGLEDIALOG_121_BUTTON_1,Tôi muốn chứng minh sự can đảm của mình.
+WIN_THE_KING,Ngươi đã thắng nhà vua.
+WRANGLEDIALOG_122_CONTENT,"Những người bạn từ xa, những chiến binh khôn ngoan, xin chào mừng!"
+WRANGLEDIALOG_122_BUTTON_1,"Xin chào, rất vinh dự được gặp anh."
+WRANGLEDIALOG_123_CONTENT,Các cậu đến dự tiệc sinh nhật của con gái tôi à?
+WRANGLEDIALOG_123_BUTTON_1,- phải.
+WRANGLEDIALOG_124_CONTENT,"Một lần nữa, xin chào mừng! Con gái tôi và em gái nó đang ở trong phòng làm việc của tôi, và các anh có thể tự tìm nó. Sau đó, tại bữa tiệc sinh nhật, tôi có một thông báo quan trọng."
+WRANGLEDIALOG_124_BUTTON_1,Cảm ơn vì đã mời.
+WRANGLEDIALOG_125_CONTENT,"Tuy nhiên, tôi phải nhắc các bạn rằng ở đây có rất nhiều phòng và phòng của tôi ở phía bắc."
+WRANGLEDIALOG_126_CONTENT,"Mỗi cánh cửa đều là người bảo hộ, giống như những người bảo hộ ở đường trường scene_name_stave_đường, họ đều là những người bảo vệ trung thành, và đôi khi chỉ có nhân viên hoàng gia mới có thể đi qua."
+WRANGLEDIALOG_126_BUTTON_1,Có rồi.
+WRANGLEDIALOG_127_CONTENT,"Chiến binh thông minh, anh có biết về âm nhạc không?"
+WRANGLEDIALOG_127_BUTTON_1,"Biết một chút, chúng tôi thích nghe nhạc, nghe bài hát."
+WRANGLEDIALOG_128_CONTENT,Tôi cũng thích nghe tất cả các loại âm nhạc và bài hát! Âm nhạc và bài hát tốt làm sạch tâm hồn chúng ta!
+WRANGLEDIALOG_128_BUTTON_1,Anh nói đúng đấy.
+WRANGLEDIALOG_129_CONTENT,"Những người bảo hộ của scene_name_stave_đại lộ, họ là di sản từ thời xa xưa, khi ông nội của ông nội của ông nội của ông nội của ông nội của ông nội tôi thậm chí không được sinh ra."
+WRANGLEDIALOG_129_BUTTON_1,Một thời gian dài.
+WRANGLEDIALOG_130_CONTENT,"Nếu anh có thể thách thức họ và chứng tỏ lòng can đảm của mình, tôi sẽ xem xét việc tặng anh một món quà nhỏ."
+WRANGLEDIALOG_130_BUTTON_1,Món quà đặc biệt nào?
+WRANGLEDIALOG_131_CONTENT,"Những thứ nhỏ có thể làm tăng sự quyến rũ, và tôi đoán một vài người trong số các bạn có thể sử dụng nó."
+WRANGLEDIALOG_131_BUTTON_1,Thật bí ẩn.
+WRANGLEDIALOG_132_CONTENT,"Đi đi, chào mừng, chiến binh khôn ngoan, hãy chìm trong đó!"
+WRANGLEDIALOG_132_BUTTON_1,Tạm biệt.
+WRANGLEDIALOG_133_CONTENT,Bạn đang gặp khó khăn?
+WRANGLEDIALOG_133_BUTTON_1,Cho tôi chút gợi ý được không?
+WRANGLEDIALOG_133_BUTTON_2,Thử thách của tôi đã thành công.
+WRANGLEDIALOG_134_CONTENT,"Trước khi thử thách các người bảo hộ của đường mòn {SCENE_NAME_STAVE_AVENUE} {NAME_1}, và tôi có thể cho các bạn một gợi ý nhỏ."
+WRANGLEDIALOG_134_BUTTON_1,Một gợi ý đáng mong đợi.
+WRANGLEDIALOG_134_BUTTON_2,Tôi sẽ cố gắng hơn.
+WRANGLEDIALOG_135_CONTENT,"Duo (1), (2), m (3), (4), tiếp tục (5), (6), phía tây (7), và đến một chút."
+WRANGLEDIALOG_135_BUTTON_1,Bạn thì thầm cho tôi biết.
+WRANGLEDIALOG_136_CONTENT,Xin hãy nhận món quà nhỏ của tôi.
+WRANGLEDIALOG_136_BUTTON_1,Cảm ơn vì sự hào phóng của ông.
+KING_LOW_VOICE,"Giọng nói thấp, %s, và không nói cho người khác,,,"
+WHEN_I_WAS_YOUNG,"Món quà nhỏ này, tôi thường dùng khi còn trẻ, sau đó tôi có vương miện, không cần thiết."
+ALL_GIFTS_HAD_GIVE_YOU,Tất cả những món quà nhỏ của tôi dành cho anh.
+YOU_NEED_TO_PROVE,"Để chứng tỏ lòng can đảm của mình, bạn phải nhận được một món quà nhỏ"
+GOODS_NAME_HOUSEKEEPERKEY,Chìa khóa
+GOODS_NAME_BUTLERKEY,Chìa khóa
+GOODS_NAME_QUEENKEY,Chìa khóa
+DOOR_1,Phía tây nam đường scene_name_stave_.
+DOOR_2,Cổng đông phía nam
+GOODS_DESCRIPTION_HOUSEKEEPERKEY,"Khi mang đi, bạn có thể mở cửa."
+GOODS_DESCRIPTION_BUTLERKEY,"Khi mang đi, bạn có thể mở cửa."
+GOODS_DESCRIPTION_QUEENKEY,"Khi đang mang, cánh cửa có thể được mở ra."
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_1,Vững chắc.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_26_2,Một thời gian dài.
+NOT_EASY_OPEN_THE_DOOR_WITHOUT_THE_KEY,Cánh cửa không có chìa khóa không dễ mở đâu.
+WRANGLEDIALOG_139_CONTENT,"Chắc anh đói rồi, muốn ăn gì không? Nói tôi nghe đi."
+WRANGLEDIALOG_139_BUTTON_1,Bạn có bất kỳ tốt?
+WRANGLEDIALOG_139_BUTTON_2,Chăm sóc ở đây là một công việc bận rộn.
+WRANGLEDIALOG_139_1_CONTENT,Chúng tôi đã chuẩn bị thức ăn cho bữa tiệc sinh nhật của công chúa.
+WRANGLEDIALOG_139_2_CONTENT,"Oh, tôi thấy hai chị gái của các công chúa nhỏ đang đến phòng làm việc của nhà vua phía bắc."
+WRANGLEDIALOG_139_2_BUTTON_1,Như thế này.
+WRANGLEDIALOG_139_3_CONTENT,"Tôi có một công việc phải làm, nếu bạn đang tìm kiếm họ, bạn có thể đi đó và nhìn thấy."
+WRANGLEDIALOG_139_3_BUTTON_1,Được rồi.
+WRANGLEDIALOG_139_4_CONTENT,"Không giống như ở phía tây, nơi đây có những con đường tuyệt vời."
+WRANGLEDIALOG_139_4_BUTTON_1,Anh có chìa khóa ở đó không?
+WRANGLEDIALOG_139_5_CONTENT,"Để có được sự tin tưởng của tôi, tôi có thể giúp bạn."
+WRANGLEDIALOG_139_5_BUTTON_1,Hãy thử xem.
+WRANGLEDIALOG_140_CONTENT,"Phục vụ là mục đích của tôi. Anh thấy đó, tôi có một cái nón đẹp và tôi không cần mấy bộ tóc giả đó."
+WRANGLEDIALOG_140_BUTTON_1,Môi trường của bạn là rất tốt.
+WRANGLEDIALOG_140_BUTTON_2,Công việc ở đây chắc bận lắm nhỉ?
+WRANGLEDIALOG_140_1_CONTENT,"Gần đây, tôi thỉnh thoảng nhìn thấy những người lạ mặc áo choàng màu tím đi xung quanh, sinh nhật của công chúa nhỏ, chúng tôi đã làm rất nhiều điều để chuẩn bị cho bữa tiệc sinh nhật của công chúa."
+WRANGLEDIALOG_147_BUTTON_1,"Có phải là {NAME_AVATAR_33} {NAME_AVATAR_20}? ,,,"
+WRANGLEDIALOG_140_2_CONTENT,"Oh, tôi thấy hai chị gái của các công chúa nhỏ đang đến phòng làm việc của nhà vua phía bắc."
+WRANGLEDIALOG_140_2_BUTTON_1,Như thế này.
+WRANGLEDIALOG_140_3_CONTENT,"Tôi có một công việc phải làm, nếu bạn đang tìm kiếm họ, bạn có thể đi đó và nhìn thấy."
+WRANGLEDIALOG_140_3_BUTTON_1,Được rồi.
+WRANGLEDIALOG_140_4_CONTENT,"Không giống như khu vực phía đông, có những khu vườn xinh đẹp, và ngoài khu vực này, tôi sẽ giúp kiểm tra đường mòn phía nam."
+WRANGLEDIALOG_140_4_BUTTON_1,Anh có chìa khóa ở đó không?
+WRANGLEDIALOG_140_5_CONTENT,"Để có được sự tin tưởng của tôi, tôi có thể giúp bạn."
+WRANGLEDIALOG_140_5_BUTTON_1,Hãy thử xem.
+TRUSTED_CLASSMATE,Tôi phải nói là tôi tin tưởng bạn học của cô ấy được đề cập trong giấy mời công chúa.
+YOU_HAD_THE_KEY,Anh đã có chìa khóa rồi.
+WRANGLEDIALOG_151_CONTENT,"Chào mừng, những người phiêu lưu từ xa."
+WRANGLEDIALOG_151_BUTTON_1,"Nói về phiêu lưu, tôi có thể hỏi bạn có bất kỳ người mạo hiểm nào ở đây không?"
+WRANGLEDIALOG_151_BUTTON_2,Cung điện của ông thật lộng lẫy.
+WRANGLEDIALOG_151_1_CONTENT,"Những kẻ mạo hiểm khác? Khi nhà vua và tôi còn trẻ, chúng tôi là những kẻ phiêu lưu. Chúng tôi cũng như các bạn bây giờ, nói về phiêu lưu, các bạn có biết về kính viễn vọng không?"
+WRANGLEDIALOG_151_1_BUTTON_1,"Vâng, nhưng chúng tôi không có kính viễn vọng."
+WRANGLEDIALOG_151_1_BUTTON_2,Chúng ta có một cái kính viễn vọng.
+WRANGLEDIALOG_151_2_CONTENT,"Nếu các bạn có thể lấy lòng tin của tôi, tôi sẽ cho các bạn chiếc kính viễn vọng mà chúng tôi đã dùng khi còn trẻ."
+WRANGLEDIALOG_151_2_BUTTON_1,Không mong gì hơn.
+WRANGLEDIALOG_151_3_CONTENT,Tôi có thể điều chỉnh kính viễn vọng của bạn và cố gắng làm cho nó có thể nhìn xa hơn một chút.
+WRANGLEDIALOG_151_3_BUTTON_1,Xin vui lòng.
+WRANGLEDIALOG_151_4_CONTENT,"Ngoài hai quản gia, tôi cũng thường xuyên chăm sóc ở đây, và, nếu bạn muốn giúp đỡ, tôi có chìa khóa cung điện, bạn có thể đi vào và ra để chăm sóc ở đây."
+WRANGLEDIALOG_151_4_BUTTON_1,Chúng ta có thể.
+PLAYCHESSSTARTWORDSKEY_AVATAR_26_3,Sự tò mò là động lực của sự tiến bộ.
+GOODS_TELESCOPE_VISUALFIELDDISTANCE2,Khoảng cách tầm nhìn: %s (+%s).
+VISUAL_RANGE_IS_AT_MAXIMUM,Khoảng cách nhìn đã tối đa.
+YOU_ALREADY_HAVE_A_TELESCOPE,Anh đã có kính viễn vọng rồi.
+YOU_NEED_A_TELESCOPE_FIRST,Bạn phải có một kính thiên văn.
+YOU_ALREADY_HAVE_THIS_KEY,Anh đã có chìa khóa rồi.
+HAVE_ALREADY_USED,Đã được sử dụng.
+DOOR_3,Cửa của SCENE_NAME_HALL_OF_MELODY
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_1,Lâu đài cổ.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_28_2,Lịch sử cổ đại.
+WRANGLEDIALOG_160_CONTENT,Các anh là ai?
+WRANGLEDIALOG_160_BUTTON_1,Bạn học của tôi. Cô ấy mời chúng tôi đến dự tiệc sinh nhật của cô ấy.
+WRANGLEDIALOG_160_1_CONTENT,"Tiệc sinh nhật? Tại SAO tôi không nghe cô ấy nói, không có tiệc sinh nhật ở đây, xin vui lòng rời khỏi đây."
+WRANGLEDIALOG_160_1_BUTTON_1,"Chúng tôi,,,"
+WRANGLEDIALOG_160_2_CONTENT,"Xin vui lòng đi ra ngoài, tôi có một cái gì đó để đối phó với, không làm phiền tôi."
+WRANGLEDIALOG_160_2_BUTTON_1,"Chúng tôi đã chỉ nói với nhà vua về tiệc sinh nhật,,,"
+WRANGLEDIALOG_160_3_CONTENT,"Chắc các vị nghe nhầm rồi, nhà vua già rồi, có rất nhiều thứ không nhớ rõ. Mọi người ra ngoài đi."
+WRANGLEDIALOG_160_3_BUTTON_1,Chúng ta sẽ hỏi nhà vua lần nữa.
+WRANGLEDIALOG_133_BUTTON_3,"Về {NAME_AVATAR_27} và {NAME_AVATAR_19},,"
+WRANGLEDIALOG_165_CONTENT,"Chị em họ là con gái của tôi, tình yêu của tôi, có một vấn đề, tôi sẽ nói nhỏ cho bạn."
+WRANGLEDIALOG_165_BUTTON_1,Tôi chỉ hơi bối rối.
+WRANGLEDIALOGTYPEID_SISTER_1_SUCCESS_1,"Trong nghiên cứu của tôi, bạn chỉ thấy {NAME_AVATAR_27}, không thấy {NAME_AVATAR_19}? ,, họ đi cùng nhau, bạn không có một chóng mặt? Quay lại đó để kiểm tra."
+FAMILY_IS_THE_MOST_IMPORTANT_THING,"Với tôi, gia đình là điều quan trọng nhất."
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_1,Không cho người khác thấy.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_65_2,Mật thư.
+TO_ROYAL_HOUSEHOLD_LETTER,Nhân viên hoàng gia khải huyền.
+NAME_AVATAR_35,Kim thân
+WRANGLEDIALOG_167_CONTENT,Đó là một lá thư mật.
+WRANGLEDIALOG_167_1_CONTENT,"Thân mến, ***** ***** ***** *** tin nhắn mật này sẽ được chuyển giao cho bạn bởi {NAME_AVATAR_33} {NAME_AVATAR_20}, hãy nhớ để giữ bí mật, sau khi xem có thể được đốt cháy, không để cho người khác biết."
+WRANGLEDIALOG_167_1_BUTTON_1,"Lá thư bí mật này được gửi cho nhân viên hoàng gia, và {NAME_AVATAR_33},"
+WRANGLEDIALOG_167_2_CONTENT,"Sau đó, công việc được thực hiện bởi {NAME_AVATAR_20} và {SCENE_NAME_CRACKING_VOICE_RIDGE} {twve_bugs} để giúp bạn hoàn thành. Chúc mọi người may mắn."
+WRANGLEDIALOG_167_2_BUTTON_1,"Trước khi các cầu thủ trong chuyến đi, dường như nhìn thấy {NAME_AVATAR_33} {NAME_AVATAR_20},,,"
+WRANGLEDIALOG_167_3_CONTENT,"Công việc vĩ đại của ông ấy, cũng như công Lao của ông ấy, sẽ được tôn thờ với bàn tay của ông ấy và hội thánh của ông ấy. Chờ nghe tin tốt lành. {NAME_AVATAR_33} {NAME_AVATAR_35}}"
+WRANGLEDIALOG_167_3_BUTTON_1,"Có phải lá thư này được viết cho cô ấy? ,,,"
+WRANGLEDIALOG_167_4_CONTENT,Lá thư đã được đọc.
+WRANGLEDIALOG_167_4_BUTTON_1,Có liên quan gì đến việc này không?
+GOODS_DESCRIPTION_17,"Thân mến, ***** ***** ***** *** tin nhắn mật này sẽ được chuyển giao cho bạn bởi {NAME_AVATAR_33} {NAME_AVATAR_20}, hãy nhớ để giữ bí mật, sau khi xem có thể được đốt cháy, không để cho người khác biết. {NAME_AVATAR_20} và {SCENE_NAME_CRACKING_VOICE_RIDGE} {twve_bugs} để giúp bạn hoàn thành công việc. Chúc mọi người may mắn. Công việc vĩ đại của ngươi, cũng như công Lao của ngươi, sẽ được người đầu tiên và hội thánh khâm phục. Chờ nghe tin tốt lành. {NAME_AVATAR_33} {NAME_AVATAR_35}}"
+DOOR_CLOSE,Cửa đóng rồi.
+GUARD_THE_ROYAL_FAMILY,Bảo vệ hoàng gia.
+WRANGLEDIALOG_173_CONTENT,Làm thế nào bạn có thể tìm thấy tôi?
+WRANGLEDIALOG_173_BUTTON_1,Đó là anh.
+YOU_CAN_NOT_FOUND_QIU_YU,Bạn không thể tìm thấy nó.
+YOU_WILL_BE_SORRY,"Dám thách thức ta, các ngươi sẽ hối tiếc."
+NAME_AVATAR_36,Bí mật
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_1,Không nhìn rõ.
+PLAYCHESSSTARTWORDSKEY_NPCARTICLE_66_2,Trong đó tối lắm.
+WRANGLEDIALOG_174_CONTENT,"Ở đây có một con đường bí mật, không biết nơi để đi?"
+WRANGLEDIALOG_174_BUTTON_1,Vào trong đi.
+WRANGLEDIALOG_174_BUTTON_2,Không vào trong.
+WRANGLEDIALOG_175_CONTENT,"Là bạn, bạn đang làm gì ở đây?"
+WRANGLEDIALOG_175_BUTTON_1,Anh có thấy {NAME_AVATAR_19} không? Chúng tôi đang tìm cô ấy.
+WRANGLEDIALOG_175_1_CONTENT,Không nhìn thấy.
+WRANGLEDIALOG_175_1_BUTTON_1,Anh làm gì ở đây?
+WRANGLEDIALOG_175_2_CONTENT,"Tôi đang tìm con mèo của tôi, nó được gọi là {NAME_2}. Chỉ có một con mắt, nhưng tôi nghĩ nó ở ngay đằng kia, không xa."
+WRANGLEDIALOG_175_2_BUTTON_1,"Nếu chúng tôi thấy nó, chúng tôi sẽ mang nó về cho bạn."
+WRANGLEDIALOG_175_3_CONTENT,"Không, nó là rất khó khăn, khi bạn nhìn thấy nó, và chăm sóc bản thân."
+WRANGLEDIALOG_175_3_BUTTON_1,Hãy nhìn lại lần nữa.
+WRANGLEDIALOG_179_1_CONTENT,Chúng ta không biết nhiều về những gì đã hứa.
+WRANGLEDIALOG_179_2_CONTENT,Chúng ta không biết nhiều về những gì đã hứa.
+WRANGLEDIALOG_179_3_CONTENT,"Chúng tôi không biết nhiều, và trong tương lai gần, chúng tôi cũng có thể chuyển đến sống ở nơi này."
+WRANGLEDIALOG_179_4_CONTENT,"Chúng tôi không biết nhiều về việc rời khỏi nơi có gió mạnh, mặc dù chúng tôi rất thích khu rừng."
+WRANGLEDIALOG_179_5_CONTENT,"Chúng ta không biết nhiều về điều đó, và thiết bị này đã giúp ích rất nhiều, và một lực mạnh mẽ đã thúc đẩy thiết bị này, một lực mạnh mà chúng ta chưa từng thấy trước đây."
+WRANGLEDIALOG_179_6_CONTENT,"Chúng tôi không biết nhiều, và chúng tôi rất tiếc về việc bắt cóc không phải là ý định của chúng tôi."
+WRANGLEDIALOG_179_7_CONTENT,"Chúng tôi không biết gì nhiều và vận chuyển nó bằng một thiết bị truyền tín hiệu là bước cuối cùng trong chiến dịch này, nhưng chúng tôi không thể tưởng tượng nổi chúng tôi có thể trở thành thành viên của hoàng gia."
+WRANGLEDIALOG_179_8_CONTENT,"Chúng tôi không biết nhiều, nhưng lần sau đừng giao cho chúng tôi một nhiệm vụ khó khăn như vậy."
+WRANGLEDIALOG_179_9_CONTENT,"Chúng ta không biết nhiều về chiến dịch này, và cô ấy rất muốn trở thành một vị vua mới."
+WRANGLEDIALOG_179_10_CONTENT,"Chúng ta không biết nhiều, và giấc mơ của chúng ta sẽ trở thành hiện thực khi chúng ta trở thành vua mới."
+WRANGLEDIALOG_179_11_CONTENT,"Chúng ta không biết nhiều, trong giấc mơ và chờ đợi, chúng ta chọn giấc mơ."
+WRANGLEDIALOG_179_12_CONTENT,Chúng ta không biết nhiều về sức mạnh của thiết bị truyền tín hiệu ở phía bên kia ngọn núi.
+WRANGLEDIALOG_179_BUTTON_1,Hóa ra là vậy.
+WRANGLEDIALOG_191_CONTENT,Chúng ta không biết nhiều.
+WRANGLEDIALOG_191_BUTTON_1,"Bạn biết những điều, nói với chúng tôi về nó."
+WRANGLEDIALOG_192_CONTENT,"Mặc dù tôi không biết gì, nhưng tôi khao khát một cuộc sống phiêu lưu."
+WRANGLEDIALOG_192_BUTTON_1,Tham gia với chúng tôi.
+WRANGLEDIALOG_194_CONTENT,"Mặc dù tôi không hiểu gì, nhưng tôi mong chờ một cuộc sống phiêu lưu."
+WRANGLEDIALOG_194_BUTTON_1,Tham gia với chúng tôi.
+WE_LOOK_FORWARD_TO_LEARNING_PARTNERS,Tôi mong chờ một người bạn có học thức.
+LIFE_IS_DOOMED_TO_DRIFT_BUT_ALSO_TO_LIVE_OUT_THEIR_OWN_WONDERFUL,"Cuộc sống mặc dù được định sẵn để trôi dạt, nhưng cũng phải sống cuộc sống tuyệt vời của họ."
+WE_HAVE_FOUND_THE_TWELVE_GOO,"Chúng tôi đã tìm thấy twelve bugs ở đây, và bây giờ nên quay trở lại. Về {NAME_AVATAR_27} và {NAME_AVATAR_19}, và trường hợp của họ,,,"
+MEMBERS_OF_THE_TEAM_WHO_LEFT,Thành viên rời khỏi nhóm: %s.
+HOWEVER_SOME_MEMBERS_OF_THE_TEAM_STUBBORNLY_SURVIVED,"Tuy nhiên, một số cầu thủ đã sống sót."
+HOME_SAFE_1,Nhà là nơi an toàn.
+HOME_SAFE_2,Nhà là nơi trú ẩn của chúng ta.
+HOME_IS_SAFE,"Trang chủ an toàn,,,"
+IT_IS_GETTING_DARK_YOU_CAN_NOT_PLAY_CHESS,Trời sẽ tối và không có cờ bạc.
+WAY_HOME_1,Hy vọng anh nhớ đường về nhà.
+WAY_HOME_2,"Lúc đó, về nhà là lựa chọn an toàn nhất."
+IT_IS_GETTING_DARK_YOU_CAN_NOT_OPERATE,Trời sẽ tối và không hoạt động được.
+IT_IS_PLAY_CHESS_YOU_CAN_NOT_OPERATE,Không thể thao tác được.
+NAME_2,AMan
+WILL_FINAL,"Ý anh là SAO? Vẫn phải tìm cô ấy, hỏi về nơi ở của cô ấy, và nói rằng cô ấy sẽ đi về phía đông."
+TWELVE_BUGS,12 keo
+WRANGLEDIALOG_221_CONTENT,Các cậu đã tìm thấy cậu ta? SAO có thể được chứ?
+WRANGLEDIALOG_221_BUTTON_1,Ở đâu?
+WRANGLEDIALOG_221_1_CONTENT,"Bạn, tại SAO bạn hỏi tôi?"
+WRANGLEDIALOG_221_1_BUTTON_1,Anh bạn đã nói với chúng tôi rằng chính NAME_AVATAR_33 và NAME_AVATAR_20 đã giúp đỡ anh.
+WRANGLEDIALOG_221_4_CONTENT,Có vẻ như anh đã biết rồi.
+WRANGLEDIALOG_221_4_BUTTON_1,Anh là người đã ra lệnh bắt cóc trẻ em tại SAO anh làm thế?
+WRANGLEDIALOG_221_2_CONTENT,"Ngai vàng là của tôi, và cha nói rằng có một cái gì đó quan trọng để tuyên bố tại bữa tiệc sinh nhật, tôi đoán, ông phải tuyên bố sẽ chuyển sang ngai vàng, và ông yêu thích {NAME_AVATAR_19}, và tôi là một công chúa lớn, tôi là người nên kế vị ngai vàng!"
+WRANGLEDIALOG_221_2_BUTTON_1,"Tuy nhiên, đó là em gái của bạn."
+WRANGLEDIALOG_221_3_CONTENT,",, chúng tôi chơi một trò chơi trốn tìm, và cố gắng để tiết kiệm {NAME_AVATAR_19}, bạn tìm thấy {NAME_2}, {NAME_AVATAR_19} đã được ẩn trong {NAME_2_EYE}, bạn đã bị nuốt vào bóng tối trước khi bạn trong {NAME_2_EYE}, Ha ha ha ha."
+WRANGLEDIALOG_221_3_BUTTON_1,Đừng quá tự mãn.
+WRANGLEDIALOG_225_CONTENT,Bắt đầu trò chơi?
+WRANGLEDIALOG_225_BUTTON_1,Chúng ta đi thôi.
+THE_GAME_HAS_NOT_STARTED_YET,Trò chơi vẫn chưa bắt đầu.
+I_AM_GOING_TO_START_COUNTING,Tôi sẽ bắt đầu đếm.
+LOOK_WHERE_THEY_ARE,Xem chúng ở đâu?
+CURRENT_STANDING_POSITION_CANNOT_START_PATHFINDING,"Vị trí hiện tại, không thể bắt đầu tìm đường."
+NAME_2_EYE,AMan Con mắt
+WRANGLEDIALOG_227_CONTENT,Tôi bị mắc kẹt.
+WRANGLEDIALOG_227_BUTTON_1,Chúng tôi sẽ cứu cô.
+THE_LAST_COUNT_IS_NOT_OVER,Con số cuối cùng vẫn chưa kết thúc.
+WE_FINALLY_FOUND,Chúng tôi đã tìm thấy nó! Các bạn nhỏ đã đoàn tụ!
+WRANGLEDIALOG_228_CONTENT,"Bây giờ hai người đã đoàn tụ, em gái tôi, và chúng ta sẽ gặp lại nhau sau."
+WRANGLEDIALOG_228_BUTTON_1,Công lý sẽ ở bên chúng ta.
+WRANGLEDIALOG_230_CONTENT,"Cuối cùng các cậu cũng tìm thấy rồi. , và chị gái của mình {NAME_AVATAR_27}, hy vọng cô ấy sẽ sớm bị mất, và ban phước cho bạn!"
+WRANGLEDIALOG_230_BUTTON_1,Đó là tình bạn chân thành của chúng tôi.
+WE_WILL_TOGETHER,"Trong bóng tối, tôi đã nhìn thấy cha, mẹ và bạn bè của bạn, và {NAME_AVATAR_27}, tôi luôn tin rằng tôi sẽ gặp lại bạn! Phụ vương, họ phải ở gần đây."
+I_CAN_NOT_HAVE_MY_LITTLE_GIFT_AGAIN,"Mặc dù anh đã chứng tỏ lòng can đảm của mình, nhưng trước đó anh đã nhận được món quà nhỏ của tôi."
+GOODS_NAME_11,Tóc giả đổi màu
+GOODS_DESCRIPTION_18,Có lẽ là {GOODS_NAME_11} {JOB_LOBBYIST}. Được làm từ vật liệu đặc biệt.
